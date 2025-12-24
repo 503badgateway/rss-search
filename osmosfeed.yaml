@@ -9,10 +9,11 @@
 cacheMaxDays: 36500 # 100 years - effectively never delete articles
 
 # Site configuration
-siteTitle: "RSS Search Engine"
+siteTitle: "中文獨立博客搜尋"
 
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: https://bf.zzxworld.com/feed.xml
+  - href: https://rsshub.app/foreverblog/feeds
+  - href: https://www.blogsclub.org/feed.xml?sort=time
+  - href: https://blogtalk.org/feed.xml?sort=latest
+  
