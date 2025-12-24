@@ -34,9 +34,9 @@
     
     // Sort articles by timestamp (newest first)
     allArticles.sort((a, b) => {
-      const timeA = a._searchData.timestamp || '';
-      const timeB = b._searchData.timestamp || '';
-      return timeB.localeCompare(timeA);
+      const timeA = a._searchData.timestamp ? new Date(a._searchData.timestamp) : new Date(0);
+      const timeB = b._searchData.timestamp ? new Date(b._searchData.timestamp) : new Date(0);
+      return timeB - timeA;
     });
     
     // Create pagination controls
@@ -223,7 +223,7 @@
   function updateSearchStats(visible, total, totalPages, isSearchResult) {
     if (isSearchResult) {
       const startIndex = (currentPage - 1) * itemsPerPage + 1;
-      const endIndex = Math.min(startIndex + visible - 1, total);
+      const endIndex = Math.min(currentPage * itemsPerPage, total);
       searchStats.textContent = `Found ${total} articles, showing ${startIndex}-${endIndex}`;
     } else {
       searchStats.textContent = `Showing newest ${visible} of ${total} articles`;
