@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T03:46:26.334Z</updated>
+    <updated>2025-12-24T04:15:41.733Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
@@ -187,11 +187,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Album#16 - Season's Greetings]]></title>
+        <id>https://taxodium.ink/album-16.html?utm_source=blogfinder</id>
+        <link href="https://taxodium.ink/album-16.html?utm_source=blogfinder"/>
+        <updated>2025-12-23T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Album#16 - Season&#039;s Greetings]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[发于年终总结发布前19h：我的 python 学习之旅]]></title>
         <id>https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder</id>
         <link href="https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder"/>
         <updated>2025-12-23T14:58:55.000Z</updated>
         <summary type="html"><![CDATA[发于年终总结发布前19h：我的 python 学习之旅]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Album#15 - 15]]></title>
+        <id>https://taxodium.ink/album-15.html?utm_source=blogfinder</id>
+        <link href="https://taxodium.ink/album-15.html?utm_source=blogfinder"/>
+        <updated>2025-12-23T14:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Album#15 - 15]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -426,6 +446,16 @@
         <summary type="html"><![CDATA[一晃又到了年底，还有不到一个月，域名和虚拟主机就到期了。每年都是一样的逻辑，消费一旦养成习惯，或者固定下来，就很难得会改变了。好几个月前，篱落主机的虚拟主机重新上线，还把价格从以前的99元/年变...]]></summary>
         <author>
             <name>DAIDAIFU'S BLOG - I'M「代代付」 | DDF.IM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桌面Linux那些事儿1：Debian 13 部署 XRDP]]></title>
+        <id>https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/?utm_source=blogfinder</id>
+        <link href="https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/?utm_source=blogfinder"/>
+        <updated>2025-12-23T09:20:27.000Z</updated>
+        <summary type="html"><![CDATA[桌面Linux那些事儿1：Debian 13 部署 XRDP]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -1379,6 +1409,16 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PVE 9.1 opnsense]]></title>
+        <id>https://www.geekxw.top/?p=3676</id>
+        <link href="https://www.geekxw.top/3676/"/>
+        <updated>2025-12-22T10:50:17.000Z</updated>
+        <summary type="html"><![CDATA[待更新]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[九九（2/81）&amp;入团风云（五）：录入智慧团建、再听小时候的广播剧]]></title>
         <id>https://blog.mcenahle.org.cn/2025/12/22/364.html?utm_source=blogfinder</id>
         <link href="https://blog.mcenahle.org.cn/2025/12/22/364.html?utm_source=blogfinder"/>
@@ -1996,6 +2036,46 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[VMware VCSA 8.0.3部署教程 + AD接入]]></summary>
         <author>
             <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[（顺序1）PVE9.1 Intel核显直通飞牛nas,N卡直通win+ikuai+openwrt+ha 保姆级AIO]]></title>
+        <id>https://www.geekxw.top/?p=3660</id>
+        <link href="https://www.geekxw.top/3660/"/>
+        <updated>2025-12-21T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[大致硬件 E3-1225V6 P630核显 B150魔改主板 P620显卡 3D打印机箱 有疑问可以留言]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[零刻ME PRO/飞牛EVO2 AIO 核显SR-IOV ikuai+op+ha+win]]></title>
+        <id>https://www.geekxw.top/?p=3669</id>
+        <link href="https://www.geekxw.top/3669/"/>
+        <updated>2025-12-21T20:21:13.000Z</updated>
+        <summary type="html"><![CDATA[采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE9.1无核显 N卡vGPU直通飞牛nas,win+ikuai+openwrt AIO]]></title>
+        <id>https://www.geekxw.top/?p=3665</id>
+        <link href="https://www.geekxw.top/3665/"/>
+        <updated>2025-12-21T18:47:55.000Z</updated>
+        <summary type="html"><![CDATA[采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE9.1 Intel核显SR-IOV直通飞牛nas,win,debian+ikuai+openwrt AIO]]></title>
+        <id>https://www.geekxw.top/?p=3663</id>
+        <link href="https://www.geekxw.top/3663/"/>
+        <updated>2025-12-21T18:46:18.000Z</updated>
+        <summary type="html"><![CDATA[采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
         </author>
     </entry>
     <entry>
@@ -3325,6 +3405,16 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[放弃“去广告”幻想！PVE 9.1 & 飞牛NAS 双平台安装教程：这才是 AdGuard Home 的正确打开方式]]></title>
+        <id>https://www.geekxw.top/?p=3645</id>
+        <link href="https://www.geekxw.top/3645/"/>
+        <updated>2025-12-18T11:37:43.000Z</updated>
+        <summary type="html"><![CDATA[services: adguardhome: image: adguard/adguardhome:latest container_name: adguardhome restart: always network_mode: host volumes: - /vol1/1000/docker/adguardhome/work:/opt/adguardhome/work - /vol1/1000]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何识别哪些是 AI 生成的内容]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.krjojo.com%2F12613.html</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.krjojo.com%2F12613.html"/>
@@ -3496,6 +3586,16 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[5G CPE 的最佳搭档？GL-MT3600BE：联发科MT7987A，双2.5G网口，系统基于OpenWrt定制！]]></title>
+        <id>https://www.geekxw.top/?p=3640</id>
+        <link href="https://www.geekxw.top/3640/"/>
+        <updated>2025-12-15T11:16:01.000Z</updated>
+        <summary type="html"><![CDATA[产品规格：CPU:MT7987A, Quad A53 2.0GHzFlash：512MBRAM:512MB D […]]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[現今Android手機取得Root權限＆解鎖Bootloader刷機的必要性]]></title>
         <id>https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/</id>
         <link href="https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/"/>
@@ -3649,6 +3749,16 @@ Authors: Przemyslaw Prusinkiewicz, Aristid Lindenmayer, J.S. Hanan. ISBN 978-038
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[一年一度PVE AIO  Coming Soon]]></title>
+        <id>https://www.geekxw.top/?p=3637</id>
+        <link href="https://www.geekxw.top/3637/"/>
+        <updated>2025-12-12T12:03:28.000Z</updated>
+        <summary type="html"><![CDATA[有想在视频里面出现的内容可以留言]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cromite：支援安裝電腦版Chrome擴充功能的開源Android瀏覽器]]></title>
         <id>https://ivonblog.com/posts/android-cromite-browser/</id>
         <link href="https://ivonblog.com/posts/android-cromite-browser/"/>
@@ -3702,6 +3812,16 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[给你的PVE虚拟机自定义GPU显卡型号]]></title>
+        <id>https://yangwenqing.com/archives/3046/</id>
+        <link href="https://yangwenqing.com/archives/3046/"/>
+        <updated>2025-12-11T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[给你的PVE虚拟机自定义GPU显卡型号没钱买5090显卡怎么办？咱就自己骗自己，模拟一个出来。GPU ID模拟在直通GPU时，你通常可以看到PCI菜单下方有 供应商 ID 设备 ID 和子供应商...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么好用的东西最后都没了呢]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.hxy.cc%2Fwhy.html</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.hxy.cc%2Fwhy.html"/>
@@ -3709,6 +3829,16 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[前几天突然鼠标用着不好使了，右键不灵了，得使劲按才有反应，这样用了几天真是有点废手指头，搜了一下订单这个罗技M590双模无线鼠标还是21年买的，到现在刚好四年了，用四年也该换一个了，用着这一款还挺好用的，就想重新买一个，结果各个平台都搜不到这款鼠标了，也就闲鱼上有二手的在售，京东罗技旗舰店里面要么就几十块钱的常规款还是单模的，看着就不是很好用，要么就六七百的人体工学版的，看着也不适合日常办公。 　也是机缘巧合在抖音搜了下M590右键失灵，好像是通病，用久了都这样，然后就看到可以换微动来解决，直接就在多多上三块钱买了俩微动，到货直接把右键微动换掉了，满月复活，又能再战四年。 　还有就是老早之前买的一款小米蒸煮锅，平常用来煮粥，或者给小孩下点面条啥的，可以连WiFi，直接在米家APP里面操作，选择模式，直接定时，好了就自动关了，非常方便。 　上个月送家里人回老家的时候原来这个蒸煮锅就给我留下了，想着回家再买一个，就直接在京东上下单，第二天送到了，准备连接WiFi，结果看了半天说明书发现不支持米家。。。真是离了个大谱，小米做这么多智能家居还能反向升级，竟然卖不支持米家的产品实在是让人摸不着头脑，真是不知道是出于什么考虑的。 　再有就是今天看到说水银温度计之后也不让生产了，这玩意用了几十年了，量体温非常精准，那些电子体温计一般都是偏低，量出来的体温根本没法看，真是不知道又是什么砖家说了什么话导致水银温度计又要被时代所抛弃，包括新国标电动车也是。 　真是搞不懂很多经过时间的洗礼，很好用的东西最终却都消失在时代的洪流中。]]></summary>
         <author>
             <name>Hary的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给你的PVE虚拟机自定义CPU模型/型号]]></title>
+        <id>https://yangwenqing.com/archives/3038/</id>
+        <link href="https://yangwenqing.com/archives/3038/"/>
+        <updated>2025-12-11T12:26:00.000Z</updated>
+        <summary type="html"><![CDATA[给你的PVE虚拟机自定义CPU模型/型号通常我们的PVE虚拟机习惯把CPU的类别设置为host模型，这样既能获得与宿主机CPU几乎完全相同的指令集和性能又可以在虚拟机看到的CPU就是宿主机CPU...]]></summary>
+        <author>
+            <name>July's</name>
         </author>
     </entry>
     <entry>
@@ -3922,6 +4052,16 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PVE9.1骚操作！CT容器运行Kodi完整指南，还能显示画面！]]></title>
+        <id>https://www.geekxw.top/3623/</id>
+        <link href="https://www.geekxw.top/3623/"/>
+        <updated>2025-11-27T19:16:48.000Z</updated>
+        <summary type="html"><![CDATA[出处:https://github.com/wjz304 hub.docker：https://hub.doc […]]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Let's Encrypt 推出 Gen Y 根证书架构：揭示 Web PKI 的五大未来趋势]]></title>
         <id>https://razeen.me/posts/letsencrypt-gen-y-pki-five-trends/</id>
         <link href="https://razeen.me/posts/letsencrypt-gen-y-pki-five-trends/"/>
@@ -3959,6 +4099,16 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[家里有两台打印机，主力机是联想的经典多功能一体机 M7615DNA，已经使用多年，从未出现过故障，平时也比较省心，毕竟使用频率并不高。不过，它的驱动和软件系统显得有些过时，尤其是扫描部分，主要依赖于已经停止维护的 Control Center 4 (CC4) 软件。翻看文件的修改日期，已经超过十年，实在跟不上现在的系统需求了。 对于最新的 Windows 11，兼容性问题逐渐显现，特别是在我的台式机上，表现得尤为明显，使用起来总是有些不流畅。我最喜欢 CC4 的一个功能，就是在设备上放一叠纸后，只需点击扫描，它会自动将文件按设定好的格式和名称保存到指定位置。然而，随着 Windows 11 的更新，这个功能在我的台式机上竟然不再能正常使用，原因至今不明。 至于笔记本，由于 CC4 有常驻服务，而我的笔记本电池和性能都已经不太理想，我尽量避免让它消耗过多电量。结果一禁用 CC4 的服务，软件就再也没法启动，着实让人烦恼。于是，我干脆决定卸载它，转而尝试 VueScan——这款全能扫描仪工具。 1. VueScan 是什么？有什么优势 VueScan 是一款强大的扫描仪软件，支持多种型号的扫描仪和数码相机，旨在提供灵活高效的扫描体验。它能够兼容大部分市场上常见的设备，包括一些老旧或已停产的型号，且无需依赖扫描仪厂商提供的驱动程序。这使得无论是家庭用户还是专业人士，都能通过 VueScan 实现高质量的扫描。 随着..... [ 阅读全文 ] 原文链接： https://www.shephe.com/resources/vuescan/ 版权声明： Kevin's Space 版权所有，转载请用明链标明本文地址 本站相关： 随机文章 | 站长微博 | 关于本站 | 联系站长 | 捐助作者]]></summary>
         <author>
             <name>Kevin's Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE9.1新功能支持OCI镜像,LXC直接创建Docker容器,减少套娃]]></title>
+        <id>https://www.geekxw.top/?p=3613</id>
+        <link href="https://www.geekxw.top/3613/"/>
+        <updated>2025-11-23T06:32:57.000Z</updated>
+        <summary type="html"><![CDATA[pct set 101 -mp0 /mnt/pve/media,mp=/media /dev/dri/card1 /dev/dri/renderD128]]></summary>
+        <author>
+            <name>小陈折腾日记</name>
         </author>
     </entry>
     <entry>
@@ -4047,6 +4197,16 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[灯下漫笔① 一 有一时，就是民国二三年时候，北京的几个国家银行的钞票，信用日见其好了，真所谓蒸蒸日上。听说连一向执迷于现银的乡下人，也知道这既便当，又可靠，很乐意收受，行使了。至于稍明事理的人，则不必是“特殊知识阶级”，也早不将沉重累坠的银...]]></summary>
         <author>
             <name>浅浅夜色</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在ESXI 8.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术---应用于Windows/Ubuntu系统]]></title>
+        <id>https://yangwenqing.com/archives/2931/</id>
+        <link href="https://yangwenqing.com/archives/2931/"/>
+        <updated>2025-11-18T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[在ESXI 8.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术---应用于Windows/Ubuntu系统来更新一篇ESXI版本的NVIDIA vGPU教程，本次用到的版本是ESXI8...]]></summary>
+        <author>
+            <name>July's</name>
         </author>
     </entry>
     <entry>
@@ -4262,6 +4422,16 @@ NotebookLM 的三大價值：
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026年：我在PVE7上使用NVIDIA vGPU玩扫雷--Windows7篇]]></title>
+        <id>https://yangwenqing.com/archives/2895/</id>
+        <link href="https://yangwenqing.com/archives/2895/"/>
+        <updated>2025-11-07T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年：我在PVE7上使用NVIDIA vGPU玩扫雷--Windows7篇爷青回！一切始于我对Windows 7那个复古界面的怀念。我在Proxmox VE上精心部署了台Win7虚拟机，准...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[雜談：深刻體會Skype退役了 / Talk:  Deeply Felt Skype's Retirement]]></title>
         <id>http://blog.pulipuli.info/2025/11/talk-deeply-felt-skypes-retirement.html</id>
         <link href="http://blog.pulipuli.info/2025/11/talk-deeply-felt-skypes-retirement.html"/>
@@ -4301,6 +4471,16 @@ Microsoft is shutting down Skype on May 5, 2025. I initially thought it wouldn't
 沒有市話，在這種情況下還真的是很麻煩呢，唉。]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笔记本电脑安装飞牛OS息屏不关机和合盖不休眠教程]]></title>
+        <id>https://izspace.cn/?p=1285</id>
+        <link href="https://izspace.cn/tutorial/feiniuosnote.html"/>
+        <updated>2025-10-27T04:28:12.000Z</updated>
+        <summary type="html"><![CDATA[一、连接到飞牛 SSH 场景①：笔记本息屏不关机（手动控制屏幕开关） 通过命令实现「关闭屏幕但设备保持运行」，...]]></summary>
+        <author>
+            <name>Zyi</name>
         </author>
     </entry>
     <entry>
@@ -4371,6 +4551,26 @@ To allow Google Assistant to control devices connected to Home Assistant, a publ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[不用数据线，ADB无线调试安卓手机步骤]]></title>
+        <id>https://izspace.cn/?p=1274</id>
+        <link href="https://izspace.cn/tutorial/adbconnect.html"/>
+        <updated>2025-10-15T14:12:31.000Z</updated>
+        <summary type="html"><![CDATA[手机“开发者模式”菜单中开启“USB 调试”和“无线调试”，手机网络与电脑在同一网内;   一、在开...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全设备客户端指南：从功能解析到实用推荐，附下载链接]]></title>
+        <id>https://izspace.cn/?p=1259</id>
+        <link href="https://izspace.cn/tutorial/embyc.html"/>
+        <updated>2025-10-13T12:21:05.000Z</updated>
+        <summary type="html"><![CDATA[如果你是影音爱好者，一定遇到过这样的困扰：电脑里存了海量电影、电视剧和家庭录像，想在手机、平板或电视上观看时，...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[希希助教祝各位同學中秋節快樂！ / TA. Sissi Wishes Everyone a Happy Mid-Autumn Festival!]]></title>
         <id>http://blog.pulipuli.info/2025/10/ta-sissi-wishes-everyone-a-happy-midautumn-festival.html</id>
         <link href="http://blog.pulipuli.info/2025/10/ta-sissi-wishes-everyone-a-happy-midautumn-festival.html"/>
@@ -4398,6 +4598,36 @@ https://www.sentyfont.com/springbrush.htm 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[debian里madam阵列更新硬盘]]></title>
+        <id>https://kzpu.com/?p=5972</id>
+        <link href="https://kzpu.com/archives/5972.html"/>
+        <updated>2025-10-06T01:00:54.000Z</updated>
+        <summary type="html"><![CDATA[博主的NAS里有4个14T硬盘，组的是raid 10，其中有一个14T的硬盘报错较多，于是决定更换。… 继续阅读 debian里madam阵列更新硬盘]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[给大家分享一组好看的影视库封面图，适用emby/jellyfin/飞牛]]></title>
+        <id>https://izspace.cn/?p=1200</id>
+        <link href="https://izspace.cn/video/fengmian.html"/>
+        <updated>2025-10-03T05:27:00.000Z</updated>
+        <summary type="html"><![CDATA[就是上面这种，很好看适用于 emby/jellyfin/ 飞牛，我现在拿来做 emby 封面很美观哦~ 下载链...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE9：用NVIDIA vGPU19.0虚拟化显卡拆分在虚拟机玩游戏]]></title>
+        <id>https://yangwenqing.com/archives/2797/</id>
+        <link href="https://yangwenqing.com/archives/2797/"/>
+        <updated>2025-09-22T01:19:00.000Z</updated>
+        <summary type="html"><![CDATA[PVE9：用NVIDIA vGPU19.0虚拟化显卡拆分在虚拟机玩游戏记录6.14内核的PVE9配置NVIDIA vGPU19.0版本的显卡虚拟化拆分，并在虚拟机里玩游戏。NVIDIA vGPU...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025年了新加坡ocbc银行还能用吗]]></title>
         <id>https://www.dongshushu.com/?p=10319</id>
         <link href="https://www.dongshushu.com/post/10319/"/>
@@ -4405,6 +4635,46 @@ https://www.sentyfont.com/springbrush.htm 
         <summary type="html"><![CDATA[24年12月份的时候网上闹得沸沸扬扬说不能用了。 我也收到了ocbc发的邮件，通知这张卡12月就不能使用了，但 […]]]></summary>
         <author>
             <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为啥浏览器登录PVE管理后台，没2分钟就要我重新验证登录？]]></title>
+        <id>https://yangwenqing.com/archives/2781/</id>
+        <link href="https://yangwenqing.com/archives/2781/"/>
+        <updated>2025-08-30T05:56:18.000Z</updated>
+        <summary type="html"><![CDATA[为啥浏览器登录PVE管理后台，没2分钟就要我重新验证登录？这是由于PVE时间不对导致的，当您登录时，PVE会生成一个有时效性的令牌（通常默认是2小时）。这个令牌的有效期计算严重依赖于节点的系统时...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PVE直通硬件后，为啥内存不能动态调整?]]></title>
+        <id>https://yangwenqing.com/archives/2777/</id>
+        <link href="https://yangwenqing.com/archives/2777/"/>
+        <updated>2025-08-30T04:53:00.000Z</updated>
+        <summary type="html"><![CDATA[PVE直通硬件后，为啥内存不能动态调整?你是不是在 Proxmox VE（PVE） 里给虚拟机直通显卡、网卡后，发现内存不能自动调整了？别慌！ 这是正常现象，今天用人话解释原因，并教你正确设置！...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在PVE9.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术--应用于Windows/Ubuntu系统]]></title>
+        <id>https://yangwenqing.com/archives/2729/</id>
+        <link href="https://yangwenqing.com/archives/2729/"/>
+        <updated>2025-08-27T12:51:00.000Z</updated>
+        <summary type="html"><![CDATA[在PVE9.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术--应用于Windows/Ubuntu系统记录6.14内核的PVE9.0.3版本配置NVIDIA vGPU19.0版本的显卡虚...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox VE PVE 9.X使用合集篇--持续更新]]></title>
+        <id>https://yangwenqing.com/archives/2714/</id>
+        <link href="https://yangwenqing.com/archives/2714/"/>
+        <updated>2025-08-25T10:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Proxmox VE PVE 9.X使用合集篇--持续更新注意，本篇文章仅记录Proxmox VE 9.X版本日常的使用设置，低于9.0版本的可能不适用。PVE换源更换国内源主要是为了解决网络访...]]></summary>
+        <author>
+            <name>July's</name>
         </author>
     </entry>
     <entry>
@@ -4454,6 +4724,48 @@ https://www.youtube.com/watch?v=_uFc5MyV6ag
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[笔记本电脑安装飞牛OS后 如何避免关盖子 系统休眠?]]></title>
+        <id>https://www.xiaoxu.vip/archives/257.html</id>
+        <link href="https://www.xiaoxu.vip/archives/257.html"/>
+        <updated>2025-08-15T17:16:47.000Z</updated>
+        <summary type="html"><![CDATA[假设当前你的电脑已经成功安装好了飞牛OS, 你可以成功登陆飞牛OS的网页,如下图:
+
+
+你可以直接在笔记本显示的OS命令行界面输入 你创建的管理员账号和密码
+
+Admin是我的飞牛管理员,输入之后直接回车
+到下一行 password:后面输入管理员密码;
+输入成功后回车
+会显示你的系统版本和上次后台连接时间,如下图
+
+输入 sudo -i后回车,该步骤是提权
+
+继续输入管理员密码回车 ,之后会显示root@的字样
+这时候可以输入
+vi /etc/systemd/logind.conf 后回车
+
+进入后先输入/HandleLidSwitch回车 找到如下这一行#HandleLidSwitch=suspend
+
+然后输入i回车 —进入编辑模式
+删除这一行最开始的#符号(取消注释符), 移动光标 修改等于号(=)后面的数值为ignore, 修改为如下图的样子，将此行的#号去掉，将suspend改为ignore或lock
+
+HandleLidSwitch=suspend：当笔记本电脑使用电池供电时，合盖挂起 HandleLidSwitchExternalPower=suspend：当笔记本电脑插入电源插座时，合盖挂起 HandleLidSwitchDocked=ignore：当笔记本电脑连接到扩展坞时，合盖忽略
+如果这3行默认不是ignore或lokc，则都需要修改一下，并去掉前面的#号
+
+
+然后按 ESC键 (键盘左上角),输入wq!回车 (强制保存退出);
+
+最后输入systemctl restart systemd-logind回车
+
+这个时候盖上电脑盖子试一下,如果可以在手机上访问 飞牛nas了,就成功了;
+如果不行的话,可以输入reboot回车,稍等3分钟,等系统重启成功后再试一下;
+以上的OS命令行模式是使用putty ssh远程连接后台截图的;
+如何打开ssh开关如下图:]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[树莓派docker国内镜像源]]></title>
         <id>https://www.dongshushu.com/?p=10311</id>
         <link href="https://www.dongshushu.com/post/10311/"/>
@@ -4461,6 +4773,16 @@ https://www.youtube.com/watch?v=_uFc5MyV6ag
         <summary type="html"><![CDATA[众所周知的原因docker在国内不能正常使用 今天我在树莓派上安装了docker，需要增加以下配置 /etc/ […]]]></summary>
         <author>
             <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[分享一款Windows11神器，全免费无广告装机优化必备]]></title>
+        <id>https://izspace.cn/?p=1175</id>
+        <link href="https://izspace.cn/tutorial/windows11youhua.html"/>
+        <updated>2025-08-13T02:27:21.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-09-04 20:05，文中所关联的信息可能已发生改变，请知悉！ 这是一款电脑...]]></summary>
+        <author>
+            <name>Zyi</name>
         </author>
     </entry>
     <entry>
@@ -4631,6 +4953,16 @@ iPhone可以使用「重置網路設定」，請看「如果 iPhone 或 iPad 無
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PVE8升级PVE9  在线升级｜重装还原 2 种方式]]></title>
+        <id>https://yangwenqing.com/archives/2654/</id>
+        <link href="https://yangwenqing.com/archives/2654/"/>
+        <updated>2025-08-08T12:05:00.000Z</updated>
+        <summary type="html"><![CDATA[PVE8升级PVE9  在线升级｜重装还原 2 种方式今年下半年，ESXi （6月17日）和 Proxmox VE（8月5日） 两家虚拟化平台都迎来了自己的9.0正式版。此次ESXI9.0的授权...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[實作相容OpenAI API，但背後不是OpenAI的API服務 / Implementing OpenAI API-Compatible Services, But Not Powered by OpenAI]]></title>
         <id>http://blog.pulipuli.info/2025/08/implementing-openai-api-compatible-services-but-not-powered-by-openai.html</id>
         <link href="http://blog.pulipuli.info/2025/08/implementing-openai-api-compatible-services-but-not-powered-by-openai.html"/>
@@ -4735,6 +5067,33 @@ https://disp.cc/b/Motorcycle/dQYF 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从河西走廊到大美新疆，25 天旅途故事分享合集]]></title>
+        <id>https://www.yejiefeng.com/articles/2025/07/26/1753539129007.html</id>
+        <link href="https://www.yejiefeng.com/articles/2025/07/26/1753539129007.html"/>
+        <updated>2025-07-28T14:39:05.000Z</updated>
+        <summary type="html"><![CDATA[有时候我不拍东西，我只想沉浸在那个时刻]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSpeedy 1.7.6 开源 免费下载 游戏变速工具 网盘加速]]></title>
+        <id>https://www.xiaoxu.vip/archives/256.html</id>
+        <link href="https://www.xiaoxu.vip/archives/256.html"/>
+        <updated>2025-07-28T06:59:36.000Z</updated>
+        <summary type="html"><![CDATA[理论上工具是支持所有网盘的，但测试中夸克效果不明显，鉴于不同网盘在技术架构和运行机制上存在差异，对于其他网盘的加速效果，其它网盘大家自己试试吧！OpenSpeedy 是一款从内核 Hook 时间函数，细致打磨用户体验的优秀开源小工具。无广告、无付费、功能强大、更新频繁。无论你是“快速农场党”，还是“探秘慢速党”，都能从中找到乐趣。
+重点提示：初次使用时，变速速率通常默认为100倍速。在尚未开始下载某度网盘文件之前，务必将速率调整为1倍。否则，若在勾选系统进程后，下载文件时会出现错误……
+强调4个步骤：
+1.搜索你想要加速的名称，只用拼音不要用汉字，因为运行程序都是文件的拼音名。
+2.全选搜索出的文件。
+3.打开软件默认是提速100倍的不要动。
+4.可以设置快捷键进行速度快慢的设定。
+下载地址：https://www.123684.com/s/C9x9-CBmxh]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AdGuard Home不只是拿來擋廣告 / AdGuard Home Is More Than Just an Ad Blocker]]></title>
         <id>http://blog.pulipuli.info/2025/07/adguard-home-is-more-than-just-an-ad-blocker.html</id>
         <link href="http://blog.pulipuli.info/2025/07/adguard-home-is-more-than-just-an-ad-blocker.html"/>
@@ -4758,6 +5117,16 @@ AdGuard Home的安裝與設定 / Installing and Configuring AdGuard Home
 https://adg…]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox VE (PVE) 集群基本操作：创建集群/加入集群/退出集群]]></title>
+        <id>https://yangwenqing.com/archives/2645/</id>
+        <link href="https://yangwenqing.com/archives/2645/"/>
+        <updated>2025-07-27T07:05:00.000Z</updated>
+        <summary type="html"><![CDATA[创建PVE集群在任意一个节点创建集群作为主节点，创建集群可以在web创建也可以使用命令创建。Web端创建集群：步骤：数据中心 ➡️ 集群 ➡️ 创建集群 ➡️ 设置集群名称 ➡️ 选择网络 ➡️...]]></summary>
+        <author>
+            <name>July's</name>
         </author>
     </entry>
     <entry>
@@ -4940,6 +5309,51 @@ https://support.apple.com/zh-tw/109509
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NAS影视库乱拉屎？一文教会你自动删除没有视频的文件夹]]></title>
+        <id>https://izspace.cn/?p=1170</id>
+        <link href="https://izspace.cn/tutorial/wenjianzhengli.html"/>
+        <updated>2025-07-10T06:09:49.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-09-04 20:06，文中所关联的信息可能已发生改变，请知悉！ 前言：解决影...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Labubu Wallpaper 一个专注“Labubu”主题的壁纸资源网站]]></title>
+        <id>https://www.xiaoxu.vip/archives/255.html</id>
+        <link href="https://www.xiaoxu.vip/archives/255.html"/>
+        <updated>2025-07-07T15:29:28.000Z</updated>
+        <summary type="html"><![CDATA[Labubu 壁纸宝藏站来啦！ Labubu 一只难求，热爱它的你快收藏这个专属壁纸网站！Labubu Wallpaper 专注汇集超萌 Labubu 主题壁纸，涵盖手电筒动态、节日庆典等多种风格，提供高清静态、动态、闪光、Live Photo 等丰富格式，满足你的各种需求！
+
+
+
+
+
+
+
+
+
+
+
+
+
+网址：https://labubuwallpaper.store/sp/home/zh
+该网站的壁纸完全免费，打开网站直接点击保存按钮即可下载壁纸原图。]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何解决Jellyfin/emby中首页封面和字幕显示方块问题？一文教会你]]></title>
+        <id>https://izspace.cn/?p=1159</id>
+        <link href="https://izspace.cn/tutorial/jellyfinfonts.html"/>
+        <updated>2025-07-07T04:45:33.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-09-04 20:03，文中所关联的信息可能已发生改变，请知悉！ 如图：jel...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[在Docker的Nextcloud用腳本新增外部網頁連結 / Adding External Site Links Using Scripts in Nextcloud on Docker]]></title>
         <id>http://blog.pulipuli.info/2025/07/adding-external-site-links-using-scripts-in-nextcloud-on-docker.html</id>
         <link href="http://blog.pulipuli.info/2025/07/adding-external-site-links-using-scripts-in-nextcloud-on-docker.html"/>
@@ -4957,6 +5371,42 @@ https://apps.nextcloud.com/apps/external 
 Nextcloud 的外部網站應用程式（External Sites App）是一個簡潔卻功能強大的工具，讓管理者可以輕鬆地將外部網站連結整合到 Nextcloud 的網路介面中。使用者只需點擊對應的圖示，…]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微信重大更新！100多G的聊天记录有救了]]></title>
+        <id>https://www.xiaoxu.vip/archives/254.html</id>
+        <link href="https://www.xiaoxu.vip/archives/254.html"/>
+        <updated>2025-07-04T05:28:13.000Z</updated>
+        <summary type="html"><![CDATA[朋友们，微信存储空间告急怎么办！
+那100多G的聊天记录，是小编我最丰富的社会阅历了。
+
+
+
+别急，微信迎来了重大更新——优化聊天记录备份！！
+优化后，你可以将手机聊天记录备份至外部存储设备，如U盘、移动硬盘、电脑等，释放手机空间。
+只需要选择可以直接连接手机的存储设备，插入手机充电口，即可通过以下路径发起备份：
+【微信】->【我】->【设置】->【通用】->【聊天记录迁移与备份】，选择【备份与恢复】->【新增一个备份】。
+
+
+
+此次瘦身优化，主要有几个特点：
+第一，你可以按需选择聊天记录范围、指定时间段，只留存那些特别的回忆～
+
+
+
+第二，聊天记录可以选择「自动备份」。如果距离上一次备份已超过24个小时，此时将手机连接到外部存储设备，即可触发。
+你还可以设置手机电量不足20%时暂停备份，以节省电量。
+
+
+
+第三，备份的聊天记录采用加密存储，保证隐私不会泄漏。多人可使用同一个存储设备，聊天记录不会出现串台或泄漏的情况。
+即使备份有聊天记录的存储设备不慎丢失，他人也无法直接读取内容，仅本人的微信账号，在连接外部设备后，才能恢复并读取相应的内容。
+但是，请留意一下这个小小的「但是」——
+聊天记录备份优化功能还在灰测阶段，我们正在马不停蹄地扩大测试范围，还没被灰测到的朋友不要着急。
+来源：“腾讯”微信公众号]]></summary>
+        <author>
+            <name>晓旭博客</name>
         </author>
     </entry>
     <entry>
@@ -5004,6 +5454,38 @@ https://lennychen.com/%E4%BD%A0%E6%88%96%E4%BD%A0%E5%AD%A9%E5%AD%90%E7%94%A8%E7%
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何搭建frp内网穿透工具从而实现MP微信交互消息]]></title>
+        <id>https://izspace.cn/?p=1137</id>
+        <link href="https://izspace.cn/tutorial/frpshezhi.html"/>
+        <updated>2025-07-01T06:51:08.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-09-04 20:07，文中所关联的信息可能已发生改变，请知悉！ 写在前面： ...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6 月 “科学” 流言榜：这些常见认知误区，你中招了吗？]]></title>
+        <id>https://www.xiaoxu.vip/archives/253.html</id>
+        <link href="https://www.xiaoxu.vip/archives/253.html"/>
+        <updated>2025-06-30T18:15:23.000Z</updated>
+        <summary type="html"><![CDATA[每月 “科学” 流言榜由北京市科学技术协会、北京市委网信办、首都互联网协会指导，北京科技记者编辑协会、北京地区网站联合辟谣平台共同发布。6 月 30 日，新一期榜单公布，对近期大家关注的问题进行了专业解答，快来看看这些常见的科学流言，你有没有信以为真！
+1. 睡前多吃碳水就能快速入睡？
+流言：很多人吃完米饭、面条等碳水化合物后会 “晕碳” 犯困，所以睡前多吃碳水食物有助于快速入睡。
+真相：这种说法过于片面。碳水化合物对睡眠的影响复杂，不同种类的碳水化合物效果相反。高升糖指数的碳水，如白面包、甜点等，会使血糖大幅波动，影响睡眠稳定性，减少深度睡眠比例；而低血糖指数的碳水，像燕麦、全谷物等，能维持稳定血糖，利于优质睡眠。此外，碳水虽能促进褪黑素与血清素合成，但频繁餐后嗜睡可能暗示饮食结构不合理或存在健康问题，长期高糖高脂饮食还会增加患病风险。
+2. 动物油比植物油更容易让人发胖？
+流言：动物油比植物油更容易让人发胖，需控制摄入量，植物油则无需太在意用量。
+真相：食物是否使人发胖主要取决于能量含量，同等重量的动物油和植物油能量几乎相同。动物油因独特风味易让人食欲大增、过量进食，这才是致胖关键；过度摄入植物油同样会因能量蓄积引发肥胖。
+3. 阴天没阳光，就不用防晒了？
+流言：阴天没有阳光，就无需涂抹防晒霜。
+真相：紫外线是皮肤问题的主要诱因，分为 UVA、UVB 和 UVC。UVA 波长最长、能量较低，95% 以上能穿透大气层，可直达皮肤真皮层，导致皮肤老化、晒黑，且作用累积；UVB 大部分被臭氧层吸收，约 10% 到达地面，是晒伤和色素沉着主因；UVC 几乎无法到达地面。即便阴天，云层对紫外线遮挡有限，尤其是 UVA 仍可穿透，所以防晒工作必不可少。
+4. 直系亲属之间直接输血更好？
+流言：“血浓于水”，直系亲属间血液匹配度最高，紧急情况下直接输血副作用最小。
+真相：直系亲属直接…]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nextcloud客製化網頁：插入外部JavaScript腳本 / Nextcloud Customized Webpage: Inserting External JavaScript Scripts]]></title>
         <id>http://blog.pulipuli.info/2025/06/nextcloud-customized-webpage-inserting-external-javascript-scripts.html</id>
         <link href="http://blog.pulipuli.info/2025/06/nextcloud-customized-webpage-inserting-external-javascript-scripts.html"/>
@@ -5025,6 +5507,170 @@ https://hub.docker.com/_/nextcloud/ 
 https://www.schillmania.com…]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows ping TCP端口工具之tcping「建议收藏」]]></title>
+        <id>https://www.xiaoxu.vip/archives/252.html</id>
+        <link href="https://www.xiaoxu.vip/archives/252.html"/>
+        <updated>2025-06-29T18:29:25.000Z</updated>
+        <summary type="html"><![CDATA[大家好，又见面了，我是你们的朋友全栈君。
+ping这个小工具大家都非常熟悉，但是他不能ping端口，当我们需要知道目的地址的某端口是否开放时，这时需要用到这个tcping小工具了，windows没有自带这个小工具，需要自己下载下来，放到指定目录里面。
+下载地址：点击打开链接  X64下载链接
+放到C:\Windows\System32这个文件夹下
+
+
+
+
+
+
+
+现在在测试一下：
+这是32位的 tcping
+
+
+
+
+
+
+
+64位的为tcping64，使用方法为：
+
+
+
+
+
+
+
+官方有个英文版的具体参数使用说明
+NAME
+    tcping - simulate "ping" over tcp by establishing a connection to network hosts.
+    Measures the time for your system to [SYN], receive the target's [SYN][ACK] and send [ACK].  Note that the travel time for
+    the last ACK is not included - only the time it takes to be put on the wire a tthe sending end.
+
+SYNOPSIS
+    tcping [-tdsvf46] [-i interval] [-n times] [-w interval] [-b n] [-r times][-j depth] [--tee filename] [-f] destination [port]
+
+DESCRIPTION
+    tcping measures the time it takes to perform a TCP 3-way han…]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win10右键打开ISO没有装载选项]]></title>
+        <id>https://kzpu.com/?p=5952</id>
+        <link href="https://kzpu.com/archives/5952.html"/>
+        <updated>2025-06-28T00:37:42.000Z</updated>
+        <summary type="html"><![CDATA[win10里的iso文件，右键可以直接装载到一个虚拟光驱里的，今天发现只有打开，没有装载了。 方法简… 继续阅读 win10右键打开ISO没有装载选项]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你真的了解“响度战争”吗？]]></title>
+        <id>https://www.xiaoxu.vip/archives/251.html</id>
+        <link href="https://www.xiaoxu.vip/archives/251.html"/>
+        <updated>2025-06-27T15:58:47.000Z</updated>
+        <summary type="html"><![CDATA[响度战争是指 20 世纪 90 年代后期开始，在音乐制作领域，为了使作品在竞争中更具吸引力，音乐制作人们竞相提升音乐响度的现象。以下是详细介绍：
+
+
+
+产生原因：
+
+声音更大的音轨更容易吸引听众注意力，从而可能带来更好的销售量或下载量。如果一首音乐比其他音乐音量小很多，就容易在播放时被听众忽视，给听众留下负面印象。工程师们发现砖墙限制器可以通过限制瞬间峰值来防止数字过载，进而增加平均电平，提升音乐的响度，这种 “响度最大化” 的做法很快流行起来，响度战争由此爆发。
+
+带来的问题：
+
+过度追求响度会导致音乐动态范围大幅缩减，敲击感以及一些附加效果丢失，音乐听起来变得沉闷、糊成一团，影响整体听觉体验。例如 2008 年 Metallica 的专辑《Death Magnetic》，就是响度战争的一个典型案例，其中所有歌曲都被过度压缩，听觉体验不佳。
+
+应对措施：
+
+随着互联网发展，流媒体平台逐渐兴起，各平台开始规定自己的响度标准，如 Spotify、YouTube 等平台的标准通常在 - 14LUFS 左右。如果音乐的响度超出标准，平台会在播放时自动将音量拉低到标准线上，这在一定程度上限制了过度提升响度的做法。此外，国际电信联盟（ITU）在 ITU BS.1770 章程中提出相关建议，欧洲广播联盟（EBU）和美国高级电视业务顾问委员会（ATSC）分别在 EBU R128 和 ATSC A/85 标准中采纳，规定了广播节目平均响度电平标准，以保持节目间持续连贯的平均电平。
+
+现状：
+
+虽然流媒体平台的出现和相关标准的制定对响度战争起到了一定的抑制作用，但有人认为响度战争并未真正结束，只是换了一种形式存在。一方面，音乐并非只在流媒体平台播放，在 CD 专辑、酒吧等场景仍存在响度竞争空间。另一方面，不同平台的响度标准可能不同且会调整，国内许多平台也没有明确的响度政策，部分音乐制作人为了…]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waves CLA 2A 插件：音频压缩的经典复刻与艺术雕琢]]></title>
+        <id>https://www.xiaoxu.vip/archives/250.html</id>
+        <link href="https://www.xiaoxu.vip/archives/250.html"/>
+        <updated>2025-06-27T15:54:13.000Z</updated>
+        <summary type="html"><![CDATA[在音频处理的广袤天地中，压缩器是塑造声音的关键工具之一，而 Waves CLA 2A 插件更是其中备受瞩目的明星产品。它复刻自 20 世纪 60 年代早期 Teletronix 旗下的经典硬件压缩器 LA - 2A，凭借其独特的声音特性和出色的压缩效果，在音乐制作、影视音频处理等领域广泛应用，成为众多音频工程师爱不释手的得力助手。
+一、历史溯源与复刻精髓
+LA - 2A 作为一款传奇的硬件压缩器，诞生之初是为广播电视领域服务。其采用纯手工焊接工艺，融入电子管技术，并利用基于电致光技术的 T4 光学衰减器实现增益衰减。这种设计在当时极为独特，电致光电路系统在调整增益时不会像其他一些电路设计那样引入过多失真，不过电子管技术本身带来的失真特性却成为了它声音魅力的一部分。Waves 公司精心对 LA - 2A 进行建模，推出 CLA 2A 插件，力求完整保留硬件原型的声音表现。从频率响应到压缩特性，从电子管染色到 T4 光学衰减器的独特效果，都被精准复刻到插件中，让现代音频创作者无需昂贵且稀缺的硬件设备，就能获得经典的 LA - 2A 压缩音色。
+二、功能特性深度剖析
+（一）简单直观的操作界面
+CLA 2A 插件的操作界面设计极为简洁，这使得无论是经验丰富的专业人士还是初涉音频领域的新手都能迅速上手。它主要提供了两个用于调整压缩的关键控制项：峰值衰减（Peak Reduction）推子和增益（Gain）旋钮。峰值衰减推子用于设定压缩的使用量，推子推动的幅度越大，对音频信号峰值的压缩程度就越高；增益旋钮则决定输出电平，通过调整它可以补偿因压缩而导致的音量损失，使处理后的音频在整体混音中保持合适的响度。
+（二）独特的压缩模式与特性
+
+压缩器与限制器模式切换：CLA 2A 插件具备压缩器（低压缩比）和限制器（高压缩比）两种模式，用户可根据音频处理需求灵活切换。在压缩器模式下，它能够以较为…]]></summary>
+        <author>
+            <name>晓旭博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[waves插件中降噪神器NS1的神奇之处]]></title>
+        <id>https://www.xiaoxu.vip/archives/249.html</id>
+        <link href="https://www.xiaoxu.vip/archives/249.html"/>
+        <updated>2025-06-27T15:29:52.000Z</updated>
+        <summary type="html"><![CDATA[一、NS1 简介
+Waves 公司作为音频行业的佼佼者，推出了众多实用的音频插件，NS1 便是其中一款专门用于降噪的利器。它能够对实时信号进行即时分析，通过精妙的算法区分语音信号与不需要的噪音，将听觉焦点聚焦于主要信号，同时有效地消除背景噪音，为后期音频、语音对白及其他音乐相关处理提供了完美的解决方案。
+二、功能特点
+
+
+简单直观的操作：NS1 最显著的特点之一就是其操作的简便性。整个插件界面只有一个推子，用户只需通过推动这个推子，就能轻松实现降噪功能。推子推得越高，降噪幅度越大，背景噪音的衰减越明显。同时，插件配备了一个衰减电平表，它能够实时显示从输入源信号衰减出的电平幅度，让用户对降噪效果一目了然。这种简单而直接的操作方式，使得即使是音频处理新手，也能迅速上手，轻松掌握降噪技巧。
+
+
+
+精准的噪音识别与消除：NS1 采用了先进的算法，能够在瞬间对声音信号进行实时分析，精准地区分语音和噪音。在处理语音对白时，它可以将人声清晰地凸显出来，同时去除诸如空调声、电脑风扇声、环境嘈杂声等背景噪音，而且在消除噪音的过程中，最大程度地保留了原始声音的自然特性，不会对人声或其他重要音频元素造成明显的损伤。这一特性使得 NS1 在播客录制、视频配音、广播节目制作等领域大受欢迎，为创作者们提供了高品质的音频处理体验。
+
+
+
+广泛的应用场景：NS1 的应用场景十分广泛。在音乐制作中，它可以用于去除乐器演奏过程中的环境噪音，使音乐更加纯净、清晰；在影视后期制作中，能够对影片中的对话进行降噪处理，提升音频质量，增强观众的观影体验；对于内容创作者来说，无论是录制短视频解说、直播音频，还是制作在线课程，NS1 都能帮助他们快速去除背景噪音，提高音频的专业性和可听性。
+
+
+三、使用方法示例
+下面以常见的音频编辑软件 Adobe Audition 为例，简单介绍一下 NS1 的使用方法：
+
+
+首先，确保你已经在电脑上安装了 Waves 插件包，并且 Adobe Audition 能够识别和加载 Waves 插件。
+
+
+
+打开 Adobe Audition 软件，导入需要进行降噪处理的音频文件。
+
+
+
+在音频轨道上，找到 “效果” 菜单，选择 “Waves” 插件组，然后从中找到 “NS1 Noise Suppressor” 插件并加载。
+
+
+
+加载成功后，NS1 插件的界面就会弹出。此时，你会看到界面上的推子和衰减电平表。
+
+
+
+开始试听音频，同时慢慢推动推子，观察衰减电平表的变化，根据听到的效果来调整推子的位置，直到达到满意的降噪效果为止。在调整过程中，要注意不要过度降噪，以免对原始音频的音质造成较大影响。
+
+
+
+调整完成后，点击 “应用” 按钮，即可完成对音频的降噪处理。
+
+
+四、注意事项
+
+
+虽然 NS1 在降噪方面表现出色，但和所有降噪插件一样，过度降噪可能会对原始音频的音质产生一定影响。在使用过程中，需要根据实际情况谨慎调整推子的位置，以达到降噪和音质保留之间的平衡。一般来说，如果将推子设置在一个合适的范围内，能够在有效降低背景噪音的同时，最大程度地保持原始声音的清晰度和自然感。但如果推子推得过高，可能会导致声音变得沉闷、失去细节，甚至出现一些失真的情况。
+
+
+
+NS1 对于不同类型的噪音处理效果可能会有所差异。对于持续性的、较为稳定的背景噪音，如空调声、电脑风扇声等，NS1 能够取得非常好的降噪效果。然而，对于一些瞬间出现的、突发性的噪音，如偶尔的咳嗽声、关门声等，NS1 可能无法完全消除，需要结合其他音频处理方法进行进一步处理。]]></summary>
+        <author>
+            <name>晓旭博客</name>
         </author>
     </entry>
     <entry>
@@ -5065,6 +5711,16 @@ https://www.schillmania.com…]]></summary>
 我也不確定這個問題該怎麽處理好，這也可能代表著部落格的沒落吧，真是無奈啊。]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[想要炫酷的MP通知消息推送？看这篇文章就够了。]]></title>
+        <id>https://izspace.cn/?p=1126</id>
+        <link href="https://izspace.cn/video/mpmubandaima.html"/>
+        <updated>2025-06-26T05:57:27.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-10-09 11:00，文中所关联的信息可能已发生改变，请知悉！ MP 最新版...]]></summary>
+        <author>
+            <name>Zyi</name>
         </author>
     </entry>
     <entry>
@@ -5113,6 +5769,26 @@ https://hub.docker.com/_/nextcloud
 儘管如此，我其實還是蠻喜歡走上山的感覺。離開的時候在橋上看到了耶穌光，好美。]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极空间NAS如何快速清理空文件夹？]]></title>
+        <id>https://izspace.cn/?p=1110</id>
+        <link href="https://izspace.cn/tutorial/qingli.html"/>
+        <updated>2025-06-20T02:29:10.000Z</updated>
+        <summary type="html"><![CDATA[提醒：本文最后更新于 2025-09-04 20:10，文中所关联的信息可能已发生改变，请知悉！ 1. 打开电...]]></summary>
+        <author>
+            <name>Zyi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFS挂载报错mount.nfs: Stale file handle]]></title>
+        <id>https://cangshui.net/?p=5320</id>
+        <link href="https://cangshui.net/5320.html"/>
+        <updated>2025-06-18T14:37:57.000Z</updated>
+        <summary type="html"><![CDATA[报障案例： 如果你是中文系统，应该就是报失效文件句柄 先直接说结果怎么处理： 先查看自己的NFS服务器配置文件 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -5228,6 +5904,24 @@ Nextcloud 的介面設計簡潔直覺，容易上手。您可以透過網頁瀏�
 先試試看再說。]]></summary>
         <author>
             <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决clash Verge Rev无法管理员自启的方法]]></title>
+        <id>https://www.xiaoxu.vip/archives/248.html</id>
+        <link href="https://www.xiaoxu.vip/archives/248.html"/>
+        <updated>2025-06-09T05:25:53.000Z</updated>
+        <summary type="html"><![CDATA[应该有些朋友在2.2.3版本后发现不能自启，那可以按以下方法做：
+1.先退出软件。
+2.在开始按钮上右键，选择运行
+3.在运行框子里输入 runas
+ /trustlevel
+:0x20000 "程序路径"
+比如 runas /trustlevel:0x20000 "C:\Program Files\Clash Verge\clash-verge.exe"
+回车
+4.软件过5秒会自动启动，启动后再进设置，发现可以改开机自启了，打开开机自启开关。]]></summary>
+        <author>
+            <name>晓旭博客</name>
         </author>
     </entry>
     <entry>
@@ -5459,6 +6153,26 @@ XS1000 (SSD) 1TB, 2TB]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Emby 4.8.11 容器版Premiere破解教程]]></title>
+        <id>https://cangshui.net/?p=5312</id>
+        <link href="https://cangshui.net/5312.html"/>
+        <updated>2025-04-07T18:12:02.000Z</updated>
+        <summary type="html"><![CDATA[随便输入一个密钥来激活 测试硬解成功，大功告成]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mac系统新手小白上手指南]]></title>
+        <id>https://kzpu.com/?p=5914</id>
+        <link href="https://kzpu.com/archives/5914.html"/>
+        <updated>2025-04-05T09:56:13.000Z</updated>
+        <summary type="html"><![CDATA[相信很多人和我一样，第一次使用苹果电脑时，措手不及，不知道从何处下手，我也一样。自从种草了mac m… 继续阅读 mac系统新手小白上手指南]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Multifunctional Controllers 多功能控制器]]></title>
         <id>http://prototypingideas.blogspot.com/2025/04/multifunctional-controllers.html</id>
         <link href="http://prototypingideas.blogspot.com/2025/04/multifunctional-controllers.html"/>
@@ -5517,6 +6231,46 @@ Novation Launchpad series]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025/03 初春日本四國遊記]]></title>
+        <id>https://xnum.github.io/2025/03/shikoku-1/</id>
+        <link href="https://xnum.github.io/2025/03/shikoku-1/"/>
+        <updated>2025-03-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Day1]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[硬件版 GPU Burn]]></title>
+        <id>https://blog.miskcoo.com/2025/03/gpu-burn</id>
+        <link href="https://blog.miskcoo.com/2025/03/gpu-burn"/>
+        <updated>2025-03-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近几年前的 2080Ti 在物理上运行了 gpu-burn，这里放点图。一共有两台机器，看起来一台是主板烧到显卡的，另一台就看不出来了，似乎是供电烧了。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamSpeak 6 无法登陆解决办法]]></title>
+        <id>https://blog.liqiye.com/posts/3211595058/</id>
+        <link href="https://blog.liqiye.com/posts/3211595058/"/>
+        <updated>2025-03-19T08:31:16.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>中文互联网好像压根没人提这茬，是用得人少还是我是先天 BUG 圣体，如果你遇到<strong>「无法登陆此账户；未知错误」</strong>]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[强化学习玩转量化交易，回测年化 70%+，智能体的决策是否可信？]]></title>
+        <id>https://www.yejiefeng.com/articles/2025/03/18/1742295984567.html</id>
+        <link href="https://www.yejiefeng.com/articles/2025/03/18/1742295984567.html"/>
+        <updated>2025-03-18T11:06:24.000Z</updated>
+        <summary type="html"><![CDATA[每个人的生命都是一条通向自我的路]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[買衣車，上淘寶！]]></title>
         <id>https://www.misterngan.com/?p=8476</id>
         <link href="https://www.misterngan.com/8476/buy-sewing-machine-from-taobao/"/>
@@ -5553,6 +6307,17 @@ Novation Launchpad series]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[抛弃 sing-box，在 Windows 平台上重新拥抱 Clash]]></title>
+        <id>https://blog.liqiye.com/posts/1088177150/</id>
+        <link href="https://blog.liqiye.com/posts/1088177150/"/>
+        <updated>2025-02-22T17:56:09.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li>最难蚌的一集家人们，前段时间才踩 Clash 捧 sing-box，结果 sing-box 更新 1.11 给了我当头一棒，它改]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ES模块的基本用法]]></title>
         <id>https://www.dongshushu.com/?p=10295</id>
         <link href="https://www.dongshushu.com/post/10295/"/>
@@ -5563,6 +6328,16 @@ Novation Launchpad series]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jeffrey 2024 年度总结——自洽]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/12/26/1735221542722.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/12/26/1735221542722.html"/>
+        <updated>2025-02-05T09:43:58.000Z</updated>
+        <summary type="html"><![CDATA[我是自己的天才]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TSMC救不了Intel：酷睿Ultra 7 255H（Arrow Lake H45）测试]]></title>
         <id>https://blog.hjc.im/?p=960</id>
         <link href="https://blog.hjc.im/tsmc-cant-save-intel-core-ultra-255h-arrow-lake-h-review.html"/>
@@ -5570,6 +6345,17 @@ Novation Launchpad series]]></summary>
         <summary type="html"><![CDATA[几个月前，我曾有机会测试Intel专为超轻薄笔记本打造的Lunar Lake处理器。尽管其独特的设计让它脱颖而 […]]]></summary>
         <author>
             <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG 48C4 使用体验分享]]></title>
+        <id>https://blog.liqiye.com/posts/3301207980/</id>
+        <link href="https://blog.liqiye.com/posts/3301207980/"/>
+        <updated>2025-01-13T10:59:11.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li>最近在朋友家里看到他的 LG 48C3 实在是馋的厉害，看抖音都比我爽，那对比度，啧啧，第一次真正体验到这种黑的地方完全黑下去的]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
         </author>
     </entry>
     <entry>
@@ -5589,6 +6375,38 @@ Novation Launchpad series]]></summary>
 因為不是透過 gem 安裝，所以用 ruby 執行。]]></summary>
         <author>
             <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防止遗忘 —— frp 部署]]></title>
+        <id>https://blog.liqiye.com/posts/2692676250/</id>
+        <link href="https://blog.liqiye.com/posts/2692676250/"/>
+        <updated>2025-01-11T05:08:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><blockquote>
+<p>一切基于 <a href="https://gofrp.org/zh-cn/docs/">frp 官方 wiki<]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Broadcast 开机自启报错「检查麦克风连接并重新启动」解决方法]]></title>
+        <id>https://blog.liqiye.com/posts/1562341511/</id>
+        <link href="https://blog.liqiye.com/posts/1562341511/"/>
+        <updated>2025-01-09T05:08:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h2><p>截止 2025.02.09，最新版已修复该 BUG</p>
+<h2 id="前言"><a href="#前言" class="headerl]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防止遗忘 —— TeamSpeak Server 搭建]]></title>
+        <id>https://blog.liqiye.com/posts/4286490423/</id>
+        <link href="https://blog.liqiye.com/posts/4286490423/"/>
+        <updated>2025-01-02T11:44:07.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="注意"><a href="#注意" class="headerlink" title="注意"></a>注意</h2><p>首先请认准官网域名 <a href="https://teamspeak.com/en/"><code>teamspeak.com</cod]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
         </author>
     </entry>
     <entry>
@@ -5629,6 +6447,17 @@ Novation Launchpad series]]></summary>
         <summary type="html"><![CDATA[本文介绍了如何使用自建的 Waline 评论系统。同时对比了多个开源评论系统，详细讲解了 Waline 的搭建过程，包括数据库准备、数据迁移、后端配置和博客评论的修改。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OLED 如何减轻文字彩边？Windows ClearType 关闭教程]]></title>
+        <id>https://blog.liqiye.com/posts/3848099919/</id>
+        <link href="https://blog.liqiye.com/posts/3848099919/"/>
+        <updated>2024-12-10T18:01:53.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流建议"><a href="#省流建议" class="headerlink" title="省流建议"></a>省流建议</h2><p>Windows 缩放调大 + 关闭 ClearType</p>
+<h2 id="前言"><a href="#前言" clas]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
         </author>
     </entry>
     <entry>
@@ -5676,6 +6505,18 @@ GPU 从 24 核减少到 16 核，虽然架构制程提升了，但从跑分来�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何让 IPv6 像 IPv4 一样好用？家庭 IPv6 终极解决方案]]></title>
+        <id>https://blog.liqiye.com/posts/3809517857/</id>
+        <link href="https://blog.liqiye.com/posts/3809517857/"/>
+        <updated>2024-12-02T11:42:52.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h2><ul>
+<li>标题有点标题党了，不过对我来说，确实是终极解决方案，我们来看一下以下可能需要公网的场景<ul>
+<li>大多 P2P：只需要 N]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[飞牛nas如何设置阿里云的DDNS]]></title>
         <id>https://www.dongshushu.com/?p=10239</id>
         <link href="https://www.dongshushu.com/post/10239/"/>
@@ -5696,6 +6537,26 @@ GPU 从 24 核减少到 16 核，虽然架构制程提升了，但从跑分来�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华硕天选5pro锐龙版功耗风扇调教指南]]></title>
+        <id>https://kzpu.com/?p=5884</id>
+        <link href="https://kzpu.com/archives/5884.html"/>
+        <updated>2024-11-17T08:26:43.000Z</updated>
+        <summary type="html"><![CDATA[相信和我一样，买到天选5pro的用户，拿到手后发现风扇噪音大，发热巨大，待机温度高等，别怕，是买到正… 继续阅读 华硕天选5pro锐龙版功耗风扇调教指南]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华硕天选5pro锐龙版使用体验]]></title>
+        <id>https://kzpu.com/?p=5863</id>
+        <link href="https://kzpu.com/archives/5863.html"/>
+        <updated>2024-11-17T02:54:58.000Z</updated>
+        <summary type="html"><![CDATA[博主趁着国补间隙，入手了一台华硕天选5pro锐龙版笔记本电脑，使用了十来天，有一些感想和体验，分享一… 继续阅读 华硕天选5pro锐龙版使用体验]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple统一内存适合运行LLM？理想很丰满，现实很骨感]]></title>
         <id>https://blog.hjc.im/?p=899</id>
         <link href="https://blog.hjc.im/apple-uma-for-llms-problems.html"/>
@@ -5703,6 +6564,26 @@ GPU 从 24 核减少到 16 核，虽然架构制程提升了，但从跑分来�
         <summary type="html"><![CDATA[自从大语言模型开始流行以来，一直在AI领域深耕细作的NVIDIA直接获得了大量订单，导致产品供不应求，人们也一 […]]]></summary>
         <author>
             <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一个图算法的求解过程]]></title>
+        <id>https://www.yejiefeng.com/articles/2019/09/26/1712640683983.html</id>
+        <link href="https://www.yejiefeng.com/articles/2019/09/26/1712640683983.html"/>
+        <updated>2024-11-13T03:12:56.000Z</updated>
+        <summary type="html"><![CDATA[平静是真正的快乐。]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞牛云 OS 尝鲜体验，HyperV 虚拟机一样畅玩 NAS]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/09/22/1727011799362.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/09/22/1727011799362.html"/>
+        <updated>2024-11-06T14:33:24.000Z</updated>
+        <summary type="html"><![CDATA[我们还有很长的路要走，但没关系，毕竟生活就是赶路]]></summary>
+        <author>
+            <name>YYJeffrey</name>
         </author>
     </entry>
     <entry>
@@ -5734,6 +6615,16 @@ QHora-301W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1Panel 证书自动续期后，推送至阿里云 CDN，实现无感知替换]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/10/20/1729424605879.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/10/20/1729424605879.html"/>
+        <updated>2024-10-20T11:45:00.000Z</updated>
+        <summary type="html"><![CDATA[改变是相对实相中唯一不变的事实]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[谈谈Linux与ITMT调度器与多簇处理器]]></title>
         <id>https://blog.hjc.im/?p=851</id>
         <link href="https://blog.hjc.im/thoughts-on-linux-preferred-cores-and-multi-ccx.html"/>
@@ -5741,6 +6632,26 @@ QHora-301W
         <summary type="html"><![CDATA[简单举例讲一下Linux的调度器是如何顾此失彼，以及一些硬件厂商的贡献者和维护者不在乎feature是否真的工 […]]]></summary>
         <author>
             <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[win 11更新到24H2局域网共享突然用不了]]></title>
+        <id>https://kzpu.com/?p=5857</id>
+        <link href="https://kzpu.com/archives/5857.html"/>
+        <updated>2024-10-05T07:16:41.000Z</updated>
+        <summary type="html"><![CDATA[今天把win11系统升级到了24H2了，NAS上共享的东西突然打不开了，也就是无法访问nas的smb… 继续阅读 win 11更新到24H2局域网共享突然用不了]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用IPv6访问Openwrt]]></title>
+        <id>https://kzpu.com/?p=5852</id>
+        <link href="https://kzpu.com/archives/5852.html"/>
+        <updated>2024-10-05T02:15:17.000Z</updated>
+        <summary type="html"><![CDATA[IPv6随处可见，但IPv4却越来越少，在内网的每一台设备上都可以出现IPv6的地址，并且IPv6不… 继续阅读 用IPv6访问Openwrt]]></summary>
+        <author>
+            <name>admin</name>
         </author>
     </entry>
     <entry>
@@ -5764,6 +6675,26 @@ QHora-301W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[国产NAS系统飞牛OS安装]]></title>
+        <id>https://kzpu.com/?p=5825</id>
+        <link href="https://kzpu.com/archives/5825.html"/>
+        <updated>2024-09-22T10:44:58.000Z</updated>
+        <summary type="html"><![CDATA[NAS系统也出现了百花齐现，百花争鸣。国产NAS系统飞牛OS横空出世，今天一起来体验一下，首先是安装… 继续阅读 国产NAS系统飞牛OS安装]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一次动态域名报错的解决方法]]></title>
+        <id>https://kzpu.com/?p=5819</id>
+        <link href="https://kzpu.com/archives/5819.html"/>
+        <updated>2024-09-21T00:25:54.000Z</updated>
+        <summary type="html"><![CDATA[路由器是openwrt，使用的是he.net的动态域名，一直用了十多年了，路由器并且也安装了V2ra… 继续阅读 一次动态域名报错的解决方法]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[使用 Prometheus 和 Grafana 搭建你的证书监控面板]]></title>
         <id>https://razeen.me/posts/use-prometheus-and-grafana-monitor-your-certs/</id>
         <link href="https://razeen.me/posts/use-prometheus-and-grafana-monitor-your-certs/"/>
@@ -5771,6 +6702,67 @@ QHora-301W
         <summary type="html"><![CDATA[探索如何使用 Prometheus 和 Grafana 来监控 SSL 证书的有效期，并通过一个详细的 Grafana 仪表盘实现可视化管理。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alpine 手动安装 XrayR]]></title>
+        <id>https://blog.liqiye.com/posts/3147108891/</id>
+        <link href="https://blog.liqiye.com/posts/3147108891/"/>
+        <updated>2024-09-06T05:41:01.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="手动部署"><a href="#手动部署" class="headerlink" title="手动部署"></a>手动部署</h2><ol>
+<li><p>下载 <a href="https://github.com/wyx2685/XrayR/releases]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024/8 菲律賓遊學記]]></title>
+        <id>https://xnum.github.io/2024/09/ph-lang-school-tutor-1/</id>
+        <link href="https://xnum.github.io/2024/09/ph-lang-school-tutor-1/"/>
+        <updated>2024-09-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[出發]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自己动手维修惠普打印机]]></title>
+        <id>https://kzpu.com/?p=5808</id>
+        <link href="https://kzpu.com/archives/5808.html"/>
+        <updated>2024-08-30T07:36:30.000Z</updated>
+        <summary type="html"><![CDATA[家里的一台惠普打印机，打印出现黑边、黑纹。型号为M132a，于是在网上搜索是何种问题，基本定位是打印… 继续阅读 自己动手维修惠普打印机]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新一代 Linux 面板 1Panel 管理服务器，支持自动化数据备份和证书续期，包好用]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/08/20/1724129932136.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/08/20/1724129932136.html"/>
+        <updated>2024-08-20T10:07:01.000Z</updated>
+        <summary type="html"><![CDATA[我认为，一个人能追求的最高理想，应该是对自我的完善]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[云服务器续费价格总是这么离谱？云服务器数据迁移方案实践]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/05/05/1714893985459.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/05/05/1714893985459.html"/>
+        <updated>2024-08-20T08:00:51.000Z</updated>
+        <summary type="html"><![CDATA[叩问生命的终极意义是困难的，犹如行在刀锋]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[降本 90% 是如何做到的？OSS + CDN 节省流量成本的实战方案]]></title>
+        <id>https://www.yejiefeng.com/articles/2023/10/19/1697686214435.html</id>
+        <link href="https://www.yejiefeng.com/articles/2023/10/19/1697686214435.html"/>
+        <updated>2024-08-20T08:00:42.000Z</updated>
+        <summary type="html"><![CDATA[时间自由是财富能带给你的最大红利]]></summary>
+        <author>
+            <name>YYJeffrey</name>
         </author>
     </entry>
     <entry>
@@ -5794,6 +6786,27 @@ QHora-301W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用树莓派 4B 搭建一个家庭 NAS，实现影音自由]]></title>
+        <id>https://www.yejiefeng.com/articles/2024/08/12/1723455776843.html</id>
+        <link href="https://www.yejiefeng.com/articles/2024/08/12/1723455776843.html"/>
+        <updated>2024-08-13T04:34:24.000Z</updated>
+        <summary type="html"><![CDATA[一个人往往要远离传统，才能获得某种批判能力]]></summary>
+        <author>
+            <name>YYJeffrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[利用 Node-RED 连通小爱与 HASS]]></title>
+        <id>https://blog.liqiye.com/posts/1364692010/</id>
+        <link href="https://blog.liqiye.com/posts/1364692010/"/>
+        <updated>2024-08-13T04:24:47.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li>之前写过一期<a href="https://blog.liqiye.com/posts/2720230238/">利用巴法云作]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zen 5 补充测试 (2/2): 性能与能效 (移动端)]]></title>
         <id>https://blog.hjc.im/?p=574</id>
         <link href="https://blog.hjc.im/zen-5-more-details-2.html"/>
@@ -5804,6 +6817,28 @@ QHora-301W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[六零导航页 Docker 部署踩坑记]]></title>
+        <id>https://blog.liqiye.com/posts/3033515685/</id>
+        <link href="https://blog.liqiye.com/posts/3033515685/"/>
+        <updated>2024-08-02T01:11:16.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h2><p><strong>花式实名，放弃了</strong></p>
+<h2 id="前言"><a href="#前言" class="headerl]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[杜绝节点信息泄露，部署自己的 sing-box 订阅转换]]></title>
+        <id>https://blog.liqiye.com/posts/2418058215/</id>
+        <link href="https://blog.liqiye.com/posts/2418058215/"/>
+        <updated>2024-07-30T07:59:53.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li>sing-box 虽然直接改 <code>config.json</code> 很方便，但是节点大批量变化的时候，手改就显得太傻]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zen 5 补充测试 (1/2): 更多微架构细节]]></title>
         <id>https://blog.hjc.im/?p=423</id>
         <link href="https://blog.hjc.im/zen-5-more-details-1.html"/>
@@ -5811,6 +6846,81 @@ QHora-301W
         <summary type="html"><![CDATA[前些时我提前玩到搭载Strix Point (Zen 5)的工程机，不过当时由于时间仓促导致微架构测试不够全面 […]]]></summary>
         <author>
             <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[抛弃猫咪，在 Windows 平台上拥抱 sing-box]]></title>
+        <id>https://blog.liqiye.com/posts/4111060364/</id>
+        <link href="https://blog.liqiye.com/posts/4111060364/"/>
+        <updated>2024-07-29T04:44:30.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><ul>
+<li><p>天下苦 Clash 久矣，占用高，效率低，这个时候就不得不放出这张图了<img src="https://image.li]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[微 PE 安装 OpenWrt]]></title>
+        <id>https://blog.liqiye.com/posts/1941022083/</id>
+        <link href="https://blog.liqiye.com/posts/1941022083/"/>
+        <updated>2024-07-26T17:12:39.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="相关下载"><a href="#相关下载" class="headerlink" title="相关下载"></a>相关下载</h2><p>微 PE 下载：<a href="https://www.wepe.com.cn/download.html">https:]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 如何指定网关]]></title>
+        <id>https://blog.liqiye.com/posts/1353730230/</id>
+        <link href="https://blog.liqiye.com/posts/1353730230/"/>
+        <updated>2024-07-26T16:34:50.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="指定某个终端的网关"><a href="#指定某个终端的网关" class="headerlink" title="指定某个终端的网关"></a>指定某个终端的网关</h2><h3 id="固定-IP"><a href="#固定-IP" class="header]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何鉴别 Mac 是否为官翻机]]></title>
+        <id>https://blog.liqiye.com/posts/1918304216/</id>
+        <link href="https://blog.liqiye.com/posts/1918304216/"/>
+        <updated>2024-07-26T15:11:38.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="查看型号"><a href="#查看型号" class="headerlink" title="查看型号"></a>查看型号</h2><p><code>系统设置</code> -&gt; <code>通用</code> -&gt; <code>关于本机</code]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如果 Apple TV 遥控器上的音量按钮无法正常使用]]></title>
+        <id>https://blog.liqiye.com/posts/2141223716/</id>
+        <link href="https://blog.liqiye.com/posts/2141223716/"/>
+        <updated>2024-07-26T14:29:48.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h2><p>长按 10 秒 <strong>音量➖键</strong> + <strong>TV 键</strong> 重启遥控器</p>
+<p><im]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenWrt 如何查看 WAN 口下发的 DNS]]></title>
+        <id>https://blog.liqiye.com/posts/2085040028/</id>
+        <link href="https://blog.liqiye.com/posts/2085040028/"/>
+        <updated>2024-07-26T14:16:35.000Z</updated>
+        <summary type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span clas]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提高机场订阅域名的生存率]]></title>
+        <id>https://blog.liqiye.com/posts/3482486219/</id>
+        <link href="https://blog.liqiye.com/posts/3482486219/"/>
+        <updated>2024-07-26T13:02:43.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>Ref: <a href="https://blog.xueli.lol/Operations/345.html">https://blog.xueli.lol/Operations/345.html</a></p>
+</blockquote>
+<]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
         </author>
     </entry>
     <entry>
@@ -5903,6 +7013,16 @@ RewriteRule .*\.(js|css)$ - [F]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[防止遗忘 —— 群晖 Docker 安装 qBittorrent]]></title>
+        <id>https://blog.liqiye.com/posts/2397568926/</id>
+        <link href="https://blog.liqiye.com/posts/2397568926/"/>
+        <updated>2024-06-25T14:32:57.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="省流"><a href="#省流" class="headerlink" title="省流"></a>省流</h2><p><code>PUID</code> 和 <code>PGID</code> 要记得填，否则没有权限管理文件。一般来说群晖第一个账号的 <co]]></summary>
+        <author>
+            <name>七夜 の Blog</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Zen 5 抢先体验：Ryzen AI 9 365 (Strix Point SoC) 简单测试]]></title>
         <id>https://blog.hjc.im/?p=358</id>
         <link href="https://blog.hjc.im/zen5-preliminary-review.html"/>
@@ -5944,6 +7064,146 @@ RewriteRule .*\.(js|css)$ - [F]
 点击开始连接，enjoy ：]]></summary>
         <author>
             <name>binsite - binss.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用DNS紀錄來自動更新IP白名單]]></title>
+        <id>https://xnum.github.io/2024/06/dns-record-as-ip-white-list/</id>
+        <link href="https://xnum.github.io/2024/06/dns-record-as-ip-white-list/"/>
+        <updated>2024-06-13T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[被中華電信換IP影響，研究出來的作法]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lvremove 遇到 contains a filesystem in use]]></title>
+        <id>https://xnum.github.io/2024/06/lvremove/</id>
+        <link href="https://xnum.github.io/2024/06/lvremove/"/>
+        <updated>2024-06-04T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[lvremove /dev/mapper/ssd-ssd]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ten Years！这个博客十年啦]]></title>
+        <id>https://blog.miskcoo.com/2024/05/ten-years</id>
+        <link href="https://blog.miskcoo.com/2024/05/ten-years"/>
+        <updated>2024-05-26T20:00:00.000Z</updated>
+        <summary type="html"><![CDATA[从还留在这里的 2014 年最开始的那篇博文算起，再过两周就已经过去十年了1，在我印象里再往前这里或许还有些别的内容，但似乎在中途更换站点的过程中丢失了。整个博客能留到现在也挺不容易的，不知道现在是不是还会有人到这里来。最开始它是部署在一台便宜 VPS 上的 WordPress，2019 年有一段时间机器被弄挂了，还好内容有备份后来也恢复了。再往后就迁移到了基于 Jekyll 的静态博客，也不用太担心机器挂了的问题了。2 最开始的博文：BZOJ-3157. 国王奇遇记 &#8617; 博客搬家及主题更换 &#8617;]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传感器趣事：环境传感器能告诉你什么]]></title>
+        <id>https://blog.miskcoo.com/2024/05/interesting-sensors</id>
+        <link href="https://blog.miskcoo.com/2024/05/interesting-sensors"/>
+        <updated>2024-05-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[上回做的温湿度和二氧化碳传感器已经运行一段时间了，中间又加上了一个环境光传感器。加起来算是能够收集到温度、湿度、二氧化碳浓度、TVOC 以及光照强度五个参数。本来是想看看宿舍的空气质量并且提醒我开窗通风，以及查看实验室到底热到了什么程度和开没开中央空调 ，但是后来发现，这几个参数还能提供一些有趣的信息。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多媒體檔案管理和下載伺服器 - 軟體篇]]></title>
+        <id>https://xnum.github.io/2024/05/media-storage-server/</id>
+        <link href="https://xnum.github.io/2024/05/media-storage-server/"/>
+        <updated>2024-05-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近研究的BT下載+做種+瀏覽檔案的軟體方案]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[淘寶退貨 順豐寄回大陸經驗]]></title>
+        <id>https://xnum.github.io/2024/05/sf-china-delivery/</id>
+        <link href="https://xnum.github.io/2024/05/sf-china-delivery/"/>
+        <updated>2024-05-23T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[紀錄退貨過程]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Linux上面安裝glances並設定為系統服務]]></title>
+        <id>https://xnum.github.io/2024/05/install-glances/</id>
+        <link href="https://xnum.github.io/2024/05/install-glances/"/>
+        <updated>2024-05-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[由於在 Docker 中無法查看某些系統資訊，加上需要指定版本，因此需要進行一個繁瑣的 Python 程式安裝流程。]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在dnsmasq加上自動生成PTR紀錄]]></title>
+        <id>https://xnum.github.io/2024/05/auto-ptr-dnsmasq/</id>
+        <link href="https://xnum.github.io/2024/05/auto-ptr-dnsmasq/"/>
+        <updated>2024-05-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[偶而想研究一下有哪些網路連線和流量進出，開啟IP解析以後，一部份的IP可以解析出擁有者是誰，例如HiNet, AWS, Facebook，但也有一些解不出來的IP是屬於雲端供應商所有，例如cloudflare，如果能夠在本地的DNS上回應PTR紀錄，就能減少排查可疑連線的時間。]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[绿联 DX4600 Pro 系列的 LED 控制模块分析]]></title>
+        <id>https://blog.miskcoo.com/2024/05/ugreen-dx4600-pro-led-controller</id>
+        <link href="https://blog.miskcoo.com/2024/05/ugreen-dx4600-pro-led-controller"/>
+        <updated>2024-05-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[绿联的 DX4600 Pro 是一个四盘位的 NAS，自带的系统是基于 OpenWRT 的 UGOS，v2ex 上有很多相关的介绍以及抱怨1，还有报道说新版的系统不向下兼容旧版的系统，并且升级需要格式化硬盘2。不过这台 NAS 还是可以自己装个 Debian 或者别的开源 NAS 系统的，但问题是自己装的系统并没有机箱前边六个 LED 灯（分别是电源、网卡和四个硬盘）的驱动，默认情况下只有电源指示灯在闪烁，无法控制其他的指示灯。 双十一买的 DX4600 Pro，玩了两个星期，系统基本被我摸明白了，非常逆天 - V2EX &#8617; 绿联NAS新系统不向前兼容 用户必须格式化硬盘后重新装机并恢复数据_网络存储_什么值得买 (smzdm.com) &#8617;]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ultrahuman ring air 台灣購買兼使用心得]]></title>
+        <id>https://xnum.github.io/2024/05/ultrahuman-ring/</id>
+        <link href="https://xnum.github.io/2024/05/ultrahuman-ring/"/>
+        <updated>2024-05-07T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[純文字心得]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提取腾讯手机助手的来电识别数据库并导入安卓通讯录]]></title>
+        <id>https://cangshui.net/?p=5282</id>
+        <link href="https://cangshui.net/5282.html"/>
+        <updated>2024-05-02T16:53:23.000Z</updated>
+        <summary type="html"><![CDATA[腾讯手机助手我在IOS上用过一段时间，来电识别、来电拦截、号码标记功能感觉算是比较好用的，但是我有一台安卓手机 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家用 NAS 踩坑指北]]></title>
+        <id>https://blog.miskcoo.com/2024/04/nas</id>
+        <link href="https://blog.miskcoo.com/2024/04/nas"/>
+        <updated>2024-04-21T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[某一天，当你 { 不想把数据放在云上，想有一个 home lab } 时，你可能就会进入一个深坑。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI Singing Voice Conversion (SVC) 的試玩心得]]></title>
+        <id>https://xnum.github.io/2024/04/so-vits-svc/</id>
+        <link href="https://xnum.github.io/2024/04/so-vits-svc/"/>
+        <updated>2024-04-20T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[純粹記錄過程]]></summary>
+        <author>
+            <name>xnum’s blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows连不上ubuntu samba共享文件的排错经历]]></title>
+        <id>https://cangshui.net/?p=5276</id>
+        <link href="https://cangshui.net/5276.html"/>
+        <updated>2024-04-05T18:13:02.000Z</updated>
+        <summary type="html"><![CDATA[现象： 1.部分windows连得上，甚至版本号一样的windows有些连得上有些连不上。 2.删除windo ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -6015,6 +7275,36 @@ Rhino.UI.ThemeSettings.Frame.Tab.Checked.Background 改為 Hex #606060。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Surface Pro 8 安装 Arch Linux]]></title>
+        <id>https://blog.miskcoo.com/2024/03/linux-on-surface-pro8</id>
+        <link href="https://blog.miskcoo.com/2024/03/linux-on-surface-pro8"/>
+        <updated>2024-03-06T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近实在忍受不了 Windows 放着什么也不干功耗都能到达 10W，所以打算给 Surface Pro 8 装个 Arch (with ZFS on LUKS) 看看。目前看起来使用 linux surface kernel 之后除了摄像头和以外都可以得到支持。Surface Pen 也有相应的软件可以支持压感和手写笔记，并且换成 Linux 后机器的续航明显提高了！现在不干什么事情的话亮度在 30% 的时候一般是 5-6W，普通浏览网页是 7W 左右的功耗。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[幻兽帕鲁 Palworld 毕业存档修改全资源材料9999全传奇防具武器]]></title>
+        <id>https://cangshui.net/?p=5263</id>
+        <link href="https://cangshui.net/5263.html"/>
+        <updated>2024-01-27T11:33:27.000Z</updated>
+        <summary type="html"><![CDATA[文件来自网友44********9从淘宝购入，征得同意后免费分享，请勿转售牟利！ 1.满级50级2.营地20级 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录一次服务器硬盘扩容]]></title>
+        <id>https://blog.miskcoo.com/2023/12/expand-raid</id>
+        <link href="https://blog.miskcoo.com/2023/12/expand-raid"/>
+        <updated>2023-12-19T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[前一段时间组里的一些机器硬盘满了，需要进行扩容。这些机器的盘一共是 4 个 1.8T 的固态，接在一张 LSI9361-8i RAID 卡上，组成一个 RAID5 使用。机器上可用的盘位还有 4 个，我们决定给这个阵列扩充两个同样大小的盘。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VMware vCenter6密碼原則變更]]></title>
         <id>https://itorz324.blogspot.com/2023/12/vcenter6-password-policy-config.html</id>
         <link href="https://itorz324.blogspot.com/2023/12/vcenter6-password-policy-config.html"/>
@@ -6027,6 +7317,16 @@ Rhino.UI.ThemeSettings.Frame.Tab.Checked.Background 改為 Hex #606060。
 👉 Link]]></summary>
         <author>
             <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UFS Explorer Professional Recovery 9.18 Crack 破解版 开心版]]></title>
+        <id>https://cangshui.net/?p=5257</id>
+        <link href="https://cangshui.net/5257.html"/>
+        <updated>2023-11-12T04:36:24.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，windows上最好用的RAID数据恢复工具就是UFS，但是正版的价格实在太贵，偶尔用一次就花掉60 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -6106,6 +7406,46 @@ DELL Support]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[记一次Openssh服务升级失败后的抢救措施]]></title>
+        <id>https://cangshui.net/?p=5250</id>
+        <link href="https://cangshui.net/5250.html"/>
+        <updated>2023-10-24T18:58:56.000Z</updated>
+        <summary type="html"><![CDATA[事件起因：因openssh低版本有0day漏洞，所以尝试编译升级，没有快照直接上去一把梭。 我那么大一个服务呢 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aaPanel移植宝塔的华为云存储插件]]></title>
+        <id>https://cangshui.net/?p=5244</id>
+        <link href="https://cangshui.net/5244.html"/>
+        <updated>2023-10-22T14:41:54.000Z</updated>
+        <summary type="html"><![CDATA[众所周知，aapanel没有限制使用宝塔插件，只是在软件商店页面限制下载安装，一般情况下，直接从/www/se ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proxmox VE PVE 8.X使用合集篇--持续更新]]></title>
+        <id>https://yangwenqing.com/archives/1768/</id>
+        <link href="https://yangwenqing.com/archives/1768/"/>
+        <updated>2023-10-05T04:17:00.000Z</updated>
+        <summary type="html"><![CDATA[PVE疑难解答，有需要点击链接闲鱼与我联系[button color="warning" icon="glyphicon glyphicon-shopping-cart" url="https:...]]></summary>
+        <author>
+            <name>July's</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 ESP8266 制备室内温度和空气检测器]]></title>
+        <id>https://blog.miskcoo.com/2023/09/esp8266-sensor</id>
+        <link href="https://blog.miskcoo.com/2023/09/esp8266-sensor"/>
+        <updated>2023-09-03T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[之前用闲置的树莓派搭了个室内的温度和空气质量监测器，但是问题是树莓派太贵了，这样的方案不太容易批量复制。另外一种便宜的方案是用 ESP8266（大约十来块钱）来作为传感器和电脑之间的中介，它可以通过自带的 WiFi 和电脑连接。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[我的内网穿透方案]]></title>
         <id>https://www.binss.me/blog/how-i-access-my-lan</id>
         <link href="https://www.binss.me/blog/how-i-access-my-lan"/>
@@ -6173,6 +7513,26 @@ brew install --cask appcleaner 也可以直接到 FreeMacSoft 下载安装。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[华为合作伙伴名单(全国主要城市)]]></title>
+        <id>https://cangshui.net/?p=5230</id>
+        <link href="https://cangshui.net/5230.html"/>
+        <updated>2023-06-29T20:39:35.000Z</updated>
+        <summary type="html"><![CDATA[华为合作伙伴有哪些,华为上海合作伙伴有哪些,华为北京合作伙伴有哪些,华为深圳合作伙伴有哪些,华为代理商有哪些, ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怎么把墨墨背单词里的词库导出来？]]></title>
+        <id>https://cangshui.net/?p=5221</id>
+        <link href="https://cangshui.net/5221.html"/>
+        <updated>2023-06-23T14:52:27.000Z</updated>
+        <summary type="html"><![CDATA[一、无root，只想下词库就行 只想下载词库，不涉及背单词进度，不需要区分单词是否已背 https://git ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bambu Lab AMS 乾燥箱]]></title>
         <id>https://www.misterngan.com/?p=8321</id>
         <link href="https://www.misterngan.com/8321/bambu-lab-ams-active-dry-box/"/>
@@ -6190,6 +7550,16 @@ brew install --cask appcleaner 也可以直接到 FreeMacSoft 下载安装。
         <summary type="html"><![CDATA[这篇博客文章向读者展示了如何在微软Azure上申请并使用OpenAI服务的全过程，这对那些因OpenAI的风控问题而苦恼的开发者提供了完美替代。文章详细介绍了如何在Azure上注册账户，如何申请并配置OpenAI服务，以及如何申请使用GPT-4模型。在微软Azure上使用OpenAI服务不仅省去了很多麻烦，而且支持国内的信用卡，手机号和IP。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决PLEX不读取本地封面–批量删除视频自带封面tag]]></title>
+        <id>https://cangshui.net/?p=5195</id>
+        <link href="https://cangshui.net/5195.html"/>
+        <updated>2023-06-04T07:48:42.000Z</updated>
+        <summary type="html"><![CDATA[问题现象： 文件结构： 在PLEX论坛询问后得知，这是因为Plex默认优先读取视频文件里的tag 而不是本地封 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -6220,6 +7590,26 @@ brew install --cask appcleaner 也可以直接到 FreeMacSoft 下载安装。
         <summary type="html"><![CDATA[話 說 Raspberry Pi 缺 貨 已 經 缺 了 好 幾 年 ，原 來 定 價 US$45 美 金 的 Pi 4 2GB，炒 價 早 就 超 越 了 港 幣 千 元 。淘 寶 有 貨 的 店 … Continue reading →]]></summary>
         <author>
             <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一个首页大屏展示海报封面的Emby主题]]></title>
+        <id>https://cangshui.net/?p=5167</id>
+        <link href="https://cangshui.net/5167.html"/>
+        <updated>2023-05-03T04:38:23.000Z</updated>
+        <summary type="html"><![CDATA[项目主页： 该主题是通过chrome插件来调用的，但是本文介绍的是如何直接安装到emby server中 以群 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openwrt下指定设备禁止获取IPV6]]></title>
+        <id>https://cangshui.net/?p=5158</id>
+        <link href="https://cangshui.net/5158.html"/>
+        <updated>2023-04-14T20:01:45.000Z</updated>
+        <summary type="html"><![CDATA[因特殊需要，需要设置某设备在有ipv6的路由下实现纯ipv4环境 该设备无法设置关闭ipv6，只能通过路由来想 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -6309,6 +7699,16 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[N5105部署PVE虚拟机随机崩溃或软重启的解决方案]]></title>
+        <id>https://cangshui.net/?p=5150</id>
+        <link href="https://cangshui.net/5150.html"/>
+        <updated>2023-03-16T13:33:02.000Z</updated>
+        <summary type="html"><![CDATA[本人设备 畅网 CW-N5105-NAS 妖板 部署PVE版本为7.3-3 直通i226-V 给Openwrt ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[科学上网]]></title>
         <id>https://razeen.me/posts/how-to-access-the-real-internet/</id>
         <link href="https://razeen.me/posts/how-to-access-the-real-internet/"/>
@@ -6349,6 +7749,26 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I226V网卡上行掉速下行正常的奇怪问题]]></title>
+        <id>https://cangshui.net/?p=5144</id>
+        <link href="https://cangshui.net/5144.html"/>
+        <updated>2023-03-02T16:17:09.000Z</updated>
+        <summary type="html"><![CDATA[现象： 群晖做iperf3客户端 （直连 or 交换机测试一致）上行只有100Mbps-200Mbps浮动下行 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[群晖Emby4.8.11.0一键开心脚本]]></title>
+        <id>https://cangshui.net/?p=5138</id>
+        <link href="https://cangshui.net/5138.html"/>
+        <updated>2023-02-21T13:11:05.000Z</updated>
+        <summary type="html"><![CDATA[当你开心之后如果觉得Emby做的好就应该支持正版！价格不贵，还能得到官方社区的技术支持，后续版本升级也方便。  ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NAS折腾记(10)： Docker版本的NASTool配置]]></title>
         <id>https://razeen.me/posts/nas-12-nastool-with-docker/</id>
         <link href="https://razeen.me/posts/nas-12-nastool-with-docker/"/>
@@ -6366,6 +7786,26 @@ Ubuntu-20.04 (默认)
         <summary type="html"><![CDATA[在上一期中，我们搭建好了 NASTool, 可以在 NASTool 中开心的订阅搜索下载一条龙，这期我们更进一步，实现 NASTool 与微信的交互。让我们在微信上远程发指令给家中的 NASTool，实现消息推送和远程下载。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SaaS接入Cloudflare后WordPress插件失效解决方案]]></title>
+        <id>https://cangshui.net/?p=5132</id>
+        <link href="https://cangshui.net/5132.html"/>
+        <updated>2023-01-28T08:16:13.000Z</updated>
+        <summary type="html"><![CDATA[It looks like your domain 666.com is not provisioned with Cloudflare. Please continue to Cloudflare to secure and speed up your website.]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notepad++的几款平替软件]]></title>
+        <id>https://cangshui.net/?p=5121</id>
+        <link href="https://cangshui.net/5121.html"/>
+        <updated>2023-01-27T12:02:50.000Z</updated>
+        <summary type="html"><![CDATA[一、Notepad – – 初衷即干掉NotePad++ 原生支持文本对比，但是目前似 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -7029,6 +8469,16 @@ XMind]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[无法连接至steam网络修复工具]]></title>
+        <id>https://cangshui.net/?p=5115</id>
+        <link href="https://cangshui.net/5115.html"/>
+        <updated>2022-09-06T16:08:01.000Z</updated>
+        <summary type="html"><![CDATA[适用于，本地网络无任何问题，甚至已经开了加速器但依旧无法登陆的情况 这个功能在很多加速器都有，但是我试了十余种 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Openwrt + Clash 全局科学上网]]></title>
         <id>https://razeen.me/posts/newifi3-d2-openwrt-clash/</id>
         <link href="https://razeen.me/posts/newifi3-d2-openwrt-clash/"/>
@@ -7039,6 +8489,36 @@ XMind]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[纯命令在Openstack创建VM]]></title>
+        <id>https://cangshui.net/?p=5088</id>
+        <link href="https://cangshui.net/5088.html"/>
+        <updated>2022-08-09T03:25:15.000Z</updated>
+        <summary type="html"><![CDATA[采用命令方式搞定openstack 先上传镜像（glance组件）到控制节点 读取admin的环境变量，就相当 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Openstack从搭建到创建VM（网页端创建）]]></title>
+        <id>https://cangshui.net/?p=5051</id>
+        <link href="https://cangshui.net/5051.html"/>
+        <updated>2022-08-09T03:23:06.000Z</updated>
+        <summary type="html"><![CDATA[安装三个redhat系统先 如果xshell连接慢 echo “UseDNS no”  ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N5105软路由 i225b3 2.5G网口 内网交换掉速 解决方案]]></title>
+        <id>https://cangshui.net/?p=5042</id>
+        <link href="https://cangshui.net/5042.html"/>
+        <updated>2022-08-04T15:15:51.000Z</updated>
+        <summary type="html"><![CDATA[软路由的网口芯片为 i225b3黑群晖用的 USB 外置 RTL8156B 2.5G 网卡台式机是ASUS b ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newifi3 刷入 OpenWrt 固件 v21.02]]></title>
         <id>https://razeen.me/posts/newifi3-d2-with-openwrt/</id>
         <link href="https://razeen.me/posts/newifi3-d2-with-openwrt/"/>
@@ -7046,6 +8526,26 @@ XMind]]></summary>
         <summary type="html"><![CDATA[这几天又把我的矿渣 Newifi3 D2 拿出来折腾了一番，把系统由老毛子固件刷成了OpenWrt固件，准备再次折腾一下全局科学上网。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HCIA实验笔记(FusionCompute+对接estor模拟器)]]></title>
+        <id>https://cangshui.net/?p=5011</id>
+        <link href="https://cangshui.net/5011.html"/>
+        <updated>2022-07-26T01:22:07.000Z</updated>
+        <summary type="html"><![CDATA[已搭建好的环境： CNA01 192.168.140.100 【BMC192.168.101.7】 Valn1 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux学习笔记(华为HCIP云计算培训)]]></title>
+        <id>https://cangshui.net/?p=4986</id>
+        <link href="https://cangshui.net/4986.html"/>
+        <updated>2022-07-26T01:15:37.000Z</updated>
+        <summary type="html"><![CDATA[设置字体和字号    临时生效的是   ctrl+shift+”+”& ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -7552,6 +9052,66 @@ Configuring and Troubleshooting Ethernet 10/100/1000Mb Half/Full Duplex
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[批量下载viu站CC外挂字幕shell脚本]]></title>
+        <id>https://cangshui.net/?p=4974</id>
+        <link href="https://cangshui.net/4974.html"/>
+        <updated>2022-04-07T04:27:11.000Z</updated>
+        <summary type="html"><![CDATA[Viu.com是香港电讯盈科媒体有限公司推出，针对香港、东南亚、南亚、中东及南非市场的免费OTT平台影片网站， ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批量下载KKTV站CC外挂字幕shell脚本]]></title>
+        <id>https://cangshui.net/?p=4964</id>
+        <link href="https://cangshui.net/4964.html"/>
+        <updated>2022-04-05T01:54:05.000Z</updated>
+        <summary type="html"><![CDATA[KKTV为KKCompany 集团旗下的OTT品牌，结合台湾、日本、韩国、香港及中国大陆等，各地的影音内容与影 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[再次DIY一款四口全协议桌面快充]]></title>
+        <id>https://cangshui.net/?p=4947</id>
+        <link href="https://cangshui.net/4947.html"/>
+        <updated>2022-03-15T10:15:48.000Z</updated>
+        <summary type="html"><![CDATA[前几天同事到我家串门，无意中看见我之前DIY的桌面六口快充，想要我帮他弄个不带功率计的能同时冲4台iphone ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[批量下载B站港澳台CC外挂字幕shell脚本]]></title>
+        <id>https://cangshui.net/?p=4935</id>
+        <link href="https://cangshui.net/4935.html"/>
+        <updated>2022-02-23T11:05:26.000Z</updated>
+        <summary type="html"><![CDATA[受限于网络流媒体画质普遍不高，最近几年观看番剧主要是通过下载BD原盘资源，但是又由于近年来某个原因，几乎所有的 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用Gost建立ssl加密中转矿池连接]]></title>
+        <id>https://cangshui.net/?p=4921</id>
+        <link href="https://cangshui.net/4921.html"/>
+        <updated>2022-02-07T14:16:27.000Z</updated>
+        <summary type="html"><![CDATA[1.前言 其实网上关于此类教程应该已经有不少了，但是发现能搜索到的教程都是直接采用gost默认证书，这样可能会 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将windows文件管理器恢复为默认explorer.exe]]></title>
+        <id>https://cangshui.net/?p=4913</id>
+        <link href="https://cangshui.net/4913.html"/>
+        <updated>2022-01-15T15:58:49.000Z</updated>
+        <summary type="html"><![CDATA[当我们使用了某种拥有替代windows自带文件夹功能的第三方文件管理器后，有可能会出现无法恢复默认文件管理器的 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SAP 設定權限出現「Message no. 5@015」之問題排除？]]></title>
         <id>https://itorz324.blogspot.com/2021/12/sap-message-no-5015.html</id>
         <link href="https://itorz324.blogspot.com/2021/12/sap-message-no-5015.html"/>
@@ -7637,6 +9197,26 @@ Step9.
         <summary type="html"><![CDATA[由于在家里搭建了博客，Git 等服务， 经过了阿里云用 Nginx 做了 TCP Proxy, 导致了一个问题，家里看到的服务访问 IP 都是转发服务器的 IP，无法看到真实IP。联想到平常 LB 上的是支持 PROXY Protocol 转发真实IP, 于是搜了一下，Nginx 还真支持！]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[linux撑满CPU、硬盘io和流量，拯救吃灰服务器]]></title>
+        <id>https://cangshui.net/?p=4888</id>
+        <link href="https://cangshui.net/4888.html"/>
+        <updated>2021-12-11T14:33:35.000Z</updated>
+        <summary type="html"><![CDATA[温馨提示： 如果你的服务器TOS写了不允许长期占用CPU和流量，请勿使用该脚本！因此导致的财产损失本人概不负责 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scaleway创建30元/年纯IPv6VPS教程(无视缺货)]]></title>
+        <id>https://cangshui.net/?p=4839</id>
+        <link href="https://cangshui.net/4839.html"/>
+        <updated>2021-12-05T10:10:49.000Z</updated>
+        <summary type="html"><![CDATA[写在教程前： 1.关于价格： 虽然网页上面写的stardust需要0.0025欧元/小时，但是由于我们可以选择 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -8674,6 +10254,16 @@ DSM 6.2.2: 前往 Control Panel > Domain/LDAP > LDAP，取消勾選 Enable LDAP 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[每个人都曾是一个死小孩—–致《新世纪福音战士：终》]]></title>
+        <id>https://cangshui.net/?p=4813</id>
+        <link href="https://cangshui.net/4813.html"/>
+        <updated>2021-08-16T15:37:25.000Z</updated>
+        <summary type="html"><![CDATA[从不吝于给观众带来满满恶意的庵野秀明，终究还是向世界妥协了。 生活中每个人都在追求对自己的补完，每个人都曾是死 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Homelab (3)： 整体网络与基础硬件介绍]]></title>
         <id>https://razeen.me/posts/homelib-003-network-topology-and-hardware/</id>
         <link href="https://razeen.me/posts/homelib-003-network-topology-and-hardware/"/>
@@ -8827,6 +10417,66 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[从零开始制作音响功放]]></title>
+        <id>https://cangshui.net/?p=4780</id>
+        <link href="https://cangshui.net/4780.html"/>
+        <updated>2021-06-22T15:05:34.000Z</updated>
+        <summary type="html"><![CDATA[重要提示:本文DIY过程需要基础的电工知识和工具,并有大量的焊接,木工操作.如果你啥也不会,想要尝试制作可能要 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY多口桌面快充]]></title>
+        <id>https://cangshui.net/?p=4766</id>
+        <link href="https://cangshui.net/4766.html"/>
+        <updated>2021-06-22T11:55:58.000Z</updated>
+        <summary type="html"><![CDATA[起因:桌面上使用USB供电的设备较多,直接排插上插满了充电头和线缆.而市面上的多口充电器要么就是多口全协议10 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决终止代码unexpected_kernel_mode_trap 失败的操作klhk.sys蓝屏问题]]></title>
+        <id>https://cangshui.net/?p=4761</id>
+        <link href="https://cangshui.net/4761.html"/>
+        <updated>2021-06-22T10:46:10.000Z</updated>
+        <summary type="html"><![CDATA[某日更新卡巴斯基杀毒软件之后出现了这个问题，只要卸载或者操作卡巴斯基软件内的任意功能即会触发该蓝屏，但是旧版卡 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[惠普t620plus 软路由]]></title>
+        <id>https://cangshui.net/?p=4735</id>
+        <link href="https://cangshui.net/4735.html"/>
+        <updated>2021-05-12T15:17:31.000Z</updated>
+        <summary type="html"><![CDATA[需要自己准备的工具及配件： 某日在海鲜市场闲逛，首页推送给了我这么一台玩意，大概长右边这个这样： 配置如下图： ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二级路由下的Openwrt获取ipv6]]></title>
+        <id>https://cangshui.net/?p=4730</id>
+        <link href="https://cangshui.net/4730.html"/>
+        <updated>2021-05-12T14:30:32.000Z</updated>
+        <summary type="html"><![CDATA[虽然目前各家运营商已经开始着手配置ipv6-pd，但是在很多地区推行进度缓慢以及各种大内网套娃的复杂网络环境， ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用于dnspod的Ipv6 ddns脚本]]></title>
+        <id>https://cangshui.net/?p=4721</id>
+        <link href="https://cangshui.net/4721.html"/>
+        <updated>2021-03-23T19:56:19.000Z</updated>
+        <summary type="html"><![CDATA[目前ipv6国内宽带近乎普及，但是很多老脚本并不支持ipv6的ddns，比如我家群晖自带的ddns以及华硕路由 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[记一次 Nginx DNS 缓存导致转发问题]]></title>
         <id>https://razeen.me/posts/nginx-proxy-problem-with-dns-cache/</id>
         <link href="https://razeen.me/posts/nginx-proxy-problem-with-dns-cache/"/>
@@ -8911,6 +10561,16 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
         <summary type="html"><![CDATA[用 Markdown 写博客配图片一直是个烦恼我的为问题， 每次上传图片都比较麻烦，或是中断思路，或是最后集中处理耗费时间。今天无意中，发现了 Typora 的图片自动上传功能，配合一段脚本，将插入的图片自动上传七牛，让写文章更爽了。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记一次Centos磁盘扩容]]></title>
+        <id>https://cangshui.net/?p=4695</id>
+        <link href="https://cangshui.net/4695.html"/>
+        <updated>2021-01-25T18:06:24.000Z</updated>
+        <summary type="html"><![CDATA[之前虚拟机安装的Centos7磁盘容量告急，查了一会儿资料发现网上的资料不太详细，因此在一番实战后写下此篇文章 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9063,6 +10723,16 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hostloc论坛一键浏览签到发帖发消息挂机]]></title>
+        <id>https://cangshui.net/?p=4685</id>
+        <link href="https://cangshui.net/4685.html"/>
+        <updated>2020-09-29T18:21:27.000Z</updated>
+        <summary type="html"><![CDATA[Hostloc论坛是一个很好的VPS技术交流平台 ，深受广大MJJ们喜爱 但是有什么方法能将MJJ们从每天水贴 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Synology NAS 作為 AD Server]]></title>
         <id>http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html</id>
         <link href="http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html"/>
@@ -9163,6 +10833,36 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[博客搬家及主题更换]]></title>
+        <id>https://blog.miskcoo.com/2020/08/blog-transfer</id>
+        <link href="https://blog.miskcoo.com/2020/08/blog-transfer"/>
+        <updated>2020-08-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2020 真是糟糕的一年，从寒假离校到现在已经在家里半年了。六月本该返校毕业，但是北京疫情突然反弹，返校被临时叫停。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[200块钱16G枭鲸内存条稳超4000]]></title>
+        <id>https://cangshui.net/?p=4661</id>
+        <link href="https://cangshui.net/4661.html"/>
+        <updated>2020-07-31T04:28:07.000Z</updated>
+        <summary type="html"><![CDATA[本文非广告，本人非常不推荐拼多多购买电子产品何况还是杂牌，购买之前请考虑自己是否有处理故障和承担风险的能力 主 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[黑群晖内网穿透教程(frp)]]></title>
+        <id>https://cangshui.net/?p=4649</id>
+        <link href="https://cangshui.net/4649.html"/>
+        <updated>2020-07-24T08:46:53.000Z</updated>
+        <summary type="html"><![CDATA[准备工作： 1.一个域名，只要能够正常解析就行 2.xshell或其他ssh软件 3.一台云服务器，流量尽可能 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[在树莓派上运行 OpenWrt 作为软路由]]></title>
         <id>https://wasteland.touko.moe/blog/2020/07/raspi-as-router/</id>
         <link href="https://wasteland.touko.moe/blog/2020/07/raspi-as-router/"/>
@@ -9193,6 +10893,16 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
 <h1 id="树莓派的初步配置"><a href="#树莓派的初步配置" class="headerlink" title="树莓派的初步配置"></a>树莓派的初步配置</h1><h2 id="SD-卡安装树莓派系统"><a href="#SD-卡安装树莓派系统" class="headerlink" title="SD 卡安装树莓派系统"></a>SD 卡安装树莓派系统</h2><p>我掏出了之前留在机器上的传家宝 TF 卡 三星 EVO+ 32G，不料卡在经过几次刷写后，自动写保护了。于是我又从 NS 里掏出了从 tb 20 RMB 买的朗科 32G TF 卡。现在 TF 卡的价格真的越来越便宜了，我打算屯一堆，免得弄坏了没有替换卡。</p>]]></summary>
         <author>
             <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[华南X99鸡血bios教程]]></title>
+        <id>https://cangshui.net/?p=4627</id>
+        <link href="https://cangshui.net/4627.html"/>
+        <updated>2020-06-13T13:37:59.000Z</updated>
+        <summary type="html"><![CDATA[因项目需要，我急需一台多核低频二奶机，在挑选主板时虽然想要购买一线大厂的板子，但奈何挑来挑去也找不到一块还有质 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9355,6 +11065,36 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         <summary type="html"><![CDATA[MacVim 用了很久，非常喜欢 vim 编程带来的高效，清爽，hack 的感觉，感谢deepzz多年前的传道。这两天花了点时间一行一行的去查vimrc内的配置，大概弄清了每一项配置的作用，并标上注释，整理常用快捷键。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[仍在设置此设备的类配置(代码56)]]></title>
+        <id>https://cangshui.net/?p=4615</id>
+        <link href="https://cangshui.net/4615.html"/>
+        <updated>2020-03-22T21:50:18.000Z</updated>
+        <summary type="html"><![CDATA[我之所以出现这种情况是因为今天格式化硬盘的时候，没有卸载vmware直接就格式化了它所在的硬盘，造成的这种情况 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[virtono罗马尼亚年付低至15欧]]></title>
+        <id>https://cangshui.net/?p=4609</id>
+        <link href="https://cangshui.net/4609.html"/>
+        <updated>2020-03-20T15:19:49.000Z</updated>
+        <summary type="html"><![CDATA[virtono是一家从2014年开始运营的商家，用户数量不多，看他的规模个人感觉职员不超过五个人，工单总是要等 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justhost测评,带防御,无限流量,俄罗斯廉价VPS]]></title>
+        <id>https://cangshui.net/?p=4596</id>
+        <link href="https://cangshui.net/4596.html"/>
+        <updated>2020-03-17T14:58:36.000Z</updated>
+        <summary type="html"><![CDATA[特点：俄罗斯机房，无限流量，自带Anti-ddos（官网没有写出具体防御），最低配机器年付仅100人民币左右， ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9521,6 +11261,16 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[以管理员身份运行 Microsoft Edge 时不支持登录。请以非管理员身份重新启动 Microsoft Edge]]></title>
+        <id>https://cangshui.net/?p=4579</id>
+        <link href="https://cangshui.net/4579.html"/>
+        <updated>2020-02-02T19:17:27.000Z</updated>
+        <summary type="html"><![CDATA[由于手机端android10 三星oneui2.0使用chrome平平出现卡死，然后系统整个一起卡死的神奇bu ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[折腾服务器(开篇) 我的第一台个人服务器]]></title>
         <id>https://razeen.me/posts/my-first-home-server/</id>
         <link href="https://razeen.me/posts/my-first-home-server/"/>
@@ -9531,6 +11281,56 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Virmach黑五2刀神机抢到了！]]></title>
+        <id>https://cangshui.net/?p=4541</id>
+        <link href="https://cangshui.net/4541.html"/>
+        <updated>2019-12-07T01:13:18.000Z</updated>
+        <summary type="html"><![CDATA[2019年今年压轴virmach黑五2刀神机他来了，沧水守了五天有幸抢到一个，居然还是10G口2T流量，太感动 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[racknerd黑五优惠KVM-3H-2Gram-55G硬盘-2T流量-洛杉矶仅需$28/年(附带测评]]></title>
+        <id>https://cangshui.net/?p=4534</id>
+        <link href="https://cangshui.net/4534.html"/>
+        <updated>2019-11-27T17:26:21.000Z</updated>
+        <summary type="html"><![CDATA[这家支持paypal信用卡支付宝，可能需要小心是灵车，建议Paypal支付，不要问为什么，老板是四大跑路的老板 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cloudflare自动开启验证码]]></title>
+        <id>https://cangshui.net/?p=4516</id>
+        <link href="https://cangshui.net/4516.html"/>
+        <updated>2019-11-02T17:51:06.000Z</updated>
+        <summary type="html"><![CDATA[【原创文章】应某些朋友的反馈，说是现在很多攻击平台和软件，已经可以利用cookie随意打穿cf的五秒盾，因此以 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zfaka微信通知新订单]]></title>
+        <id>https://cangshui.net/?p=4498</id>
+        <link href="https://cangshui.net/4498.html"/>
+        <updated>2019-10-26T13:59:10.000Z</updated>
+        <summary type="html"><![CDATA[【沧水原创文章转载注明出处】最近安装了zfka之后，由于卡网有几个需要手动发货的商品，需要实时通知自己有订单付 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cloudflare流量限制与投诉问题]]></title>
+        <id>https://cangshui.net/?p=4473</id>
+        <link href="https://cangshui.net/4473.html"/>
+        <updated>2019-10-11T11:30:41.000Z</updated>
+        <summary type="html"><![CDATA[首先热烈祝贺本站成功抗下24小时111TB恶意流量 众所周知，cloudflare自2017年开始宣布无限量的 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Newifi3 实现低成本家庭级科学上网]]></title>
         <id>https://razeen.me/posts/start-use-newifi3/</id>
         <link href="https://razeen.me/posts/start-use-newifi3/"/>
@@ -9538,6 +11338,46 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         <summary type="html"><![CDATA[利用Newifi3路由器，刷Padavan老毛子, 安装shadowsocks实现全家智能科学上网，在家再也不用手动切换网络,轻松Google,Youtube。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NonTrivialMIPS - FPGA 上实现的 MIPS32 流水线]]></title>
+        <id>https://blog.miskcoo.com/2019/08/nontrivialmips</id>
+        <link href="https://blog.miskcoo.com/2019/08/nontrivialmips"/>
+        <updated>2019-08-28T23:29:29.000Z</updated>
+        <summary type="html"><![CDATA[前一段时间我和几个同学参加了个比赛，这个比赛是自己设计一个 CPU，在其上设计 SoC，运行操作系统等。是一个系统类的比赛。我主要负责写 CPU 除 Cache 外的部分，我们最终设计了一个有十级流水的双发射顺序执行的 MIPS32 处理器。在比赛方提供的实验板上达到了 123MHz 的主频，同时还具有不错的 IPC。代码现在已经在 GitHub 上开源。]]></summary>
+        <author>
+            <name>Miskcoo’s Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html CSS 七彩呼吸灯]]></title>
+        <id>https://cangshui.net/?p=4447</id>
+        <link href="https://cangshui.net/4447.html"/>
+        <updated>2019-08-26T03:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Name 这个CSS效果我是用在xenforo论坛上的，设置方法如下： 先后台修改用户组CSS 再在模板列表找 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3000预算游戏显示器+主机配置]]></title>
+        <id>https://cangshui.net/?p=4430</id>
+        <link href="https://cangshui.net/4430.html"/>
+        <updated>2019-08-14T15:07:21.000Z</updated>
+        <summary type="html"><![CDATA[（2019年8月）最近接一个朋友的要求，帮他配一台3500块钱以下打普通3A单机游戏还能录屏不卡还带显示器的机 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WMI Provider Host / Management服务占用CPU高解决思路]]></title>
+        <id>https://cangshui.net/?p=4327</id>
+        <link href="https://cangshui.net/4327.html"/>
+        <updated>2019-06-30T03:52:14.000Z</updated>
+        <summary type="html"><![CDATA[如果你的电脑出现WMI Provider Host 这个进程和Windows Management Ibstr ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9558,6 +11398,76 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         <summary type="html"><![CDATA[在Go中，我们可以很轻松的利用syscall包调用Windows API去做一些更高级/底层的操作。这篇文章，主要记录了我在平时开发过程中以及网上收集到的一些关于Windows API调用相关的知识，或者开发模式，方便你遇到类似的情况后，能更快入手。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[防止源站IP泄露]]></title>
+        <id>https://cangshui.net/?p=4289</id>
+        <link href="https://cangshui.net/4289.html"/>
+        <updated>2019-05-22T07:58:40.000Z</updated>
+        <summary type="html"><![CDATA[这个问题我记得已经有很多大佬陆陆续续发布一些方法，本文主要是综合来介绍几种主要防止censys.io此类网站扫 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Server 2019 datacenter （数据中心版）日常使用体验]]></title>
+        <id>https://cangshui.net/?p=4268</id>
+        <link href="https://cangshui.net/4268.html"/>
+        <updated>2019-05-17T05:01:43.000Z</updated>
+        <summary type="html"><![CDATA[Windows Server 2019 datacenter 即 windows数据中心2019服务器版，使用 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费无限容量云存储]]></title>
+        <id>https://cangshui.net/?p=4235</id>
+        <link href="https://cangshui.net/4235.html"/>
+        <updated>2019-05-13T04:21:03.000Z</updated>
+        <summary type="html"><![CDATA[划重点： 需要备案域名免费云存储可绑定自己域名获取文件直链支持HTTP/HTTPS无限存储单文件大小无限制支持 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费对象云存储Backblaze]]></title>
+        <id>https://cangshui.net/?p=4221</id>
+        <link href="https://cangshui.net/4221.html"/>
+        <updated>2019-05-03T16:49:12.000Z</updated>
+        <summary type="html"><![CDATA[Backblaze前10 GB的存储空间是免费的，每天能下载1G以内文件免费，上传免费，并与cloudflar ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何投诉抄袭你文章的网站]]></title>
+        <id>https://cangshui.net/?p=4201</id>
+        <link href="https://cangshui.net/4201.html"/>
+        <updated>2019-05-01T03:45:55.000Z</updated>
+        <summary type="html"><![CDATA[最近发现在百度谷歌上出现了几个原封不动抄袭我文章并成功去掉了我的水印和博客名字还不写转载的网址，排名还在我前面 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome75原生图片延迟加载]]></title>
+        <id>https://cangshui.net/?p=4179</id>
+        <link href="https://cangshui.net/4179.html"/>
+        <updated>2019-04-09T14:40:16.000Z</updated>
+        <summary type="html"><![CDATA[网页通常包含大量图像，这些图像会导致以及页面加载的速度降低。而这些一同加载的图像都在屏幕外，需要用户滚动才能查看它们。导致网络在加载一瞬间的堵塞并且没有好的用户体验]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[什么是晚睡强迫症？]]></title>
+        <id>https://cangshui.net/?p=4173</id>
+        <link href="https://cangshui.net/4173.html"/>
+        <updated>2019-04-07T13:34:45.000Z</updated>
+        <summary type="html"><![CDATA[最近流行一种病——“晚睡强迫症”！ 现在生活节奏越来越快，人们睡眠时间越来越少。 执着追剧、沉迷游戏不能自拔， ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9590,6 +11500,36 @@ tmpfs 497M 0 497M 0% /dev/shm
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[cloudflare自定义页面(Custom Pages)]]></title>
+        <id>https://cangshui.net/?p=4152</id>
+        <link href="https://cangshui.net/4152.html"/>
+        <updated>2019-03-29T15:02:56.000Z</updated>
+        <summary type="html"><![CDATA[一般情况下，我们使用cloudflare时，默认的五秒盾是这样的： 可以看到，这样的界面，既没有美感也对大陆用 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS随机网页背景色(如何让用户自闭)]]></title>
+        <id>https://cangshui.net/?p=4143</id>
+        <link href="https://cangshui.net/4143.html"/>
+        <updated>2019-03-17T10:58:06.000Z</updated>
+        <summary type="html"><![CDATA[如果有关注我博客的朋友应该发现了，我博客的左上角多出来了一个“彩蛋”按钮，如果你点击了的话，就会有一种神奇的光 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[中医脏象学说之六腑]]></title>
+        <id>https://cangshui.net/?p=4062</id>
+        <link href="https://cangshui.net/4062.html"/>
+        <updated>2019-03-05T12:58:11.000Z</updated>
+        <summary type="html"><![CDATA[六腑，与五脏相对。五脏干一部分工作，六腑干另一部分工作。所干的工作，我们可以简单的把它视为吃饭，拉屎。饭吃下去 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MIME Types 速查表]]></title>
         <id>https://razeen.me/posts/mime-types-quick-look/</id>
         <link href="https://razeen.me/posts/mime-types-quick-look/"/>
@@ -9597,6 +11537,46 @@ tmpfs 497M 0 497M 0% /dev/shm
         <summary type="html"><![CDATA[做web开发时，经常需要设置一些返回数据的类型的头部，也就是 MIME Types。 这遍博客就是收罗了大部分的类型, 如果以后发现新的会持续更新。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反向代理Cloudflare加速网站(Gost/iptables转发)]]></title>
+        <id>https://cangshui.net/?p=4030</id>
+        <link href="https://cangshui.net/4030.html"/>
+        <updated>2019-02-22T14:05:24.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍转发CloudflareCDN服务的两种方式，也可用于其他反代 一、Gost转发 二、Iptables ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[彻底关闭Firefox/Chrome自动更新]]></title>
+        <id>https://cangshui.net/?p=4011</id>
+        <link href="https://cangshui.net/4011.html"/>
+        <updated>2019-02-21T12:10:24.000Z</updated>
+        <summary type="html"><![CDATA[值得一提的是，目前推荐Chrome版本为71版本，firefox为63版本，因为这两个版本都意味着「完整」支持 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[反向代理Cloudflare加速网站(SNIproxy)]]></title>
+        <id>https://cangshui.net/?p=3836</id>
+        <link href="https://cangshui.net/3836.html"/>
+        <updated>2019-02-17T07:11:37.000Z</updated>
+        <summary type="html"><![CDATA[写在教程前：为什么要反向代理cloudflare？答：缩短路由，加快cloudflare节点到大陆用户的速度， ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[js阻止微信访问加强版]]></title>
+        <id>https://cangshui.net/?p=3772</id>
+        <link href="https://cangshui.net/3772.html"/>
+        <updated>2019-02-11T14:09:52.000Z</updated>
+        <summary type="html"><![CDATA[如果看过我的博文的朋友应该记得我上一篇的JS/PHP代码阻止微信访问 之后有朋友反映这样做的话，只能引导用户从 ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9608,6 +11588,16 @@ tmpfs 497M 0 497M 0% /dev/shm
 简单来说，我们平时使用的很多第三方登录并获取头像等信息就是用的OAuth 2.0。如我们用QQ登录一些论坛，用google账号登陆facebook，用github账号登陆gitlab等。如下图展示的就是利用QQ登录网易云音乐Web版，其中用到的就是OAuth 2.0。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS/PHP代码阻止微信访问]]></title>
+        <id>https://cangshui.net/?p=3718</id>
+        <link href="https://cangshui.net/3718.html"/>
+        <updated>2019-02-06T07:10:47.000Z</updated>
+        <summary type="html"><![CDATA[最近做了一个视频解析站，无意中在和群友聊天的时候发现很多人的采集或者解析站，都被腾讯旗下的软件直接报危险网站， ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>
@@ -9625,6 +11615,56 @@ tmpfs 497M 0 497M 0% /dev/shm
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[敬业福花花卡攻略]]></title>
+        <id>https://cangshui.net/?p=3658</id>
+        <link href="https://cangshui.net/3658.html"/>
+        <updated>2019-01-30T02:33:00.000Z</updated>
+        <summary type="html"><![CDATA[关于敬业福的获得： 新出的图，扫完九副福字目前必中敬业，博主三个号全是还没扫完就中了，速上，可能等下就黄 关于 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十二神魔器下载]]></title>
+        <id>https://cangshui.net/?p=3638</id>
+        <link href="https://cangshui.net/3638.html"/>
+        <updated>2019-01-28T10:54:56.000Z</updated>
+        <summary type="html"><![CDATA[写在下载之前的话： 十二神器其实没有那么神秘，只是很多年以前百度贴吧上的gal吧吧主的一个归纳总结，然后不知道 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费视频解析接口和视频解析站源码]]></title>
+        <id>https://cangshui.net/?p=3629</id>
+        <link href="https://cangshui.net/3629.html"/>
+        <updated>2019-01-23T12:47:24.000Z</updated>
+        <summary type="html"><![CDATA[今天是2019-1-23日，以下接口可用：（来源于如有乐享） http://69p.top/?url= htt ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿里云送.design域名首年免费]]></title>
+        <id>https://cangshui.net/?p=3620</id>
+        <link href="https://cangshui.net/3620.html"/>
+        <updated>2019-01-22T04:52:13.000Z</updated>
+        <summary type="html"><![CDATA[消息来自@liyuans.com大佬博客！ 阿里云国内站的一个小福利，.design域名首年免费！ 但是！！  ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2018年度我最喜欢的番剧居然是……]]></title>
+        <id>https://cangshui.net/?p=3599</id>
+        <link href="https://cangshui.net/3599.html"/>
+        <updated>2019-01-19T11:00:04.000Z</updated>
+        <summary type="html"><![CDATA[Ray：“只有你能够杀死我” Zack：“你只能被我给杀死” 提示：本文包含剧透 杀戮天使又名： 《没头脑与不 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go学习笔记(六) | 使用swaggo自动生成Restful API文档]]></title>
         <id>https://razeen.me/posts/go-swagger/</id>
         <link href="https://razeen.me/posts/go-swagger/"/>
@@ -9635,6 +11675,196 @@ tmpfs 497M 0 497M 0% /dev/shm
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[免费无损音乐下载器]]></title>
+        <id>https://cangshui.net/?p=3553</id>
+        <link href="https://cangshui.net/3553.html"/>
+        <updated>2019-01-05T03:12:15.000Z</updated>
+        <summary type="html"><![CDATA[无损音乐下载器是一款可以免费下载任意音乐无损音质的强大工具，您是否不想再听渣音质，不想再听那些模糊不清的音乐文件，马上使用这款无损音乐下载器让你随时倾听无损音质。]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[解决live2d看板娘卡顿]]></title>
+        <id>https://cangshui.net/?p=3518</id>
+        <link href="https://cangshui.net/3518.html"/>
+        <updated>2019-01-01T12:46:54.000Z</updated>
+        <summary type="html"><![CDATA[关于live2d看板娘请看我之前的文章https://cangshui.net/?p=1886 有朋友反馈手机 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Centos7手动编译安装apache]]></title>
+        <id>https://cangshui.net/?p=3475</id>
+        <link href="https://cangshui.net/3475.html"/>
+        <updated>2018-12-29T11:55:41.000Z</updated>
+        <summary type="html"><![CDATA[前言：现在很多人搭建web环境选择了一键脚本或可视化管理面板，因此我认为在使用一键脚本之前，一定要自己搭建一次 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站收费小姐姐图片打包36GB]]></title>
+        <id>https://cangshui.net/?p=3361</id>
+        <link href="https://cangshui.net/3361.html"/>
+        <updated>2018-12-25T09:39:54.000Z</updated>
+        <summary type="html"><![CDATA[图片打包链接:pan.cangshui.net 密码: god 页面有点慢耐性等待 咦，小姐姐，还有cospl ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【免费CDN】俄罗斯DDOS-Guard支持ssl防御1.5T]]></title>
+        <id>https://cangshui.net/?p=3346</id>
+        <link href="https://cangshui.net/3346.html"/>
+        <updated>2018-12-25T03:31:36.000Z</updated>
+        <summary type="html"><![CDATA[俄罗斯DDOS-Guard支持ssl防御1.5T]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[html抖音效果CSS,文字彩色抖动效果CSS]]></title>
+        <id>https://cangshui.net/?p=3237</id>
+        <link href="https://cangshui.net/3237.html"/>
+        <updated>2018-12-23T04:02:25.000Z</updated>
+        <summary type="html"><![CDATA[原创html抖音效果CSS,文字彩色抖动效果CSS 请注意！为了用户体验，请勿在某些重要的页面使用这种抖动效果 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【已翻车】免费.com域名+邮局服务+虚拟机]]></title>
+        <id>https://cangshui.net/?p=3275</id>
+        <link href="https://cangshui.net/3275.html"/>
+        <updated>2018-12-22T08:25:17.000Z</updated>
+        <summary type="html"><![CDATA[【已翻车】域名全部回收了，账号被封 国外的 Infomaniak 公司出了一个活动：1个域名+20 个网站+  ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[humblebundle免费送Steam游戏乐高指环王（原价68RMB）]]></title>
+        <id>https://cangshui.net/?p=3260</id>
+        <link href="https://cangshui.net/3260.html"/>
+        <updated>2018-12-20T18:40:26.000Z</updated>
+        <summary type="html"><![CDATA[活动地址：https://www.humblebundle.com/store/lego-the-lord-o ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[QQ2008头像,QQ经典怀旧头像,QQ重置版头像]]></title>
+        <id>https://cangshui.net/?p=3232</id>
+        <link href="https://cangshui.net/3232.html"/>
+        <updated>2018-12-16T15:12:48.000Z</updated>
+        <summary type="html"><![CDATA[不得不说这些上古QQ默认头像高清重置后放到今天依旧耐看！ 甚至在今天这个头像各种花里胡哨的今天，这样的默认头像 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bt宝塔面板Nginx占用80端口的解决办法]]></title>
+        <id>https://cangshui.net/?p=3220</id>
+        <link href="https://cangshui.net/3220.html"/>
+        <updated>2018-12-15T18:22:23.000Z</updated>
+        <summary type="html"><![CDATA[今天准备在80端口部署临时邮箱的时候发现80端口被占用，然后pm2进程一直在炸，CPU直接飙到100，我就纳闷 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[humblebundle免费送Steam游戏乐高霍比特人（原价30RMB）]]></title>
+        <id>https://cangshui.net/?p=3202</id>
+        <link href="https://cangshui.net/3202.html"/>
+        <updated>2018-12-13T18:35:04.000Z</updated>
+        <summary type="html"><![CDATA[活动地址：https://www.humblebundle.com/store/lego-the-hobbit ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[各大CDN的节点IP段]]></title>
+        <id>https://cangshui.net/?p=3189</id>
+        <link href="https://cangshui.net/3189.html"/>
+        <updated>2018-12-13T07:01:30.000Z</updated>
+        <summary type="html"><![CDATA[各大CDN的节点IP段，加速乐CDNip段，腾讯云CDNip段，百度云CDNip段，牛盾CDNip段360CD ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[俄罗斯美女RocksyLight的COSplay图包]]></title>
+        <id>https://cangshui.net/?p=3173</id>
+        <link href="https://cangshui.net/3173.html"/>
+        <updated>2018-12-12T14:38:16.000Z</updated>
+        <summary type="html"><![CDATA[她的推特：https://twitter.com/RocksyLight  话不多说，直接上图包链接 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让旧手机变为电脑扩展屏幕]]></title>
+        <id>https://cangshui.net/?p=3164</id>
+        <link href="https://cangshui.net/3164.html"/>
+        <updated>2018-12-12T13:55:02.000Z</updated>
+        <summary type="html"><![CDATA[最近在在写一些文档的时候，经常需要切到其他窗口去查看资料，可是笔记本的屏幕实在是有点小，而在两个窗口之间切换， ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[设置全站只能通过CDN访问]]></title>
+        <id>https://cangshui.net/?p=3143</id>
+        <link href="https://cangshui.net/3143.html"/>
+        <updated>2018-12-11T06:28:42.000Z</updated>
+        <summary type="html"><![CDATA[为什么这么做：前段时间网站一直被慢速CC困扰，尽管开启cloudflare的五秒盾之后世界都安静了，但是这样会 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[可视化Linux性能监控]]></title>
+        <id>https://cangshui.net/?p=3136</id>
+        <link href="https://cangshui.net/3136.html"/>
+        <updated>2018-12-10T14:00:23.000Z</updated>
+        <summary type="html"><![CDATA[今天介绍一款界面炒鸡酷炫的服务器Web可视化监控程序：NetData 它是系统的分布式监控，能够实时查看lin ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[后台控制面板模板推荐]]></title>
+        <id>https://cangshui.net/?p=3119</id>
+        <link href="https://cangshui.net/3119.html"/>
+        <updated>2018-12-09T12:28:42.000Z</updated>
+        <summary type="html"><![CDATA[Web 开发中几乎的平台都需要一个后台管理，但是从零开发一套后台控制面板并不容易，幸运的是有很多开源 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam英雄连2免费+1]]></title>
+        <id>https://cangshui.net/?p=3111</id>
+        <link href="https://cangshui.net/3111.html"/>
+        <updated>2018-12-07T05:27:58.000Z</updated>
+        <summary type="html"><![CDATA[领取地址：登录Steam，打开连接https://store.steampowered.com/app/231 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[请举报骚扰你的支付宝红包！]]></title>
+        <id>https://cangshui.net/?p=3099</id>
+        <link href="https://cangshui.net/3099.html"/>
+        <updated>2018-12-05T17:54:14.000Z</updated>
+        <summary type="html"><![CDATA[自从支付宝红包活动上线以来，出现了这样的骚扰性发送红包代码/二维码的情况 更有APP嵌入自动让用户复制红包码的 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go学习笔记(五) | 使用代码片段(snippets)提高编码效率]]></title>
         <id>https://razeen.me/posts/go-snippets/</id>
         <link href="https://razeen.me/posts/go-snippets/"/>
@@ -9642,6 +11872,56 @@ tmpfs 497M 0 497M 0% /dev/shm
         <summary type="html"><![CDATA[在Coding的时候，难免会有一些重复的代码或者形式相似的代码，在写这些代码的时候，你会觉得索然无味，甚至有点讨厌。这时候，你就会想，这段代码是否可以抽象成一个通用的片段，我简单敲几个快捷键就出来了呢。这也就代码片段所解决的问题。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全局Ajax如何排除某个链接]]></title>
+        <id>https://cangshui.net/?p=3087</id>
+        <link href="https://cangshui.net/3087.html"/>
+        <updated>2018-12-04T20:37:25.000Z</updated>
+        <summary type="html"><![CDATA[#全局Ajax排除某个链接#如何让某个链接不使用Ajax加载# 因为博客使用了某套主题的全局AJAX加载，造成 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Github Pages + Jekyll搭建博客图文教程]]></title>
+        <id>https://cangshui.net/?p=3057</id>
+        <link href="https://cangshui.net/3057.html"/>
+        <updated>2018-12-04T07:54:40.000Z</updated>
+        <summary type="html"><![CDATA[本文主要分为两部分，本地预览+云端部署和云端简易部署 , 本地+云端部署需要懂一些Git命 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SD卡是什么？SD卡有哪些你需要懂的知识？]]></title>
+        <id>https://cangshui.net/?p=2983</id>
+        <link href="https://cangshui.net/2983.html"/>
+        <updated>2018-11-21T04:29:07.000Z</updated>
+        <summary type="html"><![CDATA[①.SD卡介绍 ②.SD卡标准 ③.SD卡数据安全 ④.指南和体验 Part 1. 介绍 SD卡全称Secur ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费docker虚拟主机#强人网络]]></title>
+        <id>https://cangshui.net/?p=2260</id>
+        <link href="https://cangshui.net/2260.html"/>
+        <updated>2018-11-07T03:37:20.000Z</updated>
+        <summary type="html"><![CDATA[不需要实名 ！！！！老用户也可以领！！！！用法和普通的空间一样有面板！！ 目前可用使用的免单优惠码为，(免备案 ...]]></summary>
+        <author>
+            <name>沧水</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下载官方Windows10镜像方法]]></title>
+        <id>https://cangshui.net/?p=2526</id>
+        <link href="https://cangshui.net/2526.html"/>
+        <updated>2018-10-21T08:37:58.000Z</updated>
+        <summary type="html"><![CDATA[本文介绍一种直接从微软官方下载IOS镜像的方法 先打开链接www.microsoft.com/zh-cn/so ...]]></summary>
+        <author>
+            <name>沧水</name>
         </author>
     </entry>
     <entry>

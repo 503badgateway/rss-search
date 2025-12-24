@@ -116,6 +116,16 @@
           "imageUrl": "https://www.huotravel.com/wp-content/uploads/2025/12/7c4078cc0571bb947438cb78e15956d4.jpg"
         },
         {
+          "id": "https://taxodium.ink/album-16.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Album#16 - Season&#039;s Greetings",
+          "link": "https://taxodium.ink/album-16.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T15:08:00.000Z",
+          "wordCount": 244,
+          "title": "Album#16 - Season's Greetings",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder",
           "author": null,
           "description": "发于年终总结发布前19h：我的 python 学习之旅",
@@ -123,6 +133,16 @@
           "publishedOn": "2025-12-23T14:58:55.000Z",
           "wordCount": 1085,
           "title": "发于年终总结发布前19h：我的 python 学习之旅",
+          "imageUrl": null
+        },
+        {
+          "id": "https://taxodium.ink/album-15.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Album#15 - 15",
+          "link": "https://taxodium.ink/album-15.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T14:50:00.000Z",
+          "wordCount": 1508,
+          "title": "Album#15 - 15",
           "imageUrl": null
         },
         {
@@ -194,6 +214,16 @@
           "wordCount": 1457,
           "title": "如何移除Mac中访达多余的菜单项？还你一个清爽的访达右键菜单",
           "imageUrl": "https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover"
+        },
+        {
+          "id": "https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/?utm_source=blogfinder",
+          "author": null,
+          "description": "桌面Linux那些事儿1：Debian 13 部署 XRDP",
+          "link": "https://blog.moeworld.tech/2025/12/23/%e6%a1%8c%e9%9d%a2linux%e9%82%a3%e4%ba%9b%e4%ba%8b%e5%84%bf1%ef%bc%9adebian-13-%e9%83%a8%e7%bd%b2-xrdp/?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T09:20:27.000Z",
+          "wordCount": 998,
+          "title": "桌面Linux那些事儿1：Debian 13 部署 XRDP",
+          "imageUrl": null
         },
         {
           "id": "https://www.geedea.pro/essays/tarot-the-tower/?utm_source=blogfinder",
@@ -6364,6 +6394,2101 @@
           "publishedOn": "2020-03-13T12:16:19.000Z",
           "wordCount": 212,
           "title": "Hello World",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "xnum’s blog",
+      "feedUrl": "https://xnum.github.io/feed.xml",
+      "siteUrl": "https://xnum.github.io/",
+      "articles": [
+        {
+          "id": "https://xnum.github.io/2025/03/shikoku-1/",
+          "author": null,
+          "description": "Day1",
+          "link": "https://xnum.github.io/2025/03/shikoku-1/",
+          "publishedOn": "2025-03-26T16:00:00.000Z",
+          "wordCount": 298,
+          "title": "2025/03 初春日本四國遊記",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/09/ph-lang-school-tutor-1/",
+          "author": null,
+          "description": "出發",
+          "link": "https://xnum.github.io/2024/09/ph-lang-school-tutor-1/",
+          "publishedOn": "2024-09-04T16:00:00.000Z",
+          "wordCount": 231,
+          "title": "2024/8 菲律賓遊學記",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/06/dns-record-as-ip-white-list/",
+          "author": null,
+          "description": "被中華電信換IP影響，研究出來的作法",
+          "link": "https://xnum.github.io/2024/06/dns-record-as-ip-white-list/",
+          "publishedOn": "2024-06-13T16:00:00.000Z",
+          "wordCount": 321,
+          "title": "使用DNS紀錄來自動更新IP白名單",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/06/lvremove/",
+          "author": null,
+          "description": "lvremove /dev/mapper/ssd-ssd",
+          "link": "https://xnum.github.io/2024/06/lvremove/",
+          "publishedOn": "2024-06-04T16:00:00.000Z",
+          "wordCount": 120,
+          "title": "lvremove 遇到 contains a filesystem in use",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/05/media-storage-server/",
+          "author": null,
+          "description": "最近研究的BT下載+做種+瀏覽檔案的軟體方案",
+          "link": "https://xnum.github.io/2024/05/media-storage-server/",
+          "publishedOn": "2024-05-25T16:00:00.000Z",
+          "wordCount": 156,
+          "title": "多媒體檔案管理和下載伺服器 - 軟體篇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/05/sf-china-delivery/",
+          "author": null,
+          "description": "紀錄退貨過程",
+          "link": "https://xnum.github.io/2024/05/sf-china-delivery/",
+          "publishedOn": "2024-05-23T16:00:00.000Z",
+          "wordCount": 95,
+          "title": "淘寶退貨 順豐寄回大陸經驗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/05/install-glances/",
+          "author": null,
+          "description": "由於在 Docker 中無法查看某些系統資訊，加上需要指定版本，因此需要進行一個繁瑣的 Python 程式安裝流程。",
+          "link": "https://xnum.github.io/2024/05/install-glances/",
+          "publishedOn": "2024-05-22T16:00:00.000Z",
+          "wordCount": 148,
+          "title": "在Linux上面安裝glances並設定為系統服務",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/05/auto-ptr-dnsmasq/",
+          "author": null,
+          "description": "偶而想研究一下有哪些網路連線和流量進出，開啟IP解析以後，一部份的IP可以解析出擁有者是誰，例如HiNet, AWS, Facebook，但也有一些解不出來的IP是屬於雲端供應商所有，例如cloudflare，如果能夠在本地的DNS上回應PTR紀錄，就能減少排查可疑連線的時間。",
+          "link": "https://xnum.github.io/2024/05/auto-ptr-dnsmasq/",
+          "publishedOn": "2024-05-19T16:00:00.000Z",
+          "wordCount": 99,
+          "title": "在dnsmasq加上自動生成PTR紀錄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/05/ultrahuman-ring/",
+          "author": null,
+          "description": "純文字心得",
+          "link": "https://xnum.github.io/2024/05/ultrahuman-ring/",
+          "publishedOn": "2024-05-07T16:00:00.000Z",
+          "wordCount": 101,
+          "title": "ultrahuman ring air 台灣購買兼使用心得",
+          "imageUrl": null
+        },
+        {
+          "id": "https://xnum.github.io/2024/04/so-vits-svc/",
+          "author": null,
+          "description": "純粹記錄過程",
+          "link": "https://xnum.github.io/2024/04/so-vits-svc/",
+          "publishedOn": "2024-04-20T16:00:00.000Z",
+          "wordCount": 140,
+          "title": "AI Singing Voice Conversion (SVC) 的試玩心得",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "Miskcoo’s Space",
+      "feedUrl": "https://blog.miskcoo.com/feed.xml",
+      "siteUrl": "https://blog.miskcoo.com/",
+      "articles": [
+        {
+          "id": "https://blog.miskcoo.com/2025/03/gpu-burn",
+          "author": null,
+          "description": "最近几年前的 2080Ti 在物理上运行了 gpu-burn，这里放点图。一共有两台机器，看起来一台是主板烧到显卡的，另一台就看不出来了，似乎是供电烧了。",
+          "link": "https://blog.miskcoo.com/2025/03/gpu-burn",
+          "publishedOn": "2025-03-21T16:00:00.000Z",
+          "wordCount": 152,
+          "title": "硬件版 GPU Burn",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2024/05/ten-years",
+          "author": null,
+          "description": "从还留在这里的 2014 年最开始的那篇博文算起，再过两周就已经过去十年了1，在我印象里再往前这里或许还有些别的内容，但似乎在中途更换站点的过程中丢失了。整个博客能留到现在也挺不容易的，不知道现在是不是还会有人到这里来。最开始它是部署在一台便宜 VPS 上的 WordPress，2019 年有一段时间机器被弄挂了，还好内容有备份后来也恢复了。再往后就迁移到了基于 Jekyll 的静态博客，也不用太担心机器挂了的问题了。2 最开始的博文：BZOJ-3157. 国王奇遇记 &#8617; 博客搬家及主题更换 &#8617;",
+          "link": "https://blog.miskcoo.com/2024/05/ten-years",
+          "publishedOn": "2024-05-26T20:00:00.000Z",
+          "wordCount": 180,
+          "title": "Ten Years！这个博客十年啦",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2024/05/interesting-sensors",
+          "author": null,
+          "description": "上回做的温湿度和二氧化碳传感器已经运行一段时间了，中间又加上了一个环境光传感器。加起来算是能够收集到温度、湿度、二氧化碳浓度、TVOC 以及光照强度五个参数。本来是想看看宿舍的空气质量并且提醒我开窗通风，以及查看实验室到底热到了什么程度和开没开中央空调 ，但是后来发现，这几个参数还能提供一些有趣的信息。",
+          "link": "https://blog.miskcoo.com/2024/05/interesting-sensors",
+          "publishedOn": "2024-05-26T16:00:00.000Z",
+          "wordCount": 163,
+          "title": "传感器趣事：环境传感器能告诉你什么",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2024/05/ugreen-dx4600-pro-led-controller",
+          "author": null,
+          "description": "绿联的 DX4600 Pro 是一个四盘位的 NAS，自带的系统是基于 OpenWRT 的 UGOS，v2ex 上有很多相关的介绍以及抱怨1，还有报道说新版的系统不向下兼容旧版的系统，并且升级需要格式化硬盘2。不过这台 NAS 还是可以自己装个 Debian 或者别的开源 NAS 系统的，但问题是自己装的系统并没有机箱前边六个 LED 灯（分别是电源、网卡和四个硬盘）的驱动，默认情况下只有电源指示灯在闪烁，无法控制其他的指示灯。 双十一买的 DX4600 Pro，玩了两个星期，系统基本被我摸明白了，非常逆天 - V2EX &#8617; 绿联NAS新系统不向前兼容 用户必须格式化硬盘后重新装机并恢复数据_网络存储_什么值得买 (smzdm.com) &#8617;",
+          "link": "https://blog.miskcoo.com/2024/05/ugreen-dx4600-pro-led-controller",
+          "publishedOn": "2024-05-10T16:00:00.000Z",
+          "wordCount": 1464,
+          "title": "绿联 DX4600 Pro 系列的 LED 控制模块分析",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2024/04/nas",
+          "author": null,
+          "description": "某一天，当你 { 不想把数据放在云上，想有一个 home lab } 时，你可能就会进入一个深坑。",
+          "link": "https://blog.miskcoo.com/2024/04/nas",
+          "publishedOn": "2024-04-21T16:00:00.000Z",
+          "wordCount": 743,
+          "title": "家用 NAS 踩坑指北",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2024/03/linux-on-surface-pro8",
+          "author": null,
+          "description": "最近实在忍受不了 Windows 放着什么也不干功耗都能到达 10W，所以打算给 Surface Pro 8 装个 Arch (with ZFS on LUKS) 看看。目前看起来使用 linux surface kernel 之后除了摄像头和以外都可以得到支持。Surface Pen 也有相应的软件可以支持压感和手写笔记，并且换成 Linux 后机器的续航明显提高了！现在不干什么事情的话亮度在 30% 的时候一般是 5-6W，普通浏览网页是 7W 左右的功耗。",
+          "link": "https://blog.miskcoo.com/2024/03/linux-on-surface-pro8",
+          "publishedOn": "2024-03-06T16:00:00.000Z",
+          "wordCount": 1373,
+          "title": "Surface Pro 8 安装 Arch Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2023/12/expand-raid",
+          "author": null,
+          "description": "前一段时间组里的一些机器硬盘满了，需要进行扩容。这些机器的盘一共是 4 个 1.8T 的固态，接在一张 LSI9361-8i RAID 卡上，组成一个 RAID5 使用。机器上可用的盘位还有 4 个，我们决定给这个阵列扩充两个同样大小的盘。",
+          "link": "https://blog.miskcoo.com/2023/12/expand-raid",
+          "publishedOn": "2023-12-19T16:00:00.000Z",
+          "wordCount": 364,
+          "title": "记录一次服务器硬盘扩容",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2023/09/esp8266-sensor",
+          "author": null,
+          "description": "之前用闲置的树莓派搭了个室内的温度和空气质量监测器，但是问题是树莓派太贵了，这样的方案不太容易批量复制。另外一种便宜的方案是用 ESP8266（大约十来块钱）来作为传感器和电脑之间的中介，它可以通过自带的 WiFi 和电脑连接。",
+          "link": "https://blog.miskcoo.com/2023/09/esp8266-sensor",
+          "publishedOn": "2023-09-03T16:00:00.000Z",
+          "wordCount": 254,
+          "title": "用 ESP8266 制备室内温度和空气检测器",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2020/08/blog-transfer",
+          "author": null,
+          "description": "2020 真是糟糕的一年，从寒假离校到现在已经在家里半年了。六月本该返校毕业，但是北京疫情突然反弹，返校被临时叫停。",
+          "link": "https://blog.miskcoo.com/2020/08/blog-transfer",
+          "publishedOn": "2020-08-09T16:00:00.000Z",
+          "wordCount": 161,
+          "title": "博客搬家及主题更换",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.miskcoo.com/2019/08/nontrivialmips",
+          "author": null,
+          "description": "前一段时间我和几个同学参加了个比赛，这个比赛是自己设计一个 CPU，在其上设计 SoC，运行操作系统等。是一个系统类的比赛。我主要负责写 CPU 除 Cache 外的部分，我们最终设计了一个有十级流水的双发射顺序执行的 MIPS32 处理器。在比赛方提供的实验板上达到了 123MHz 的主频，同时还具有不错的 IPC。代码现在已经在 GitHub 上开源。",
+          "link": "https://blog.miskcoo.com/2019/08/nontrivialmips",
+          "publishedOn": "2019-08-28T23:29:29.000Z",
+          "wordCount": 276,
+          "title": "NonTrivialMIPS - FPGA 上实现的 MIPS32 流水线",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "七夜 の Blog",
+      "feedUrl": "https://blog.liqiye.com/atom.xml",
+      "siteUrl": "https://blog.liqiye.com/atom.xml",
+      "articles": [
+        {
+          "id": "https://blog.liqiye.com/posts/3211595058/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><p>中文互联网好像压根没人提这茬，是用得人少还是我是先天 BUG 圣体，如果你遇到<strong>「无法登陆此账户；未知错误」</strong>",
+          "link": "https://blog.liqiye.com/posts/3211595058/",
+          "publishedOn": "2025-03-19T08:31:16.000Z",
+          "wordCount": 622,
+          "title": "TeamSpeak 6 无法登陆解决办法",
+          "imageUrl": "https://image.liqiye.com/i/0/2025/03/19/r50znu-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1088177150/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><ul>\n<li>最难蚌的一集家人们，前段时间才踩 Clash 捧 sing-box，结果 sing-box 更新 1.11 给了我当头一棒，它改",
+          "link": "https://blog.liqiye.com/posts/1088177150/",
+          "publishedOn": "2025-02-22T17:56:09.000Z",
+          "wordCount": 632,
+          "title": "抛弃 sing-box，在 Windows 平台上重新拥抱 Clash",
+          "imageUrl": "https://image.liqiye.com/i/0/2025/02/23/2mdfz3-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3301207980/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><ul>\n<li>最近在朋友家里看到他的 LG 48C3 实在是馋的厉害，看抖音都比我爽，那对比度，啧啧，第一次真正体验到这种黑的地方完全黑下去的",
+          "link": "https://blog.liqiye.com/posts/3301207980/",
+          "publishedOn": "2025-01-13T10:59:11.000Z",
+          "wordCount": 1449,
+          "title": "LG 48C4 使用体验分享",
+          "imageUrl": "https://image.liqiye.com/i/0/2025/01/13/upx1qa-0.jpeg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/2692676250/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><blockquote>\n<p>一切基于 <a href=\"https://gofrp.org/zh-cn/docs/\">frp 官方 wiki<",
+          "link": "https://blog.liqiye.com/posts/2692676250/",
+          "publishedOn": "2025-01-11T05:08:47.000Z",
+          "wordCount": 796,
+          "title": "防止遗忘 —— frp 部署",
+          "imageUrl": "https://image.liqiye.com/i/0/2025/01/23/ltxo1q-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1562341511/",
+          "author": null,
+          "description": "<h2 id=\"省流\"><a href=\"#省流\" class=\"headerlink\" title=\"省流\"></a>省流</h2><p>截止 2025.02.09，最新版已修复该 BUG</p>\n<h2 id=\"前言\"><a href=\"#前言\" class=\"headerl",
+          "link": "https://blog.liqiye.com/posts/1562341511/",
+          "publishedOn": "2025-01-09T05:08:47.000Z",
+          "wordCount": 635,
+          "title": "NVIDIA Broadcast 开机自启报错「检查麦克风连接并重新启动」解决方法",
+          "imageUrl": "https://image.liqiye.com/i/0/2025/01/09/lmw5od-0.png"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/4286490423/",
+          "author": null,
+          "description": "<h2 id=\"注意\"><a href=\"#注意\" class=\"headerlink\" title=\"注意\"></a>注意</h2><p>首先请认准官网域名 <a href=\"https://teamspeak.com/en/\"><code>teamspeak.com</cod",
+          "link": "https://blog.liqiye.com/posts/4286490423/",
+          "publishedOn": "2025-01-02T11:44:07.000Z",
+          "wordCount": 674,
+          "title": "防止遗忘 —— TeamSpeak Server 搭建",
+          "imageUrl": "https://image.liqiye.com/i/2025/01/02/w780ab.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3848099919/",
+          "author": null,
+          "description": "<h2 id=\"省流建议\"><a href=\"#省流建议\" class=\"headerlink\" title=\"省流建议\"></a>省流建议</h2><p>Windows 缩放调大 + 关闭 ClearType</p>\n<h2 id=\"前言\"><a href=\"#前言\" clas",
+          "link": "https://blog.liqiye.com/posts/3848099919/",
+          "publishedOn": "2024-12-10T18:01:53.000Z",
+          "wordCount": 615,
+          "title": "OLED 如何减轻文字彩边？Windows ClearType 关闭教程",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/12/11/3glsfn-0.png"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3809517857/",
+          "author": null,
+          "description": "<h2 id=\"省流\"><a href=\"#省流\" class=\"headerlink\" title=\"省流\"></a>省流</h2><ul>\n<li>标题有点标题党了，不过对我来说，确实是终极解决方案，我们来看一下以下可能需要公网的场景<ul>\n<li>大多 P2P：只需要 N",
+          "link": "https://blog.liqiye.com/posts/3809517857/",
+          "publishedOn": "2024-12-02T11:42:52.000Z",
+          "wordCount": 897,
+          "title": "如何让 IPv6 像 IPv4 一样好用？家庭 IPv6 终极解决方案",
+          "imageUrl": "https://image.liqiye.com/i/2024/12/02/wb29cq.webp"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3147108891/",
+          "author": null,
+          "description": "<h2 id=\"手动部署\"><a href=\"#手动部署\" class=\"headerlink\" title=\"手动部署\"></a>手动部署</h2><ol>\n<li><p>下载 <a href=\"https://github.com/wyx2685/XrayR/releases",
+          "link": "https://blog.liqiye.com/posts/3147108891/",
+          "publishedOn": "2024-09-06T05:41:01.000Z",
+          "wordCount": 638,
+          "title": "Alpine 手动安装 XrayR",
+          "imageUrl": "https://image.liqiye.com/i/2024/09/06/n95flr.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1364692010/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><ul>\n<li>之前写过一期<a href=\"https://blog.liqiye.com/posts/2720230238/\">利用巴法云作",
+          "link": "https://blog.liqiye.com/posts/1364692010/",
+          "publishedOn": "2024-08-13T04:24:47.000Z",
+          "wordCount": 1500,
+          "title": "利用 Node-RED 连通小爱与 HASS",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/08/13/k8vb25-0.png"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3033515685/",
+          "author": null,
+          "description": "<h2 id=\"省流\"><a href=\"#省流\" class=\"headerlink\" title=\"省流\"></a>省流</h2><p><strong>花式实名，放弃了</strong></p>\n<h2 id=\"前言\"><a href=\"#前言\" class=\"headerl",
+          "link": "https://blog.liqiye.com/posts/3033515685/",
+          "publishedOn": "2024-08-02T01:11:16.000Z",
+          "wordCount": 757,
+          "title": "六零导航页 Docker 部署踩坑记",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/08/02/fbl29k-0.png"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/2418058215/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><ul>\n<li>sing-box 虽然直接改 <code>config.json</code> 很方便，但是节点大批量变化的时候，手改就显得太傻",
+          "link": "https://blog.liqiye.com/posts/2418058215/",
+          "publishedOn": "2024-07-30T07:59:53.000Z",
+          "wordCount": 2133,
+          "title": "杜绝节点信息泄露，部署自己的 sing-box 订阅转换",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/30/rdy6yz-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/4111060364/",
+          "author": null,
+          "description": "<h2 id=\"前言\"><a href=\"#前言\" class=\"headerlink\" title=\"前言\"></a>前言</h2><ul>\n<li><p>天下苦 Clash 久矣，占用高，效率低，这个时候就不得不放出这张图了<img src=\"https://image.li",
+          "link": "https://blog.liqiye.com/posts/4111060364/",
+          "publishedOn": "2024-07-29T04:44:30.000Z",
+          "wordCount": 1226,
+          "title": "抛弃猫咪，在 Windows 平台上拥抱 sing-box",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/30/qkfeaz-0.webp"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1941022083/",
+          "author": null,
+          "description": "<h2 id=\"相关下载\"><a href=\"#相关下载\" class=\"headerlink\" title=\"相关下载\"></a>相关下载</h2><p>微 PE 下载：<a href=\"https://www.wepe.com.cn/download.html\">https:",
+          "link": "https://blog.liqiye.com/posts/1941022083/",
+          "publishedOn": "2024-07-26T17:12:39.000Z",
+          "wordCount": 600,
+          "title": "微 PE 安装 OpenWrt",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/30/shx4cz-0.png"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1353730230/",
+          "author": null,
+          "description": "<h2 id=\"指定某个终端的网关\"><a href=\"#指定某个终端的网关\" class=\"headerlink\" title=\"指定某个终端的网关\"></a>指定某个终端的网关</h2><h3 id=\"固定-IP\"><a href=\"#固定-IP\" class=\"header",
+          "link": "https://blog.liqiye.com/posts/1353730230/",
+          "publishedOn": "2024-07-26T16:34:50.000Z",
+          "wordCount": 692,
+          "title": "OpenWrt 如何指定网关",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/30/sl1coo-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/1918304216/",
+          "author": null,
+          "description": "<h2 id=\"查看型号\"><a href=\"#查看型号\" class=\"headerlink\" title=\"查看型号\"></a>查看型号</h2><p><code>系统设置</code> -&gt; <code>通用</code> -&gt; <code>关于本机</code",
+          "link": "https://blog.liqiye.com/posts/1918304216/",
+          "publishedOn": "2024-07-26T15:11:38.000Z",
+          "wordCount": 603,
+          "title": "如何鉴别 Mac 是否为官翻机",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/26/127ztbn-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/2141223716/",
+          "author": null,
+          "description": "<h2 id=\"省流\"><a href=\"#省流\" class=\"headerlink\" title=\"省流\"></a>省流</h2><p>长按 10 秒 <strong>音量➖键</strong> + <strong>TV 键</strong> 重启遥控器</p>\n<p><im",
+          "link": "https://blog.liqiye.com/posts/2141223716/",
+          "publishedOn": "2024-07-26T14:29:48.000Z",
+          "wordCount": 615,
+          "title": "如果 Apple TV 遥控器上的音量按钮无法正常使用",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/26/10v5fo9-0.jpeg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/2085040028/",
+          "author": null,
+          "description": "<figure class=\"highlight bash\"><table><tr><td class=\"gutter\"><pre><span class=\"line\">1</span><br></pre></td><td class=\"code\"><pre><span clas",
+          "link": "https://blog.liqiye.com/posts/2085040028/",
+          "publishedOn": "2024-07-26T14:16:35.000Z",
+          "wordCount": 569,
+          "title": "OpenWrt 如何查看 WAN 口下发的 DNS",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/26/10lng1q-0.webp"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/3482486219/",
+          "author": null,
+          "description": "<blockquote>\n<p>Ref: <a href=\"https://blog.xueli.lol/Operations/345.html\">https://blog.xueli.lol/Operations/345.html</a></p>\n</blockquote>\n<",
+          "link": "https://blog.liqiye.com/posts/3482486219/",
+          "publishedOn": "2024-07-26T13:02:43.000Z",
+          "wordCount": 585,
+          "title": "提高机场订阅域名的生存率",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/07/26/w2gkiy-0.jpg"
+        },
+        {
+          "id": "https://blog.liqiye.com/posts/2397568926/",
+          "author": null,
+          "description": "<h2 id=\"省流\"><a href=\"#省流\" class=\"headerlink\" title=\"省流\"></a>省流</h2><p><code>PUID</code> 和 <code>PGID</code> 要记得填，否则没有权限管理文件。一般来说群晖第一个账号的 <co",
+          "link": "https://blog.liqiye.com/posts/2397568926/",
+          "publishedOn": "2024-06-25T14:32:57.000Z",
+          "wordCount": 695,
+          "title": "防止遗忘 —— 群晖 Docker 安装 qBittorrent",
+          "imageUrl": "https://image.liqiye.com/i/0/2024/06/25/10wzrt2-0.png"
+        }
+      ]
+    },
+    {
+      "title": "沧水的博客",
+      "feedUrl": "https://cangshui.net/feed",
+      "siteUrl": "https://cangshui.net",
+      "articles": [
+        {
+          "id": "https://cangshui.net/?p=5320",
+          "author": "沧水",
+          "description": "报障案例： 如果你是中文系统，应该就是报失效文件句柄 先直接说结果怎么处理： 先查看自己的NFS服务器配置文件 ...",
+          "link": "https://cangshui.net/5320.html",
+          "publishedOn": "2025-06-18T14:37:57.000Z",
+          "wordCount": 516,
+          "title": "NFS挂载报错mount.nfs: Stale file handle",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5312",
+          "author": "沧水",
+          "description": "随便输入一个密钥来激活 测试硬解成功，大功告成",
+          "link": "https://cangshui.net/5312.html",
+          "publishedOn": "2025-04-07T18:12:02.000Z",
+          "wordCount": 433,
+          "title": "Emby 4.8.11 容器版Premiere破解教程",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5282",
+          "author": "沧水",
+          "description": "腾讯手机助手我在IOS上用过一段时间，来电识别、来电拦截、号码标记功能感觉算是比较好用的，但是我有一台安卓手机 ...",
+          "link": "https://cangshui.net/5282.html",
+          "publishedOn": "2024-05-02T16:53:23.000Z",
+          "wordCount": 423,
+          "title": "提取腾讯手机助手的来电识别数据库并导入安卓通讯录",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5276",
+          "author": "沧水",
+          "description": "现象： 1.部分windows连得上，甚至版本号一样的windows有些连得上有些连不上。 2.删除windo ...",
+          "link": "https://cangshui.net/5276.html",
+          "publishedOn": "2024-04-05T18:13:02.000Z",
+          "wordCount": 377,
+          "title": "Windows连不上ubuntu samba共享文件的排错经历",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5263",
+          "author": "沧水",
+          "description": "文件来自网友44********9从淘宝购入，征得同意后免费分享，请勿转售牟利！ 1.满级50级2.营地20级 ...",
+          "link": "https://cangshui.net/5263.html",
+          "publishedOn": "2024-01-27T11:33:27.000Z",
+          "wordCount": 344,
+          "title": "幻兽帕鲁 Palworld 毕业存档修改全资源材料9999全传奇防具武器",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5257",
+          "author": "沧水",
+          "description": "众所周知，windows上最好用的RAID数据恢复工具就是UFS，但是正版的价格实在太贵，偶尔用一次就花掉60 ...",
+          "link": "https://cangshui.net/5257.html",
+          "publishedOn": "2023-11-12T04:36:24.000Z",
+          "wordCount": 530,
+          "title": "UFS Explorer Professional Recovery 9.18 Crack 破解版 开心版",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5250",
+          "author": "沧水",
+          "description": "事件起因：因openssh低版本有0day漏洞，所以尝试编译升级，没有快照直接上去一把梭。 我那么大一个服务呢 ...",
+          "link": "https://cangshui.net/5250.html",
+          "publishedOn": "2023-10-24T18:58:56.000Z",
+          "wordCount": 496,
+          "title": "记一次Openssh服务升级失败后的抢救措施",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5244",
+          "author": "沧水",
+          "description": "众所周知，aapanel没有限制使用宝塔插件，只是在软件商店页面限制下载安装，一般情况下，直接从/www/se ...",
+          "link": "https://cangshui.net/5244.html",
+          "publishedOn": "2023-10-22T14:41:54.000Z",
+          "wordCount": 374,
+          "title": "aaPanel移植宝塔的华为云存储插件",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5230",
+          "author": "沧水",
+          "description": "华为合作伙伴有哪些,华为上海合作伙伴有哪些,华为北京合作伙伴有哪些,华为深圳合作伙伴有哪些,华为代理商有哪些, ...",
+          "link": "https://cangshui.net/5230.html",
+          "publishedOn": "2023-06-29T20:39:35.000Z",
+          "wordCount": 345,
+          "title": "华为合作伙伴名单(全国主要城市)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5221",
+          "author": "沧水",
+          "description": "一、无root，只想下词库就行 只想下载词库，不涉及背单词进度，不需要区分单词是否已背 https://git ...",
+          "link": "https://cangshui.net/5221.html",
+          "publishedOn": "2023-06-23T14:52:27.000Z",
+          "wordCount": 444,
+          "title": "怎么把墨墨背单词里的词库导出来？",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5195",
+          "author": "沧水",
+          "description": "问题现象： 文件结构： 在PLEX论坛询问后得知，这是因为Plex默认优先读取视频文件里的tag 而不是本地封 ...",
+          "link": "https://cangshui.net/5195.html",
+          "publishedOn": "2023-06-04T07:48:42.000Z",
+          "wordCount": 635,
+          "title": "解决PLEX不读取本地封面–批量删除视频自带封面tag",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5167",
+          "author": "沧水",
+          "description": "项目主页： 该主题是通过chrome插件来调用的，但是本文介绍的是如何直接安装到emby server中 以群 ...",
+          "link": "https://cangshui.net/5167.html",
+          "publishedOn": "2023-05-03T04:38:23.000Z",
+          "wordCount": 394,
+          "title": "一个首页大屏展示海报封面的Emby主题",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5158",
+          "author": "沧水",
+          "description": "因特殊需要，需要设置某设备在有ipv6的路由下实现纯ipv4环境 该设备无法设置关闭ipv6，只能通过路由来想 ...",
+          "link": "https://cangshui.net/5158.html",
+          "publishedOn": "2023-04-14T20:01:45.000Z",
+          "wordCount": 472,
+          "title": "Openwrt下指定设备禁止获取IPV6",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5150",
+          "author": "沧水",
+          "description": "本人设备 畅网 CW-N5105-NAS 妖板 部署PVE版本为7.3-3 直通i226-V 给Openwrt ...",
+          "link": "https://cangshui.net/5150.html",
+          "publishedOn": "2023-03-16T13:33:02.000Z",
+          "wordCount": 448,
+          "title": "N5105部署PVE虚拟机随机崩溃或软重启的解决方案",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5144",
+          "author": "沧水",
+          "description": "现象： 群晖做iperf3客户端 （直连 or 交换机测试一致）上行只有100Mbps-200Mbps浮动下行 ...",
+          "link": "https://cangshui.net/5144.html",
+          "publishedOn": "2023-03-02T16:17:09.000Z",
+          "wordCount": 370,
+          "title": "I226V网卡上行掉速下行正常的奇怪问题",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5138",
+          "author": "沧水",
+          "description": "当你开心之后如果觉得Emby做的好就应该支持正版！价格不贵，还能得到官方社区的技术支持，后续版本升级也方便。  ...",
+          "link": "https://cangshui.net/5138.html",
+          "publishedOn": "2023-02-21T13:11:05.000Z",
+          "wordCount": 447,
+          "title": "群晖Emby4.8.11.0一键开心脚本",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5132",
+          "author": "沧水",
+          "description": "It looks like your domain 666.com is not provisioned with Cloudflare. Please continue to Cloudflare to secure and speed up your website.",
+          "link": "https://cangshui.net/5132.html",
+          "publishedOn": "2023-01-28T08:16:13.000Z",
+          "wordCount": 429,
+          "title": "SaaS接入Cloudflare后WordPress插件失效解决方案",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5121",
+          "author": "沧水",
+          "description": "一、Notepad – – 初衷即干掉NotePad++ 原生支持文本对比，但是目前似 ...",
+          "link": "https://cangshui.net/5121.html",
+          "publishedOn": "2023-01-27T12:02:50.000Z",
+          "wordCount": 419,
+          "title": "Notepad++的几款平替软件",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5115",
+          "author": "沧水",
+          "description": "适用于，本地网络无任何问题，甚至已经开了加速器但依旧无法登陆的情况 这个功能在很多加速器都有，但是我试了十余种 ...",
+          "link": "https://cangshui.net/5115.html",
+          "publishedOn": "2022-09-06T16:08:01.000Z",
+          "wordCount": 396,
+          "title": "无法连接至steam网络修复工具",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5088",
+          "author": "沧水",
+          "description": "采用命令方式搞定openstack 先上传镜像（glance组件）到控制节点 读取admin的环境变量，就相当 ...",
+          "link": "https://cangshui.net/5088.html",
+          "publishedOn": "2022-08-09T03:25:15.000Z",
+          "wordCount": 490,
+          "title": "纯命令在Openstack创建VM",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5051",
+          "author": "沧水",
+          "description": "安装三个redhat系统先 如果xshell连接慢 echo “UseDNS no”  ...",
+          "link": "https://cangshui.net/5051.html",
+          "publishedOn": "2022-08-09T03:23:06.000Z",
+          "wordCount": 749,
+          "title": "Openstack从搭建到创建VM（网页端创建）",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5042",
+          "author": "沧水",
+          "description": "软路由的网口芯片为 i225b3黑群晖用的 USB 外置 RTL8156B 2.5G 网卡台式机是ASUS b ...",
+          "link": "https://cangshui.net/5042.html",
+          "publishedOn": "2022-08-04T15:15:51.000Z",
+          "wordCount": 494,
+          "title": "N5105软路由 i225b3 2.5G网口 内网交换掉速 解决方案",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=5011",
+          "author": "沧水",
+          "description": "已搭建好的环境： CNA01 192.168.140.100 【BMC192.168.101.7】 Valn1 ...",
+          "link": "https://cangshui.net/5011.html",
+          "publishedOn": "2022-07-26T01:22:07.000Z",
+          "wordCount": 405,
+          "title": "HCIA实验笔记(FusionCompute+对接estor模拟器)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4986",
+          "author": "沧水",
+          "description": "设置字体和字号    临时生效的是   ctrl+shift+”+”& ...",
+          "link": "https://cangshui.net/4986.html",
+          "publishedOn": "2022-07-26T01:15:37.000Z",
+          "wordCount": 1274,
+          "title": "Linux学习笔记(华为HCIP云计算培训)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4974",
+          "author": "沧水",
+          "description": "Viu.com是香港电讯盈科媒体有限公司推出，针对香港、东南亚、南亚、中东及南非市场的免费OTT平台影片网站， ...",
+          "link": "https://cangshui.net/4974.html",
+          "publishedOn": "2022-04-07T04:27:11.000Z",
+          "wordCount": 508,
+          "title": "批量下载viu站CC外挂字幕shell脚本",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4964",
+          "author": "沧水",
+          "description": "KKTV为KKCompany 集团旗下的OTT品牌，结合台湾、日本、韩国、香港及中国大陆等，各地的影音内容与影 ...",
+          "link": "https://cangshui.net/4964.html",
+          "publishedOn": "2022-04-05T01:54:05.000Z",
+          "wordCount": 467,
+          "title": "批量下载KKTV站CC外挂字幕shell脚本",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4947",
+          "author": "沧水",
+          "description": "前几天同事到我家串门，无意中看见我之前DIY的桌面六口快充，想要我帮他弄个不带功率计的能同时冲4台iphone ...",
+          "link": "https://cangshui.net/4947.html",
+          "publishedOn": "2022-03-15T10:15:48.000Z",
+          "wordCount": 339,
+          "title": "再次DIY一款四口全协议桌面快充",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4935",
+          "author": "沧水",
+          "description": "受限于网络流媒体画质普遍不高，最近几年观看番剧主要是通过下载BD原盘资源，但是又由于近年来某个原因，几乎所有的 ...",
+          "link": "https://cangshui.net/4935.html",
+          "publishedOn": "2022-02-23T11:05:26.000Z",
+          "wordCount": 586,
+          "title": "批量下载B站港澳台CC外挂字幕shell脚本",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4921",
+          "author": "沧水",
+          "description": "1.前言 其实网上关于此类教程应该已经有不少了，但是发现能搜索到的教程都是直接采用gost默认证书，这样可能会 ...",
+          "link": "https://cangshui.net/4921.html",
+          "publishedOn": "2022-02-07T14:16:27.000Z",
+          "wordCount": 615,
+          "title": "使用Gost建立ssl加密中转矿池连接",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4913",
+          "author": "沧水",
+          "description": "当我们使用了某种拥有替代windows自带文件夹功能的第三方文件管理器后，有可能会出现无法恢复默认文件管理器的 ...",
+          "link": "https://cangshui.net/4913.html",
+          "publishedOn": "2022-01-15T15:58:49.000Z",
+          "wordCount": 414,
+          "title": "将windows文件管理器恢复为默认explorer.exe",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4888",
+          "author": "沧水",
+          "description": "温馨提示： 如果你的服务器TOS写了不允许长期占用CPU和流量，请勿使用该脚本！因此导致的财产损失本人概不负责 ...",
+          "link": "https://cangshui.net/4888.html",
+          "publishedOn": "2021-12-11T14:33:35.000Z",
+          "wordCount": 436,
+          "title": "linux撑满CPU、硬盘io和流量，拯救吃灰服务器",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4839",
+          "author": "沧水",
+          "description": "写在教程前： 1.关于价格： 虽然网页上面写的stardust需要0.0025欧元/小时，但是由于我们可以选择 ...",
+          "link": "https://cangshui.net/4839.html",
+          "publishedOn": "2021-12-05T10:10:49.000Z",
+          "wordCount": 1178,
+          "title": "Scaleway创建30元/年纯IPv6VPS教程(无视缺货)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4813",
+          "author": "沧水",
+          "description": "从不吝于给观众带来满满恶意的庵野秀明，终究还是向世界妥协了。 生活中每个人都在追求对自己的补完，每个人都曾是死 ...",
+          "link": "https://cangshui.net/4813.html",
+          "publishedOn": "2021-08-16T15:37:25.000Z",
+          "wordCount": 422,
+          "title": "每个人都曾是一个死小孩—–致《新世纪福音战士：终》",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4780",
+          "author": "沧水",
+          "description": "重要提示:本文DIY过程需要基础的电工知识和工具,并有大量的焊接,木工操作.如果你啥也不会,想要尝试制作可能要 ...",
+          "link": "https://cangshui.net/4780.html",
+          "publishedOn": "2021-06-22T15:05:34.000Z",
+          "wordCount": 447,
+          "title": "从零开始制作音响功放",
+          "enclosure": {
+            "url": "https://cangshui.net/-down/-myvideo/video_2021-06-22_22-43-46.mp4",
+            "length": "5376855",
+            "type": "video/mp4"
+          },
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4766",
+          "author": "沧水",
+          "description": "起因:桌面上使用USB供电的设备较多,直接排插上插满了充电头和线缆.而市面上的多口充电器要么就是多口全协议10 ...",
+          "link": "https://cangshui.net/4766.html",
+          "publishedOn": "2021-06-22T11:55:58.000Z",
+          "wordCount": 391,
+          "title": "DIY多口桌面快充",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4761",
+          "author": "沧水",
+          "description": "某日更新卡巴斯基杀毒软件之后出现了这个问题，只要卸载或者操作卡巴斯基软件内的任意功能即会触发该蓝屏，但是旧版卡 ...",
+          "link": "https://cangshui.net/4761.html",
+          "publishedOn": "2021-06-22T10:46:10.000Z",
+          "wordCount": 343,
+          "title": "解决终止代码unexpected_kernel_mode_trap 失败的操作klhk.sys蓝屏问题",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4735",
+          "author": "沧水",
+          "description": "需要自己准备的工具及配件： 某日在海鲜市场闲逛，首页推送给了我这么一台玩意，大概长右边这个这样： 配置如下图： ...",
+          "link": "https://cangshui.net/4735.html",
+          "publishedOn": "2021-05-12T15:17:31.000Z",
+          "wordCount": 408,
+          "title": "惠普t620plus 软路由",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4730",
+          "author": "沧水",
+          "description": "虽然目前各家运营商已经开始着手配置ipv6-pd，但是在很多地区推行进度缓慢以及各种大内网套娃的复杂网络环境， ...",
+          "link": "https://cangshui.net/4730.html",
+          "publishedOn": "2021-05-12T14:30:32.000Z",
+          "wordCount": 545,
+          "title": "二级路由下的Openwrt获取ipv6",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4721",
+          "author": "沧水",
+          "description": "目前ipv6国内宽带近乎普及，但是很多老脚本并不支持ipv6的ddns，比如我家群晖自带的ddns以及华硕路由 ...",
+          "link": "https://cangshui.net/4721.html",
+          "publishedOn": "2021-03-23T19:56:19.000Z",
+          "wordCount": 699,
+          "title": "用于dnspod的Ipv6 ddns脚本",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4695",
+          "author": "沧水",
+          "description": "之前虚拟机安装的Centos7磁盘容量告急，查了一会儿资料发现网上的资料不太详细，因此在一番实战后写下此篇文章 ...",
+          "link": "https://cangshui.net/4695.html",
+          "publishedOn": "2021-01-25T18:06:24.000Z",
+          "wordCount": 479,
+          "title": "记一次Centos磁盘扩容",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4685",
+          "author": "沧水",
+          "description": "Hostloc论坛是一个很好的VPS技术交流平台 ，深受广大MJJ们喜爱 但是有什么方法能将MJJ们从每天水贴 ...",
+          "link": "https://cangshui.net/4685.html",
+          "publishedOn": "2020-09-29T18:21:27.000Z",
+          "wordCount": 414,
+          "title": "Hostloc论坛一键浏览签到发帖发消息挂机",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4661",
+          "author": "沧水",
+          "description": "本文非广告，本人非常不推荐拼多多购买电子产品何况还是杂牌，购买之前请考虑自己是否有处理故障和承担风险的能力 主 ...",
+          "link": "https://cangshui.net/4661.html",
+          "publishedOn": "2020-07-31T04:28:07.000Z",
+          "wordCount": 414,
+          "title": "200块钱16G枭鲸内存条稳超4000",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4649",
+          "author": "沧水",
+          "description": "准备工作： 1.一个域名，只要能够正常解析就行 2.xshell或其他ssh软件 3.一台云服务器，流量尽可能 ...",
+          "link": "https://cangshui.net/4649.html",
+          "publishedOn": "2020-07-24T08:46:53.000Z",
+          "wordCount": 502,
+          "title": "黑群晖内网穿透教程(frp)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4627",
+          "author": "沧水",
+          "description": "因项目需要，我急需一台多核低频二奶机，在挑选主板时虽然想要购买一线大厂的板子，但奈何挑来挑去也找不到一块还有质 ...",
+          "link": "https://cangshui.net/4627.html",
+          "publishedOn": "2020-06-13T13:37:59.000Z",
+          "wordCount": 495,
+          "title": "华南X99鸡血bios教程",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4615",
+          "author": "沧水",
+          "description": "我之所以出现这种情况是因为今天格式化硬盘的时候，没有卸载vmware直接就格式化了它所在的硬盘，造成的这种情况 ...",
+          "link": "https://cangshui.net/4615.html",
+          "publishedOn": "2020-03-22T21:50:18.000Z",
+          "wordCount": 399,
+          "title": "仍在设置此设备的类配置(代码56)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4609",
+          "author": "沧水",
+          "description": "virtono是一家从2014年开始运营的商家，用户数量不多，看他的规模个人感觉职员不超过五个人，工单总是要等 ...",
+          "link": "https://cangshui.net/4609.html",
+          "publishedOn": "2020-03-20T15:19:49.000Z",
+          "wordCount": 725,
+          "title": "virtono罗马尼亚年付低至15欧",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4596",
+          "author": "沧水",
+          "description": "特点：俄罗斯机房，无限流量，自带Anti-ddos（官网没有写出具体防御），最低配机器年付仅100人民币左右， ...",
+          "link": "https://cangshui.net/4596.html",
+          "publishedOn": "2020-03-17T14:58:36.000Z",
+          "wordCount": 1006,
+          "title": "Justhost测评,带防御,无限流量,俄罗斯廉价VPS",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4579",
+          "author": "沧水",
+          "description": "由于手机端android10 三星oneui2.0使用chrome平平出现卡死，然后系统整个一起卡死的神奇bu ...",
+          "link": "https://cangshui.net/4579.html",
+          "publishedOn": "2020-02-02T19:17:27.000Z",
+          "wordCount": 417,
+          "title": "以管理员身份运行 Microsoft Edge 时不支持登录。请以非管理员身份重新启动 Microsoft Edge",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4541",
+          "author": "沧水",
+          "description": "2019年今年压轴virmach黑五2刀神机他来了，沧水守了五天有幸抢到一个，居然还是10G口2T流量，太感动 ...",
+          "link": "https://cangshui.net/4541.html",
+          "publishedOn": "2019-12-07T01:13:18.000Z",
+          "wordCount": 1048,
+          "title": "Virmach黑五2刀神机抢到了！",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4534",
+          "author": "沧水",
+          "description": "这家支持paypal信用卡支付宝，可能需要小心是灵车，建议Paypal支付，不要问为什么，老板是四大跑路的老板 ...",
+          "link": "https://cangshui.net/4534.html",
+          "publishedOn": "2019-11-27T17:26:21.000Z",
+          "wordCount": 659,
+          "title": "racknerd黑五优惠KVM-3H-2Gram-55G硬盘-2T流量-洛杉矶仅需$28/年(附带测评",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4516",
+          "author": "沧水",
+          "description": "【原创文章】应某些朋友的反馈，说是现在很多攻击平台和软件，已经可以利用cookie随意打穿cf的五秒盾，因此以 ...",
+          "link": "https://cangshui.net/4516.html",
+          "publishedOn": "2019-11-02T17:51:06.000Z",
+          "wordCount": 1331,
+          "title": "cloudflare自动开启验证码",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4498",
+          "author": "沧水",
+          "description": "【沧水原创文章转载注明出处】最近安装了zfka之后，由于卡网有几个需要手动发货的商品，需要实时通知自己有订单付 ...",
+          "link": "https://cangshui.net/4498.html",
+          "publishedOn": "2019-10-26T13:59:10.000Z",
+          "wordCount": 507,
+          "title": "Zfaka微信通知新订单",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4473",
+          "author": "沧水",
+          "description": "首先热烈祝贺本站成功抗下24小时111TB恶意流量 众所周知，cloudflare自2017年开始宣布无限量的 ...",
+          "link": "https://cangshui.net/4473.html",
+          "publishedOn": "2019-10-11T11:30:41.000Z",
+          "wordCount": 368,
+          "title": "cloudflare流量限制与投诉问题",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4447",
+          "author": "沧水",
+          "description": "Name 这个CSS效果我是用在xenforo论坛上的，设置方法如下： 先后台修改用户组CSS 再在模板列表找 ...",
+          "link": "https://cangshui.net/4447.html",
+          "publishedOn": "2019-08-26T03:16:53.000Z",
+          "wordCount": 411,
+          "title": "html CSS 七彩呼吸灯",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4430",
+          "author": "沧水",
+          "description": "（2019年8月）最近接一个朋友的要求，帮他配一台3500块钱以下打普通3A单机游戏还能录屏不卡还带显示器的机 ...",
+          "link": "https://cangshui.net/4430.html",
+          "publishedOn": "2019-08-14T15:07:21.000Z",
+          "wordCount": 519,
+          "title": "3000预算游戏显示器+主机配置",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4327",
+          "author": "沧水",
+          "description": "如果你的电脑出现WMI Provider Host 这个进程和Windows Management Ibstr ...",
+          "link": "https://cangshui.net/4327.html",
+          "publishedOn": "2019-06-30T03:52:14.000Z",
+          "wordCount": 411,
+          "title": "WMI Provider Host / Management服务占用CPU高解决思路",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4289",
+          "author": "沧水",
+          "description": "这个问题我记得已经有很多大佬陆陆续续发布一些方法，本文主要是综合来介绍几种主要防止censys.io此类网站扫 ...",
+          "link": "https://cangshui.net/4289.html",
+          "publishedOn": "2019-05-22T07:58:40.000Z",
+          "wordCount": 491,
+          "title": "防止源站IP泄露",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4268",
+          "author": "沧水",
+          "description": "Windows Server 2019 datacenter 即 windows数据中心2019服务器版，使用 ...",
+          "link": "https://cangshui.net/4268.html",
+          "publishedOn": "2019-05-17T05:01:43.000Z",
+          "wordCount": 525,
+          "title": "Windows Server 2019 datacenter （数据中心版）日常使用体验",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4235",
+          "author": "沧水",
+          "description": "划重点： 需要备案域名免费云存储可绑定自己域名获取文件直链支持HTTP/HTTPS无限存储单文件大小无限制支持 ...",
+          "link": "https://cangshui.net/4235.html",
+          "publishedOn": "2019-05-13T04:21:03.000Z",
+          "wordCount": 406,
+          "title": "免费无限容量云存储",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4221",
+          "author": "沧水",
+          "description": "Backblaze前10 GB的存储空间是免费的，每天能下载1G以内文件免费，上传免费，并与cloudflar ...",
+          "link": "https://cangshui.net/4221.html",
+          "publishedOn": "2019-05-03T16:49:12.000Z",
+          "wordCount": 376,
+          "title": "免费对象云存储Backblaze",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4201",
+          "author": "沧水",
+          "description": "最近发现在百度谷歌上出现了几个原封不动抄袭我文章并成功去掉了我的水印和博客名字还不写转载的网址，排名还在我前面 ...",
+          "link": "https://cangshui.net/4201.html",
+          "publishedOn": "2019-05-01T03:45:55.000Z",
+          "wordCount": 511,
+          "title": "如何投诉抄袭你文章的网站",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4179",
+          "author": "沧水",
+          "description": "网页通常包含大量图像，这些图像会导致以及页面加载的速度降低。而这些一同加载的图像都在屏幕外，需要用户滚动才能查看它们。导致网络在加载一瞬间的堵塞并且没有好的用户体验",
+          "link": "https://cangshui.net/4179.html",
+          "publishedOn": "2019-04-09T14:40:16.000Z",
+          "wordCount": 636,
+          "title": "Chrome75原生图片延迟加载",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4173",
+          "author": "沧水",
+          "description": "最近流行一种病——“晚睡强迫症”！ 现在生活节奏越来越快，人们睡眠时间越来越少。 执着追剧、沉迷游戏不能自拔， ...",
+          "link": "https://cangshui.net/4173.html",
+          "publishedOn": "2019-04-07T13:34:45.000Z",
+          "wordCount": 493,
+          "title": "什么是晚睡强迫症？",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4152",
+          "author": "沧水",
+          "description": "一般情况下，我们使用cloudflare时，默认的五秒盾是这样的： 可以看到，这样的界面，既没有美感也对大陆用 ...",
+          "link": "https://cangshui.net/4152.html",
+          "publishedOn": "2019-03-29T15:02:56.000Z",
+          "wordCount": 390,
+          "title": "cloudflare自定义页面(Custom Pages)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4143",
+          "author": "沧水",
+          "description": "如果有关注我博客的朋友应该发现了，我博客的左上角多出来了一个“彩蛋”按钮，如果你点击了的话，就会有一种神奇的光 ...",
+          "link": "https://cangshui.net/4143.html",
+          "publishedOn": "2019-03-17T10:58:06.000Z",
+          "wordCount": 504,
+          "title": "JS随机网页背景色(如何让用户自闭)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4062",
+          "author": "沧水",
+          "description": "六腑，与五脏相对。五脏干一部分工作，六腑干另一部分工作。所干的工作，我们可以简单的把它视为吃饭，拉屎。饭吃下去 ...",
+          "link": "https://cangshui.net/4062.html",
+          "publishedOn": "2019-03-05T12:58:11.000Z",
+          "wordCount": 368,
+          "title": "中医脏象学说之六腑",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4030",
+          "author": "沧水",
+          "description": "本文介绍转发CloudflareCDN服务的两种方式，也可用于其他反代 一、Gost转发 二、Iptables ...",
+          "link": "https://cangshui.net/4030.html",
+          "publishedOn": "2019-02-22T14:05:24.000Z",
+          "wordCount": 678,
+          "title": "反向代理Cloudflare加速网站(Gost/iptables转发)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=4011",
+          "author": "沧水",
+          "description": "值得一提的是，目前推荐Chrome版本为71版本，firefox为63版本，因为这两个版本都意味着「完整」支持 ...",
+          "link": "https://cangshui.net/4011.html",
+          "publishedOn": "2019-02-21T12:10:24.000Z",
+          "wordCount": 416,
+          "title": "彻底关闭Firefox/Chrome自动更新",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3836",
+          "author": "沧水",
+          "description": "写在教程前：为什么要反向代理cloudflare？答：缩短路由，加快cloudflare节点到大陆用户的速度， ...",
+          "link": "https://cangshui.net/3836.html",
+          "publishedOn": "2019-02-17T07:11:37.000Z",
+          "wordCount": 656,
+          "title": "反向代理Cloudflare加速网站(SNIproxy)",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3772",
+          "author": "沧水",
+          "description": "如果看过我的博文的朋友应该记得我上一篇的JS/PHP代码阻止微信访问 之后有朋友反映这样做的话，只能引导用户从 ...",
+          "link": "https://cangshui.net/3772.html",
+          "publishedOn": "2019-02-11T14:09:52.000Z",
+          "wordCount": 447,
+          "title": "js阻止微信访问加强版",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3718",
+          "author": "沧水",
+          "description": "最近做了一个视频解析站，无意中在和群友聊天的时候发现很多人的采集或者解析站，都被腾讯旗下的软件直接报危险网站， ...",
+          "link": "https://cangshui.net/3718.html",
+          "publishedOn": "2019-02-06T07:10:47.000Z",
+          "wordCount": 531,
+          "title": "JS/PHP代码阻止微信访问",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3658",
+          "author": "沧水",
+          "description": "关于敬业福的获得： 新出的图，扫完九副福字目前必中敬业，博主三个号全是还没扫完就中了，速上，可能等下就黄 关于 ...",
+          "link": "https://cangshui.net/3658.html",
+          "publishedOn": "2019-01-30T02:33:00.000Z",
+          "wordCount": 350,
+          "title": "敬业福花花卡攻略",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3638",
+          "author": "沧水",
+          "description": "写在下载之前的话： 十二神器其实没有那么神秘，只是很多年以前百度贴吧上的gal吧吧主的一个归纳总结，然后不知道 ...",
+          "link": "https://cangshui.net/3638.html",
+          "publishedOn": "2019-01-28T10:54:56.000Z",
+          "wordCount": 440,
+          "title": "十二神魔器下载",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3629",
+          "author": "沧水",
+          "description": "今天是2019-1-23日，以下接口可用：（来源于如有乐享） http://69p.top/?url= htt ...",
+          "link": "https://cangshui.net/3629.html",
+          "publishedOn": "2019-01-23T12:47:24.000Z",
+          "wordCount": 445,
+          "title": "免费视频解析接口和视频解析站源码",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3620",
+          "author": "沧水",
+          "description": "消息来自@liyuans.com大佬博客！ 阿里云国内站的一个小福利，.design域名首年免费！ 但是！！  ...",
+          "link": "https://cangshui.net/3620.html",
+          "publishedOn": "2019-01-22T04:52:13.000Z",
+          "wordCount": 348,
+          "title": "阿里云送.design域名首年免费",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3599",
+          "author": "沧水",
+          "description": "Ray：“只有你能够杀死我” Zack：“你只能被我给杀死” 提示：本文包含剧透 杀戮天使又名： 《没头脑与不 ...",
+          "link": "https://cangshui.net/3599.html",
+          "publishedOn": "2019-01-19T11:00:04.000Z",
+          "wordCount": 412,
+          "title": "2018年度我最喜欢的番剧居然是……",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3553",
+          "author": "沧水",
+          "description": "无损音乐下载器是一款可以免费下载任意音乐无损音质的强大工具，您是否不想再听渣音质，不想再听那些模糊不清的音乐文件，马上使用这款无损音乐下载器让你随时倾听无损音质。",
+          "link": "https://cangshui.net/3553.html",
+          "publishedOn": "2019-01-05T03:12:15.000Z",
+          "wordCount": 439,
+          "title": "免费无损音乐下载器",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3518",
+          "author": "沧水",
+          "description": "关于live2d看板娘请看我之前的文章https://cangshui.net/?p=1886 有朋友反馈手机 ...",
+          "link": "https://cangshui.net/3518.html",
+          "publishedOn": "2019-01-01T12:46:54.000Z",
+          "wordCount": 472,
+          "title": "解决live2d看板娘卡顿",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3475",
+          "author": "沧水",
+          "description": "前言：现在很多人搭建web环境选择了一键脚本或可视化管理面板，因此我认为在使用一键脚本之前，一定要自己搭建一次 ...",
+          "link": "https://cangshui.net/3475.html",
+          "publishedOn": "2018-12-29T11:55:41.000Z",
+          "wordCount": 555,
+          "title": "Centos7手动编译安装apache",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3361",
+          "author": "沧水",
+          "description": "图片打包链接:pan.cangshui.net 密码: god 页面有点慢耐性等待 咦，小姐姐，还有cospl ...",
+          "link": "https://cangshui.net/3361.html",
+          "publishedOn": "2018-12-25T09:39:54.000Z",
+          "wordCount": 471,
+          "title": "网站收费小姐姐图片打包36GB",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3346",
+          "author": "沧水",
+          "description": "俄罗斯DDOS-Guard支持ssl防御1.5T",
+          "link": "https://cangshui.net/3346.html",
+          "publishedOn": "2018-12-25T03:31:36.000Z",
+          "wordCount": 457,
+          "title": "【免费CDN】俄罗斯DDOS-Guard支持ssl防御1.5T",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3237",
+          "author": "沧水",
+          "description": "原创html抖音效果CSS,文字彩色抖动效果CSS 请注意！为了用户体验，请勿在某些重要的页面使用这种抖动效果 ...",
+          "link": "https://cangshui.net/3237.html",
+          "publishedOn": "2018-12-23T04:02:25.000Z",
+          "wordCount": 483,
+          "title": "html抖音效果CSS,文字彩色抖动效果CSS",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3275",
+          "author": "沧水",
+          "description": "【已翻车】域名全部回收了，账号被封 国外的 Infomaniak 公司出了一个活动：1个域名+20 个网站+  ...",
+          "link": "https://cangshui.net/3275.html",
+          "publishedOn": "2018-12-22T08:25:17.000Z",
+          "wordCount": 440,
+          "title": "【已翻车】免费.com域名+邮局服务+虚拟机",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3260",
+          "author": "沧水",
+          "description": "活动地址：https://www.humblebundle.com/store/lego-the-lord-o ...",
+          "link": "https://cangshui.net/3260.html",
+          "publishedOn": "2018-12-20T18:40:26.000Z",
+          "wordCount": 340,
+          "title": "humblebundle免费送Steam游戏乐高指环王（原价68RMB）",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3232",
+          "author": "沧水",
+          "description": "不得不说这些上古QQ默认头像高清重置后放到今天依旧耐看！ 甚至在今天这个头像各种花里胡哨的今天，这样的默认头像 ...",
+          "link": "https://cangshui.net/3232.html",
+          "publishedOn": "2018-12-16T15:12:48.000Z",
+          "wordCount": 356,
+          "title": "QQ2008头像,QQ经典怀旧头像,QQ重置版头像",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3220",
+          "author": "沧水",
+          "description": "今天准备在80端口部署临时邮箱的时候发现80端口被占用，然后pm2进程一直在炸，CPU直接飙到100，我就纳闷 ...",
+          "link": "https://cangshui.net/3220.html",
+          "publishedOn": "2018-12-15T18:22:23.000Z",
+          "wordCount": 381,
+          "title": "Bt宝塔面板Nginx占用80端口的解决办法",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3202",
+          "author": "沧水",
+          "description": "活动地址：https://www.humblebundle.com/store/lego-the-hobbit ...",
+          "link": "https://cangshui.net/3202.html",
+          "publishedOn": "2018-12-13T18:35:04.000Z",
+          "wordCount": 355,
+          "title": "humblebundle免费送Steam游戏乐高霍比特人（原价30RMB）",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3189",
+          "author": "沧水",
+          "description": "各大CDN的节点IP段，加速乐CDNip段，腾讯云CDNip段，百度云CDNip段，牛盾CDNip段360CD ...",
+          "link": "https://cangshui.net/3189.html",
+          "publishedOn": "2018-12-13T07:01:30.000Z",
+          "wordCount": 508,
+          "title": "各大CDN的节点IP段",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3173",
+          "author": "沧水",
+          "description": "她的推特：https://twitter.com/RocksyLight  话不多说，直接上图包链接 ...",
+          "link": "https://cangshui.net/3173.html",
+          "publishedOn": "2018-12-12T14:38:16.000Z",
+          "wordCount": 393,
+          "title": "俄罗斯美女RocksyLight的COSplay图包",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3164",
+          "author": "沧水",
+          "description": "最近在在写一些文档的时候，经常需要切到其他窗口去查看资料，可是笔记本的屏幕实在是有点小，而在两个窗口之间切换， ...",
+          "link": "https://cangshui.net/3164.html",
+          "publishedOn": "2018-12-12T13:55:02.000Z",
+          "wordCount": 441,
+          "title": "让旧手机变为电脑扩展屏幕",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3143",
+          "author": "沧水",
+          "description": "为什么这么做：前段时间网站一直被慢速CC困扰，尽管开启cloudflare的五秒盾之后世界都安静了，但是这样会 ...",
+          "link": "https://cangshui.net/3143.html",
+          "publishedOn": "2018-12-11T06:28:42.000Z",
+          "wordCount": 1020,
+          "title": "设置全站只能通过CDN访问",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3136",
+          "author": "沧水",
+          "description": "今天介绍一款界面炒鸡酷炫的服务器Web可视化监控程序：NetData 它是系统的分布式监控，能够实时查看lin ...",
+          "link": "https://cangshui.net/3136.html",
+          "publishedOn": "2018-12-10T14:00:23.000Z",
+          "wordCount": 535,
+          "title": "可视化Linux性能监控",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3119",
+          "author": "沧水",
+          "description": "Web 开发中几乎的平台都需要一个后台管理，但是从零开发一套后台控制面板并不容易，幸运的是有很多开源 ...",
+          "link": "https://cangshui.net/3119.html",
+          "publishedOn": "2018-12-09T12:28:42.000Z",
+          "wordCount": 474,
+          "title": "后台控制面板模板推荐",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3111",
+          "author": "沧水",
+          "description": "领取地址：登录Steam，打开连接https://store.steampowered.com/app/231 ...",
+          "link": "https://cangshui.net/3111.html",
+          "publishedOn": "2018-12-07T05:27:58.000Z",
+          "wordCount": 338,
+          "title": "Steam英雄连2免费+1",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3099",
+          "author": "沧水",
+          "description": "自从支付宝红包活动上线以来，出现了这样的骚扰性发送红包代码/二维码的情况 更有APP嵌入自动让用户复制红包码的 ...",
+          "link": "https://cangshui.net/3099.html",
+          "publishedOn": "2018-12-05T17:54:14.000Z",
+          "wordCount": 342,
+          "title": "请举报骚扰你的支付宝红包！",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3087",
+          "author": "沧水",
+          "description": "#全局Ajax排除某个链接#如何让某个链接不使用Ajax加载# 因为博客使用了某套主题的全局AJAX加载，造成 ...",
+          "link": "https://cangshui.net/3087.html",
+          "publishedOn": "2018-12-04T20:37:25.000Z",
+          "wordCount": 387,
+          "title": "全局Ajax如何排除某个链接",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=3057",
+          "author": "沧水",
+          "description": "本文主要分为两部分，本地预览+云端部署和云端简易部署 , 本地+云端部署需要懂一些Git命 ...",
+          "link": "https://cangshui.net/3057.html",
+          "publishedOn": "2018-12-04T07:54:40.000Z",
+          "wordCount": 434,
+          "title": "Github Pages + Jekyll搭建博客图文教程",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=2983",
+          "author": "沧水",
+          "description": "①.SD卡介绍 ②.SD卡标准 ③.SD卡数据安全 ④.指南和体验 Part 1. 介绍 SD卡全称Secur ...",
+          "link": "https://cangshui.net/2983.html",
+          "publishedOn": "2018-11-21T04:29:07.000Z",
+          "wordCount": 533,
+          "title": "SD卡是什么？SD卡有哪些你需要懂的知识？",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=2260",
+          "author": "沧水",
+          "description": "不需要实名 ！！！！老用户也可以领！！！！用法和普通的空间一样有面板！！ 目前可用使用的免单优惠码为，(免备案 ...",
+          "link": "https://cangshui.net/2260.html",
+          "publishedOn": "2018-11-07T03:37:20.000Z",
+          "wordCount": 471,
+          "title": "免费docker虚拟主机#强人网络",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        },
+        {
+          "id": "https://cangshui.net/?p=2526",
+          "author": "沧水",
+          "description": "本文介绍一种直接从微软官方下载IOS镜像的方法 先打开链接www.microsoft.com/zh-cn/so ...",
+          "link": "https://cangshui.net/2526.html",
+          "publishedOn": "2018-10-21T08:37:58.000Z",
+          "wordCount": 366,
+          "title": "下载官方Windows10镜像方法",
+          "imageUrl": "https://cangshui.net/myimg/weblogo121x75.png"
+        }
+      ]
+    },
+    {
+      "title": "Jeffrey的博客",
+      "feedUrl": "https://www.yejiefeng.com/rss.xml",
+      "siteUrl": "https://www.yejiefeng.com",
+      "articles": [
+        {
+          "id": "https://www.yejiefeng.com/articles/2025/07/26/1753539129007.html",
+          "author": "YYJeffrey",
+          "description": "有时候我不拍东西，我只想沉浸在那个时刻",
+          "link": "https://www.yejiefeng.com/articles/2025/07/26/1753539129007.html",
+          "publishedOn": "2025-07-28T14:39:05.000Z",
+          "wordCount": 278,
+          "title": "从河西走廊到大美新疆，25 天旅途故事分享合集",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2025/03/18/1742295984567.html",
+          "author": "YYJeffrey",
+          "description": "每个人的生命都是一条通向自我的路",
+          "link": "https://www.yejiefeng.com/articles/2025/03/18/1742295984567.html",
+          "publishedOn": "2025-03-18T11:06:24.000Z",
+          "wordCount": 141,
+          "title": "强化学习玩转量化交易，回测年化 70%+，智能体的决策是否可信？",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/12/26/1735221542722.html",
+          "author": "YYJeffrey",
+          "description": "我是自己的天才",
+          "link": "https://www.yejiefeng.com/articles/2024/12/26/1735221542722.html",
+          "publishedOn": "2025-02-05T09:43:58.000Z",
+          "wordCount": 276,
+          "title": "Jeffrey 2024 年度总结——自洽",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2019/09/26/1712640683983.html",
+          "author": "YYJeffrey",
+          "description": "平静是真正的快乐。",
+          "link": "https://www.yejiefeng.com/articles/2019/09/26/1712640683983.html",
+          "publishedOn": "2024-11-13T03:12:56.000Z",
+          "wordCount": 561,
+          "title": "记一个图算法的求解过程",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/09/22/1727011799362.html",
+          "author": "YYJeffrey",
+          "description": "我们还有很长的路要走，但没关系，毕竟生活就是赶路",
+          "link": "https://www.yejiefeng.com/articles/2024/09/22/1727011799362.html",
+          "publishedOn": "2024-11-06T14:33:24.000Z",
+          "wordCount": 260,
+          "title": "飞牛云 OS 尝鲜体验，HyperV 虚拟机一样畅玩 NAS",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/10/20/1729424605879.html",
+          "author": "YYJeffrey",
+          "description": "改变是相对实相中唯一不变的事实",
+          "link": "https://www.yejiefeng.com/articles/2024/10/20/1729424605879.html",
+          "publishedOn": "2024-10-20T11:45:00.000Z",
+          "wordCount": 246,
+          "title": "1Panel 证书自动续期后，推送至阿里云 CDN，实现无感知替换",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/08/20/1724129932136.html",
+          "author": "YYJeffrey",
+          "description": "我认为，一个人能追求的最高理想，应该是对自我的完善",
+          "link": "https://www.yejiefeng.com/articles/2024/08/20/1724129932136.html",
+          "publishedOn": "2024-08-20T10:07:01.000Z",
+          "wordCount": 440,
+          "title": "新一代 Linux 面板 1Panel 管理服务器，支持自动化数据备份和证书续期，包好用",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/05/05/1714893985459.html",
+          "author": "YYJeffrey",
+          "description": "叩问生命的终极意义是困难的，犹如行在刀锋",
+          "link": "https://www.yejiefeng.com/articles/2024/05/05/1714893985459.html",
+          "publishedOn": "2024-08-20T08:00:51.000Z",
+          "wordCount": 161,
+          "title": "云服务器续费价格总是这么离谱？云服务器数据迁移方案实践",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2023/10/19/1697686214435.html",
+          "author": "YYJeffrey",
+          "description": "时间自由是财富能带给你的最大红利",
+          "link": "https://www.yejiefeng.com/articles/2023/10/19/1697686214435.html",
+          "publishedOn": "2024-08-20T08:00:42.000Z",
+          "wordCount": 258,
+          "title": "降本 90% 是如何做到的？OSS + CDN 节省流量成本的实战方案",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        },
+        {
+          "id": "https://www.yejiefeng.com/articles/2024/08/12/1723455776843.html",
+          "author": "YYJeffrey",
+          "description": "一个人往往要远离传统，才能获得某种批判能力",
+          "link": "https://www.yejiefeng.com/articles/2024/08/12/1723455776843.html",
+          "publishedOn": "2024-08-13T04:34:24.000Z",
+          "wordCount": 348,
+          "title": "用树莓派 4B 搭建一个家庭 NAS，实现影音自由",
+          "imageUrl": "https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg?imageView2/1/w/256/h/256/interlace/0/q/100&timestamp=1577810586263"
+        }
+      ]
+    },
+    {
+      "title": "筷子铺的博客",
+      "feedUrl": "https://kzpu.com/feed",
+      "siteUrl": "https://kzpu.com",
+      "articles": [
+        {
+          "id": "https://kzpu.com/?p=5972",
+          "author": "admin",
+          "description": "博主的NAS里有4个14T硬盘，组的是raid 10，其中有一个14T的硬盘报错较多，于是决定更换。… 继续阅读 debian里madam阵列更新硬盘",
+          "link": "https://kzpu.com/archives/5972.html",
+          "publishedOn": "2025-10-06T01:00:54.000Z",
+          "wordCount": 1433,
+          "title": "debian里madam阵列更新硬盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5952",
+          "author": "admin",
+          "description": "win10里的iso文件，右键可以直接装载到一个虚拟光驱里的，今天发现只有打开，没有装载了。 方法简… 继续阅读 win10右键打开ISO没有装载选项",
+          "link": "https://kzpu.com/archives/5952.html",
+          "publishedOn": "2025-06-28T00:37:42.000Z",
+          "wordCount": 1087,
+          "title": "win10右键打开ISO没有装载选项",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5914",
+          "author": "admin",
+          "description": "相信很多人和我一样，第一次使用苹果电脑时，措手不及，不知道从何处下手，我也一样。自从种草了mac m… 继续阅读 mac系统新手小白上手指南",
+          "link": "https://kzpu.com/archives/5914.html",
+          "publishedOn": "2025-04-05T09:56:13.000Z",
+          "wordCount": 1149,
+          "title": "mac系统新手小白上手指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5884",
+          "author": "admin",
+          "description": "相信和我一样，买到天选5pro的用户，拿到手后发现风扇噪音大，发热巨大，待机温度高等，别怕，是买到正… 继续阅读 华硕天选5pro锐龙版功耗风扇调教指南",
+          "link": "https://kzpu.com/archives/5884.html",
+          "publishedOn": "2024-11-17T08:26:43.000Z",
+          "wordCount": 1124,
+          "title": "华硕天选5pro锐龙版功耗风扇调教指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5863",
+          "author": "admin",
+          "description": "博主趁着国补间隙，入手了一台华硕天选5pro锐龙版笔记本电脑，使用了十来天，有一些感想和体验，分享一… 继续阅读 华硕天选5pro锐龙版使用体验",
+          "link": "https://kzpu.com/archives/5863.html",
+          "publishedOn": "2024-11-17T02:54:58.000Z",
+          "wordCount": 1120,
+          "title": "华硕天选5pro锐龙版使用体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5857",
+          "author": "admin",
+          "description": "今天把win11系统升级到了24H2了，NAS上共享的东西突然打不开了，也就是无法访问nas的smb… 继续阅读 win 11更新到24H2局域网共享突然用不了",
+          "link": "https://kzpu.com/archives/5857.html",
+          "publishedOn": "2024-10-05T07:16:41.000Z",
+          "wordCount": 1097,
+          "title": "win 11更新到24H2局域网共享突然用不了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5852",
+          "author": "admin",
+          "description": "IPv6随处可见，但IPv4却越来越少，在内网的每一台设备上都可以出现IPv6的地址，并且IPv6不… 继续阅读 用IPv6访问Openwrt",
+          "link": "https://kzpu.com/archives/5852.html",
+          "publishedOn": "2024-10-05T02:15:17.000Z",
+          "wordCount": 1113,
+          "title": "用IPv6访问Openwrt",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5825",
+          "author": "admin",
+          "description": "NAS系统也出现了百花齐现，百花争鸣。国产NAS系统飞牛OS横空出世，今天一起来体验一下，首先是安装… 继续阅读 国产NAS系统飞牛OS安装",
+          "link": "https://kzpu.com/archives/5825.html",
+          "publishedOn": "2024-09-22T10:44:58.000Z",
+          "wordCount": 1114,
+          "title": "国产NAS系统飞牛OS安装",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5819",
+          "author": "admin",
+          "description": "路由器是openwrt，使用的是he.net的动态域名，一直用了十多年了，路由器并且也安装了V2ra… 继续阅读 一次动态域名报错的解决方法",
+          "link": "https://kzpu.com/archives/5819.html",
+          "publishedOn": "2024-09-21T00:25:54.000Z",
+          "wordCount": 1141,
+          "title": "一次动态域名报错的解决方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://kzpu.com/?p=5808",
+          "author": "admin",
+          "description": "家里的一台惠普打印机，打印出现黑边、黑纹。型号为M132a，于是在网上搜索是何种问题，基本定位是打印… 继续阅读 自己动手维修惠普打印机",
+          "link": "https://kzpu.com/archives/5808.html",
+          "publishedOn": "2024-08-30T07:36:30.000Z",
+          "wordCount": 1090,
+          "title": "自己动手维修惠普打印机",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "July's Blog",
+      "feedUrl": "https://yangwenqing.com/feed",
+      "siteUrl": "https://yangwenqing.com/",
+      "articles": [
+        {
+          "id": "https://yangwenqing.com/archives/3046/",
+          "author": "July's",
+          "description": "给你的PVE虚拟机自定义GPU显卡型号没钱买5090显卡怎么办？咱就自己骗自己，模拟一个出来。GPU ID模拟在直通GPU时，你通常可以看到PCI菜单下方有 供应商 ID 设备 ID 和子供应商...",
+          "link": "https://yangwenqing.com/archives/3046/",
+          "publishedOn": "2025-12-11T13:51:00.000Z",
+          "wordCount": 1715,
+          "title": "给你的PVE虚拟机自定义GPU显卡型号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/3038/",
+          "author": "July's",
+          "description": "给你的PVE虚拟机自定义CPU模型/型号通常我们的PVE虚拟机习惯把CPU的类别设置为host模型，这样既能获得与宿主机CPU几乎完全相同的指令集和性能又可以在虚拟机看到的CPU就是宿主机CPU...",
+          "link": "https://yangwenqing.com/archives/3038/",
+          "publishedOn": "2025-12-11T12:26:00.000Z",
+          "wordCount": 1950,
+          "title": "给你的PVE虚拟机自定义CPU模型/型号",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2931/",
+          "author": "July's",
+          "description": "在ESXI 8.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术---应用于Windows/Ubuntu系统来更新一篇ESXI版本的NVIDIA vGPU教程，本次用到的版本是ESXI8...",
+          "link": "https://yangwenqing.com/archives/2931/",
+          "publishedOn": "2025-11-18T12:49:00.000Z",
+          "wordCount": 5327,
+          "title": "在ESXI 8.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术---应用于Windows/Ubuntu系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2895/",
+          "author": "July's",
+          "description": "2026年：我在PVE7上使用NVIDIA vGPU玩扫雷--Windows7篇爷青回！一切始于我对Windows 7那个复古界面的怀念。我在Proxmox VE上精心部署了台Win7虚拟机，准...",
+          "link": "https://yangwenqing.com/archives/2895/",
+          "publishedOn": "2025-11-07T06:56:00.000Z",
+          "wordCount": 5954,
+          "title": "2026年：我在PVE7上使用NVIDIA vGPU玩扫雷--Windows7篇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2797/",
+          "author": "July's",
+          "description": "PVE9：用NVIDIA vGPU19.0虚拟化显卡拆分在虚拟机玩游戏记录6.14内核的PVE9配置NVIDIA vGPU19.0版本的显卡虚拟化拆分，并在虚拟机里玩游戏。NVIDIA vGPU...",
+          "link": "https://yangwenqing.com/archives/2797/",
+          "publishedOn": "2025-09-22T01:19:00.000Z",
+          "wordCount": 8329,
+          "title": "PVE9：用NVIDIA vGPU19.0虚拟化显卡拆分在虚拟机玩游戏",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2781/",
+          "author": "July's",
+          "description": "为啥浏览器登录PVE管理后台，没2分钟就要我重新验证登录？这是由于PVE时间不对导致的，当您登录时，PVE会生成一个有时效性的令牌（通常默认是2小时）。这个令牌的有效期计算严重依赖于节点的系统时...",
+          "link": "https://yangwenqing.com/archives/2781/",
+          "publishedOn": "2025-08-30T05:56:18.000Z",
+          "wordCount": 1670,
+          "title": "为啥浏览器登录PVE管理后台，没2分钟就要我重新验证登录？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2777/",
+          "author": "July's",
+          "description": "PVE直通硬件后，为啥内存不能动态调整?你是不是在 Proxmox VE（PVE） 里给虚拟机直通显卡、网卡后，发现内存不能自动调整了？别慌！ 这是正常现象，今天用人话解释原因，并教你正确设置！...",
+          "link": "https://yangwenqing.com/archives/2777/",
+          "publishedOn": "2025-08-30T04:53:00.000Z",
+          "wordCount": 1772,
+          "title": "PVE直通硬件后，为啥内存不能动态调整?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2729/",
+          "author": "July's",
+          "description": "在PVE9.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术--应用于Windows/Ubuntu系统记录6.14内核的PVE9.0.3版本配置NVIDIA vGPU19.0版本的显卡虚...",
+          "link": "https://yangwenqing.com/archives/2729/",
+          "publishedOn": "2025-08-27T12:51:00.000Z",
+          "wordCount": 10494,
+          "title": "在PVE9.0下使用NVIDIA vGPU19.0显卡虚拟化拆分技术--应用于Windows/Ubuntu系统",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2714/",
+          "author": "July's",
+          "description": "Proxmox VE PVE 9.X使用合集篇--持续更新注意，本篇文章仅记录Proxmox VE 9.X版本日常的使用设置，低于9.0版本的可能不适用。PVE换源更换国内源主要是为了解决网络访...",
+          "link": "https://yangwenqing.com/archives/2714/",
+          "publishedOn": "2025-08-25T10:26:00.000Z",
+          "wordCount": 3161,
+          "title": "Proxmox VE PVE 9.X使用合集篇--持续更新",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2654/",
+          "author": "July's",
+          "description": "PVE8升级PVE9  在线升级｜重装还原 2 种方式今年下半年，ESXi （6月17日）和 Proxmox VE（8月5日） 两家虚拟化平台都迎来了自己的9.0正式版。此次ESXI9.0的授权...",
+          "link": "https://yangwenqing.com/archives/2654/",
+          "publishedOn": "2025-08-08T12:05:00.000Z",
+          "wordCount": 2752,
+          "title": "PVE8升级PVE9  在线升级｜重装还原 2 种方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/2645/",
+          "author": "July's",
+          "description": "创建PVE集群在任意一个节点创建集群作为主节点，创建集群可以在web创建也可以使用命令创建。Web端创建集群：步骤：数据中心 ➡️ 集群 ➡️ 创建集群 ➡️ 设置集群名称 ➡️ 选择网络 ➡️...",
+          "link": "https://yangwenqing.com/archives/2645/",
+          "publishedOn": "2025-07-27T07:05:00.000Z",
+          "wordCount": 2071,
+          "title": "Proxmox VE (PVE) 集群基本操作：创建集群/加入集群/退出集群",
+          "imageUrl": null
+        },
+        {
+          "id": "https://yangwenqing.com/archives/1768/",
+          "author": "July's",
+          "description": "PVE疑难解答，有需要点击链接闲鱼与我联系[button color=\"warning\" icon=\"glyphicon glyphicon-shopping-cart\" url=\"https:...",
+          "link": "https://yangwenqing.com/archives/1768/",
+          "publishedOn": "2023-10-05T04:17:00.000Z",
+          "wordCount": 3725,
+          "title": "Proxmox VE PVE 8.X使用合集篇--持续更新",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "NAS交流社区",
+      "feedUrl": "https://izspace.cn/feed",
+      "siteUrl": "https://izspace.cn",
+      "articles": [
+        {
+          "id": "https://izspace.cn/?p=1285",
+          "author": "Zyi",
+          "description": "一、连接到飞牛 SSH 场景①：笔记本息屏不关机（手动控制屏幕开关） 通过命令实现「关闭屏幕但设备保持运行」，...",
+          "link": "https://izspace.cn/tutorial/feiniuosnote.html",
+          "publishedOn": "2025-10-27T04:28:12.000Z",
+          "wordCount": 597,
+          "title": "笔记本电脑安装飞牛OS息屏不关机和合盖不休眠教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1274",
+          "author": "Zyi",
+          "description": "手机“开发者模式”菜单中开启“USB 调试”和“无线调试”，手机网络与电脑在同一网内;   一、在开...",
+          "link": "https://izspace.cn/tutorial/adbconnect.html",
+          "publishedOn": "2025-10-15T14:12:31.000Z",
+          "wordCount": 515,
+          "title": "不用数据线，ADB无线调试安卓手机步骤",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1259",
+          "author": "Zyi",
+          "description": "如果你是影音爱好者，一定遇到过这样的困扰：电脑里存了海量电影、电视剧和家庭录像，想在手机、平板或电视上观看时，...",
+          "link": "https://izspace.cn/tutorial/embyc.html",
+          "publishedOn": "2025-10-13T12:21:05.000Z",
+          "wordCount": 639,
+          "title": "全设备客户端指南：从功能解析到实用推荐，附下载链接",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1200",
+          "author": "Zyi",
+          "description": "就是上面这种，很好看适用于 emby/jellyfin/ 飞牛，我现在拿来做 emby 封面很美观哦~ 下载链...",
+          "link": "https://izspace.cn/video/fengmian.html",
+          "publishedOn": "2025-10-03T05:27:00.000Z",
+          "wordCount": 487,
+          "title": "给大家分享一组好看的影视库封面图，适用emby/jellyfin/飞牛",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1175",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-09-04 20:05，文中所关联的信息可能已发生改变，请知悉！ 这是一款电脑...",
+          "link": "https://izspace.cn/tutorial/windows11youhua.html",
+          "publishedOn": "2025-08-13T02:27:21.000Z",
+          "wordCount": 536,
+          "title": "分享一款Windows11神器，全免费无广告装机优化必备",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1170",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-09-04 20:06，文中所关联的信息可能已发生改变，请知悉！ 前言：解决影...",
+          "link": "https://izspace.cn/tutorial/wenjianzhengli.html",
+          "publishedOn": "2025-07-10T06:09:49.000Z",
+          "wordCount": 846,
+          "title": "NAS影视库乱拉屎？一文教会你自动删除没有视频的文件夹",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1159",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-09-04 20:03，文中所关联的信息可能已发生改变，请知悉！ 如图：jel...",
+          "link": "https://izspace.cn/tutorial/jellyfinfonts.html",
+          "publishedOn": "2025-07-07T04:45:33.000Z",
+          "wordCount": 512,
+          "title": "如何解决Jellyfin/emby中首页封面和字幕显示方块问题？一文教会你",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1137",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-09-04 20:07，文中所关联的信息可能已发生改变，请知悉！ 写在前面： ...",
+          "link": "https://izspace.cn/tutorial/frpshezhi.html",
+          "publishedOn": "2025-07-01T06:51:08.000Z",
+          "wordCount": 719,
+          "title": "如何搭建frp内网穿透工具从而实现MP微信交互消息",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1126",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-10-09 11:00，文中所关联的信息可能已发生改变，请知悉！ MP 最新版...",
+          "link": "https://izspace.cn/video/mpmubandaima.html",
+          "publishedOn": "2025-06-26T05:57:27.000Z",
+          "wordCount": 522,
+          "title": "想要炫酷的MP通知消息推送？看这篇文章就够了。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://izspace.cn/?p=1110",
+          "author": "Zyi",
+          "description": "提醒：本文最后更新于 2025-09-04 20:10，文中所关联的信息可能已发生改变，请知悉！ 1. 打开电...",
+          "link": "https://izspace.cn/tutorial/qingli.html",
+          "publishedOn": "2025-06-20T02:29:10.000Z",
+          "wordCount": 488,
+          "title": "极空间NAS如何快速清理空文件夹？",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "晓旭博客",
+      "feedUrl": "https://www.xiaoxu.vip/feed.php",
+      "siteUrl": "https://www.xiaoxu.vip/",
+      "articles": [
+        {
+          "id": "https://www.xiaoxu.vip/archives/257.html",
+          "author": null,
+          "description": "假设当前你的电脑已经成功安装好了飞牛OS, 你可以成功登陆飞牛OS的网页,如下图:\n\n\n你可以直接在笔记本显示的OS命令行界面输入 你创建的管理员账号和密码\n\nAdmin是我的飞牛管理员,输入之后直接回车\n到下一行 password:后面输入管理员密码;\n输入成功后回车\n会显示你的系统版本和上次后台连接时间,如下图\n\n输入 sudo -i后回车,该步骤是提权\n\n继续输入管理员密码回车 ,之后会显示root@的字样\n这时候可以输入\nvi /etc/systemd/logind.conf 后回车\n\n进入后先输入/HandleLidSwitch回车 找到如下这一行#HandleLidSwitch=suspend\n\n然后输入i回车 —进入编辑模式\n删除这一行最开始的#符号(取消注释符), 移动光标 修改等于号(=)后面的数值为ignore, 修改为如下图的样子，将此行的#号去掉，将suspend改为ignore或lock\n\nHandleLidSwitch=suspend：当笔记本电脑使用电池供电时，合盖挂起 HandleLidSwitchExternalPower=suspend：当笔记本电脑插入电源插座时，合盖挂起 HandleLidSwitchDocked=ignore：当笔记本电脑连接到扩展坞时，合盖忽略\n如果这3行默认不是ignore或lokc，则都需要修改一下，并去掉前面的#号\n\n\n然后按 ESC键 (键盘左上角),输入wq!回车 (强制保存退出);\n\n最后输入systemctl restart systemd-logind回车\n\n这个时候盖上电脑盖子试一下,如果可以在手机上访问 飞牛nas了,就成功了;\n如果不行的话,可以输入reboot回车,稍等3分钟,等系统重启成功后再试一下;\n以上的OS命令行模式是使用putty ssh远程连接后台截图的;\n如何打开ssh开关如下图:",
+          "link": "https://www.xiaoxu.vip/archives/257.html",
+          "publishedOn": "2025-08-15T17:16:47.000Z",
+          "wordCount": 938,
+          "title": "笔记本电脑安装飞牛OS后 如何避免关盖子 系统休眠?",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/08/20250816011748175527826878871.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/256.html",
+          "author": null,
+          "description": "理论上工具是支持所有网盘的，但测试中夸克效果不明显，鉴于不同网盘在技术架构和运行机制上存在差异，对于其他网盘的加速效果，其它网盘大家自己试试吧！OpenSpeedy 是一款从内核 Hook 时间函数，细致打磨用户体验的优秀开源小工具。无广告、无付费、功能强大、更新频繁。无论你是“快速农场党”，还是“探秘慢速党”，都能从中找到乐趣。\n重点提示：初次使用时，变速速率通常默认为100倍速。在尚未开始下载某度网盘文件之前，务必将速率调整为1倍。否则，若在勾选系统进程后，下载文件时会出现错误……\n强调4个步骤：\n1.搜索你想要加速的名称，只用拼音不要用汉字，因为运行程序都是文件的拼音名。\n2.全选搜索出的文件。\n3.打开软件默认是提速100倍的不要动。\n4.可以设置快捷键进行速度快慢的设定。\n下载地址：https://www.123684.com/s/C9x9-CBmxh",
+          "link": "https://www.xiaoxu.vip/archives/256.html",
+          "publishedOn": "2025-07-28T06:59:36.000Z",
+          "wordCount": 912,
+          "title": "OpenSpeedy 1.7.6 开源 免费下载 游戏变速工具 网盘加速",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/07/20250728150318175368619811868.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/255.html",
+          "author": null,
+          "description": "Labubu 壁纸宝藏站来啦！ Labubu 一只难求，热爱它的你快收藏这个专属壁纸网站！Labubu Wallpaper 专注汇集超萌 Labubu 主题壁纸，涵盖手电筒动态、节日庆典等多种风格，提供高清静态、动态、闪光、Live Photo 等丰富格式，满足你的各种需求！\n\n\n\n\n\n\n\n\n\n\n\n\n\n网址：https://labubuwallpaper.store/sp/home/zh\n该网站的壁纸完全免费，打开网站直接点击保存按钮即可下载壁纸原图。",
+          "link": "https://www.xiaoxu.vip/archives/255.html",
+          "publishedOn": "2025-07-07T15:29:28.000Z",
+          "wordCount": 907,
+          "title": "Labubu Wallpaper 一个专注“Labubu”主题的壁纸资源网站",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/07/202507071751902415390518.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/254.html",
+          "author": null,
+          "description": "朋友们，微信存储空间告急怎么办！\n那100多G的聊天记录，是小编我最丰富的社会阅历了。\n\n\n\n别急，微信迎来了重大更新——优化聊天记录备份！！\n优化后，你可以将手机聊天记录备份至外部存储设备，如U盘、移动硬盘、电脑等，释放手机空间。\n只需要选择可以直接连接手机的存储设备，插入手机充电口，即可通过以下路径发起备份：\n【微信】->【我】->【设置】->【通用】->【聊天记录迁移与备份】，选择【备份与恢复】->【新增一个备份】。\n\n\n\n此次瘦身优化，主要有几个特点：\n第一，你可以按需选择聊天记录范围、指定时间段，只留存那些特别的回忆～\n\n\n\n第二，聊天记录可以选择「自动备份」。如果距离上一次备份已超过24个小时，此时将手机连接到外部存储设备，即可触发。\n你还可以设置手机电量不足20%时暂停备份，以节省电量。\n\n\n\n第三，备份的聊天记录采用加密存储，保证隐私不会泄漏。多人可使用同一个存储设备，聊天记录不会出现串台或泄漏的情况。\n即使备份有聊天记录的存储设备不慎丢失，他人也无法直接读取内容，仅本人的微信账号，在连接外部设备后，才能恢复并读取相应的内容。\n但是，请留意一下这个小小的「但是」——\n聊天记录备份优化功能还在灰测阶段，我们正在马不停蹄地扩大测试范围，还没被灰测到的朋友不要着急。\n来源：“腾讯”微信公众号",
+          "link": "https://www.xiaoxu.vip/archives/254.html",
+          "publishedOn": "2025-07-04T05:28:13.000Z",
+          "wordCount": 898,
+          "title": "微信重大更新！100多G的聊天记录有救了",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/07/20250704132842175160692227866.jpg"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/253.html",
+          "author": null,
+          "description": "每月 “科学” 流言榜由北京市科学技术协会、北京市委网信办、首都互联网协会指导，北京科技记者编辑协会、北京地区网站联合辟谣平台共同发布。6 月 30 日，新一期榜单公布，对近期大家关注的问题进行了专业解答，快来看看这些常见的科学流言，你有没有信以为真！\n1. 睡前多吃碳水就能快速入睡？\n流言：很多人吃完米饭、面条等碳水化合物后会 “晕碳” 犯困，所以睡前多吃碳水食物有助于快速入睡。\n真相：这种说法过于片面。碳水化合物对睡眠的影响复杂，不同种类的碳水化合物效果相反。高升糖指数的碳水，如白面包、甜点等，会使血糖大幅波动，影响睡眠稳定性，减少深度睡眠比例；而低血糖指数的碳水，像燕麦、全谷物等，能维持稳定血糖，利于优质睡眠。此外，碳水虽能促进褪黑素与血清素合成，但频繁餐后嗜睡可能暗示饮食结构不合理或存在健康问题，长期高糖高脂饮食还会增加患病风险。\n2. 动物油比植物油更容易让人发胖？\n流言：动物油比植物油更容易让人发胖，需控制摄入量，植物油则无需太在意用量。\n真相：食物是否使人发胖主要取决于能量含量，同等重量的动物油和植物油能量几乎相同。动物油因独特风味易让人食欲大增、过量进食，这才是致胖关键；过度摄入植物油同样会因能量蓄积引发肥胖。\n3. 阴天没阳光，就不用防晒了？\n流言：阴天没有阳光，就无需涂抹防晒霜。\n真相：紫外线是皮肤问题的主要诱因，分为 UVA、UVB 和 UVC。UVA 波长最长、能量较低，95% 以上能穿透大气层，可直达皮肤真皮层，导致皮肤老化、晒黑，且作用累积；UVB 大部分被臭氧层吸收，约 10% 到达地面，是晒伤和色素沉着主因；UVC 几乎无法到达地面。即便阴天，云层对紫外线遮挡有限，尤其是 UVA 仍可穿透，所以防晒工作必不可少。\n4. 直系亲属之间直接输血更好？\n流言：“血浓于水”，直系亲属间血液匹配度最高，紧急情况下直接输血副作用最小。\n真相：直系亲属直接…",
+          "link": "https://www.xiaoxu.vip/archives/253.html",
+          "publishedOn": "2025-06-30T18:15:23.000Z",
+          "wordCount": 969,
+          "title": "6 月 “科学” 流言榜：这些常见认知误区，你中招了吗？",
+          "imageUrl": "https://www.xiaoxu.vip/zb_users/theme/onelee/style/noimg/5.jpg"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/252.html",
+          "author": null,
+          "description": "大家好，又见面了，我是你们的朋友全栈君。\nping这个小工具大家都非常熟悉，但是他不能ping端口，当我们需要知道目的地址的某端口是否开放时，这时需要用到这个tcping小工具了，windows没有自带这个小工具，需要自己下载下来，放到指定目录里面。\n下载地址：点击打开链接  X64下载链接\n放到C:\\Windows\\System32这个文件夹下\n\n\n\n\n\n\n\n现在在测试一下：\n这是32位的 tcping\n\n\n\n\n\n\n\n64位的为tcping64，使用方法为：\n\n\n\n\n\n\n\n官方有个英文版的具体参数使用说明\nNAME\r\n    tcping - simulate \"ping\" over tcp by establishing a connection to network hosts.\r\n    Measures the time for your system to [SYN], receive the target's [SYN][ACK] and send [ACK].  Note that the travel time for\r\n    the last ACK is not included - only the time it takes to be put on the wire a tthe sending end.\r\n\r\nSYNOPSIS\r\n    tcping [-tdsvf46] [-i interval] [-n times] [-w interval] [-b n] [-r times][-j depth] [--tee filename] [-f] destination [port]\r\n\r\nDESCRIPTION\r\n    tcping measures the time it takes to perform a TCP 3-way han…",
+          "link": "https://www.xiaoxu.vip/archives/252.html",
+          "publishedOn": "2025-06-29T18:29:25.000Z",
+          "wordCount": 1588,
+          "title": "Windows ping TCP端口工具之tcping「建议收藏」",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/06/20250630023104175122186413561.jpg"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/251.html",
+          "author": null,
+          "description": "响度战争是指 20 世纪 90 年代后期开始，在音乐制作领域，为了使作品在竞争中更具吸引力，音乐制作人们竞相提升音乐响度的现象。以下是详细介绍：\n\n\n\n产生原因：\n\n声音更大的音轨更容易吸引听众注意力，从而可能带来更好的销售量或下载量。如果一首音乐比其他音乐音量小很多，就容易在播放时被听众忽视，给听众留下负面印象。工程师们发现砖墙限制器可以通过限制瞬间峰值来防止数字过载，进而增加平均电平，提升音乐的响度，这种 “响度最大化” 的做法很快流行起来，响度战争由此爆发。\n\n带来的问题：\n\n过度追求响度会导致音乐动态范围大幅缩减，敲击感以及一些附加效果丢失，音乐听起来变得沉闷、糊成一团，影响整体听觉体验。例如 2008 年 Metallica 的专辑《Death Magnetic》，就是响度战争的一个典型案例，其中所有歌曲都被过度压缩，听觉体验不佳。\n\n应对措施：\n\n随着互联网发展，流媒体平台逐渐兴起，各平台开始规定自己的响度标准，如 Spotify、YouTube 等平台的标准通常在 - 14LUFS 左右。如果音乐的响度超出标准，平台会在播放时自动将音量拉低到标准线上，这在一定程度上限制了过度提升响度的做法。此外，国际电信联盟（ITU）在 ITU BS.1770 章程中提出相关建议，欧洲广播联盟（EBU）和美国高级电视业务顾问委员会（ATSC）分别在 EBU R128 和 ATSC A/85 标准中采纳，规定了广播节目平均响度电平标准，以保持节目间持续连贯的平均电平。\n\n现状：\n\n虽然流媒体平台的出现和相关标准的制定对响度战争起到了一定的抑制作用，但有人认为响度战争并未真正结束，只是换了一种形式存在。一方面，音乐并非只在流媒体平台播放，在 CD 专辑、酒吧等场景仍存在响度竞争空间。另一方面，不同平台的响度标准可能不同且会调整，国内许多平台也没有明确的响度政策，部分音乐制作人为了…",
+          "link": "https://www.xiaoxu.vip/archives/251.html",
+          "publishedOn": "2025-06-27T15:58:47.000Z",
+          "wordCount": 1033,
+          "title": "你真的了解“响度战争”吗？",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/06/202506271751039958920034.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/250.html",
+          "author": null,
+          "description": "在音频处理的广袤天地中，压缩器是塑造声音的关键工具之一，而 Waves CLA 2A 插件更是其中备受瞩目的明星产品。它复刻自 20 世纪 60 年代早期 Teletronix 旗下的经典硬件压缩器 LA - 2A，凭借其独特的声音特性和出色的压缩效果，在音乐制作、影视音频处理等领域广泛应用，成为众多音频工程师爱不释手的得力助手。\n一、历史溯源与复刻精髓\nLA - 2A 作为一款传奇的硬件压缩器，诞生之初是为广播电视领域服务。其采用纯手工焊接工艺，融入电子管技术，并利用基于电致光技术的 T4 光学衰减器实现增益衰减。这种设计在当时极为独特，电致光电路系统在调整增益时不会像其他一些电路设计那样引入过多失真，不过电子管技术本身带来的失真特性却成为了它声音魅力的一部分。Waves 公司精心对 LA - 2A 进行建模，推出 CLA 2A 插件，力求完整保留硬件原型的声音表现。从频率响应到压缩特性，从电子管染色到 T4 光学衰减器的独特效果，都被精准复刻到插件中，让现代音频创作者无需昂贵且稀缺的硬件设备，就能获得经典的 LA - 2A 压缩音色。\n二、功能特性深度剖析\n（一）简单直观的操作界面\nCLA 2A 插件的操作界面设计极为简洁，这使得无论是经验丰富的专业人士还是初涉音频领域的新手都能迅速上手。它主要提供了两个用于调整压缩的关键控制项：峰值衰减（Peak Reduction）推子和增益（Gain）旋钮。峰值衰减推子用于设定压缩的使用量，推子推动的幅度越大，对音频信号峰值的压缩程度就越高；增益旋钮则决定输出电平，通过调整它可以补偿因压缩而导致的音量损失，使处理后的音频在整体混音中保持合适的响度。\n（二）独特的压缩模式与特性\n\n压缩器与限制器模式切换：CLA 2A 插件具备压缩器（低压缩比）和限制器（高压缩比）两种模式，用户可根据音频处理需求灵活切换。在压缩器模式下，它能够以较为…",
+          "link": "https://www.xiaoxu.vip/archives/250.html",
+          "publishedOn": "2025-06-27T15:54:13.000Z",
+          "wordCount": 1013,
+          "title": "Waves CLA 2A 插件：音频压缩的经典复刻与艺术雕琢",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/06/202506271751039775465075.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/249.html",
+          "author": null,
+          "description": "一、NS1 简介\nWaves 公司作为音频行业的佼佼者，推出了众多实用的音频插件，NS1 便是其中一款专门用于降噪的利器。它能够对实时信号进行即时分析，通过精妙的算法区分语音信号与不需要的噪音，将听觉焦点聚焦于主要信号，同时有效地消除背景噪音，为后期音频、语音对白及其他音乐相关处理提供了完美的解决方案。\n二、功能特点\n\n\n简单直观的操作：NS1 最显著的特点之一就是其操作的简便性。整个插件界面只有一个推子，用户只需通过推动这个推子，就能轻松实现降噪功能。推子推得越高，降噪幅度越大，背景噪音的衰减越明显。同时，插件配备了一个衰减电平表，它能够实时显示从输入源信号衰减出的电平幅度，让用户对降噪效果一目了然。这种简单而直接的操作方式，使得即使是音频处理新手，也能迅速上手，轻松掌握降噪技巧。\n\n\n\n精准的噪音识别与消除：NS1 采用了先进的算法，能够在瞬间对声音信号进行实时分析，精准地区分语音和噪音。在处理语音对白时，它可以将人声清晰地凸显出来，同时去除诸如空调声、电脑风扇声、环境嘈杂声等背景噪音，而且在消除噪音的过程中，最大程度地保留了原始声音的自然特性，不会对人声或其他重要音频元素造成明显的损伤。这一特性使得 NS1 在播客录制、视频配音、广播节目制作等领域大受欢迎，为创作者们提供了高品质的音频处理体验。\n\n\n\n广泛的应用场景：NS1 的应用场景十分广泛。在音乐制作中，它可以用于去除乐器演奏过程中的环境噪音，使音乐更加纯净、清晰；在影视后期制作中，能够对影片中的对话进行降噪处理，提升音频质量，增强观众的观影体验；对于内容创作者来说，无论是录制短视频解说、直播音频，还是制作在线课程，NS1 都能帮助他们快速去除背景噪音，提高音频的专业性和可听性。\n\n\n三、使用方法示例\n下面以常见的音频编辑软件 Adobe Audition 为例，简单介绍一下 NS1 的使用方法：\n\n\n首先，确保你已经在电脑上安装了 Waves 插件包，并且 Adobe Audition 能够识别和加载 Waves 插件。\n\n\n\n打开 Adobe Audition 软件，导入需要进行降噪处理的音频文件。\n\n\n\n在音频轨道上，找到 “效果” 菜单，选择 “Waves” 插件组，然后从中找到 “NS1 Noise Suppressor” 插件并加载。\n\n\n\n加载成功后，NS1 插件的界面就会弹出。此时，你会看到界面上的推子和衰减电平表。\n\n\n\n开始试听音频，同时慢慢推动推子，观察衰减电平表的变化，根据听到的效果来调整推子的位置，直到达到满意的降噪效果为止。在调整过程中，要注意不要过度降噪，以免对原始音频的音质造成较大影响。\n\n\n\n调整完成后，点击 “应用” 按钮，即可完成对音频的降噪处理。\n\n\n四、注意事项\n\n\n虽然 NS1 在降噪方面表现出色，但和所有降噪插件一样，过度降噪可能会对原始音频的音质产生一定影响。在使用过程中，需要根据实际情况谨慎调整推子的位置，以达到降噪和音质保留之间的平衡。一般来说，如果将推子设置在一个合适的范围内，能够在有效降低背景噪音的同时，最大程度地保持原始声音的清晰度和自然感。但如果推子推得过高，可能会导致声音变得沉闷、失去细节，甚至出现一些失真的情况。\n\n\n\nNS1 对于不同类型的噪音处理效果可能会有所差异。对于持续性的、较为稳定的背景噪音，如空调声、电脑风扇声等，NS1 能够取得非常好的降噪效果。然而，对于一些瞬间出现的、突发性的噪音，如偶尔的咳嗽声、关门声等，NS1 可能无法完全消除，需要结合其他音频处理方法进行进一步处理。",
+          "link": "https://www.xiaoxu.vip/archives/249.html",
+          "publishedOn": "2025-06-27T15:29:52.000Z",
+          "wordCount": 926,
+          "title": "waves插件中降噪神器NS1的神奇之处",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/06/202506271751039119120911.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/248.html",
+          "author": null,
+          "description": "应该有些朋友在2.2.3版本后发现不能自启，那可以按以下方法做：\n1.先退出软件。\n2.在开始按钮上右键，选择运行\n3.在运行框子里输入 runas\n /trustlevel\n:0x20000 \"程序路径\"\n比如 runas /trustlevel:0x20000 \"C:\\Program Files\\Clash Verge\\clash-verge.exe\"\n回车\n4.软件过5秒会自动启动，启动后再进设置，发现可以改开机自启了，打开开机自启开关。",
+          "link": "https://www.xiaoxu.vip/archives/248.html",
+          "publishedOn": "2025-06-09T05:25:53.000Z",
+          "wordCount": 917,
+          "title": "解决clash Verge Rev无法管理员自启的方法",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2025/06/202506091749446887779594.png"
+        }
+      ]
+    },
+    {
+      "title": "小陈折腾日记",
+      "feedUrl": "https://www.geekxw.top/feed/",
+      "siteUrl": "https://www.geekxw.top",
+      "articles": [
+        {
+          "id": "https://www.geekxw.top/?p=3676",
+          "author": "小陈折腾日记",
+          "description": "待更新",
+          "link": "https://www.geekxw.top/3676/",
+          "publishedOn": "2025-12-22T10:50:17.000Z",
+          "wordCount": 578,
+          "title": "PVE 9.1 opnsense",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3660",
+          "author": "小陈折腾日记",
+          "description": "大致硬件 E3-1225V6 P630核显 B150魔改主板 P620显卡 3D打印机箱 有疑问可以留言",
+          "link": "https://www.geekxw.top/3660/",
+          "publishedOn": "2025-12-21T20:44:00.000Z",
+          "wordCount": 593,
+          "title": "（顺序1）PVE9.1 Intel核显直通飞牛nas,N卡直通win+ikuai+openwrt+ha 保姆级AIO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3669",
+          "author": "小陈折腾日记",
+          "description": "采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集",
+          "link": "https://www.geekxw.top/3669/",
+          "publishedOn": "2025-12-21T20:21:13.000Z",
+          "wordCount": 591,
+          "title": "零刻ME PRO/飞牛EVO2 AIO 核显SR-IOV ikuai+op+ha+win",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3665",
+          "author": "小陈折腾日记",
+          "description": "采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集",
+          "link": "https://www.geekxw.top/3665/",
+          "publishedOn": "2025-12-21T18:47:55.000Z",
+          "wordCount": 582,
+          "title": "PVE9.1无核显 N卡vGPU直通飞牛nas,win+ikuai+openwrt AIO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3663",
+          "author": "小陈折腾日记",
+          "description": "采用不同的硬件组合 适配不同平台 待更新 https://www.geekxw.top/3637/ 建议收集",
+          "link": "https://www.geekxw.top/3663/",
+          "publishedOn": "2025-12-21T18:46:18.000Z",
+          "wordCount": 582,
+          "title": "PVE9.1 Intel核显SR-IOV直通飞牛nas,win,debian+ikuai+openwrt AIO",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3645",
+          "author": "小陈折腾日记",
+          "description": "services: adguardhome: image: adguard/adguardhome:latest container_name: adguardhome restart: always network_mode: host volumes: - /vol1/1000/docker/adguardhome/work:/opt/adguardhome/work - /vol1/1000",
+          "link": "https://www.geekxw.top/3645/",
+          "publishedOn": "2025-12-18T11:37:43.000Z",
+          "wordCount": 634,
+          "title": "放弃“去广告”幻想！PVE 9.1 & 飞牛NAS 双平台安装教程：这才是 AdGuard Home 的正确打开方式",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3640",
+          "author": "小陈折腾日记",
+          "description": "产品规格：CPU:MT7987A, Quad A53 2.0GHzFlash：512MBRAM:512MB D […]",
+          "link": "https://www.geekxw.top/3640/",
+          "publishedOn": "2025-12-15T11:16:01.000Z",
+          "wordCount": 582,
+          "title": "5G CPE 的最佳搭档？GL-MT3600BE：联发科MT7987A，双2.5G网口，系统基于OpenWrt定制！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3637",
+          "author": "小陈折腾日记",
+          "description": "有想在视频里面出现的内容可以留言",
+          "link": "https://www.geekxw.top/3637/",
+          "publishedOn": "2025-12-12T12:03:28.000Z",
+          "wordCount": 598,
+          "title": "一年一度PVE AIO  Coming Soon",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/3623/",
+          "author": "小陈折腾日记",
+          "description": "出处:https://github.com/wjz304 hub.docker：https://hub.doc […]",
+          "link": "https://www.geekxw.top/3623/",
+          "publishedOn": "2025-11-27T19:16:48.000Z",
+          "wordCount": 633,
+          "title": "PVE9.1骚操作！CT容器运行Kodi完整指南，还能显示画面！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geekxw.top/?p=3613",
+          "author": "小陈折腾日记",
+          "description": "pct set 101 -mp0 /mnt/pve/media,mp=/media /dev/dri/card1 /dev/dri/renderD128",
+          "link": "https://www.geekxw.top/3613/",
+          "publishedOn": "2025-11-23T06:32:57.000Z",
+          "wordCount": 578,
+          "title": "PVE9.1新功能支持OCI镜像,LXC直接创建Docker容器,减少套娃",
           "imageUrl": null
         }
       ]
