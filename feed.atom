@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T00:43:05.073Z</id>
-    <title>osmos::feed</title>
-    <updated>2025-12-24T00:43:05.073Z</updated>
+    <id>urn:2025-12-24T00:59:06.626Z</id>
+    <title>RSS Search Engine</title>
+    <updated>2025-12-24T00:59:06.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -389,6 +389,415 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
         <summary type="html"><![CDATA[Practical guidelines on designing time-critical products that prevent errors and improve accuracy. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today). With a live UX training starting next week.]]></summary>
         <author>
             <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyframes Tokens: Standardizing Animation Across Projects]]></title>
+        <id>https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/</id>
+        <link href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"/>
+        <updated>2025-11-21T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Amit Sheen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Chaos To Clarity: Simplifying Server Management With AI And Automation]]></title>
+        <id>https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/</id>
+        <link href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"/>
+        <updated>2025-11-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mansoor Ahmed Khan)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS Gamepad API Visual Debugging With CSS Layers]]></title>
+        <id>https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/</id>
+        <link href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"/>
+        <updated>2025-11-14T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Godstime Aburu)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Older Tech In The Browser Stack]]></title>
+        <id>https://smashingmagazine.com/2025/11/older-tech-browser-stack/</id>
+        <link href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"/>
+        <updated>2025-11-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Bryan Rasmussen)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effectively Monitoring Web Performance]]></title>
+        <id>https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/</id>
+        <link href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"/>
+        <updated>2025-11-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Matt Zeunert)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties]]></title>
+        <id>https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/</id>
+        <link href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"/>
+        <updated>2025-11-07T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Six Key Components of UX Strategy]]></title>
+        <id>https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/</id>
+        <link href="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/"/>
+        <updated>2025-11-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Leverage Component Variants In Penpot]]></title>
+        <id>https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/</id>
+        <link href="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/"/>
+        <updated>2025-11-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Daniel Schwarz)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fading Light And Falling Leaves (November 2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/</id>
+        <link href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"/>
+        <updated>2025-10-31T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript For Everyone: Iterators]]></title>
+        <id>https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/</id>
+        <link href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"/>
+        <updated>2025-10-27T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Mat Marquis)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Animations In Web Design: Practical Applications (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/</id>
+        <link href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"/>
+        <updated>2025-10-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI In UX: Achieve More With Less]]></title>
+        <id>https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/</id>
+        <link href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"/>
+        <updated>2025-10-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make Your UX Research Hard To Ignore]]></title>
+        <id>https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/</id>
+        <link href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"/>
+        <updated>2025-10-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Vitaly Friedman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Grayscale Problem]]></title>
+        <id>https://smashingmagazine.com/2025/10/the-grayscale-problem/</id>
+        <link href="https://smashingmagazine.com/2025/10/the-grayscale-problem/"/>
+        <updated>2025-10-13T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Frederick O’Brien)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries]]></title>
+        <id>https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/</id>
+        <link href="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/"/>
+        <updated>2025-10-06T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/</id>
+        <link href="https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/"/>
+        <updated>2025-10-03T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shades Of October (2025 Wallpapers Edition)]]></title>
+        <id>https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/</id>
+        <link href="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/"/>
+        <updated>2025-09-30T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Cosima Mielke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Prompt To Partner: Designing Your Custom AI Assistant]]></title>
+        <id>https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/</id>
+        <link href="https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/"/>
+        <updated>2025-09-26T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Lyndon Cerejo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/</id>
+        <link href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"/>
+        <updated>2025-09-24T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Yegor Gilyov)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ambient Animations In Web Design: Principles And Implementation (Part 1)]]></title>
+        <id>https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/</id>
+        <link href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"/>
+        <updated>2025-09-22T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Andy Clarke)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence]]></title>
+        <id>https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/</id>
+        <link href="https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/"/>
+        <updated>2025-09-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Yocco)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Minimize The Environmental Impact Of Your Website]]></title>
+        <id>https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/</id>
+        <link href="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/"/>
+        <updated>2025-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (James Chudley)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerpApi: A Complete API For Fetching Search Engine Data]]></title>
+        <id>https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/</id>
+        <link href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"/>
+        <updated>2025-09-16T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Preethi Sam)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Functional Personas With AI: A Lean, Practical Workflow]]></title>
+        <id>https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/</id>
+        <link href="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/"/>
+        <updated>2025-09-16T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Paul Boag)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creating Elastic And Bounce Effects With Expressive Animator]]></title>
+        <id>https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/</id>
+        <link href="https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/"/>
+        <updated>2025-09-15T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Marius Sarca)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From Data To Decisions: UX Strategies For Real-Time Dashboards]]></title>
+        <id>https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/</id>
+        <link href="https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/"/>
+        <updated>2025-09-12T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Karan Rawal)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integrating CSS Cascade Layers To An Existing Project]]></title>
+        <id>https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/</id>
+        <link href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"/>
+        <updated>2025-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victor Ayomipo)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Designing For TV: Principles, Patterns And Practical Guidance (Part 2)]]></title>
+        <id>https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/</id>
+        <link href="https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/"/>
+        <updated>2025-09-04T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Milan Balać)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.15.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"/>
+        <updated>2022-06-22T06:05:35.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Favicon used as article image]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.15.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"/>
+        <updated>2022-06-18T19:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.4]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"/>
+        <updated>2022-02-14T06:58:28.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Several style issues]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.3]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"/>
+        <updated>2022-02-14T06:29:16.000Z</updated>
+        <summary type="html"><![CDATA[style tweak]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.2]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"/>
+        <updated>2022-02-14T05:53:33.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"/>
+        <updated>2022-02-14T05:26:23.000Z</updated>
+        <summary type="html"><![CDATA[git typo in gh run url]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.14.0: V1.14.0 (#79)]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"/>
+        <updated>2022-02-14T05:13:00.000Z</updated>
+        <summary type="html"><![CDATA[New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.13.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"/>
+        <updated>2022-02-13T05:05:17.000Z</updated>
+        <summary type="html"><![CDATA[New: Thumbnail image display for each article
+New: Improved color, spacing, and typography for easier reading
+New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
+Changed: All sections are expanded by default
+Changed: Switched to vitest for easier testing
+Fixed: Long string (e.g. URL) caused horizontal overflow
+Thank you: @naari3, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.1]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"/>
+        <updated>2022-02-12T17:46:42.000Z</updated>
+        <summary type="html"><![CDATA[Fixed: Future articles appeared in the feed
+Fxied: Security vulnerability from axios
+Thank you: @naari3]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v1.12.0]]></title>
+        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0</id>
+        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"/>
+        <updated>2022-01-10T05:25:18.000Z</updated>
+        <summary type="html"><![CDATA[New: When one of the sources download fails, fall back to cache and continue rest of the build.
+Chore: Dependency updates
+Added docs for Netlify deployment
+Fixed #71 #69 #65
+Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg]]></summary>
+        <author>
+            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>

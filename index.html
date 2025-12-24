@@ -2,19 +2,36 @@
 <html lang="en">
 
   <head>
-    <title>osmos::feed</title>
+    <title>RSS Search Engine</title>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="robots" content="noindex, nofollow" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <link rel="alternate" type="application/rss+xml" title="osmos::feed" href="feed.atom" />
+    <link rel="alternate" type="application/rss+xml" title="RSS Search Engine" href="feed.atom" />
     <link href="index.css?v1.14.4" rel="stylesheet" />
-    <!-- %before-head-end.html% -->
+        <meta name="robots" content="index, follow" />
+    <meta name="description" content="Search RSS feed articles - a powerful search engine for RSS subscriptions" />
+    <link href="search.css" rel="stylesheet" />
+
   </head>
 
   <body>
-    <!-- %after-body-begin.html% -->
+        <header class="search-header">
+      <h1 class="search-title">RSS Search Engine</h1>
+      <div class="search-container">
+        <input 
+          type="search" 
+          id="search-input" 
+          class="search-input" 
+          placeholder="Search articles by title, description, or source..."
+          autocomplete="off"
+        />
+        <div id="search-stats" class="search-stats"></div>
+      </div>
+    </header>
+    <main id="content">
+
       <section class="daily-content js-toggle-accordions-scope">
         <h2 class="daily-heading">
           <button
@@ -1401,15 +1418,1730 @@ Getting Creative With “The Measure” originally published on CSS-Tricks, whic
             </li>
         </ul>
       </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-21 datetime="2025-11-21T08:00:00.000Z">2025-11-21</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-21 datetime="2025-11-21T08:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/"
+                        open
+                      >
+                        <summary class="article-expander__title">Keyframes Tokens: Standardizing Animation Across Projects</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;25
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-18 datetime="2025-11-18T10:00:00.000Z">2025-11-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-18 datetime="2025-11-18T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/"
+                        open
+                      >
+                        <summary class="article-expander__title">From Chaos To Clarity: Simplifying Server Management With AI And Automation</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https:null" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-14 datetime="2025-11-14T13:00:00.000Z">2025-11-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-14 datetime="2025-11-14T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/"
+                        open
+                      >
+                        <summary class="article-expander__title">CSS Gamepad API Visual Debugging With CSS Layers</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-13 datetime="2025-11-13T08:00:00.000Z">2025-11-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-13 datetime="2025-11-13T08:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/older-tech-browser-stack/"
+                        open
+                      >
+                        <summary class="article-expander__title">Older Tech In The Browser Stack</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/older-tech-browser-stack/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-11 datetime="2025-11-11T10:00:00.000Z">2025-11-11</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-11 datetime="2025-11-11T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/"
+                        open
+                      >
+                        <summary class="article-expander__title">Effectively Monitoring Web Performance</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign&#x3D;sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-07 datetime="2025-11-07T15:00:00.000Z">2025-11-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-07 datetime="2025-11-07T15:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/"
+                        open
+                      >
+                        <summary class="article-expander__title">Smashing Animations Part 6: Magnificent SVGs With &#x60;&#x60; And CSS Custom Properties</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-05 datetime="2025-11-05T13:00:00.000Z">2025-11-05</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-05 datetime="2025-11-05T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/"
+                        open
+                      >
+                        <summary class="article-expander__title">Six Key Components of UX Strategy</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX &amp; Design Impact (use the code 🎟 IMPACT to save 20% off today).</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-11-04 datetime="2025-11-04T10:00:00.000Z">2025-11-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-11-04 datetime="2025-11-04T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/"
+                        open
+                      >
+                        <summary class="article-expander__title">How To Leverage Component Variants In Penpot</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-31 datetime="2025-10-31T12:00:00.000Z">2025-10-31</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-31 datetime="2025-10-31T12:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/"
+                        open
+                      >
+                        <summary class="article-expander__title">Fading Light And Falling Leaves (November 2025 Wallpapers Edition)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-27 datetime="2025-10-27T13:00:00.000Z">2025-10-27</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-27 datetime="2025-10-27T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/"
+                        open
+                      >
+                        <summary class="article-expander__title">JavaScript For Everyone: Iterators</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https:null" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-22 datetime="2025-10-22T13:00:00.000Z">2025-10-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-22 datetime="2025-10-22T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/"
+                        open
+                      >
+                        <summary class="article-expander__title">Ambient Animations In Web Design: Practical Applications (Part 2)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https:null" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-17 datetime="2025-10-17T08:00:00.000Z">2025-10-17</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-17 datetime="2025-10-17T08:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/"
+                        open
+                      >
+                        <summary class="article-expander__title">AI In UX: Achieve More With Less</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;20
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-16 datetime="2025-10-16T13:00:00.000Z">2025-10-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-16 datetime="2025-10-16T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/"
+                        open
+                      >
+                        <summary class="article-expander__title">How To Make Your UX Research Hard To Ignore</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-13 datetime="2025-10-13T10:00:00.000Z">2025-10-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-13 datetime="2025-10-13T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/the-grayscale-problem/"
+                        open
+                      >
+                        <summary class="article-expander__title">The Grayscale Problem</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/the-grayscale-problem/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-06 datetime="2025-10-06T13:00:00.000Z">2025-10-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-06 datetime="2025-10-06T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/"
+                        open
+                      >
+                        <summary class="article-expander__title">Smashing Animations Part 5: Building Adaptive SVGs With &#x60;&#x60;, &#x60;&#x60;, And CSS Media Queries</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using &#x60;&#x60;, &#x60;&#x60;, and CSS Media Queries.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-10-03 datetime="2025-10-03T10:00:00.000Z">2025-10-03</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-10-03 datetime="2025-10-03T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/"
+                        open
+                      >
+                        <summary class="article-expander__title">Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;32
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-30 datetime="2025-09-30T11:00:00.000Z">2025-09-30</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-30 datetime="2025-09-30T11:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/"
+                        open
+                      >
+                        <summary class="article-expander__title">Shades Of October (2025 Wallpapers Edition)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-26 datetime="2025-09-26T10:00:00.000Z">2025-09-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-26 datetime="2025-09-26T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/"
+                        open
+                      >
+                        <summary class="article-expander__title">From Prompt To Partner: Designing Your Custom AI Assistant</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;22
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-24 datetime="2025-09-24T17:00:00.000Z">2025-09-24</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-24 datetime="2025-09-24T17:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/"
+                        open
+                      >
+                        <summary class="article-expander__title">Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;18
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-22 datetime="2025-09-22T13:00:00.000Z">2025-09-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-22 datetime="2025-09-22T13:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/"
+                        open
+                      >
+                        <summary class="article-expander__title">Ambient Animations In Web Design: Principles And Implementation (Part 1)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-19 datetime="2025-09-19T10:00:00.000Z">2025-09-19</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-19 datetime="2025-09-19T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/"
+                        open
+                      >
+                        <summary class="article-expander__title">The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;23
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-18 datetime="2025-09-18T10:00:00.000Z">2025-09-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-18 datetime="2025-09-18T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/"
+                        open
+                      >
+                        <summary class="article-expander__title">How To Minimize The Environmental Impact Of Your Website</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;19
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-16 datetime="2025-09-16T17:00:00.000Z">2025-09-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-16 datetime="2025-09-16T17:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/"
+                        open
+                      >
+                        <summary class="article-expander__title">SerpApi: A Complete API For Fetching Search Engine Data</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;12
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/"
+                        open
+                      >
+                        <summary class="article-expander__title">Functional Personas With AI: A Lean, Practical Workflow</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-15 datetime="2025-09-15T10:00:00.000Z">2025-09-15</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-15 datetime="2025-09-15T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/"
+                        open
+                      >
+                        <summary class="article-expander__title">Creating Elastic And Bounce Effects With Expressive Animator</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;13
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-12 datetime="2025-09-12T15:00:00.000Z">2025-09-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-12 datetime="2025-09-12T15:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/"
+                        open
+                      >
+                        <summary class="article-expander__title">From Data To Decisions: UX Strategies For Real-Time Dashboards</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;21
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-10 datetime="2025-09-10T10:00:00.000Z">2025-09-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-10 datetime="2025-09-10T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/"
+                        open
+                      >
+                        <summary class="article-expander__title">Integrating CSS Cascade Layers To An Existing Project</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;20
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2025-09-04 datetime="2025-09-04T10:00:00.000Z">2025-09-04</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2025-09-04 datetime="2025-09-04T10:00:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Articles on Smashing Magazine — For Web Designers And Developers</button>
+                  <a class="source-heading__link" href="https://www.smashingmagazine.com/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/"
+                        open
+                      >
+                        <summary class="article-expander__title">Designing For TV: Principles, Patterns And Practical Guidance (Part 2)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;24
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-22 datetime="2022-06-22T06:05:35.000Z">2022-06-22</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-22 datetime="2022-06-22T06:05:35.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.15.1</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Fixed: Favicon used as article image</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-06-18 datetime="2022-06-18T19:01:33.000Z">2022-06-18</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-06-18 datetime="2022-06-18T19:01:33.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.15.0</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Added: Resolve relative URLs in item link and media
+Added: Item thumbnail fallback to channel thumbnail
+Chore: Dependency updates
+Thank you: @cpwnd</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-14 datetime="2022-02-14T06:58:28.000Z">2022-02-14</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-14 datetime="2022-02-14T06:58:28.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.14.4</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Fixed: Several style issues</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.14.3</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>style tweak</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.14.2</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/3d1aa7f7484f74c258c25be470129b65acc359f03644040243b05803daae68aa/osmoscraft/osmosfeed/releases/tag/v1.14.2" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.14.1</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>git typo in gh run url</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.14.0: V1.14.0 (#79)</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.
+New: Card title now toggles card content
+New: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.
+New: Build timestamp now links to the GitHub Action run
+Changed: Sources are sorted based on publish time rather than alphabetical order
+Changed: Style adjusted for easier reading
+Fixed: Horizontal overflow on Safari
+Fixed: HTML syntax error in default template</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-13 datetime="2022-02-13T05:05:17.000Z">2022-02-13</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-13 datetime="2022-02-13T05:05:17.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.13.0</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>New: Thumbnail image display for each article
+New: Improved color, spacing, and typography for easier reading
+New: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.
+Changed: All sections are expanded by default
+Changed: Switched to vitest for easier testing
+Fixed: Long string (e.g. URL) caused horizontal overflow
+Thank you: @naari3, @tianheg</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-02-12 datetime="2022-02-12T17:46:42.000Z">2022-02-12</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-02-12 datetime="2022-02-12T17:46:42.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.12.1</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Fixed: Future articles appeared in the feed
+Fxied: Security vulnerability from axios
+Thank you: @naari3</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-01-10 datetime="2022-01-10T05:25:18.000Z">2022-01-10</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-01-10 datetime="2022-01-10T05:25:18.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Release notes from osmosfeed</button>
+                  <a class="source-heading__link" href="https://github.com/osmoscraft/osmosfeed/releases">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0"
+                        open
+                      >
+                        <summary class="article-expander__title">v1.12.0</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://opengraph.githubassets.com/acf2691ac8379705dfc121f0feb76e8eb7554d5de2d4c4ea49c3a70d68e30a31/osmoscraft/osmosfeed/releases/tag/v1.12.0" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>New: When one of the sources download fails, fall back to cache and continue rest of the build.
+Chore: Dependency updates
+Added docs for Netlify deployment
+Fixed #71 #69 #65
+Thank you: @sokomin, @molakirlee, @philippnagel, @tianheg</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/503badgateway/rss-search/actions/runs/20474994600">
-        <time id="build-timestamp" datetime="2025-12-24T00:43:05.047Z">2025-12-24T00:43:05.047Z</time>
+      <a class="footer-link" href="https://github.com/503badgateway/rss-search/actions/runs/20475215175">
+        <time id="build-timestamp" datetime="2025-12-24T00:59:06.603Z">2025-12-24T00:59:06.603Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
     <script src="index.js?v1.14.4"></script>
-    <!-- %before-body-end.html% -->
+        </main>
+    <script src="search.js"></script>
+
   </body>
 
 </html>

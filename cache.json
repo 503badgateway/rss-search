@@ -4,7 +4,108 @@
       "title": "Release notes from osmosfeed",
       "feedUrl": "https://github.com/osmoscraft/osmosfeed/releases.atom",
       "siteUrl": "https://github.com/osmoscraft/osmosfeed/releases",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "author": null,
+          "description": "Fixed: Favicon used as article image",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.1",
+          "publishedOn": "2022-06-22T06:05:35.000Z",
+          "wordCount": 443,
+          "title": "v1.15.1",
+          "imageUrl": "https://opengraph.githubassets.com/773fe75a9ebd447ce664e0a73ba1ff89839c8a12b901abc4891691fbafe17c19/osmoscraft/osmosfeed/releases/tag/v1.15.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "author": null,
+          "description": "Added: Resolve relative URLs in item link and media\nAdded: Item thumbnail fallback to channel thumbnail\nChore: Dependency updates\nThank you: @cpwnd",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.15.0",
+          "publishedOn": "2022-06-18T19:01:33.000Z",
+          "wordCount": 459,
+          "title": "v1.15.0",
+          "imageUrl": "https://opengraph.githubassets.com/ce00272fbcf40921811c2125a0228c3b60c8a0b083dbaf2601960d034cc3be27/osmoscraft/osmosfeed/releases/tag/v1.15.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
+          "author": null,
+          "description": "Fixed: Several style issues",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.4",
+          "publishedOn": "2022-02-14T06:58:28.000Z",
+          "wordCount": 439,
+          "title": "v1.14.4",
+          "imageUrl": "https://opengraph.githubassets.com/9a7043530dac30c2f389b7a285822cfe3c2b54efc7d2cdc63a0735d3cc5095a2/osmoscraft/osmosfeed/releases/tag/v1.14.4"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
+          "author": null,
+          "description": "style tweak",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.3",
+          "publishedOn": "2022-02-14T06:29:16.000Z",
+          "wordCount": 471,
+          "title": "v1.14.3",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
+          "author": null,
+          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.2",
+          "publishedOn": "2022-02-14T05:53:33.000Z",
+          "wordCount": 542,
+          "title": "v1.14.2",
+          "imageUrl": "https://opengraph.githubassets.com/3d1aa7f7484f74c258c25be470129b65acc359f03644040243b05803daae68aa/osmoscraft/osmosfeed/releases/tag/v1.14.2"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
+          "author": null,
+          "description": "git typo in gh run url",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.1",
+          "publishedOn": "2022-02-14T05:26:23.000Z",
+          "wordCount": 475,
+          "title": "v1.14.1",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
+          "author": null,
+          "description": "New: Adjust article grouping based on timezone. You need to add timezone in osmosfeed.yml for accurate grouping. See details in documentation.\nNew: Card title now toggles card content\nNew: all toggles on the UI are persisted with local storage. You can use it to track read/unread status within a single browser.\nNew: Build timestamp now links to the GitHub Action run\nChanged: Sources are sorted based on publish time rather than alphabetical order\nChanged: Style adjusted for easier reading\nFixed: Horizontal overflow on Safari\nFixed: HTML syntax error in default template",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.14.0",
+          "publishedOn": "2022-02-14T05:13:00.000Z",
+          "wordCount": 629,
+          "title": "v1.14.0: V1.14.0 (#79)",
+          "imageUrl": "https://repository-images.githubusercontent.com/312859305/30a63d00-a162-11eb-8a1d-a3167673e96a"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "author": null,
+          "description": "New: Thumbnail image display for each article\nNew: Improved color, spacing, and typography for easier reading\nNew: Click the date to toggle all accordions on that day. Ctrl + Click to toggle all accordions on the entire site.\nChanged: All sections are expanded by default\nChanged: Switched to vitest for easier testing\nFixed: Long string (e.g. URL) caused horizontal overflow\nThank you: @naari3, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.13.0",
+          "publishedOn": "2022-02-13T05:05:17.000Z",
+          "wordCount": 529,
+          "title": "v1.13.0",
+          "imageUrl": "https://opengraph.githubassets.com/fc77c41c87b2cd4d8990f4c940e0ddf681667b6b6e4363b0f609861b7ae5b6d8/osmoscraft/osmosfeed/releases/tag/v1.13.0"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "author": null,
+          "description": "Fixed: Future articles appeared in the feed\nFxied: Security vulnerability from axios\nThank you: @naari3",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.1",
+          "publishedOn": "2022-02-12T17:46:42.000Z",
+          "wordCount": 452,
+          "title": "v1.12.1",
+          "imageUrl": "https://opengraph.githubassets.com/d69790a31f94b1adf743c58bae86b9754de6969cceb83f11b8fbeb28ab1ad632/osmoscraft/osmosfeed/releases/tag/v1.12.1"
+        },
+        {
+          "id": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "author": null,
+          "description": "New: When one of the sources download fails, fall back to cache and continue rest of the build.\nChore: Dependency updates\nAdded docs for Netlify deployment\nFixed #71 #69 #65\nThank you: @sokomin, @molakirlee, @philippnagel, @tianheg",
+          "link": "https://github.com/osmoscraft/osmosfeed/releases/tag/v1.12.0",
+          "publishedOn": "2022-01-10T05:25:18.000Z",
+          "wordCount": 494,
+          "title": "v1.12.0",
+          "imageUrl": "https://opengraph.githubassets.com/acf2691ac8379705dfc121f0feb76e8eb7554d5de2d4c4ea49c3a70d68e30a31/osmoscraft/osmosfeed/releases/tag/v1.12.0"
+        }
+      ]
     },
     {
       "title": "CSS-Tricks",
@@ -372,6 +473,411 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/designing-for-stress-and-emergency/designing-for-stress-emergency.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "author": "hello@smashingmagazine.com (Amit Sheen)",
+          "description": "Animations can be one of the most joyful parts of building interfaces, but without structure, they can also become one of the biggest sources of frustration. By consolidating and standardizing keyframes, you take something that is usually messy and hard to manage and turn it into a clear, predictable system.",
+          "link": "https://smashingmagazine.com/2025/11/keyframes-tokens-standardizing-animation-across-projects/",
+          "publishedOn": "2025-11-21T08:00:00.000Z",
+          "wordCount": 7592,
+          "title": "Keyframes Tokens: Standardizing Animation Across Projects",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/keyframes-tokens-standardizing-animation-across-projects/keyframes-tokens-standardizing-animation-across-projects.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+          "author": "hello@smashingmagazine.com (Mansoor Ahmed Khan)",
+          "description": "Server chaos doesn’t have to be the norm. AI-ready infrastructure and automation can bring clarity, performance, and focus back to your web work.",
+          "link": "https://smashingmagazine.com/2025/11/simplifying-server-management-ai-automation/",
+          "publishedOn": "2025-11-18T10:00:00.000Z",
+          "wordCount": 3736,
+          "title": "From Chaos To Clarity: Simplifying Server Management With AI And Automation",
+          "imageUrl": "https:null"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "author": "hello@smashingmagazine.com (Godstime Aburu)",
+          "description": "Debugging controllers can be a real pain. Here’s a deep dive into how CSS helps clean it up and how to build a reusable visual debugger for your own projects.",
+          "link": "https://smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/",
+          "publishedOn": "2025-11-14T13:00:00.000Z",
+          "wordCount": 6508,
+          "title": "CSS Gamepad API Visual Debugging With CSS Layers",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/css-gamepad-api-visual-debugging-css-layers/css-gamepad-api-visual-debugging-css-layers.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+          "author": "hello@smashingmagazine.com (Bryan Rasmussen)",
+          "description": "There are many existing web features and technologies in the wild that you may never touch directly in your day-to-day work. Perhaps you’re fairly new to web development and are simply unaware of them because you’re steeped in the abstraction of a specific framework that doesn’t require you to know it deeply, or even at all. Bryan Rasmussen looks specifically at XPath and demonstrates how it can be used alongside CSS to query elements.",
+          "link": "https://smashingmagazine.com/2025/11/older-tech-browser-stack/",
+          "publishedOn": "2025-11-13T08:00:00.000Z",
+          "wordCount": 6511,
+          "title": "Older Tech In The Browser Stack",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/older-tech-browser-stack/older-tech-browser-stack.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+          "author": "hello@smashingmagazine.com (Matt Zeunert)",
+          "description": "There are lots of tips for [improving your website performance](https://www.debugbear.com/blog/improve-website-performance?utm_campaign=sm-10). But even if you follow all of the advice, are you able to maintain an optimized site? And are you targeting the right pages? Matt Zeunert outlines an effective strategy for web performance optimization and explains the roles that different types of data play in it.",
+          "link": "https://smashingmagazine.com/2025/11/effectively-monitoring-web-performance/",
+          "publishedOn": "2025-11-11T10:00:00.000Z",
+          "wordCount": 3979,
+          "title": "Effectively Monitoring Web Performance",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/effectively-monitoring-web-performance/effectively-monitoring-web-performance.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVG is one of those web technologies that’s both elegant and, at times, infuriating. In this article, pioneering author and web designer Andy Clarke explains his technique for animating SVG elements that are hidden in the Shadow DOM.",
+          "link": "https://smashingmagazine.com/2025/11/smashing-animations-part-6-svgs-css-custom-properties/",
+          "publishedOn": "2025-11-07T15:00:00.000Z",
+          "wordCount": 4741,
+          "title": "Smashing Animations Part 6: Magnificent SVGs With `<use>` And CSS Custom Properties",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-6-svgs-css-custom-properties/smashing-animations-part-6-svgs-css-custom-properties.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Let’s dive into the building blocks of UX strategy and see how it speaks the language of product and business strategy to create user value while achieving company goals. Part of the Measure UX & Design Impact (use the code 🎟 IMPACT to save 20% off today).",
+          "link": "https://smashingmagazine.com/2025/11/practical-guide-ux-strategy/",
+          "publishedOn": "2025-11-05T13:00:00.000Z",
+          "wordCount": 3947,
+          "title": "Six Key Components of UX Strategy",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/key-components-ux-strategy/practical-guide-ux-strategy.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "author": "hello@smashingmagazine.com (Daniel Schwarz)",
+          "description": "With component variants, design systems become more flexible, letting you reuse the same component while adapting its look or state with ease. In this article, Daniel Schwarz demonstrates how design tokens can be leveraged to manage components and their variations using Penpot, the open-source tool built for scalable, consistent design.",
+          "link": "https://smashingmagazine.com/2025/11/how-leverage-component-variants-penpot/",
+          "publishedOn": "2025-11-04T10:00:00.000Z",
+          "wordCount": 4429,
+          "title": "How To Leverage Component Variants In Penpot",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-leverage-component-variants-penpot/how-leverage-component-variants-penpot.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "The new month is just around the corner, and that means: It’s time for some new desktop wallpapers! All of them are designed by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/10/desktop-wallpaper-calendars-november-2025/",
+          "publishedOn": "2025-10-31T12:00:00.000Z",
+          "wordCount": 4798,
+          "title": "Fading Light And Falling Leaves (November 2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/8edeb776-d8d5-4b5b-867f-6964f7addcd6/nov-17-colorful-autumn-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "author": "hello@smashingmagazine.com (Mat Marquis)",
+          "description": "Here is a lesson on Iterators. Iterables implement the iterable iteration interface, and iterators implement the iterator iteration interface. Sounds confusing? Mat breaks it all down in the article.",
+          "link": "https://smashingmagazine.com/2025/10/javascript-for-everyone-iterators/",
+          "publishedOn": "2025-10-27T13:00:00.000Z",
+          "wordCount": 4474,
+          "title": "JavaScript For Everyone: Iterators",
+          "imageUrl": "https:null"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Motion can be tricky: too much distracts, too little feels flat. Ambient animations sit in the middle. They’re subtle, slow-moving details that add atmosphere without stealing the show. In part two of his series, web design pioneer Andy Clarke shows how ambient animations can add personality to any website design.",
+          "link": "https://smashingmagazine.com/2025/10/ambient-animations-web-design-practical-applications-part2/",
+          "publishedOn": "2025-10-22T13:00:00.000Z",
+          "wordCount": 4619,
+          "title": "Ambient Animations In Web Design: Practical Applications (Part 2)",
+          "imageUrl": "https:null"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "A simple but powerful mental model for working with AI: treat it like an enthusiastic intern with no real-world experience. Paul Boag shares lessons learned from real client projects across user research, design, development, and content creation.",
+          "link": "https://smashingmagazine.com/2025/10/ai-ux-achieve-more-with-less/",
+          "publishedOn": "2025-10-17T08:00:00.000Z",
+          "wordCount": 5854,
+          "title": "AI In UX: Achieve More With Less",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ai-ux-achieve-more-with-less/ai-ux-achieve-more-with-less.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "description": "Research isn’t everything. Facts alone don’t win arguments, but powerful stories do. Here’s how to turn your research into narratives that inspire trust and influence decisions.",
+          "link": "https://smashingmagazine.com/2025/10/how-make-ux-research-hard-to-ignore/",
+          "publishedOn": "2025-10-16T13:00:00.000Z",
+          "wordCount": 3876,
+          "title": "How To Make Your UX Research Hard To Ignore",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-make-ux-research-hard-to-ignore/how-make-ux-research-hard-to-ignore.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
+          "description": "From A/B tests to AI slop, the modern web is bleeding out its colour. Standardized, templated, and overoptimized, it’s starting to feel like a digital Levittown. But it doesn’t have to be.",
+          "link": "https://smashingmagazine.com/2025/10/the-grayscale-problem/",
+          "publishedOn": "2025-10-13T10:00:00.000Z",
+          "wordCount": 4585,
+          "title": "The Grayscale Problem",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/the-grayscale-problem/the-grayscale-problem.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "SVGs, they scale, yes, but how else can you make them adapt even better to several screen sizes? Web design pioneer Andy Clarke explains how he builds what he calls “adaptive SVGs” using ``, ``, and CSS Media Queries.",
+          "link": "https://smashingmagazine.com/2025/10/smashing-animations-part-5-building-adaptive-svgs/",
+          "publishedOn": "2025-10-06T13:00:00.000Z",
+          "wordCount": 4398,
+          "title": "Smashing Animations Part 5: Building Adaptive SVGs With `<symbol>`, `<use>`, And CSS Media Queries",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/smashing-animations-part-5-building-adaptive-svgs/smashing-animations-part-5-building-adaptive-svgs.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
+          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
+          "description": "Ready to move beyond static mockups? Here is a practical, step-by-step guide to Intent Prototyping — a disciplined method that uses AI to turn your design intent (UI sketches, conceptual models, and user flows) directly into a live prototype, making it your primary canvas for ideation.",
+          "link": "https://smashingmagazine.com/2025/10/intent-prototyping-practical-guide-building-clarity/",
+          "publishedOn": "2025-10-03T10:00:00.000Z",
+          "wordCount": 9715,
+          "title": "Intent Prototyping: A Practical Guide To Building With Clarity (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-practical-guide-building-clarity/intent-prototyping-practical-guide-building-clarity.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "description": "How about some new wallpapers to get your desktop ready for fall and the upcoming Halloween season? We’ve got you covered! Following our monthly tradition, the wallpapers in this post were created with love by the community for the community and can be downloaded for free. Enjoy!",
+          "link": "https://smashingmagazine.com/2025/09/desktop-wallpaper-calendars-october-2025/",
+          "publishedOn": "2025-09-30T11:00:00.000Z",
+          "wordCount": 4943,
+          "title": "Shades Of October (2025 Wallpapers Edition)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2025/oct-25-midnight-mischief-preview-opt.png"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+          "author": "hello@smashingmagazine.com (Lyndon Cerejo)",
+          "description": "What if your best AI prompts didn’t disappear into your unorganized chat history, but came back tomorrow as a reliable assistant? In this article, you’ll learn how to turn one-off “aha” prompts into reusable assistants that are tailored to your audience, grounded in your knowledge, and consistent every time, saving you (and your team) from typing the same 448-word prompt ever again.",
+          "link": "https://smashingmagazine.com/2025/09/from-prompt-to-partner-designing-custom-ai-assistant/",
+          "publishedOn": "2025-09-26T10:00:00.000Z",
+          "wordCount": 6562,
+          "title": "From Prompt To Partner: Designing Your Custom AI Assistant",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/from-prompt-to-partner-designing-custom-ai-assistant/from-prompt-to-partner-designing-custom-ai-assistant.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "author": "hello@smashingmagazine.com (Yegor Gilyov)",
+          "description": "Yegor Gilyov examines the problem of over-reliance on static high-fidelity mockups, which often leave the conceptual model and user flows dangerously underdeveloped. He then explores whether AI-powered prototyping is the answer, questioning whether the path forward is the popular “vibe coding” approach or a more structured, intent-driven approach.",
+          "link": "https://smashingmagazine.com/2025/09/intent-prototyping-pure-vibe-coding-enterprise-ux/",
+          "publishedOn": "2025-09-24T17:00:00.000Z",
+          "wordCount": 5459,
+          "title": "Intent Prototyping: The Allure And Danger Of Pure Vibe Coding In Enterprise UX (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/intent-prototyping-pure-vibe-coding-enterprise-ux/intent-prototyping-pure-vibe-coding-enterprise-ux.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+          "author": "hello@smashingmagazine.com (Andy Clarke)",
+          "description": "Creating motion can be tricky. Too much and it’s distracting. Too little and a design feels flat. Ambient animations are the middle ground — subtle, slow-moving details that add atmosphere without stealing the show. In this article, web design pioneer Andy Clarke introduces the concept of ambient animations and explains how to implement them.",
+          "link": "https://smashingmagazine.com/2025/09/ambient-animations-web-design-principles-implementation/",
+          "publishedOn": "2025-09-22T13:00:00.000Z",
+          "wordCount": 4576,
+          "title": "Ambient Animations In Web Design: Principles And Implementation (Part 1)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ambient-animations-web-design-principles-implementation/ambient-animations-web-design-principles-implementation.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
+          "author": "hello@smashingmagazine.com (Victor Yocco)",
+          "description": "With digital products moving to incorporate generative and agentic AI at an increasingly frequent rate, trust has become the invisible user interface. When it works, interactions feel seamless. When it fails, the entire experience collapses. But trust isn’t mystical. It can be understood, measured, and designed for. Here are practical methods and strategies for designing more trustworthy and ethical AI systems.",
+          "link": "https://smashingmagazine.com/2025/09/psychology-trust-ai-guide-measuring-designing-user-confidence/",
+          "publishedOn": "2025-09-19T10:00:00.000Z",
+          "wordCount": 6971,
+          "title": "The Psychology Of Trust In AI: A Guide To Measuring And Designing For User Confidence",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/psychology-trust-ai-guide-measuring-designing-user-confidence/psychology-trust-ai-guide-measuring-designing-user-confidence.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
+          "author": "hello@smashingmagazine.com (James Chudley)",
+          "description": "As responsible digital professionals, we are becoming increasingly aware of the environmental impact of our work and need to find effective and pragmatic ways to reduce it. James Chudley shares a new decarbonising approach that will help you to minimise the environmental impact of your website, benefiting people, profit, purpose, performance, and the planet.",
+          "link": "https://smashingmagazine.com/2025/09/how-minimize-environmental-impact-website/",
+          "publishedOn": "2025-09-18T10:00:00.000Z",
+          "wordCount": 5744,
+          "title": "How To Minimize The Environmental Impact Of Your Website",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/how-minimize-environmental-impact-website/how-minimize-environmental-impact-website.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "description": "From competitive SEO research and monitoring prices to training AI and parsing local geographic data, real-time search results power smarter apps. Tools like SerpApi make it easy to pull, customize, and integrate this data directly into your app or website.",
+          "link": "https://smashingmagazine.com/2025/09/serpapi-complete-api-fetching-search-engine-data/",
+          "publishedOn": "2025-09-16T17:00:00.000Z",
+          "wordCount": 3716,
+          "title": "SerpApi: A Complete API For Fetching Search Engine Data",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/serpapi-complete-api-fetching-search-engine-data/serpapi-complete-api-fetching-search-engine-data.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "description": "For too long, personas have been created with considerable effort, only to offer limited value. Paul Boag shows how to breathe new life into this stale UX asset and demonstrates that it’s possible to create truly useful functional personas in a lightweight way.",
+          "link": "https://smashingmagazine.com/2025/09/functional-personas-ai-lean-practical-workflow/",
+          "publishedOn": "2025-09-16T08:00:00.000Z",
+          "wordCount": 4389,
+          "title": "Functional Personas With AI: A Lean, Practical Workflow",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/functional-personas-ai-lean-practical-workflow/functional-personas-ai-lean-practical-workflow.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "author": "hello@smashingmagazine.com (Marius Sarca)",
+          "description": "Elastic and bounce effects have long been among the most desirable but time-consuming techniques in motion design. Expressive Animator streamlines the process, making it possible to produce lively animations in seconds, bypassing the tedious work of manual keyframe editing.",
+          "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "publishedOn": "2025-09-15T10:00:00.000Z",
+          "wordCount": 3909,
+          "title": "Creating Elastic And Bounce Effects With Expressive Animator",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+          "author": "hello@smashingmagazine.com (Karan Rawal)",
+          "description": "Real-time dashboards are decision assistants, not passive displays. In environments like fleet management, healthcare, and operations, the cost of a delay or misstep is high. Karan Rawal explores strategic UX patterns that shorten time-to-decision, reduce cognitive overload, and make live systems trustworthy.",
+          "link": "https://smashingmagazine.com/2025/09/ux-strategies-real-time-dashboards/",
+          "publishedOn": "2025-09-12T15:00:00.000Z",
+          "wordCount": 6305,
+          "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/ux-strategies-real-time-dashboards/ux-strategies-real-time-dashboards.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
+          "author": "hello@smashingmagazine.com (Victor Ayomipo)",
+          "description": "The idea behind this is to share a full, unfiltered look at integrating CSS Cascade Layers into an existing legacy codebase. In practice, it’s about refactoring existing CSS to use cascade layers without breaking anything.",
+          "link": "https://smashingmagazine.com/2025/09/integrating-css-cascade-layers-existing-project/",
+          "publishedOn": "2025-09-10T10:00:00.000Z",
+          "wordCount": 5882,
+          "title": "Integrating CSS Cascade Layers To An Existing Project",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/integrating-css-cascade-layers-existing-project/integrating-css-cascade-layers-existing-project.jpg"
+        },
+        {
+          "id": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
+          "author": "hello@smashingmagazine.com (Milan Balać)",
+          "description": "After covering in detail the underlying interaction paradigms of TV experiences in [Part 1](https://www.smashingmagazine.com/2025/08/designing-tv-evergreen-pattern-shapes-tv-experiences/), it’s time to get practical. In the second part of the series, you’ll explore the building blocks of the “10-foot experience” and how to best utilise them in your designs.",
+          "link": "https://smashingmagazine.com/2025/09/designing-tv-principles-patterns-practical-guidance/",
+          "publishedOn": "2025-09-04T10:00:00.000Z",
+          "wordCount": 7316,
+          "title": "Designing For TV: Principles, Patterns And Practical Guidance (Part 2)",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "imageUrl": "http://files.smashing.media/articles/designing-tv-principles-patterns-practical-guidance/designing-tv-principles-patterns-practical-guidance.jpg"
         }
       ]
     },
