@@ -6,6 +6,26 @@
       "siteUrl": "https://bf.zzxworld.com",
       "articles": [
         {
+          "id": "https://www.huotravel.com/xianwangjitemple.html?utm_source=blogfinder",
+          "author": null,
+          "description": "解析西安罔极寺：从太平公主建寺到唐武宗灭佛，一座千年古刹的兴衰史",
+          "link": "https://www.huotravel.com/xianwangjitemple.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T02:45:40.000Z",
+          "wordCount": 2292,
+          "title": "解析西安罔极寺：从太平公主建寺到唐武宗灭佛，一座千年古刹的兴衰史",
+          "imageUrl": "https://www.huotravel.com/wp-content/uploads/2025/12/西安罔极寺照片2.jpg"
+        },
+        {
+          "id": "https://www.sunzhongwei.com/oracle-tablespace-expansion?utm_source=blogfinder",
+          "author": null,
+          "description": "Oracle 表空间扩容，给 MES 系统续命",
+          "link": "https://www.sunzhongwei.com/oracle-tablespace-expansion?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T02:04:29.000Z",
+          "wordCount": 554,
+          "title": "Oracle 表空间扩容，给 MES 系统续命",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.xulog.cn/index.php?act=pl&id=1064&utm_source=blogfinder",
           "author": null,
           "description": "悲剧上演是谁的错",
@@ -66,6 +86,16 @@
           "imageUrl": "https://blog.saop.cc/img/cover/cover016.webp"
         },
         {
+          "id": "https://cytrogen.icu/posts/5097.html?utm_source=blogfinder",
+          "author": null,
+          "description": "观《玩具熊的五夜后宫 2》",
+          "link": "https://cytrogen.icu/posts/5097.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T17:02:31.000Z",
+          "wordCount": 861,
+          "title": "观《玩具熊的五夜后宫 2》",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.auiou.com/relevant/00002135.jsp?utm_source=blogfinder",
           "author": null,
           "description": "评论正在逐渐给博友审核中",
@@ -76,6 +106,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.huotravel.com/bailudong.html?utm_source=blogfinder",
+          "author": null,
+          "description": "探访四大书院之首：庐山白鹿洞书院深度旅游攻略与文化解析",
+          "link": "https://www.huotravel.com/bailudong.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T15:10:15.000Z",
+          "wordCount": 2264,
+          "title": "探访四大书院之首：庐山白鹿洞书院深度旅游攻略与文化解析",
+          "imageUrl": "https://www.huotravel.com/wp-content/uploads/2025/12/7c4078cc0571bb947438cb78e15956d4.jpg"
+        },
+        {
           "id": "https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder",
           "author": null,
           "description": "发于年终总结发布前19h：我的 python 学习之旅",
@@ -84,6 +124,16 @@
           "wordCount": 1085,
           "title": "发于年终总结发布前19h：我的 python 学习之旅",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.lifd.site/2025/12/gong-si-yao-qiu-xie-zhou-bao/?utm_source=blogfinder",
+          "author": null,
+          "description": "公司要求写周报",
+          "link": "https://www.lifd.site/2025/12/gong-si-yao-qiu-xie-zhou-bao/?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T14:41:45.000Z",
+          "wordCount": 1417,
+          "title": "公司要求写周报",
+          "imageUrl": "https://pic.lifd.site/wp-content/uploads/2024/09/1726807990-znudyv2of5f.webp"
         },
         {
           "id": "https://d-d.design/single/17319?utm_source=blogfinder",
@@ -184,6 +234,16 @@
           "wordCount": 974,
           "title": "九九（3/81）：又一次竞选三好学生",
           "imageUrl": null
+        },
+        {
+          "id": "http://www.yveji.com/Delicacy/xuanwei.html?utm_source=blogfinder",
+          "author": null,
+          "description": "宣威吃什么？",
+          "link": "http://www.yveji.com/Delicacy/xuanwei.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-23T06:24:46.000Z",
+          "wordCount": 445,
+          "title": "宣威吃什么？",
+          "imageUrl": "https://s41.ax1x.com/2025/12/23/pZ8LPk8.jpg"
         },
         {
           "id": "https://lawtee.com/article/those-with-200-kids-breaching-social-fairness/?utm_source=blogfinder",
@@ -2569,6 +2629,16 @@
       "feedUrl": "https://blogtalk.org/feed.xml?sort=latest",
       "siteUrl": "https://www.blogtalk.org/home?sort=latest",
       "articles": [
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliduos.com%2F2025-ai-review.html",
+          "author": "莫尔索",
+          "description": "全面复盘2025年AI领域的重大进展：从DeepSeek-R1到Gemini 3的模型突破，从提示词工程向上下文工程的范式转移，Claude Code与Manus代表的通用Agent路径分化，AI产品如何重新定义效率，以及企业AI转型面临的挑战与机遇。涵盖Agent架构演进、AI产品设计原则、企业转型实践等多个维度的深度观察。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliduos.com%2F2025-ai-review.html",
+          "publishedOn": "2025-12-24T00:00:00.000Z",
+          "wordCount": 1380,
+          "title": "2025 年 AI 领域年度观察总结：Agent 架构演进、企业 AI 转型现状与 AI 产品趋势",
+          "imageUrl": "https://liduos.com/open_graph.png"
+        },
         {
           "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.hansjack.com%2Fposts%2Fmse%2Fmse-word-1",
           "author": "时光流·言",
@@ -5854,6 +5924,113 @@
           "wordCount": 974,
           "title": "Linux系统开启缓存服务NSCD",
           "imageUrl": ""
+        }
+      ]
+    },
+    {
+      "title": "Mister Ngan",
+      "feedUrl": "https://www.misterngan.com/feed",
+      "siteUrl": "https://www.misterngan.com",
+      "articles": [
+        {
+          "id": "https://www.misterngan.com/?p=8476",
+          "author": "C.T. Leung",
+          "description": "因 為 家 庭 成 員 喜 歡 車 野 ，家 裡 面 一 直 都 有 家 用 衣 車 。之 前 ( 去 年 ) 升 級 的 brother M370 衣 車 也 是 在 淘 寶 買 … Continue reading →",
+          "link": "https://www.misterngan.com/8476/buy-sewing-machine-from-taobao/",
+          "publishedOn": "2025-03-13T07:04:52.000Z",
+          "wordCount": 7134,
+          "title": "買衣車，上淘寶！",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2025/03/br-001-300x235.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8433",
+          "author": "C.T. Leung",
+          "description": "話 說 我 家 裡 的 DS415+ 用 了 八 九 年 ，終 於 壽 終 正 寢 了 。這 並 不 是 我 的 主 力 NAS，而 是 淘 汰 下 來 之 後 給 我 的 主 力 … Continue reading →",
+          "link": "https://www.misterngan.com/8433/install-dsm-on-ugreen-nas/",
+          "publishedOn": "2024-04-04T03:29:22.000Z",
+          "wordCount": 6443,
+          "title": "買個 UGREEN NAS 裝黑群暉",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2024/04/ugreen-001-300x225.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8405",
+          "author": "C.T. Leung",
+          "description": "我 從 小 就 喜 歡 攝 影 ，也 用 過 好 一 些 相 機 。到 現 在 年 紀 漸 長 ，體 能 和 智 力 都 嚴 重 衰 退 ，背 個 攝 影 背 包 一 … Continue reading →",
+          "link": "https://www.misterngan.com/8405/i-bought-xiaomi-14-ultra/",
+          "publishedOn": "2024-03-20T04:59:02.000Z",
+          "wordCount": 4987,
+          "title": "我也買了小米14 Ultra",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2024/03/photo-001-1-300x300.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8355",
+          "author": "C.T. Leung",
+          "description": "我 的 Bambu Lab X1 Carbon 用 了 差 不 多 半 年 ，昨 天 檢 查 了 一 下 打 印 時 數 ，發 現 已 經 破 了 千 。特 別 是 有 了 X1 Carbon 之 後 … Continue reading →",
+          "link": "https://www.misterngan.com/8355/bambu-lab-x1-carbon-diy-activated-carbon-air-filter/",
+          "publishedOn": "2023-07-04T10:11:41.000Z",
+          "wordCount": 3916,
+          "title": "Bambu Lab X1-Carbon DIY 活性炭濾芯",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/07/filter-001-300x200.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8343",
+          "author": "C.T. Leung",
+          "description": "話 說 早 前 入 手 了 Siboor 的 入 門 級 全 包 Voron 0.2 KIT，KIT 裡 面 用 的 是 一 片 Mellow Fly 的 Gemini V3 二 合 一 主 板 。 既 然 是 一 台 … Continue reading →",
+          "link": "https://www.misterngan.com/8343/how-to-set-up-mellow-fly-gemini-v3-and-sht-36-v2/",
+          "publishedOn": "2023-07-03T07:00:41.000Z",
+          "wordCount": 4980,
+          "title": "如何設定 Mellow Fly Gemini V3 與 SHT 36 V2 ( VORON 0.2 升級 CAN bus toolhead board )",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/07/v0-display-300x300.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8321",
+          "author": "C.T. Leung",
+          "description": "3D 打 印 了 好 多 年 ，也 製 作 過 大 大 小 小 不 同 的 耗 材 乾 燥 箱 。我 最 新 的 設 計 ，是 在 密 封 儲 物 箱 安 裝 一 個 … Continue reading →",
+          "link": "https://www.misterngan.com/8321/bambu-lab-ams-active-dry-box/",
+          "publishedOn": "2023-06-05T07:05:07.000Z",
+          "wordCount": 3825,
+          "title": "Bambu Lab AMS 乾燥箱",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2022/10/fila-box-001-1-300x208.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8268",
+          "author": "C.T. Leung",
+          "description": "一 直 想 砌 一 台 VORON 2.4，但 奈 何 家 裡 的 3D 打 印 機 越 來 越 多 ，實 在 是 再 沒 地 方 放 ( 除 了 空 間 ，家 人 的 容 忍 度 … Continue reading →",
+          "link": "https://www.misterngan.com/8268/a-voron-that-is-not-a-voron/",
+          "publishedOn": "2023-05-25T04:54:53.000Z",
+          "wordCount": 8326,
+          "title": "砌一台不是 VORON 的 VORON",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/05/micron-001-1024x415.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8253",
+          "author": "C.T. Leung",
+          "description": "話 說 Raspberry Pi 缺 貨 已 經 缺 了 好 幾 年 ，原 來 定 價 US$45 美 金 的 Pi 4 2GB，炒 價 早 就 超 越 了 港 幣 千 元 。淘 寶 有 貨 的 店 … Continue reading →",
+          "link": "https://www.misterngan.com/8253/klipper-raspberry-pi-replacement/",
+          "publishedOn": "2023-05-09T08:23:54.000Z",
+          "wordCount": 4746,
+          "title": "Klipper：Raspberry Pi 缺貨的替代品",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/05/pi-001-300x147.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8134",
+          "author": "C.T. Leung",
+          "description": "VORON 是 好 東 西 ，係 人 都 知 。又 有 哪 個 3D 打 印 的 玩 家 會 唔 想 自 己 砌 一 部 VORON 呢 ？不 過 想 砌 一 部 VORON 卻 不 便 宜 … Continue reading →",
+          "link": "https://www.misterngan.com/8134/the-cheapest-voron-3d-printer/",
+          "publishedOn": "2023-03-28T07:33:45.000Z",
+          "wordCount": 12066,
+          "title": "人類歷史上最便宜的 VORON 3D 打印機",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/03/box-001-300x198.jpg"
+        },
+        {
+          "id": "https://www.misterngan.com/?p=8044",
+          "author": "C.T. Leung",
+          "description": "去 年 ( 2022 年 ) 最 最 最 勁 的 3D 打 印 機 ，實 在 是 非 Bambu Lab 的 X1-Carbon 莫 屬 ，名 乎 其 實 的 game changer。 其 實 當 初 在 Kickstarter 眾 籌 … Continue reading →",
+          "link": "https://www.misterngan.com/8044/bambu-lab-x1-carbon-combo-from-taobao/",
+          "publishedOn": "2023-03-07T02:50:32.000Z",
+          "wordCount": 5443,
+          "title": "我在淘寶買了 Bambu Lab X1-Carbon Combo",
+          "imageUrl": "https://www.misterngan.com/wp-content/uploads/2023/03/x1Series-main-bg-large_11_1100x-213x300.jpg"
         }
       ]
     }

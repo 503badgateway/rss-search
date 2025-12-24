@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T02:40:03.607Z</updated>
+    <updated>2025-12-24T03:33:10.367Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[解析西安罔极寺：从太平公主建寺到唐武宗灭佛，一座千年古刹的兴衰史]]></title>
+        <id>https://www.huotravel.com/xianwangjitemple.html?utm_source=blogfinder</id>
+        <link href="https://www.huotravel.com/xianwangjitemple.html?utm_source=blogfinder"/>
+        <updated>2025-12-24T02:45:40.000Z</updated>
+        <summary type="html"><![CDATA[解析西安罔极寺：从太平公主建寺到唐武宗灭佛，一座千年古刹的兴衰史]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle 表空间扩容，给 MES 系统续命]]></title>
+        <id>https://www.sunzhongwei.com/oracle-tablespace-expansion?utm_source=blogfinder</id>
+        <link href="https://www.sunzhongwei.com/oracle-tablespace-expansion?utm_source=blogfinder"/>
+        <updated>2025-12-24T02:04:29.000Z</updated>
+        <summary type="html"><![CDATA[Oracle 表空间扩容，给 MES 系统续命]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[嘿嘿，打爽了！]]></title>
         <id>https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/HD86aONB</id>
@@ -34,6 +54,16 @@
         <summary type="html"><![CDATA[郊区的圣诞节]]></summary>
         <author>
             <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年 AI 领域年度观察总结：Agent 架构演进、企业 AI 转型现状与 AI 产品趋势]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fliduos.com%2F2025-ai-review.html</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fliduos.com%2F2025-ai-review.html"/>
+        <updated>2025-12-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[全面复盘2025年AI领域的重大进展：从DeepSeek-R1到Gemini 3的模型突破，从提示词工程向上下文工程的范式转移，Claude Code与Manus代表的通用Agent路径分化，AI产品如何重新定义效率，以及企业AI转型面临的挑战与机遇。涵盖Agent架构演进、AI产品设计原则、企业转型实践等多个维度的深度观察。]]></summary>
+        <author>
+            <name>莫尔索</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +137,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[观《玩具熊的五夜后宫 2》]]></title>
+        <id>https://cytrogen.icu/posts/5097.html?utm_source=blogfinder</id>
+        <link href="https://cytrogen.icu/posts/5097.html?utm_source=blogfinder"/>
+        <updated>2025-12-23T17:02:31.000Z</updated>
+        <summary type="html"><![CDATA[观《玩具熊的五夜后宫 2》]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[自制龙舌兰浓缩咖啡(Tequila Espresso)]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fjustyy.com%2Farchives%2F70672</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fjustyy.com%2Farchives%2F70672"/>
@@ -137,11 +177,31 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[探访四大书院之首：庐山白鹿洞书院深度旅游攻略与文化解析]]></title>
+        <id>https://www.huotravel.com/bailudong.html?utm_source=blogfinder</id>
+        <link href="https://www.huotravel.com/bailudong.html?utm_source=blogfinder"/>
+        <updated>2025-12-23T15:10:15.000Z</updated>
+        <summary type="html"><![CDATA[探访四大书院之首：庐山白鹿洞书院深度旅游攻略与文化解析]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[发于年终总结发布前19h：我的 python 学习之旅]]></title>
         <id>https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder</id>
         <link href="https://blog.mcenahle.org.cn/2025/12/23/367.html?utm_source=blogfinder"/>
         <updated>2025-12-23T14:58:55.000Z</updated>
         <summary type="html"><![CDATA[发于年终总结发布前19h：我的 python 学习之旅]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[公司要求写周报]]></title>
+        <id>https://www.lifd.site/2025/12/gong-si-yao-qiu-xie-zhou-bao/?utm_source=blogfinder</id>
+        <link href="https://www.lifd.site/2025/12/gong-si-yao-qiu-xie-zhou-bao/?utm_source=blogfinder"/>
+        <updated>2025-12-23T14:41:45.000Z</updated>
+        <summary type="html"><![CDATA[公司要求写周报]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -502,6 +562,16 @@ Ivon上次買藍牙耳機已經是五年前。Apple AirPods Pro一代，因為�
 目前市面上的藍牙耳機，主流的編碼器有SBC與AAC，若要追求更高音質，還有LDAC、aptX、aptX HD、aptX LL、LC3、LC3plus、SSC、LHDC、Faststream、Opus 05 Pro等等。]]></summary>
         <author>
             <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宣威吃什么？]]></title>
+        <id>http://www.yveji.com/Delicacy/xuanwei.html?utm_source=blogfinder</id>
+        <link href="http://www.yveji.com/Delicacy/xuanwei.html?utm_source=blogfinder"/>
+        <updated>2025-12-23T06:24:46.000Z</updated>
+        <summary type="html"><![CDATA[宣威吃什么？]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -5425,6 +5495,16 @@ Novation Launchpad series]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[買衣車，上淘寶！]]></title>
+        <id>https://www.misterngan.com/?p=8476</id>
+        <link href="https://www.misterngan.com/8476/buy-sewing-machine-from-taobao/"/>
+        <updated>2025-03-13T07:04:52.000Z</updated>
+        <summary type="html"><![CDATA[因 為 家 庭 成 員 喜 歡 車 野 ，家 裡 面 一 直 都 有 家 用 衣 車 。之 前 ( 去 年 ) 升 級 的 brother M370 衣 車 也 是 在 淘 寶 買 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Folderify: MacOS自訂資料夾圖示]]></title>
         <id>http://prototypingideas.blogspot.com/2025/02/folderify-macos.html</id>
         <link href="http://prototypingideas.blogspot.com/2025/02/folderify-macos.html"/>
@@ -5755,6 +5835,26 @@ RewriteRule .*\.(js|css)$ - [F]
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[買個 UGREEN NAS 裝黑群暉]]></title>
+        <id>https://www.misterngan.com/?p=8433</id>
+        <link href="https://www.misterngan.com/8433/install-dsm-on-ugreen-nas/"/>
+        <updated>2024-04-04T03:29:22.000Z</updated>
+        <summary type="html"><![CDATA[話 說 我 家 裡 的 DS415+ 用 了 八 九 年 ，終 於 壽 終 正 寢 了 。這 並 不 是 我 的 主 力 NAS，而 是 淘 汰 下 來 之 後 給 我 的 主 力 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我也買了小米14 Ultra]]></title>
+        <id>https://www.misterngan.com/?p=8405</id>
+        <link href="https://www.misterngan.com/8405/i-bought-xiaomi-14-ultra/"/>
+        <updated>2024-03-20T04:59:02.000Z</updated>
+        <summary type="html"><![CDATA[我 從 小 就 喜 歡 攝 影 ，也 用 過 好 一 些 相 機 。到 現 在 年 紀 漸 長 ，體 能 和 智 力 都 嚴 重 衰 退 ，背 個 攝 影 背 包 一 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Google Drive 打包備份以及解壓縮麻煩事]]></title>
         <id>http://prototypingideas.blogspot.com/2024/03/google-driver.html</id>
         <link href="http://prototypingideas.blogspot.com/2024/03/google-driver.html"/>
@@ -5941,6 +6041,36 @@ brew install --cask appcleaner 也可以直接到 FreeMacSoft 下载安装。
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bambu Lab X1-Carbon DIY 活性炭濾芯]]></title>
+        <id>https://www.misterngan.com/?p=8355</id>
+        <link href="https://www.misterngan.com/8355/bambu-lab-x1-carbon-diy-activated-carbon-air-filter/"/>
+        <updated>2023-07-04T10:11:41.000Z</updated>
+        <summary type="html"><![CDATA[我 的 Bambu Lab X1 Carbon 用 了 差 不 多 半 年 ，昨 天 檢 查 了 一 下 打 印 時 數 ，發 現 已 經 破 了 千 。特 別 是 有 了 X1 Carbon 之 後 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何設定 Mellow Fly Gemini V3 與 SHT 36 V2 ( VORON 0.2 升級 CAN bus toolhead board )]]></title>
+        <id>https://www.misterngan.com/?p=8343</id>
+        <link href="https://www.misterngan.com/8343/how-to-set-up-mellow-fly-gemini-v3-and-sht-36-v2/"/>
+        <updated>2023-07-03T07:00:41.000Z</updated>
+        <summary type="html"><![CDATA[話 說 早 前 入 手 了 Siboor 的 入 門 級 全 包 Voron 0.2 KIT，KIT 裡 面 用 的 是 一 片 Mellow Fly 的 Gemini V3 二 合 一 主 板 。 既 然 是 一 台 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bambu Lab AMS 乾燥箱]]></title>
+        <id>https://www.misterngan.com/?p=8321</id>
+        <link href="https://www.misterngan.com/8321/bambu-lab-ams-active-dry-box/"/>
+        <updated>2023-06-05T07:05:07.000Z</updated>
+        <summary type="html"><![CDATA[3D 打 印 了 好 多 年 ，也 製 作 過 大 大 小 小 不 同 的 耗 材 乾 燥 箱 。我 最 新 的 設 計 ，是 在 密 封 儲 物 箱 安 裝 一 個 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Azure OpenAI API 申请和使用]]></title>
         <id>https://razeen.me/posts/how-to-apply-and-use-azure-openai-api/</id>
         <link href="https://razeen.me/posts/how-to-apply-and-use-azure-openai-api/"/>
@@ -5958,6 +6088,26 @@ brew install --cask appcleaner 也可以直接到 FreeMacSoft 下载安装。
         <summary type="html"><![CDATA[最近几周Depay被风控了，卡片的充值被停止了，到目前还没有恢复，恰好ChatGPT又到了续费的时间，只好又去折腾了一下onekey的信用卡。从注册到KYC, 到最后充值绑定ChatGPT都挺顺利的，昨天也顺利扣费成功了，特此记录&分享一下。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[砌一台不是 VORON 的 VORON]]></title>
+        <id>https://www.misterngan.com/?p=8268</id>
+        <link href="https://www.misterngan.com/8268/a-voron-that-is-not-a-voron/"/>
+        <updated>2023-05-25T04:54:53.000Z</updated>
+        <summary type="html"><![CDATA[一 直 想 砌 一 台 VORON 2.4，但 奈 何 家 裡 的 3D 打 印 機 越 來 越 多 ，實 在 是 再 沒 地 方 放 ( 除 了 空 間 ，家 人 的 容 忍 度 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Klipper：Raspberry Pi 缺貨的替代品]]></title>
+        <id>https://www.misterngan.com/?p=8253</id>
+        <link href="https://www.misterngan.com/8253/klipper-raspberry-pi-replacement/"/>
+        <updated>2023-05-09T08:23:54.000Z</updated>
+        <summary type="html"><![CDATA[話 說 Raspberry Pi 缺 貨 已 經 缺 了 好 幾 年 ，原 來 定 價 US$45 美 金 的 Pi 4 2GB，炒 價 早 就 超 越 了 港 幣 千 元 。淘 寶 有 貨 的 店 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
         </author>
     </entry>
     <entry>
@@ -5994,6 +6144,16 @@ Ubuntu-20.04 (默认)
         <summary type="html"><![CDATA[本文介绍了如何在国内长期使用英国giffgaff手机号，以便在注册国外服务（如ChatGPT）时避免一次性号码。giffgaff卡无月租、接收短信免费，180天内发一条短信即可保号。文章详细指导了购买、激活、充值以及查看余额的过程，帮助用户摆脱一次性验证码手机号的限制。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[人類歷史上最便宜的 VORON 3D 打印機]]></title>
+        <id>https://www.misterngan.com/?p=8134</id>
+        <link href="https://www.misterngan.com/8134/the-cheapest-voron-3d-printer/"/>
+        <updated>2023-03-28T07:33:45.000Z</updated>
+        <summary type="html"><![CDATA[VORON 是 好 東 西 ，係 人 都 知 。又 有 哪 個 3D 打 印 的 玩 家 會 唔 想 自 己 砌 一 部 VORON 呢 ？不 過 想 砌 一 部 VORON 卻 不 便 宜 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
         </author>
     </entry>
     <entry>
@@ -6064,6 +6224,16 @@ Ubuntu-20.04 (默认)
         <summary type="html"><![CDATA[这篇文章介绍了NASTool 3.0.2的升级体验，包括界面变化、插件功能、用户认证等。作者团队为了缩小圈子，让软件长期发展下去，做了一定的取舍，取消了BT支持，只支持PT站点的索引。文章还提供了将NASTool降级回2.9.1的方法。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我在淘寶買了 Bambu Lab X1-Carbon Combo]]></title>
+        <id>https://www.misterngan.com/?p=8044</id>
+        <link href="https://www.misterngan.com/8044/bambu-lab-x1-carbon-combo-from-taobao/"/>
+        <updated>2023-03-07T02:50:32.000Z</updated>
+        <summary type="html"><![CDATA[去 年 ( 2022 年 ) 最 最 最 勁 的 3D 打 印 機 ，實 在 是 非 Bambu Lab 的 X1-Carbon 莫 屬 ，名 乎 其 實 的 game changer。 其 實 當 初 在 Kickstarter 眾 籌 … Continue reading →]]></summary>
+        <author>
+            <name>C.T. Leung</name>
         </author>
     </entry>
     <entry>
