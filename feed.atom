@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T02:06:33.054Z</updated>
+    <updated>2025-12-24T02:21:35.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
@@ -3973,6 +3973,26 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025年了新加坡ocbc银行还能用吗]]></title>
+        <id>https://www.dongshushu.com/?p=10319</id>
+        <link href="https://www.dongshushu.com/post/10319/"/>
+        <updated>2025-09-09T06:58:13.000Z</updated>
+        <summary type="html"><![CDATA[24年12月份的时候网上闹得沸沸扬扬说不能用了。 我也收到了ocbc发的邮件，通知这张卡12月就不能使用了，但 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[树莓派docker国内镜像源]]></title>
+        <id>https://www.dongshushu.com/?p=10311</id>
+        <link href="https://www.dongshushu.com/post/10311/"/>
+        <updated>2025-08-15T09:12:28.000Z</updated>
+        <summary type="html"><![CDATA[众所周知的原因docker在国内不能正常使用 今天我在树莓派上安装了docker，需要增加以下配置 /etc/ […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[通过 Wi-Fi 自动备份你的 iPhone 到 Nas]]></title>
         <id>https://razeen.me/posts/easy-ways-backup-iphone-over-wifi/</id>
         <link href="https://razeen.me/posts/easy-ways-backup-iphone-over-wifi/"/>
@@ -4033,6 +4053,56 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[acme.sh阿里云dns颁发证书]]></title>
+        <id>https://www.dongshushu.com/?p=10302</id>
+        <link href="https://www.dongshushu.com/post/10302/"/>
+        <updated>2025-04-08T07:11:23.000Z</updated>
+        <summary type="html"><![CDATA[颁发 更新]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 macOS 上安装 Git LFS 并解决 Homebrew 错误]]></title>
+        <id>https://www.dongshushu.com/?p=10299</id>
+        <link href="https://www.dongshushu.com/post/10299/"/>
+        <updated>2025-03-27T06:58:06.000Z</updated>
+        <summary type="html"><![CDATA[什么是 Git LFS？ Git LFS（Git Large File Storage）是 Git 的一个扩展 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ES模块的基本用法]]></title>
+        <id>https://www.dongshushu.com/?p=10295</id>
+        <link href="https://www.dongshushu.com/post/10295/"/>
+        <updated>2025-02-14T03:53:45.000Z</updated>
+        <summary type="html"><![CDATA[ES模块（ECMAScript Modules, ESM）是 JavaScript 提供的一种模块化机制，它允 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[aws服务器ddns使用cloudflare域名]]></title>
+        <id>https://www.dongshushu.com/?p=10262</id>
+        <link href="https://www.dongshushu.com/post/10262/"/>
+        <updated>2024-12-26T03:43:25.000Z</updated>
+        <summary type="html"><![CDATA[前言 我有一台日本的aws服务器，ip经常不能访问，好在aws可以免费更换静态ip，但是随之而来的问题来了，更 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[服务器安装nvm来管理和安装nodejs]]></title>
+        <id>https://www.dongshushu.com/?p=10259</id>
+        <link href="https://www.dongshushu.com/post/10259/"/>
+        <updated>2024-12-26T03:06:44.000Z</updated>
+        <summary type="html"><![CDATA[nvm的全称是node version manage，字面意思node版本管理 github地址是 https […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[谈谈特斯拉 Model Y 用车一年的感受和费用分析]]></title>
         <id>https://razeen.me/posts/model-y-oneyear-review/</id>
         <link href="https://razeen.me/posts/model-y-oneyear-review/"/>
@@ -4084,6 +4154,36 @@ GPU 从 24 核减少到 16 核，虽然架构制程提升了，但从跑分来�
 为什么要换机呢？因为 Mac Studio 已经买了两年半了，万一挂了需要自费维修。去年就挂过一次，修了一个月换了主板电源，收费 6000+，还好在保修期内不用钱。所以宁愿趁现在正常出二手回点血。]]></summary>
         <author>
             <name>binsite - binss.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[esmodule引入plyr不能播放]]></title>
+        <id>https://www.dongshushu.com/?p=10256</id>
+        <link href="https://www.dongshushu.com/post/10256/"/>
+        <updated>2024-12-06T08:24:15.000Z</updated>
+        <summary type="html"><![CDATA[html部分 js引入plyr 按照文档，接下来我们应该new一下 但这样是有问题的，视频虽然可以现实，但无法 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[飞牛nas如何设置阿里云的DDNS]]></title>
+        <id>https://www.dongshushu.com/?p=10239</id>
+        <link href="https://www.dongshushu.com/post/10239/"/>
+        <updated>2024-11-20T09:35:12.000Z</updated>
+        <summary type="html"><![CDATA[前言 什么是DDNS？ 就是动态修改域名解析。 我家的宽带虽然没有公网ipv4，但运营商分配了ipv6,也就是 […]]]></summary>
+        <author>
+            <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[记录N100小盒子装飞牛NAS]]></title>
+        <id>https://www.dongshushu.com/?p=10219</id>
+        <link href="https://www.dongshushu.com/post/10219/"/>
+        <updated>2024-11-18T10:37:51.000Z</updated>
+        <summary type="html"><![CDATA[准备工作 在飞牛nas的官网下载系统镜像 mac下的烧录工具balenaEtcher mac电脑烧录如图 二， […]]]></summary>
+        <author>
+            <name>admin</name>
         </author>
     </entry>
     <entry>
