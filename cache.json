@@ -4704,6 +4704,213 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Ivon的部落格",
+      "feedUrl": "https://ivonblog.com/index.xml",
+      "siteUrl": "https://ivonblog.com/",
+      "articles": [
+        {
+          "id": "https://ivonblog.com/posts/nothinn-cmf-buds-pro-2-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "一個簡易的CMF Buds Pro 2使用心得。\n\n\n\n\nIvon上次買藍牙耳機已經是五年前。Apple AirPods Pro一代，因為使用頻率不是很高，就一直用到現在。",
+          "link": "https://ivonblog.com/posts/nothinn-cmf-buds-pro-2-review/",
+          "publishedOn": "2025-12-23T08:00:00.000Z",
+          "wordCount": 220,
+          "title": "CMF Buds Pro 2評價，用兩千元不到的的價格入手LDAC高音質藍牙耳機",
+          "imageUrl": "https://ivonblog.com/posts/nothinn-cmf-buds-pro-2-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/linux-pipewire-bluetooth-codecs/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Install PipeWire bluetooth codecs on Linux desktop.\n目前市面上的藍牙耳機，主流的編碼器有SBC與AAC，若要追求更高音質，還有LDAC、aptX、aptX HD、aptX LL、LC3、LC3plus、SSC、LHDC、Faststream、Opus 05 Pro等等。",
+          "link": "https://ivonblog.com/posts/linux-pipewire-bluetooth-codecs/",
+          "publishedOn": "2025-12-23T07:00:00.000Z",
+          "wordCount": 289,
+          "title": "Linux如何配對高音質藍牙耳機 (LDAC/aptX/LC3)，安裝PipeWire解碼器",
+          "imageUrl": "https://ivonblog.com/posts/linux-pipewire-bluetooth-codecs/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/fanservice-anime-list-specification/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "為使專案「有露點的肉番福利動漫列表」未來能順利進行，特訂定此規格書 (Specification) 。\n\n\n\n\n內容規範了製作表格的流程，動漫的收錄標準，還有遵循事項。",
+          "link": "https://ivonblog.com/posts/fanservice-anime-list-specification/",
+          "publishedOn": "2025-12-23T06:00:00.000Z",
+          "wordCount": 348,
+          "title": "「有露點的肉番福利動漫列表」規格書",
+          "imageUrl": "https://ivonblog.com/posts/fanservice-anime-list-specification/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/limbo-pc-emulator-tensor/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "先前分享過Limbo PC Emulator，可以在Android手機用QEMU跑電腦系統。\n但是因為大多數Android手機不支援虛擬化加速技術，沒有KVM，所以效能低落。",
+          "link": "https://ivonblog.com/posts/limbo-pc-emulator-tensor/",
+          "publishedOn": "2025-12-23T04:00:00.000Z",
+          "wordCount": 163,
+          "title": "用Limbo Tensor在Android手機跑KVM加速的Linux虛擬機",
+          "imageUrl": "https://ivonblog.com/posts/limbo-pc-emulator-tensor/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/termux-qemu-system-tensor-linux/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "我在Termux跑QEMU安裝Linux虛擬機討論過用Termux在Android手機跑虛擬機的問題，結論是慢的要命。\n沒有KVM，全靠軟體模擬，下場就是只能跑20年前的Windows XP系統，現代作業系統根本帶不動。",
+          "link": "https://ivonblog.com/posts/termux-qemu-system-tensor-linux/",
+          "publishedOn": "2025-12-23T03:00:00.000Z",
+          "wordCount": 217,
+          "title": "Termux透過pkVM加速QEMU虛擬機執行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/military-models-2018-to-2023/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "圖多注意。\n現在處於半退坑狀態，發現有些模型沒有公開過，遂撰文紀錄2018年~2023年間組過的軍事模型。",
+          "link": "https://ivonblog.com/posts/military-models-2018-to-2023/",
+          "publishedOn": "2025-12-21T17:14:00.000Z",
+          "wordCount": 195,
+          "title": "2018年 ~ 2023年組裝過的F-Toys、田宮、數位軍事模型照片總結",
+          "imageUrl": "https://ivonblog.com/posts/military-models-2018-to-2023/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/google-pixel-6a-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "好啦，還沒爆炸啦，這是clickbait。\n我又因為「Linux」買了玩具來實驗了。\n看到FB社團有人在賣老Sony Xperia，才2000台幣而已，我就買買看了。",
+          "link": "https://ivonblog.com/posts/google-pixel-6a-review/",
+          "publishedOn": "2025-12-19T18:00:00.000Z",
+          "wordCount": 187,
+          "title": "買到電池會爆炸的Google Pixel 6a，換電池後成為刷機實驗體",
+          "imageUrl": "https://ivonblog.com/posts/google-pixel-6a-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2025122001/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "We read the world wrong and say that it deceives us.\n去年的變化　去年煙花特別多（劉德華 - 去年的煙花特別多，影射1997年香港主權移交）",
+          "link": "https://ivonblog.com/posts/2025122001/",
+          "publishedOn": "2025-12-19T17:00:00.000Z",
+          "wordCount": 118,
+          "title": "今年的藥吃的特別多",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/magisk-android-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Magisk是一種systemless的Android Root方案，原作者是topjohnwu，於2016年推出。",
+          "link": "https://ivonblog.com/posts/magisk-android-root/",
+          "publishedOn": "2025-12-19T09:00:00.000Z",
+          "wordCount": 179,
+          "title": "Magisk安裝教學，systemless的Android手機Root方案",
+          "imageUrl": "https://ivonblog.com/posts/magisk-android-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/xiaomi-redmi-watch-5-lite-review/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "一直很想買個智慧手錶來玩玩，給自己找了個藉口買下手。現在來談談這個遲來的開箱與評價。\n至於深層的理由是什麼，後面公佈。",
+          "link": "https://ivonblog.com/posts/xiaomi-redmi-watch-5-lite-review/",
+          "publishedOn": "2025-12-19T08:00:00.000Z",
+          "wordCount": 136,
+          "title": "Redmi Watch 5 Lite半年使用心得，不要小米監控我",
+          "imageUrl": "https://ivonblog.com/posts/xiaomi-redmi-watch-5-lite-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/kernelsu-android-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "KernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。",
+          "link": "https://ivonblog.com/posts/kernelsu-android-root/",
+          "publishedOn": "2025-12-19T07:00:00.000Z",
+          "wordCount": 236,
+          "title": "KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強",
+          "imageUrl": "https://ivonblog.com/posts/kernelsu-android-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/custom-android-rom-list/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "第三方Android ROM的輝煌時代大約是Android 7以前，到了今天Android 16，許多第三方ROM專案的開發者都停更了，因此這裡只列出還在更新的。至少得追上Google官方的Android 16。",
+          "link": "https://ivonblog.com/posts/custom-android-rom-list/",
+          "publishedOn": "2025-12-17T01:00:00.000Z",
+          "wordCount": 148,
+          "title": "刷機未死：還活着的Android第三方ROM推薦",
+          "imageUrl": "https://ivonblog.com/posts/custom-android-rom-list/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/gadgetbridge-android/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "透過沒有追蹤器的第三方手錶APP，擺脫對手錶原廠APP的依賴！\n\n\n\n\n購買智慧手錶或者智慧手環的時候，有無考慮過隱私問題呢？是否APP要求登入帳號才能夠使用手錶？小米就是一例，限定用自家的APP才可以使用，不能給第三方分享資料。",
+          "link": "https://ivonblog.com/posts/gadgetbridge-android/",
+          "publishedOn": "2025-12-16T05:00:00.000Z",
+          "wordCount": 235,
+          "title": "用第三方Gadgetbridge開源APP與小米手錶配對，完全握有你的健康資料，捍衛隱私權",
+          "imageUrl": "https://ivonblog.com/posts/gadgetbridge-android/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "越來越沒有刷機與root的動力了，找不到理由，所以寫一篇紀敘個人想法。\n先簡述我的root玩機經歷。2013年買第一支智慧型手機的時候，因為對系統運作感到好奇便學習root，用的是最笨的百度一鍵Root，還有著名的流氓軟體KingRoot，這些都是靠漏洞破解來root。後期換成SuperSU。2017年，換了幾支手機後，學會刷第三方ROM，root方式跟著遷移到了較為正規的Magisk。在那之後購買的手機基本上都會讓root常伴身邊。2022年，更是開始研究刷Android以外的Linux與Windows系統。可是，最近卻開始覺得root權限可有可無了。",
+          "link": "https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/",
+          "publishedOn": "2025-12-15T09:00:00.000Z",
+          "wordCount": 152,
+          "title": "現今Android手機取得Root權限＆解鎖Bootloader刷機的必要性",
+          "imageUrl": "https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/magisk-hide-root/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "警告：因為我們無從得知那些專有APP的檢查方式，本文分享的方法不保證能100%隱藏Root，即使你通過Strong Integrity，以及各種模組都用上了，還是可能被APP檢測到Root。",
+          "link": "https://ivonblog.com/posts/magisk-hide-root/",
+          "publishedOn": "2025-12-15T04:00:00.000Z",
+          "wordCount": 231,
+          "title": "Android手機Magisk防Root偵測 ＋ 通過Play Integrity教學",
+          "imageUrl": "https://ivonblog.com/posts/magisk-hide-root/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-general-flashing-rom/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。\n本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。",
+          "link": "https://ivonblog.com/posts/android-general-flashing-rom/",
+          "publishedOn": "2025-12-13T12:00:00.000Z",
+          "wordCount": 157,
+          "title": "Android手機如何取得Root權限＋刷機流程介紹",
+          "imageUrl": "https://ivonblog.com/posts/android-general-flashing-rom/featured.png"
+        },
+        {
+          "id": "https://ivonblog.com/posts/2025121302/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "最近虛無感逐漸強烈，擴及到工作的使命上。\n本來我是抱持著，可以幫助人的道路去做這個工作的。當我參加一個外國人的教會聚會的時候，我回答他們\"I have no choice. I want to help someone to prove that I am not a useless person.\"",
+          "link": "https://ivonblog.com/posts/2025121302/",
+          "publishedOn": "2025-12-12T17:00:00.000Z",
+          "wordCount": 129,
+          "title": "在成為老師的路上，我逐漸不想當老師",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ivonblog.com/posts/joplin-web-app/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "注意：本篇文章Ivon討論的不是Joplin Web Clipper，亦不是架設Joplin同步伺服器\n有一款能隨時用網頁寫作的Markdown筆記本，難道不是一件便利的事情嗎？",
+          "link": "https://ivonblog.com/posts/joplin-web-app/",
+          "publishedOn": "2025-12-12T13:00:00.000Z",
+          "wordCount": 146,
+          "title": "試用Joplin網頁版 (Web App)，免安裝程式就可以寫Markdown筆記",
+          "imageUrl": "https://ivonblog.com/posts/joplin-web-app/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/android-cromite-browser/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "繼Edge和Kiwi之後，又有一款Android手機瀏覽器支援電腦版Chrome擴充功能了！\nCromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面跟Chrome很像，但是加入了額外的一組功能。例如支援Adblocker、載入ViolentMonkey指令稿、自訂User Agent、檢視網頁原始碼等等。",
+          "link": "https://ivonblog.com/posts/android-cromite-browser/",
+          "publishedOn": "2025-12-12T08:00:00.000Z",
+          "wordCount": 178,
+          "title": "Cromite：支援安裝電腦版Chrome擴充功能的開源Android瀏覽器",
+          "imageUrl": "https://ivonblog.com/posts/android-cromite-browser/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "What are the FOSS Chinese IME alternatives to Gboard?\n在degoogle的Android手機，有什麼好用的開源中文輸入法呢？\n我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。",
+          "link": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/",
+          "publishedOn": "2025-12-12T04:00:00.000Z",
+          "wordCount": 131,
+          "title": "替代Gboard的開源Android中文輸入法？",
+          "imageUrl": "https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/featured.webp"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"

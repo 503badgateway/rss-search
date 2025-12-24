@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T01:45:25.471Z</updated>
+    <updated>2025-12-24T02:06:33.054Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
@@ -379,6 +379,21 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CMF Buds Pro 2評價，用兩千元不到的的價格入手LDAC高音質藍牙耳機]]></title>
+        <id>https://ivonblog.com/posts/nothinn-cmf-buds-pro-2-review/</id>
+        <link href="https://ivonblog.com/posts/nothinn-cmf-buds-pro-2-review/"/>
+        <updated>2025-12-23T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一個簡易的CMF Buds Pro 2使用心得。
+
+
+
+
+Ivon上次買藍牙耳機已經是五年前。Apple AirPods Pro一代，因為使用頻率不是很高，就一直用到現在。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[为什么我更愿意劝人放弃]]></title>
         <id>https://kaix.in/2025/1223-why-i-prefer/?utm_source=blogfinder</id>
         <link href="https://kaix.in/2025/1223-why-i-prefer/?utm_source=blogfinder"/>
@@ -469,6 +484,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux如何配對高音質藍牙耳機 (LDAC/aptX/LC3)，安裝PipeWire解碼器]]></title>
+        <id>https://ivonblog.com/posts/linux-pipewire-bluetooth-codecs/</id>
+        <link href="https://ivonblog.com/posts/linux-pipewire-bluetooth-codecs/"/>
+        <updated>2025-12-23T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Install PipeWire bluetooth codecs on Linux desktop.
+目前市面上的藍牙耳機，主流的編碼器有SBC與AAC，若要追求更高音質，還有LDAC、aptX、aptX HD、aptX LL、LC3、LC3plus、SSC、LHDC、Faststream、Opus 05 Pro等等。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[宣威吃什么？]]></title>
         <id>https://www.blogsclub.org/jump?url=http://www.yveji.com/Delicacy/xuanwei.html</id>
         <link href="https://www.blogsclub.org/jump?url=http://www.yveji.com/Delicacy/xuanwei.html"/>
@@ -476,6 +502,21 @@
         <summary type="html"><![CDATA[火腿安排上，必须合着辣椒一起吃  黄豆腐整一个，再来一个酸菜红豆汤，嘎嘎好吃，光盘]]></summary>
         <author>
             <name>悦己</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「有露點的肉番福利動漫列表」規格書]]></title>
+        <id>https://ivonblog.com/posts/fanservice-anime-list-specification/</id>
+        <link href="https://ivonblog.com/posts/fanservice-anime-list-specification/"/>
+        <updated>2025-12-23T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[為使專案「有露點的肉番福利動漫列表」未來能順利進行，特訂定此規格書 (Specification) 。
+
+
+
+
+內容規範了製作表格的流程，動漫的收錄標準，還有遵循事項。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -598,6 +639,17 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用Limbo Tensor在Android手機跑KVM加速的Linux虛擬機]]></title>
+        <id>https://ivonblog.com/posts/limbo-pc-emulator-tensor/</id>
+        <link href="https://ivonblog.com/posts/limbo-pc-emulator-tensor/"/>
+        <updated>2025-12-23T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[先前分享過Limbo PC Emulator，可以在Android手機用QEMU跑電腦系統。
+但是因為大多數Android手機不支援虛擬化加速技術，沒有KVM，所以效能低落。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10kV 断路器操作顺序“O-0.3s-CO-180s-CO”的含义]]></title>
         <id>https://www.aiwazi.com/2728.html?utm_source=blogfinder</id>
         <link href="https://www.aiwazi.com/2728.html?utm_source=blogfinder"/>
@@ -625,6 +677,17 @@
         <summary type="html"><![CDATA[杭州仲裁委员会地址、电话和相关规定]]></summary>
         <author>
             <name>蒙需</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Termux透過pkVM加速QEMU虛擬機執行]]></title>
+        <id>https://ivonblog.com/posts/termux-qemu-system-tensor-linux/</id>
+        <link href="https://ivonblog.com/posts/termux-qemu-system-tensor-linux/"/>
+        <updated>2025-12-23T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我在Termux跑QEMU安裝Linux虛擬機討論過用Termux在Android手機跑虛擬機的問題，結論是慢的要命。
+沒有KVM，全靠軟體模擬，下場就是只能跑20年前的Windows XP系統，現代作業系統根本帶不動。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -1876,6 +1939,17 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2018年 ~ 2023年組裝過的F-Toys、田宮、數位軍事模型照片總結]]></title>
+        <id>https://ivonblog.com/posts/military-models-2018-to-2023/</id>
+        <link href="https://ivonblog.com/posts/military-models-2018-to-2023/"/>
+        <updated>2025-12-21T17:14:00.000Z</updated>
+        <summary type="html"><![CDATA[圖多注意。
+現在處於半退坑狀態，發現有些模型沒有公開過，遂撰文紀錄2018年~2023年間組過的軍事模型。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[告别 2025]]></title>
         <id>https://justgoidea.com/say-goodbye-to-2025/?utm_source=blogfinder</id>
         <link href="https://justgoidea.com/say-goodbye-to-2025/?utm_source=blogfinder"/>
@@ -3047,6 +3121,18 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[買到電池會爆炸的Google Pixel 6a，換電池後成為刷機實驗體]]></title>
+        <id>https://ivonblog.com/posts/google-pixel-6a-review/</id>
+        <link href="https://ivonblog.com/posts/google-pixel-6a-review/"/>
+        <updated>2025-12-19T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[好啦，還沒爆炸啦，這是clickbait。
+我又因為「Linux」買了玩具來實驗了。
+看到FB社團有人在賣老Sony Xperia，才2000台幣而已，我就買買看了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AI 使我们重新思考资本主义]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fpathos.page%2Fblog%2Fai-and-capitalism%2F</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fpathos.page%2Fblog%2Fai-and-capitalism%2F"/>
@@ -3054,6 +3140,17 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[引言：增长的强制力 经济为什么一定要增长？ 至少我有生以来，经济增长似乎是整个国家，整个社会，整个地球，整个人类最重要的事情。战争或自然灾害最大的罪过可能也不过是中断或阻碍了经济增长。被入侵或入侵，往往都只是经济增长停滞的结果。特别对于我们这个处于追赶超越阶段、意欲复兴的发展中国家来说，我们每天所能享受的最好新闻就是经济增长。 经济对于人类至关重要，它有数不完的好处。其中最重要的好处就是满足人口的增长需要。只有创造出更多的财富，才能在同等或更好的物质条件下养活更多的人口。还有一个关键的好处是技术进步：它不但可以解放人类双手，更重要的是可以使人们的寿命延长。 但我们今天的主题不是一个经济学的内部问题。 数字牢笼与田园牧歌的消逝 确实，经济增长可以提高生产效率，提升生活品质，提高预期寿命。但有的时候我们又感觉，这未必是我们一年更新一次手机，或者一个手机厂商一年设计十几款新产品的理由，更不用说所谓的 AR 设备研发。 扎克伯格的元宇宙概念令人感到莫名其妙。我们在自己的宇宙中得到的体验还不够吗，为什么非要创造一个虚拟的宇宙并乐于居于其中？这几十年来，我们一再发展信息技术，把我们的注意力都放在了数字世界之中。我们逐渐远离了湖光山色，山水草木，土地气息。一根网线或 WiFi 信号现在默认是年轻人快乐的源泉，是连接极乐世界的通道。 田园牧歌的时代的确一去不复返了。现代人和古代人的一个巨大差别就表现在体验世界的不同：一个是亲近自然的（无论苦乐），一个是投身数字世界的。你让一个现代年轻人在没有网络信号的情况下伫立于原野，他可能会觉得度日如年。这已不是他的生命状态和存在方式。对于现代人而言，没有网络的自然世界就像一个牢笼。 经济增长背后的动机之一是让每个人都忙起来：生产自己，生产商品，提供服务。事实上，这就是资本主义的一个核心特征。资本主义不仅在于阶级剥削，还在于使整个社会以资本积累为最终目标...]]></summary>
         <author>
             <name>pathos•page</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今年的藥吃的特別多]]></title>
+        <id>https://ivonblog.com/posts/2025122001/</id>
+        <link href="https://ivonblog.com/posts/2025122001/"/>
+        <updated>2025-12-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We read the world wrong and say that it deceives us.
+去年的變化　去年煙花特別多（劉德華 - 去年的煙花特別多，影射1997年香港主權移交）]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -3074,6 +3171,37 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[又是一年年终，我没有年底总结和给新一年做计划的习惯（主要是做了也完不成），但是年终总想写点什么，来作为今年的结束。想了想，不如写一下关于这一年写博客的感受和想法。 这个博客创建于 2023 年，起初只是想简单的把我每个月看的书、电影，听的音乐来做个总结，写的频率也很低，大概 1-2 个月一篇，另外一个原因则是，我对折腾服务器和网络这些有所兴趣，感觉自己搭建一个 Blog 网站会很满足。 后来写着写着，也就不满足于只写书影音总结类的了，任何在我脑子里浮现的想法，都可能成为一篇博客。2025 年截止到今天，总共写了 25 篇，平均每个月两篇，听起来确实不多，但这个频率对我来说刚刚好，不会过于频繁，又有足够的时间获取想法和写出来。 写字带给我的作用 我清楚的知道我写的东西是什么水平，所以我不好意思称为写作，不如就直接叫「写字」。 写东西是一个整理思绪的过程，脑子里会经常浮现出什么想法，如果不进行更多的思考和记录下来，这个想法就会烟消云散，以前的我就是这样，最多也就是在 flomo 里简单写几句，再之后可能就很少看到了。今年的我开始尝试抓住这些想法，如果认为有必要和有兴趣继续思考，我就会把它写下来，然后就可能变成一篇博客。 坚持下来给我带来的好处，它能让我保持深度思考的习惯，被写下来的东西慢慢形成积累和沉淀，即使我后续很少再看，它也会存在我的潜意识里，留下印记。 此外，坚持记录和写东西这件事，本身就会给我满足感和成就感，而且生活中往往有很多想要坚持的事，要么很难坚持，要么痛苦放弃，但只有写东西这件事，开始的期望并不高，反而一直坚持下来，所以带给我的满足感会更高。 理解“自留地”这三个字 以前经常在社媒或者别人的博客里看到自留地这三个字，明白它的意思，但是不那么理解含义，写博客后的这几年，才开始理解“自留地”，但我想每个人的“自留地”应该都不一样。 首先自留地一定是先体现在“自我”，...]]></summary>
         <author>
             <name>Lumos's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magisk安裝教學，systemless的Android手機Root方案]]></title>
+        <id>https://ivonblog.com/posts/magisk-android-root/</id>
+        <link href="https://ivonblog.com/posts/magisk-android-root/"/>
+        <updated>2025-12-19T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Magisk是一種systemless的Android Root方案，原作者是topjohnwu，於2016年推出。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redmi Watch 5 Lite半年使用心得，不要小米監控我]]></title>
+        <id>https://ivonblog.com/posts/xiaomi-redmi-watch-5-lite-review/</id>
+        <link href="https://ivonblog.com/posts/xiaomi-redmi-watch-5-lite-review/"/>
+        <updated>2025-12-19T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一直很想買個智慧手錶來玩玩，給自己找了個藉口買下手。現在來談談這個遲來的開箱與評價。
+至於深層的理由是什麼，後面公佈。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KernelSU安裝教學 ～ 基於Linux核心的Android Root方案，隱藏Root能力強]]></title>
+        <id>https://ivonblog.com/posts/kernelsu-android-root/</id>
+        <link href="https://ivonblog.com/posts/kernelsu-android-root/"/>
+        <updated>2025-12-19T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[KernelSU是一種基於Linux核心的Android Root方案，最初由weishu主導開發，於2022年推出。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -3187,6 +3315,16 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[刷機未死：還活着的Android第三方ROM推薦]]></title>
+        <id>https://ivonblog.com/posts/custom-android-rom-list/</id>
+        <link href="https://ivonblog.com/posts/custom-android-rom-list/"/>
+        <updated>2025-12-17T01:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第三方Android ROM的輝煌時代大約是Android 7以前，到了今天Android 16，許多第三方ROM專案的開發者都停更了，因此這裡只列出還在更新的。至少得追上Google官方的Android 16。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[每周一山 | 广州龙渔线徒步]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fshenwy.com%2Fblog%2Fdiscussions-174%2F</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fshenwy.com%2Fblog%2Fdiscussions-174%2F"/>
@@ -3227,6 +3365,21 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[用第三方Gadgetbridge開源APP與小米手錶配對，完全握有你的健康資料，捍衛隱私權]]></title>
+        <id>https://ivonblog.com/posts/gadgetbridge-android/</id>
+        <link href="https://ivonblog.com/posts/gadgetbridge-android/"/>
+        <updated>2025-12-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[透過沒有追蹤器的第三方手錶APP，擺脫對手錶原廠APP的依賴！
+
+
+
+
+購買智慧手錶或者智慧手環的時候，有無考慮過隱私問題呢？是否APP要求登入帳號才能夠使用手錶？小米就是一例，限定用自家的APP才可以使用，不能給第三方分享資料。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025渝超联赛]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.chener.net%2Farchives%2Fyuchao%2F</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.chener.net%2Farchives%2Fyuchao%2F"/>
@@ -3260,6 +3413,27 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[2025 年的余额只剩下半月，又进入了大家喜闻乐见的回顾与总结阶段。回顾过去这一年，究竟有哪些产品和服务给人留下深刻印象，切切实实地提升了幸福感呢？打开电脑，翻阅手机，我从 2025 年的数字足迹中，挑选出了我的答案，想在这里分享给各位。 Gemini 今年的 Google 打了一场漂亮的翻身仗，尤其是随着 Gemini 3 的推出，全系产品的能力都有了大幅跃升。更关键的是，围绕 Gemini，Google 还推出了一系列优秀的 AI 工具： （1）NotebookLM：一个不止于问答，还能生成视频、音频、PPT 及思维导图的知识库工具；（2）Antigravity：支持 Gemini 3 及 Claude 模型的 AI IDE 工具；（3）深度整合 Gemini 的 Chrome：在任何网页下都能直接唤起 Gemini 进行对话，完全无需安装额外的 AI 浏览器；（4）Banana Pro：一致性出色且支持文字生成的生图模型。 虽然 Pro 会员每月需 20 刀，但一想到 Gemini Pro = Gemini 3 + Banana Pro + NotebookLM + Antigravity + 2TB Drive+… 顿时觉得性价比也挺高。也正因如此，Gemini 成了我下半年使用频率最高的 AI 产品。 Animeko 近一年来，突然“返老还童”，喜欢上了看番剧，打算抽空把以前想看却没空看的动漫都补上。鉴于在网上四处找资源比较麻烦，且网页端的体验也不尽如人意，一番搜索后，我发现了 Animeko 这款开源应用。Animeko 聚合了多个平台的内容，遇到连接超时会自动切换视频源。它不仅整合了 Bangumi 用于同步追番记录，还支持弹幕功能——毕竟看网友吐槽也是一种乐趣。此外，Animeko 覆盖了 Android、Windows、macOS 等多个平台。总的来说，这...]]></summary>
         <author>
             <name>Jack's Space</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[現今Android手機取得Root權限＆解鎖Bootloader刷機的必要性]]></title>
+        <id>https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/</id>
+        <link href="https://ivonblog.com/posts/is-it-worth-rooting-your-android-phone/"/>
+        <updated>2025-12-15T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[越來越沒有刷機與root的動力了，找不到理由，所以寫一篇紀敘個人想法。
+先簡述我的root玩機經歷。2013年買第一支智慧型手機的時候，因為對系統運作感到好奇便學習root，用的是最笨的百度一鍵Root，還有著名的流氓軟體KingRoot，這些都是靠漏洞破解來root。後期換成SuperSU。2017年，換了幾支手機後，學會刷第三方ROM，root方式跟著遷移到了較為正規的Magisk。在那之後購買的手機基本上都會讓root常伴身邊。2022年，更是開始研究刷Android以外的Linux與Windows系統。可是，最近卻開始覺得root權限可有可無了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android手機Magisk防Root偵測 ＋ 通過Play Integrity教學]]></title>
+        <id>https://ivonblog.com/posts/magisk-hide-root/</id>
+        <link href="https://ivonblog.com/posts/magisk-hide-root/"/>
+        <updated>2025-12-15T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[警告：因為我們無從得知那些專有APP的檢查方式，本文分享的方法不保證能100%隱藏Root，即使你通過Strong Integrity，以及各種模組都用上了，還是可能被APP檢測到Root。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -3313,6 +3487,28 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Android手機如何取得Root權限＋刷機流程介紹]]></title>
+        <id>https://ivonblog.com/posts/android-general-flashing-rom/</id>
+        <link href="https://ivonblog.com/posts/android-general-flashing-rom/"/>
+        <updated>2025-12-13T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[這篇不是某部手機的刷機教學，是Ivon刷過幾個大廠牌的手機歸納出來的刷機通用步驟。
+本文討論的是較正規的刷機方法：解鎖Bootloader，刷Root權限管理員取得Root權限，再刷入第三方ROM。不使用刷機助手或漏洞破解的作法。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在成為老師的路上，我逐漸不想當老師]]></title>
+        <id>https://ivonblog.com/posts/2025121302/</id>
+        <link href="https://ivonblog.com/posts/2025121302/"/>
+        <updated>2025-12-12T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[最近虛無感逐漸強烈，擴及到工作的使命上。
+本來我是抱持著，可以幫助人的道路去做這個工作的。當我參加一個外國人的教會聚會的時候，我回答他們"I have no choice. I want to help someone to prove that I am not a useless person."]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[速薅阿里云免费CDN，可续至2051年]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Faboss.top%2Fpost%2F1055</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Faboss.top%2Fpost%2F1055"/>
@@ -3333,6 +3529,17 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[試用Joplin網頁版 (Web App)，免安裝程式就可以寫Markdown筆記]]></title>
+        <id>https://ivonblog.com/posts/joplin-web-app/</id>
+        <link href="https://ivonblog.com/posts/joplin-web-app/"/>
+        <updated>2025-12-12T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[注意：本篇文章Ivon討論的不是Joplin Web Clipper，亦不是架設Joplin同步伺服器
+有一款能隨時用網頁寫作的Markdown筆記本，難道不是一件便利的事情嗎？]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Springboot3.0并不能拯救你的屎山]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fshiker.tech%2Farchives%2F287</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fshiker.tech%2Farchives%2F287"/>
@@ -3340,6 +3547,17 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[本文系统分析了Spring Boot 3.0发布后，许多项目迟疑升级的原因。主要原因包括：1. **核心破坏性变更**： - **Java EE（javax）迁移到Jakarta EE（jakarta）**带来了包名大规模变更，导致编译和运行时严重不兼容。许多依赖库未同步迁移，造成“看似兼容但运行失败”的常见问题。 - **JDK版本升级至Java 17及以上**，跨越多个Java版本，带来架构和基础设施链路的连锁反应，增加迁移复杂度。2. **依赖生态未跟进**： - Spring全家桶及第三方库的版本升级存在依赖关系限制，单独升级Spring Boot 3.x通常无法成功启动。 - 企业自研SDK多依赖旧版javax包，成为升级的关键瓶颈。 - 依赖链越深，升级成本呈指数级增长。3. **老项目升级成本高昂**： - 代码庞大且跨模块，积累大量技术债务，潜在不兼容点多。 - 自动配置变化导致集成测试和业务回归风险增加，尤其在分布式系统中端到端测试难度大。 - 升级涉及多个团队协作，需同步升级架构、基础设施和运维体系，QA面临覆盖难题。4. **Spring Boot 3亮点难以形成强刚需**： - AOT和Native Image技术门槛高，难以快速落地。 - 虚拟线程和Java 17语言特性虽有优势，但非多数业务痛点。 - 当前生态成熟度有限，且2.x版本已能满足大多数业务需求。5. **升级时机与决策模型**： - 系统性能受旧JDK限制、需要现代能力（如AOT、可观测性）时应考虑升级。 - 技术债务持续增加或组织架构调整时，升级的收益大于成本。总结来看，Spring Boot 3的升级是一次架构和技术栈的深层次变革，带来显著的破坏性变化和高昂的迁移成本。多数既有项目选择观望，等待依赖生态成熟和业务驱动，避免盲目冲动升级。升级决策应基于实际收益与风险的综合评估，采取...]]></summary>
         <author>
             <name>橙序员小站</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cromite：支援安裝電腦版Chrome擴充功能的開源Android瀏覽器]]></title>
+        <id>https://ivonblog.com/posts/android-cromite-browser/</id>
+        <link href="https://ivonblog.com/posts/android-cromite-browser/"/>
+        <updated>2025-12-12T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[繼Edge和Kiwi之後，又有一款Android手機瀏覽器支援電腦版Chrome擴充功能了！
+Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面跟Chrome很像，但是加入了額外的一組功能。例如支援Adblocker、載入ViolentMonkey指令稿、自訂User Agent、檢視網頁原始碼等等。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
@@ -3360,6 +3578,18 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         <summary type="html"><![CDATA[2023年9月到龙岩培训云客服，从当年的11月结业以来，经历三个月才熟练一些，也就是说从2024年2月下旬才开始真正的赚钱。每次上到2000元左右也就不太想上了，所以工资都是2000元/月上下。 上个月双11，原本想休息一下，但人多奖励也多，又有好几天是剔除考核，所以上个月上的比较多。到了今天发工资居然有3788元，这是学习云客服以来，第一次有这么高的工资，挺开心。 对于这份兼职，做的好，很开心，做不好，压力大，而且需要一直“边做边学习”的状态，如果连续几天没上班，就很容易变得生疏，遇到无理取闹的人也会非常生气，但毕竟是服务行业，要懂得理性，懂得学会控制。]]></summary>
         <author>
             <name>因为很想念</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[替代Gboard的開源Android中文輸入法？]]></title>
+        <id>https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/</id>
+        <link href="https://ivonblog.com/posts/gboard-chinese-ime-foss-alternatives/"/>
+        <updated>2025-12-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What are the FOSS Chinese IME alternatives to Gboard?
+在degoogle的Android手機，有什麼好用的開源中文輸入法呢？
+我們似乎太依賴Google的Gboard了，俗又大碗的支援所有語言，習以爲常的使用這種侵犯隱私的鍵盤。沒有它我們甚至不能打字了。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
         </author>
     </entry>
     <entry>
