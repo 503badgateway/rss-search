@@ -49,7 +49,8 @@
     if (query) {
       window.location.hash = encodeURIComponent(query);
     } else {
-      window.history.replaceState(null, null, ' ');
+      // Clear hash without adding space to URL
+      history.replaceState(null, null, window.location.href.split('#')[0]);
     }
     
     if (!query) {
