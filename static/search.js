@@ -4,7 +4,6 @@
 
   const searchInput = document.getElementById('search-input');
   const searchStats = document.getElementById('search-stats');
-  const content = document.getElementById('content');
   
   let allArticles = [];
   let totalArticleCount = 0;

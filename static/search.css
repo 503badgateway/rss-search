@@ -72,11 +72,6 @@
   }
 }
 
-/* Highlight matching articles */
-.article-item {
-  transition: opacity 0.2s ease;
-}
-
 /* Improve visibility of search results */
 .daily-content[style*="display: none"],
 .card__section[style*="display: none"] {
