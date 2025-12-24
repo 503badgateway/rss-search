@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-24T01:24:33.907Z</id>
+    <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T01:24:33.907Z</updated>
+    <updated>2025-12-24T01:36:01.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
+    <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[悲剧上演是谁的错]]></title>
         <id>http://www.xulog.cn/index.php?act=pl&amp;id=1064&amp;utm_source=blogfinder</id>
