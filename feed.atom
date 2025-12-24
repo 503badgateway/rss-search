@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T03:41:10.400Z</updated>
+    <updated>2025-12-24T03:46:26.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
@@ -5409,6 +5409,16 @@ XS1000 (SSD) 1TB, 2TB]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Strix Halo (395)本地运行LLM测试]]></title>
+        <id>https://blog.hjc.im/?p=1035</id>
+        <link href="https://blog.hjc.im/strix-halo-local-llm.html"/>
+        <updated>2025-04-28T17:53:48.000Z</updated>
+        <summary type="html"><![CDATA[在上一篇关于Mac Mini (M4 Pro)的文章里，我从几个方面较为全面地测试了M4 Pro运行LLM的现 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[从影音中心到 AI 助手：我的50款 Homelab 服务清单]]></title>
         <id>https://razeen.me/posts/homelab-services-2025/</id>
         <link href="https://razeen.me/posts/homelab-services-2025/"/>
@@ -5485,6 +5495,18 @@ Novation Launchpad series]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[基于 MQTT 将 OpenWRT 接入 Home Assistant]]></title>
+        <id>https://wasteland.touko.moe/blog/2025/03/ha-mqtt-openwrt/</id>
+        <link href="https://wasteland.touko.moe/blog/2025/03/ha-mqtt-openwrt/"/>
+        <updated>2025-03-29T12:40:44.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>惊闻米家官方接入了 Home Assistant（HA），我也是连忙重新捡起被废弃了很久的 Home Assistant。由于我的 Homelab 经过了多次升级和架构调整，已经完成了存算完全分离的架构，与<a href="/blog/2020/07/raspi-as-router/" title="在树莓派上运行 OpenWrt 作为软路由">之前的架构</a>完全不同。我也会在后期重新详细介绍现有的 Homelab 架构。</p>
+<p>在本章中，我将着重介绍我如何通过 MQTT 和 luci-app-statistics 工具将 OpenWRT 的统计信息悉数同步至 HomeAssistant，做到如下的 Infrastructure 看板。</p>
+<img src="/blog/2025/03/ha-mqtt-openwrt/0.dashboard.jpg" class="" title="Home Assistant 上的 OpenWRT 预览">]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何在 macOS 上安装 Git LFS 并解决 Homebrew 错误]]></title>
         <id>https://www.dongshushu.com/?p=10299</id>
         <link href="https://www.dongshushu.com/post/10299/"/>
@@ -5538,6 +5560,16 @@ Novation Launchpad series]]></summary>
         <summary type="html"><![CDATA[ES模块（ECMAScript Modules, ESM）是 JavaScript 提供的一种模块化机制，它允 […]]]></summary>
         <author>
             <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TSMC救不了Intel：酷睿Ultra 7 255H（Arrow Lake H45）测试]]></title>
+        <id>https://blog.hjc.im/?p=960</id>
+        <link href="https://blog.hjc.im/tsmc-cant-save-intel-core-ultra-255h-arrow-lake-h-review.html"/>
+        <updated>2025-02-04T16:43:51.000Z</updated>
+        <summary type="html"><![CDATA[几个月前，我曾有机会测试Intel专为超轻薄笔记本打造的Lunar Lake处理器。尽管其独特的设计让它脱颖而 […]]]></summary>
+        <author>
+            <name>David Huang</name>
         </author>
     </entry>
     <entry>
@@ -5664,6 +5696,16 @@ GPU 从 24 核减少到 16 核，虽然架构制程提升了，但从跑分来�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Apple统一内存适合运行LLM？理想很丰满，现实很骨感]]></title>
+        <id>https://blog.hjc.im/?p=899</id>
+        <link href="https://blog.hjc.im/apple-uma-for-llms-problems.html"/>
+        <updated>2024-11-13T12:37:46.000Z</updated>
+        <summary type="html"><![CDATA[自从大语言模型开始流行以来，一直在AI领域深耕细作的NVIDIA直接获得了大量订单，导致产品供不应求，人们也一 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2024 年 10G 内网方案]]></title>
         <id>https://www.binss.me/blog/10g-lan-solution-on-2024</id>
         <link href="https://www.binss.me/blog/10g-lan-solution-on-2024"/>
@@ -5689,6 +5731,36 @@ QHora-301W
 在调研方案的时候，看到了 Unifi 家的设备，那酷炫的外观和管理界面，已经让我成功种草。然而价格有亿点点恐怖，能够满足我需求的套装 dream machine pro + flex xg + u7 pro ，一套下来也得上万了。还得找个机柜去搁设备，等明年房子装修时，再研究研究。]]></summary>
         <author>
             <name>binsite - binss.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谈谈Linux与ITMT调度器与多簇处理器]]></title>
+        <id>https://blog.hjc.im/?p=851</id>
+        <link href="https://blog.hjc.im/thoughts-on-linux-preferred-cores-and-multi-ccx.html"/>
+        <updated>2024-10-12T09:01:42.000Z</updated>
+        <summary type="html"><![CDATA[简单举例讲一下Linux的调度器是如何顾此失彼，以及一些硬件厂商的贡献者和维护者不在乎feature是否真的工 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[测量GPU的跨核心同步延迟]]></title>
+        <id>https://blog.hjc.im/?p=833</id>
+        <link href="https://blog.hjc.im/measuring-gpu-c2c-latency.html"/>
+        <updated>2024-09-28T08:01:18.000Z</updated>
+        <summary type="html"><![CDATA[前阵子在测试Strix Point与Lunar Lake等平台的CPU时，我偶然发现本代处理器在核间延迟这一指 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[月光下的新探索：Lunar Lake CPU (Lion Cove / Skymont) 微架构测试]]></title>
+        <id>https://blog.hjc.im/?p=426</id>
+        <link href="https://blog.hjc.im/lunar-lake-cpu-uarch-review.html"/>
+        <updated>2024-09-24T12:54:24.000Z</updated>
+        <summary type="html"><![CDATA[最近这些年的CPU市场上，虽然表面上看Intel和AMD打的如火如荼，但是Intel事实上从未满足于在笔记本电 […]]]></summary>
+        <author>
+            <name>David Huang</name>
         </author>
     </entry>
     <entry>
@@ -5719,6 +5791,26 @@ QHora-301W
         <summary type="html"><![CDATA[通过 RSSHub 自建 RSS 源，并使用 Reeder 5 进行阅读，高效管理博客、微信公众号、媒体和推特等多个信息源，让信息获取变得更简洁高效。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen 5 补充测试 (2/2): 性能与能效 (移动端)]]></title>
+        <id>https://blog.hjc.im/?p=574</id>
+        <link href="https://blog.hjc.im/zen-5-more-details-2.html"/>
+        <updated>2024-08-10T17:13:43.000Z</updated>
+        <summary type="html"><![CDATA[上一篇文章里，我们浅显地聊到了Zen 5的微架构层面的变化，主要是规模的扩大、指令吞吐的提升，以及最关键的关于 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen 5 补充测试 (1/2): 更多微架构细节]]></title>
+        <id>https://blog.hjc.im/?p=423</id>
+        <link href="https://blog.hjc.im/zen-5-more-details-1.html"/>
+        <updated>2024-07-30T05:06:48.000Z</updated>
+        <summary type="html"><![CDATA[前些时我提前玩到搭载Strix Point (Zen 5)的工程机，不过当时由于时间仓促导致微架构测试不够全面 […]]]></summary>
+        <author>
+            <name>David Huang</name>
         </author>
     </entry>
     <entry>
@@ -5798,6 +5890,26 @@ RewriteRule .*\.(js|css)$ - [F]
 </IfModule>]]></summary>
         <author>
             <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(水) 2x W7900 Dual Slot 的 LLM 初步体验]]></title>
+        <id>https://blog.hjc.im/?p=399</id>
+        <link href="https://blog.hjc.im/dual-w7900ds-llm-preliminary-experience.html"/>
+        <updated>2024-07-10T16:02:02.000Z</updated>
+        <summary type="html"><![CDATA[早些时还在装7970X TR机器的时候我就在物色各种大显存显卡想拿来本地跑70B LLM，奈何一直没有合适又便 […]]]></summary>
+        <author>
+            <name>David Huang</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zen 5 抢先体验：Ryzen AI 9 365 (Strix Point SoC) 简单测试]]></title>
+        <id>https://blog.hjc.im/?p=358</id>
+        <link href="https://blog.hjc.im/zen5-preliminary-review.html"/>
+        <updated>2024-06-21T19:47:17.000Z</updated>
+        <summary type="html"><![CDATA[这周从某不知名小厂工作的朋友那里借到了 Strix Point 工程机，有机会在笔记本正式发售前体验一段时间。 […]]]></summary>
+        <author>
+            <name>David Huang</name>
         </author>
     </entry>
     <entry>
@@ -7062,6 +7174,19 @@ Office365 Outlook 空間快爆了?
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[保持云相册和 NAS 同步（iCloud & Google Photos）]]></title>
+        <id>https://wasteland.touko.moe/blog/2022/06/photo-sync-from-cloud-to-nas/</id>
+        <link href="https://wasteland.touko.moe/blog/2022/06/photo-sync-from-cloud-to-nas/"/>
+        <updated>2022-06-13T03:53:39.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>相册这种东西，堆着堆着就几万张了。粗略看了一下统计，我存放在 iCloud 上的相册中包含了 45k 张照片，在 Google Photos 上的相册有 30k 左右的照片。这些照片的成分也很复杂，包括日常拍照、屏幕截图和一堆纸片人图。因此，我需要一种方式管理这些照片。</p>
+<p>我的初步想法是，将照片同步至本地 NAS，使用自建工具进行管理。我本地使用的是群晖。即使是群晖这种较为成熟的 NAS 系统，也只有和 Google Drive 进行同步的工具，无法和 iCloud 进行同步。甚至在 Google Drive 同步工具中，也无法和相册进行同步。好消息是很多个人开发者开发了用于同步相册的工具。本文将记录这些工具的部署流程和使用方法。</p>
+<h1 id="相册同步工具"><a href="#相册同步工具" class="headerlink" title="相册同步工具"></a>相册同步工具</h1><h2 id="Google-Photos"><a href="#Google-Photos" class="headerlink" title="Google Photos"></a>Google Photos</h2><p>我搜索到两个主流的、已经封装好 Docker 镜像的 Google Photos 同步工具，分别是 <a href="https://github.com/JakeWharton/docker-gphotos-sync">https://github.com/JakeWharton/docker-gphotos-sync</a> 和 <a href="https://github.com/gilesknap/gphotos-sync">https://github.com/gilesknap/gphotos-sync</a>。其中，前者需要使用 <code>chromium-browser</code> 登陆谷歌账号进行验证，后者需要通过 GCP 创建 OAuth API 进行账户验证。我本人更喜欢后者的方式，因此选择后者作为本地使用的同步工具。</p>
+<h3 id="部署步骤"><a href="#部署步骤" class="headerlink" title="部署步骤"></a>部署步骤</h3><p>后者的配置方式在 <a href="https://gilesknap.github.io/gphotos-sync/main/index.html">文档</a> 中有详细介绍，此处做个总结。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[用 Google Workspace 帳號登入 Windows]]></title>
         <id>http://prototypingideas.blogspot.com/2022/12/google-workspace-windows.html</id>
         <link href="http://prototypingideas.blogspot.com/2022/12/google-workspace-windows.html"/>
@@ -7082,6 +7207,21 @@ Office365 Outlook 空間快爆了?
 这里记录下，方便查阅使用。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Homelab 中部署运行 Mastodon 并接入广域网]]></title>
+        <id>https://wasteland.touko.moe/blog/2022/05/mastodon-at-homelab/</id>
+        <link href="https://wasteland.touko.moe/blog/2022/05/mastodon-at-homelab/"/>
+        <updated>2022-05-31T13:57:40.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>心心念念 <a href="https://github.com/mastodon/mastodon">Mastodon</a> 将近两年了，昨天终于打起精神，尝试自己部署一个。作为一名十年微博用户，我对社交网络的需求已经逐渐减少，但仍希望有一个干净的、能够自由交流的工具。因此，我决定部署属于自己的 Mastodon 实例。</p>
+<h2 id="部署前准备"><a href="#部署前准备" class="headerlink" title="部署前准备"></a>部署前准备</h2><p>据我所知，Mastodon 实例对机器性能的要求较高，特别是对内存的需求。考虑这些，决定在 Homelab 部署 Mastodon 实例。但问题依然存在，为了维护双向关系，Mastodon 要求在互联网公开，因此我使用 <a href="https://www.cloudflare.com/products/zero-trust/zero-trust-network-access/">CloudFlare ZeroTrust Tunnel</a> 将其公开至互联网。</p>
+<p>机器我选用了长期吃灰的 昂达 H310SD3-ITX 作为平台，CPU 选用 Intel Pentium G4500T 2c&#x2F;4t，内存为两条 8G DDR3 AMD 专用条。即使该平台比较老旧，但仍足够胜任一般的 Web 服务器需求。</p>
+<h2 id="关于这篇文章"><a href="#关于这篇文章" class="headerlink" title="关于这篇文章"></a>关于这篇文章</h2><p>Mastodon 的官方文档对使用纯 Docker 环境部署并不友好。因此，这篇文章主要对 Mastodon 使用 Docker Compose 部署做记录。当然也包括如何安全地将内网服务器暴露至公网。</p>
+<h1 id="Mastodon-部署流程"><a href="#Mastodon-部署流程" class="headerlink" title="Mastodon 部署流程"></a>Mastodon 部署流程</h1><p>经过摸索后，在集群内使用 Docker compose 起一个 Mastodon 实例仅需两个配置文件+少量部署操作。<code>docker-compose.yml</code> 如下，由官方 Github 仓库中获取并微调。</p>
+<p>由于该配置文件直接上了 <code>production</code> 环境，会强制 301 到 HTTPS。在测试环境中需要 Web 服务器反代并做好 SSL 配置。我在本地使用 <code>traefik</code> 作为 Web 服务器。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
         </author>
     </entry>
     <entry>
@@ -7155,6 +7295,29 @@ Microsoft Web
 如何調整 Windows10桌面圖示間距？]]></summary>
         <author>
             <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard Notes 部署小结和使用体验]]></title>
+        <id>https://wasteland.touko.moe/blog/2022/05/self-hosted-standard-notes/</id>
+        <link href="https://wasteland.touko.moe/blog/2022/05/self-hosted-standard-notes/"/>
+        <updated>2022-05-27T17:14:36.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>因为有私有记录笔记和维护版本的需求，我进行了一系列的调研，并最终选中了 <a href="https://standardnotes.com/">Standard Notes</a> 和 <a href="https://www.getoutline.com/">Outline</a> 两款产品。我先尝试上手部署了 Standard Notes 并试用，前后时间约一天。在本文中，我对其部署和使用做一个简单的记录。</p>
+<p>近年来各类文档编辑工具类目繁多且各有特色。我最初接触的在线文档是石墨，后来随着需求和环境的变化，以及在线办公的普及，还曾使用了钉钉、企业微信等以中国大陆互联网企业为开发主体的文档工具，和 Notion 等更加国际化的文档。从使用的便捷程度和完善程度上说，我个人倾向于使用国际化的文档工具。</p>
+<p>但是，我使用在线文档在大多数情况下是为了和协作者进行信息共享。因此在更多的时间里，我会使用例如 Typora 这类的本地 Markdown 编辑工具，加上 Syncthing 进行多端同步以保证数据可靠。随着 Typora 的收费和 Beta 版本的完全禁用，我决定寻找一个更安全、方便的文档编辑和同步方式。</p>
+<h1 id="部署"><a href="#部署" class="headerlink" title="部署"></a>部署</h1><p>在部署部分，我着重记录官网文档中提及甚少的部分，如一些功能的不可用、插件的部署。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[卸载腾讯云安全组件]]></title>
+        <id>https://wasteland.touko.moe/blog/2022/05/uninst-txagent/</id>
+        <link href="https://wasteland.touko.moe/blog/2022/05/uninst-txagent/"/>
+        <updated>2022-05-24T06:24:38.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Wasteland</name>
         </author>
     </entry>
     <entry>
@@ -8211,6 +8374,24 @@ AIX 問題排除-【0516-787 extendlv: Maximum Allocation for Logical Volume】|
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[更换软路由：T620 Plus]]></title>
+        <id>https://wasteland.touko.moe/blog/2021/10/t620-plus-openwrt/</id>
+        <link href="https://wasteland.touko.moe/blog/2021/10/t620-plus-openwrt/"/>
+        <updated>2021-10-23T15:28:10.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>拖延症是这样的，从抽屉里翻出了半年前买的、打算做软路由的 T620 Plus。这一拖就是半年，这次准备给它部署 Openwrt，替代目前使用的单口软路由。</p>
+<p>T620 Plus 应该被不少人推荐过，包括 B 站 UP 主司波图 <a href="https://www.bilibili.com/video/BV1J54y1m7ar%E3%80%82%E8%BF%99%E5%8F%B0%E6%9C%BA%E5%99%A8%E7%9A%84">https://www.bilibili.com/video/BV1J54y1m7ar。这台机器的</a> CPU 性能超过 J1900，且带 AES 指令集，从性能上看绰绰有余，甚至可以安装一些虚拟化应用。</p>
+<h2 id="老家伙"><a href="#老家伙" class="headerlink" title="老家伙"></a>老家伙</h2><p>之前我使用的软路由是 1037U + 定制亚克力外壳。1037U 作为软路由来说，性能已经足够，就算用来科学上网也能够跑到 500Mbps 左右。但我使用的定制外壳防尘性能较差，处理器散热器已经有一定的积灰，且有时候会莫名卡死。且当前软路由只有一个网口，我将其以单臂路由的形式下挂在连接到光猫的交换机上，链路重复利用，可能也会导致某些不可知的问题。因此，我将其更换为 T620 Plus。</p>
+<img src="/blog/2021/10/t620-plus-openwrt/old_1037u.jpg" class="" title="老路由：1037U">
+
+<h1 id="T620-Plus"><a href="#T620-Plus" class="headerlink" title="T620 Plus"></a>T620 Plus</h1><p>我于半年前从闲鱼购入这台 T620 Plus，当时的价格为 RMB328。机器是普通小型桌面机器的大小，加装硬件部分全部采用免螺丝设计，非常好评。机器内部结构如下。</p>
+<img src="/blog/2021/10/t620-plus-openwrt/T620Plus%E5%86%85%E9%83%A81.jpg" class="">
+
+<p>翻开盖板后，可以看到内部结构，非常整洁。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[VM 硬碟也會損壞？先不用重裝，試試用這個方法修復？]]></title>
         <id>https://itorz324.blogspot.com/2021/09/how-to-fix-vm-disk.html</id>
         <link href="https://itorz324.blogspot.com/2021/09/how-to-fix-vm-disk.html"/>
@@ -8744,6 +8925,144 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[在 Ubuntu 上安装 CUDA]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/12/install-cuda-on-ubuntu/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/12/install-cuda-on-ubuntu/"/>
+        <updated>2020-12-31T11:59:48.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>老是忘记怎么在 Ubuntu 上安装 CUDA，每次有新机器都要在环境恶劣的互联网上寻找各种不靠谱又容易炸的教程。还是简单做个总结，关于如何安装炼丹人必备的依赖 <code>CUDA</code>。</p>
+<h2 id="一些链接"><a href="#一些链接" class="headerlink" title="一些链接"></a>一些链接</h2><ul>
+<li>CUDA GPU Capability <a href="https://developer.nvidia.com/cuda-gpus">https://developer.nvidia.com/cuda-gpus</a></li>
+<li>CUDA Zone <a href="https://developer.nvidia.com/CUDA-zone">https://developer.nvidia.com/CUDA-zone</a></li>
+</ul>
+<h1 id="安装流程"><a href="#安装流程" class="headerlink" title="安装流程"></a>安装流程</h1><h2 id="安装前准备"><a href="#安装前准备" class="headerlink" title="安装前准备"></a>安装前准备</h2><p>先看看机器的版本号啥的</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> lsb_release -a</span><br><span class="line"></span><br><span class="line">No LSB modules are available.</span><br><span class="line">Distributor ID: Ubuntu</span><br><span class="line">Description:    Ubuntu 18.04.2 LTS</span><br><span class="line">Release:        18.04</span><br><span class="line">Codename:       bionic</span><br></pre></td></tr></table></figure>
+
+<p>再看看显卡在不在</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">lspci | grep NVIDIA</span><br><span class="line"></span><br><span class="line">18:00.0 3D controller: NVIDIA Corporation Device 1eb8 (rev a1)</span><br><span class="line">af:00.0 3D controller: NVIDIA Corporation Device 1eb8 (rev a1)</span><br></pre></td></tr></table></figure>
+
+<p>再换个源。机器在深圳，用科大了</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> sed -i <span class="string">&#x27;s/archive.ubuntu.com/mirrors.ustc.edu.cn/g&#x27;</span> /etc/apt/sources.list</span><br></pre></td></tr></table></figure>
+
+<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><h3 id="Step-1：安装-ubuntu-drivers-并配置驱动"><a href="#Step-1：安装-ubuntu-drivers-并配置驱动" class="headerlink" title="Step 1：安装 ubuntu-drivers 并配置驱动"></a>Step 1：安装 <code>ubuntu-drivers</code> 并配置驱动</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt update</span><br><span class="line"><span class="built_in">sudo</span> apt install ubuntu-drivers-common -y</span><br></pre></td></tr></table></figure>
+
+<p>运行</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">ubuntu-drivers devices</span><br><span class="line"></span><br><span class="line">== /sys/devices/pci0000:17/0000:17:00.0/0000:18:00.0 ==</span><br><span class="line">modalias : pci:balabalabala</span><br><span class="line">vendor   : NVIDIA Corporation</span><br><span class="line">driver   : nvidia-driver-440-server - distro non-free</span><br><span class="line">driver   : nvidia-driver-450-server - distro non-free</span><br><span class="line">driver   : nvidia-driver-455 - distro non-free recommended</span><br><span class="line">driver   : nvidia-driver-450 - distro non-free</span><br><span class="line">driver   : nvidia-driver-418-server - distro non-free</span><br><span class="line">driver   : xserver-xorg-video-nouveau - distro free <span class="built_in">builtin</span></span><br></pre></td></tr></table></figure>
+
+<p>装那个 recommended 的</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">sudo</span> apt install nvidia-driver-455</span><br></pre></td></tr></table></figure>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[成为一名流量矿工]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/12/become-a-traffic-miner/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/12/become-a-traffic-miner/"/>
+        <updated>2020-12-23T11:29:05.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>简短地水一篇</p>
+</blockquote>
+<h1 id="闲置了一块主板"><a href="#闲置了一块主板" class="headerlink" title="闲置了一块主板"></a>闲置了一块主板</h1><p>前段时间给实验室配置了软路由，为了避免意外，多买了一块主板。最近，在实验室成功部署了异地组网后，才想起来自己多买了一台机器。这台机器的配置是 1037u，我之前买过三块，分别用于各种地方的软路由和小型机。这块u价格便宜，没有 J1900 那样的溢价，性能和 J1900 差不多，功耗不高，非常适合用来做 NAS 和软路由。对于手上这块 1037u，我准备拿来挖矿。</p>
+<h2 id="硬件"><a href="#硬件" class="headerlink" title="硬件"></a>硬件</h2><p>这次的硬件没有什么好介绍的，主要如下</p>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">主板 &#x2F; CPU</td>
+<td align="center">1037u 集成主板</td>
+</tr>
+<tr>
+<td align="center">内存</td>
+<td align="center">杂牌 DDR3 2G</td>
+</tr>
+<tr>
+<td align="center">电源</td>
+<td align="center">12V DC</td>
+</tr>
+<tr>
+<td align="center">系统硬盘</td>
+<td align="center">minisata</td>
+</tr>
+<tr>
+<td align="center">数据硬盘</td>
+<td align="center">WD 500G 黑盘</td>
+</tr>
+</tbody></table>
+<p>给主板来一张全貌图</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的第一台黑苹果主机]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/11/my-first-hackintosh/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/11/my-first-hackintosh/"/>
+        <updated>2020-11-21T13:25:54.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>近期，拼拼凑凑从各类垃圾中组装出了一台轻便的 ITX 主机。主板是真白丢给我的，在他那不能工作的 <code>华擎 H110M-ITX</code> ；CPU 是我之前测试 QL3X 时点亮用的 <code>Pentium G4500T</code> 6 代低压 U；电源是 tb 买的韩国牌子 <code>全汉代工 450W SFX</code> ；机箱是 <code>酷鱼 T40</code> ；内存是 <code>影驰 镭 RGB 灯条 3200MHz 8G×2</code>；硬盘是以前捡的 <code>昂达 480G SSD</code>，显卡是亮机卡 <code>NVIDIA Quadro K600</code>。这么一套东西装起来，我就想，能不能搞个黑苹果玩玩。于是，查了一段时间的资料，准备动手。</p>
+<blockquote>
+<p>本文仅记录点亮黑苹果的过程。其他驱动的修改预计会在后续记录。</p>
+</blockquote>
+<h2 id="配置价格"><a href="#配置价格" class="headerlink" title="配置价格"></a>配置价格</h2><p>装机之前，大致估算一下目前这套机器的价格。散热我用的酷冷十几块的（AMD 原装）散热铝块，就不计入总价了。</p>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center"></th>
+<th align="center"></th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">主板</td>
+<td align="center">ASRock H110M-ITX</td>
+<td align="center">150</td>
+</tr>
+<tr>
+<td align="center">CPU</td>
+<td align="center">Pentium G4500T</td>
+<td align="center">230</td>
+</tr>
+<tr>
+<td align="center">内存</td>
+<td align="center">影驰 镭 RGB 灯条 3200MHz 8G×2</td>
+<td align="center">400</td>
+</tr>
+<tr>
+<td align="center">电源</td>
+<td align="center">全汉代工 450W SFX</td>
+<td align="center">130</td>
+</tr>
+<tr>
+<td align="center">硬盘</td>
+<td align="center">昂达 480G SSD</td>
+<td align="center">240</td>
+</tr>
+<tr>
+<td align="center">机箱 &amp; 延长线</td>
+<td align="center">酷鱼 T40</td>
+<td align="center">140</td>
+</tr>
+<tr>
+<td align="center">显卡</td>
+<td align="center">NVIDIA Quadro K600</td>
+<td align="center">140</td>
+</tr>
+<tr>
+<td align="center">总价</td>
+<td align="center"></td>
+<td align="center">1430</td>
+</tr>
+</tbody></table>
+<p>其中内存可以不用这么好的，CPU 可以再上好一些的，显卡可以换矿卡（等矿难）。整机价格偏高，不过既然都是捡来的垃圾，那就无所谓性价比了。</p>
+<h2 id="上机图片"><a href="#上机图片" class="headerlink" title="上机图片"></a>上机图片</h2><p>酷鱼 T40 的设计十分紧凑，附带扶手，单手就能轻松提起。机器显卡为倒装，很有意思。由于是非模组电源，走线较为凌乱。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Synology NAS 作為 AD Server]]></title>
         <id>http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html</id>
         <link href="http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html"/>
@@ -8844,6 +9163,144 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[在树莓派上运行 OpenWrt 作为软路由]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/07/raspi-as-router/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/07/raspi-as-router/"/>
+        <updated>2020-07-19T05:10:55.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>之前我用 NAS 虚拟化了一台 OpenWrt 用作软路由。随着使用频率的增加，我越发离不开它带来的优秀的上网体验。但是用虚拟化的软路由总觉得有些不舒适，比如万一 NAS 掉线（虽然暂时没出现过），内网就会瞬间瘫痪。同时，用这种方法虚拟出来的软路由和小米路由自带的 Mesh 功能有冲突，小米路由无法获取 Mesh 节点的拓扑图，也没有办法进行完整的设备管理（识别不出设备）。</p>
+<p>解决方案是在小米路由器的上级部署软路由，将原本放在小米路由器内网的软路由移动到光猫内网。我先用树莓派 4 作为软路由进行测试，另一块 1037U 主板在路上。光猫只有一个千兆网口，但是恰好前些时间我买了台网件的 GS105 ，得以在光猫的内网中接入更多千兆设备。</p>
+<img src="/blog/2020/07/raspi-as-router/1.netgear-gs105.jpg" class="" title="网件 GS105 交换机">
+
+<p>这是一个五口非网管型交换机，自适应 10&#x2F;100&#x2F;1000M，带指示灯，发热量不大，价格百元内。这样一来，网络拓扑就可以进行下面的改动</p>
+<img src="/blog/2020/07/raspi-as-router/2.change-of-topology.jpg" class="" title="网络拓扑变化">
+
+<p>将内网的 DHCP 分发任务交给小米路由，允许小米路由 app 完全发挥功能，带来更严格的 WiFi 接入控制和 Mesh 组网体验。另一方面，改变静态 IP 配置将小米路由的网关设置为软路由地址，让其流量通过作为软单臂路由的树莓派，达到科学上网等目的。</p>
+<h1 id="树莓派组装"><a href="#树莓派组装" class="headerlink" title="树莓派组装"></a>树莓派组装</h1>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在树莓派上运行 Home Assistant，支持米家等 IoT 设备接入 HomeKit]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/06/run-hass-on-raspberry/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/06/run-hass-on-raspberry/"/>
+        <updated>2020-06-20T07:22:08.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><h2 id="捡了块树莓派"><a href="#捡了块树莓派" class="headerlink" title="捡了块树莓派"></a>捡了块树莓派</h2><p>临时被叫回学校办毕业手续，想起当年（五年前）我在淘宝买了块树莓派 2B，给家里做了个通过 HTTP 代理自动分流国内外流量的工具。那块树莓派被我带到了学校，放着吃灰三年多了。这次回学校，就顺手把这块树莓派带了回来。</p>
+<p>最近优化了家里的网络，大学四年也断断续续买了不少米家的 IoT 设备。米家设备能够原生支持 HomeKit 也应该只是最近的事，我手上只有一个台灯、三个智能插座能够加入 HomeKit 管理。因此，我打算把这台树莓派挂在 IoT 设备专用中继路由器下，作为一个中介，将其他无法原生支持 HomeKit 的米家设备接入 HomeKit，实现统一管理。</p>
+<p>为什么我不直接用米家做管理呢？一是米家的操作逻辑比较恼人；二是米家无法长期运行于后台，一些和离家、回家相关的自动化逻辑无法很好的运行。接入 HomeKit 后，这种情况会得到一定的改善。</p>
+<h2 id="桥接平台的选择"><a href="#桥接平台的选择" class="headerlink" title="桥接平台的选择"></a>桥接平台的选择</h2><p>通过资料调查和实际测试，我最终选择了 Home Assistant 作为接入智能家居设备的平台。同类解决方案还有很多，比如同样提供智能家居接入方案的 Home Bridge，ioBroker 等。我同时尝试了 Home Bridge，但是由于米家相关插件文档模糊，接入后无法正常连接挂载在网关的设备，最终作罢。</p>
+<p>其实 Home Assistant 的安装也并不容易。安装过程存在各种各样的问题和 bug，我尝试了非常多种方案才成功运行。</p>
+<h1 id="树莓派的初步配置"><a href="#树莓派的初步配置" class="headerlink" title="树莓派的初步配置"></a>树莓派的初步配置</h1><h2 id="SD-卡安装树莓派系统"><a href="#SD-卡安装树莓派系统" class="headerlink" title="SD 卡安装树莓派系统"></a>SD 卡安装树莓派系统</h2><p>我掏出了之前留在机器上的传家宝 TF 卡 三星 EVO+ 32G，不料卡在经过几次刷写后，自动写保护了。于是我又从 NS 里掏出了从 tb 20 RMB 买的朗科 32G TF 卡。现在 TF 卡的价格真的越来越便宜了，我打算屯一堆，免得弄坏了没有替换卡。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭网络管理(4): 单网口安装 OpenWRT 实现单臂软路由]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/06/home-network-4-soft-router-at-unraid/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/06/home-network-4-soft-router-at-unraid/"/>
+        <updated>2020-06-13T08:52:38.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="软路由"><a href="#软路由" class="headerlink" title="软路由"></a>软路由</h1><p>为了进一步发挥 NAS 的作用，我决定在它上面部署一个软路由。因为软路由可以更好地管理流量，部署科学上网，特别是在主路由小米 AC2100 <code>MT7621</code> 方案性能有限的情况下，x86 架构的软路由能够进行的加解密运算能力远远超过主路由。我的 NAS 只有板载千兆单网口，实现起来没有多网口路由器那么优雅，好在还是能够用单臂路由的方法实现软路由。</p>
+<h1 id="网络拓扑规划"><a href="#网络拓扑规划" class="headerlink" title="网络拓扑规划"></a>网络拓扑规划</h1><h2 id="设备一览"><a href="#设备一览" class="headerlink" title="设备一览"></a>设备一览</h2><p>在规划网络之前，需要先清点一下我有哪些设备，这些设备分别有哪些上网的需求。</p>
+<p>路由器，我有</p>
+<ul>
+<li>一台联通的光猫</li>
+<li>一台小米 AC2100</li>
+<li>一台小米 R3</li>
+<li>一台老旧的小米 3C（大概就不用了）</li>
+</ul>
+<p>终端设备我有</p>
+<ul>
+<li>若干 PC</li>
+<li>若干手机</li>
+</ul>
+<p>IoT 设备我有</p>
+<ul>
+<li>遍布房间的传感器</li>
+<li>智能插座</li>
+<li>开关</li>
+</ul>
+<p>因此，我打算将光猫作为拨号终端；小米 AC2100 作为主路由，保留小米原有系统（后来我把它刷成 OpenWRT 了）；小米 R3 无线桥接 AC2100，作为 IoT 的接入点（因为位置的原因，AC 2100 摆放在光猫边上，2.4G 没有办法很好地覆盖整个屋子，所以要用 R3 中继）。光猫的无线功能关闭，避免影响其他网络的速度。</p>
+<h2 id="拓扑规划"><a href="#拓扑规划" class="headerlink" title="拓扑规划"></a>拓扑规划</h2><p>NAS 使用网线连接小米 AC2100。UNRAID 系统通过网桥（一般为 br0）让虚拟机和 Docker 上网，可以理解为一个二层交换机。我简单做个一个拓扑图，解释我打算规划的拓扑结构。</p>
+<img src="/blog/2020/06/home-network-4-soft-router-at-unraid/%E5%8D%95%E8%87%82%E8%B7%AF%E7%94%B1%E7%BD%91%E7%BB%9C%E6%8B%93%E6%89%91%E5%9B%BE.png" class="" title="单臂路由网络拓扑图">
+
+<p>我的规划如图，光猫负责拨号，小米 AC2100 作为主路由处理流量，R3 通过无线中继服务 IoT 设备，NAS 虚拟化各种服务和软路由提供功能。其中，主路由的 IP 地址为 192.168.31.1，软路由的 IP 地址为 192.168.31.2。为了让所有流量在转发至公网时经过软路由处理，由 AC2100、R3 所有通过 AP 接入的设备和有线接入的设备都要以 192.168.31.2（软路由） 作为网关，而软路由要以 192.168.31.1（主路由） 作为网关。为了实现这个功能，整个 LAN 中只能由软路由一个 DHCP 服务端。即，让新加入的设备自动以软路由作为网关。</p>
+<h1 id="单臂软路由配置"><a href="#单臂软路由配置" class="headerlink" title="单臂软路由配置"></a>单臂软路由配置</h1><h2 id="选择系统"><a href="#选择系统" class="headerlink" title="选择系统"></a>选择系统</h2>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭网络管理(3): UNRAID 安装黑群晖和其他常用软件]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/06/home-network-3-hack-synology-and-more/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/06/home-network-3-hack-synology-and-more/"/>
+        <updated>2020-06-10T01:28:27.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="NAS-该用来做什么"><a href="#NAS-该用来做什么" class="headerlink" title="NAS 该用来做什么"></a>NAS 该用来做什么</h1><p>我打算将 NAS 定位为一个家庭用的小型多媒体平台，并作为软路由处理流量。因此， NAS 应该要能满足我挂 BT 下载的需求，并且还要能够直接读取 BT 下载的内容，以家庭影院的形式展现。经过筛选，我选择安装以下 Docker 软件</p>
+<ul>
+<li>Transmission （BT 下载，Web UI 控制）</li>
+<li>Plex Media Server （家庭影院）</li>
+<li>Pi-Hole （DNS 广告过滤和自定义 Host）</li>
+<li>V2Ray （公网访问内网，等于 VPN）</li>
+<li>NginX （统一反代 Web UI，管理端口暴露规则）</li>
+</ul>
+<p>以及，感谢 UNRAID 对 kvm 的良好支持，我还安装了</p>
+<ul>
+<li>黑群晖</li>
+</ul>
+<h1 id="黑群晖"><a href="#黑群晖" class="headerlink" title="黑群晖"></a>黑群晖</h1><p>群晖是一个卖软件的 NAS 硬件商，其软件十分好用，新手友好。自然，我先选择安装破解的群晖系统。实际上，装完群晖后，我几乎没有使用里面的功能，因为我还是比较倾向于用 UNRAID 自带的 Docker 完成我需要的服务。不过我在研究黑群晖安装的过程中，学习了一些经验，这里做一下记录。</p>
+<h2 id="安装准备"><a href="#安装准备" class="headerlink" title="安装准备"></a>安装准备</h2><img src="/blog/2020/06/home-network-3-hack-synology-and-more/xpenology-download.png" class="" title="XPENOLOGY 黑群晖引导">
+
+<p>安装黑群晖的原理是安装一个第三方的、破解后的引导，来欺骗群晖系统镜像正常工作。因此我们需要下载破解的引导作为启动盘，然后去官方网站上下载安装镜像就可以了。破解的引导我推荐在 <a href="https://xpenology.club/downloads/">https://xpenology.club/downloads/</a> 下载。网站中 DSM 6.2指的是支持 <code>DSM 6.2</code> 的系统，引导的文件名最后一串为群晖的机型。在安装时注意下载对应系统和机型的镜像。可以在 <a href="https://archive.synology.com/download/DSM/">https://archive.synology.com/download/DSM/</a> 下载。</p>
+<p>由于我的虚拟机无法正常启动 <code>Jun’s Loader v1.04b DS918+</code> ，这里以 <code>Jun’s Loaders DSM 6.2</code> - <code>Jun’s Loader v1.03b DS3617xs</code> 为例。下载对应引导并解压，将引导拷贝至 NAS。我创建了一个共享文件夹 HackSynology 用于放置群晖相关文件。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭网络管理(2): 部署和使用 UNRAID]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/06/home-network-2-enjoy-with-UNRAID/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/06/home-network-2-enjoy-with-UNRAID/"/>
+        <updated>2020-06-08T08:17:07.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="选择-UNRAID"><a href="#选择-UNRAID" class="headerlink" title="选择 UNRAID"></a>选择 UNRAID</h1><p>在组装完 NAS 之后，下一步就是考虑如何将 NAS 的硬件性能高效利用。经过对群晖、UNRAID、FreeNAS 等 NAS 操作系统的调研后，我决定使用 UNRAID 作为我的 NAS OS。一是因为 UNRAID 对 Docker 和 VM 的支持较好，有庞大的社区支持；二是因为 UNRAID 的阵列功能很好用，自带的软 RAID 功能可以只用一张 Parity Check 盘完成其他所有盘的校验；三是因为 UNRAID 的 Web UI （相对）比较符合我的审美。话不多说，立刻开始破解版 UNRAID 安装。</p>
+<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><p>UNRAID 的官网是 <a href="https://unraid.net/">https://unraid.net/</a> ，价格表在 <a href="https://unraid.net/pricing">https://unraid.net/pricing</a> 。从价格上看，Basic 订阅只要 60 刀，还是比较合适的。由于我第一次使用这个操作系统，所以先从破解版入手。</p>
+<img src="/blog/2020/06/home-network-2-enjoy-with-UNRAID/unraid-pricing.png" class="" title="UNRAID 价格表">
+
+<p>安装 UNRAID 需要准备一个 U 盘作为启动盘和系统盘，并且之后整个系统就安装在这块 U 盘中。这个 U 盘在以后使用 UNRAID 时，需要一直插在 USB 口上。不能使用 SD 卡 + 读卡器，因为可能获取不到正确的设备 ID。 UNRAID 系统根据闪存的设备 ID 分发密钥。在安装之前，需要将闪存格式化成 FAT32 格式。如果 Windows 不支持格式化为 FAT32 ，可以使用 <a href="http://www.ridgecrop.demon.co.uk/index.htm?guiformat.htm">Windows GUI version of <em>fat32format</em></a> 将闪存格式化为 FAT32 格式。<strong>切记，在进行格式化操作之前，务必做好数据备份。</strong></p>
+<p>截至目前，最新的破解版是 <code>UNRAID 6.8.2</code> ，下载地址在 <a href="http://www.hopol.cn/2020/06/1675/">http://www.hopol.cn/2020/06/1675/</a> 。这个安装包自带密钥计算工具，可以使用 <a href="https://koolshare.cn/thread-181253-1-1.html">https://koolshare.cn/thread-181253-1-1.html</a> 提供的一键安装工具进行安装；或者按照破解版下载页面的安装方法设置 UNRAID U 盘 启动，然后再回到 Windows 进行破解密钥生成。</p>
+<h1 id="初期配置"><a href="#初期配置" class="headerlink" title="初期配置"></a>初期配置</h1><h2 id="点亮"><a href="#点亮" class="headerlink" title="点亮"></a>点亮</h2><p>先将显示器接上运行 UNRAID 的机器。在开机启动时，狂按 Del 进入 BIOS 配置页面，修改默认主板设置。我先修改默认启动引导至装有 UNRAID 系统的 U 盘上，然后打开了 CPU 的虚拟化功能（VT-d），F10 保存重启。</p>
+<p>启动选项选择 <code>Unraid OS (Headless)</code> 。如果正常启动，在命令行可以看到 UNRAID 被分配到的 IP 地址。通过 Web 访问即可。默认账户为 root ，无密码。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家庭网络管理(1): 组装一台千元 NAS]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/06/home-network-1-DIY-NAS/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/06/home-network-1-DIY-NAS/"/>
+        <updated>2020-06-04T04:05:28.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="心血来潮"><a href="#心血来潮" class="headerlink" title="心血来潮"></a>心血来潮</h1><p>我的 surface pro 4 实在是太老了，发热也越发严重，最近甚至经常过热关机。于是前段时间花了 2k 装了台能跑现有不少大型网游的主机，装的我非常愉悦。这台主机用的 AMD 平台，鲁大师能跑24w+，目前正在逐渐成为我的主力用机。装了一台就想装第二台。我做了些简单的调研，决定用 1k 左右的预算装一台功耗较低，性能足够的 NAS。</p>
+<p>目前我已经用 NAS 实现了单臂软路由、BT 下载、PLEX、DNS 等一系列功能。今后我会慢慢更新这块内容。</p>
+<h1 id="配置选择"><a href="#配置选择" class="headerlink" title="配置选择"></a>配置选择</h1><p>由于给自己开了一个不算太高的预算，所以一切资源都要精打细算。首先列出我的需求</p>
+<ul>
+<li>占地空间较小</li>
+<li>千兆板载网卡</li>
+<li>SATA 至少 4 个</li>
+<li>功耗较低</li>
+<li>PCIE 能插万兆</li>
+<li>核显</li>
+<li>有升级空间</li>
+</ul>
+<h2 id="CPU"><a href="#CPU" class="headerlink" title="CPU"></a>CPU</h2><p>首先选择 CPU。有朋友在微博推荐 200GE 板 U 套装，这里也推荐，挺不错，只要 500，性能和价格相符，TDP 也只有 35W。但是因为前段时间已经装了一台 AMD 的机子了，CPU 就不选择 AMD 的了。经过各种对比，选择了低功耗六代 i3-6100T。原本打算考虑奔腾 G5600T，但是掐指一算发现超预算了。我是盯着天梯图和 TDP 找的。后来发现在实际使用中，不一定要买低功耗版本，因为很多情况下，Intel 只是对其做了功耗上限的限制，其他和标压版本相差无几。高性能的 U 在运行相同的计算任务的时候，理论上功耗也差不多，所以 TDP 并不是一个需要非常关注的点。</p>
+<h2 id="主板和机箱"><a href="#主板和机箱" class="headerlink" title="主板和机箱"></a>主板和机箱</h2><p>主板和机箱需要一起考虑。由于我并不打算上赛扬 J 平台，ITX 的主板价格也很贵，所以就无缘 ITX 了。于是我考虑 m-ATX 的主板和机箱。机箱我看中了金河田的 <code>预见 N1</code> 。这个机箱非常小巧，整体只有 <code>202 * 328 * 260mm</code> ，支持 ATX 电源，2 个 3.5 盘位 + 2 个 2.5 or 1 个 3.5 盘位。如果电源用 SFX 或者直流，还能再装 2-4 个 3.5 硬盘。支持一个机箱散热风扇。综合考虑，我选择了这款机箱。</p>
+<p>选择机箱后，我开始考虑主板。为了给以后升级 8-9 代 U 留出空间，根据机箱要求的主板大小（最大 230*185mm），我选择了支持 6、7 代，能刷 BIOS 上 8、9 代 CPU 的 技嘉 B250M-D2VX-SI （226 * 185 mm）。</p>
+<h2 id="内存和其他"><a href="#内存和其他" class="headerlink" title="内存和其他"></a>内存和其他</h2><p>内存没什么好说的，枭鲸前段时间搞活动，89 RMB 的 DDR4 2666 8G 条。希望能够长期稳定运行。</p>
+<p>其他配件都是零零散散买起来的，有刚好或者喜欢的就买了。</p>
+<h2 id="最终配置单"><a href="#最终配置单" class="headerlink" title="最终配置单"></a>最终配置单</h2>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[利用 git hook 规范你的代码与 commit message]]></title>
         <id>https://razeen.me/posts/golang-and-git-commit-message-pre-commit/</id>
         <link href="https://razeen.me/posts/golang-and-git-commit-message-pre-commit/"/>
@@ -8864,6 +9321,33 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[优雅地管理内网集群]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/04/intranet-cluster-management/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/04/intranet-cluster-management/"/>
+        <updated>2020-04-01T16:32:57.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文主要介绍了我在对内网集群进行管理的时候遇上的和解决的问题，包括统一控制，装机脚本，堡垒机，内网穿透等一系列问题。</p>
+<h1 id="突然有了内网集群"><a href="#突然有了内网集群" class="headerlink" title="突然有了内网集群"></a>突然有了内网集群</h1><p>由于科研需要，实验室购置和申请了大量服务器和显卡，并申请了从超算中虚拟出来的计算节点。如何将他们统一管理成了一个很大的问题。同时，由于机器都托管在数据中心，需要 VPN 进行访问。数据中心提供的 VPN 是上古的 <code>L2TP/IPsec with Pre-shared key</code>，还要在注册表写信息允许弱加密才能在 Windows 10 上使用， Mac &#x2F; Linux 电脑完全无法连上这批机器。同时，VPN 还严格限制同时只能一个人使用，一旦使用的人数增加，需要多次申请不同的账号，管理起来十分麻烦。为了解决一系列的问题，我开始探索方案。</p>
+<h1 id="统一管理：堡垒机"><a href="#统一管理：堡垒机" class="headerlink" title="统一管理：堡垒机"></a>统一管理：堡垒机</h1><h2 id="选择-JumpServer"><a href="#选择-JumpServer" class="headerlink" title="选择 JumpServer"></a>选择 JumpServer</h2><p>俺找了有相关经验的好朋友<a href="https://www.milkfish.site/">奶鱼</a> ，他推荐了一套堡垒机方案 <a href="https://jumpserver.org/">JumpServer</a>。这是一套开源的堡垒机程序，支持身份认证，账号管理，资产授权，操作审计等管理功能，也支持批量部署，Web Terminal 等通过 Web 操作机器的功能。整体上看，非常符合我管理内网三十多台机器的需求。</p>
+<blockquote>
+<p>开源仓库一览</p>
+<ul>
+<li>JumpServer <a href="https://github.com/jumpserver/jumpserver">https://github.com/jumpserver/jumpserver</a></li>
+<li>Koko (SSH, WS server) <a href="https://github.com/jumpserver/koko">https://github.com/jumpserver/koko</a></li>
+<li>Luna (Web terminal) <a href="https://github.com/jumpserver/luna">https://github.com/jumpserver/luna</a></li>
+</ul>
+</blockquote>
+<h2 id="前期准备"><a href="#前期准备" class="headerlink" title="前期准备"></a>前期准备</h2><p>要想部署一个能够管理所有服务器的堡垒机的平台，就需要给每个节点部署一个带 sudo 权限的用户。这个用户最好在不同机器上是统一的。现有的服务器用户虽然也有部分统一，但使用一个独立的用户管理所有服务器更符合直觉。我先创建一个统一的用户 <code>touko</code> ，并赋予其 <code>sudo NOPASSWD</code> 权限。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">&quot;SUDO_PASSWORD&quot;</span> | <span class="built_in">sudo</span> -S useradd -m touko -s /bin/bash</span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;touko ALL=(ALL:ALL) NOPASSWD: ALL&quot;</span> | <span class="built_in">sudo</span> <span class="built_in">tee</span> /etc/sudoers.d/touko</span><br></pre></td></tr></table></figure>
+
+<p>为了安全，我创建了一组 <code>ECDSA</code> 算法的密钥对，然后将它的公钥导入 <code>authorized_keys</code> 作为登陆密钥。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">ssh-keygen -t ecdsa -C <span class="string">&#x27;jumpserver&#x27;</span></span><br><span class="line"><span class="built_in">cd</span> ~/.ssh</span><br><span class="line"><span class="built_in">cat</span> id_ecdsa.pub &gt;&gt; authorized_keys</span><br></pre></td></tr></table></figure>
+
+<p>然后，将创建的 ECDSA 私钥 <code>~/.ssh/id_ecdsa</code> 备份并删除。在其他的机器上，编写脚本，拷贝私钥至脚本中，就能一键完成部署（顺便退出命令行）。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[超详细 vim 配置 (with MacVim)]]></title>
         <id>https://razeen.me/posts/my-macvim-vimrc/</id>
         <link href="https://razeen.me/posts/my-macvim-vimrc/"/>
@@ -8874,6 +9358,66 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[使用 LaTeX 完成你的毕业论文]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/write-thesis-with-latex/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/write-thesis-with-latex/"/>
+        <updated>2020-03-17T06:02:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>本文使用 <strong>武汉大学</strong> 毕业论文模板。</p>
+<h1 id="准备写论文"><a href="#准备写论文" class="headerlink" title="准备写论文"></a>准备写论文</h1><p>可喜可贺，我终于要开始动笔我的毕业论文了。虽然论文相关的实验和理论准备已经就绪了很长一段时间，但是就是提不起精神写文章。这周其他突发堆积的事情逐渐清空，我准备忙里偷闲，开始写毕业论文。</p>
+<p>某天，一同学在群里发了一份 <a href="https://github.com/mtobeiyf/whu-thesis/">武汉大学毕业论文 LaTeX 模板</a>，我一看，巧了，老朋友写的 <code>repository</code> ，于是正好近期开工，把它下载下来用。</p>
+<h1 id="环境配置"><a href="#环境配置" class="headerlink" title="环境配置"></a>环境配置</h1><blockquote>
+<p>本文基础环境是 Windows 10，使用的 IDE 为 <strong>VSCode</strong>，Linux、Mac 配置方式类似</p>
+</blockquote>
+<h2 id="Perl"><a href="#Perl" class="headerlink" title="Perl"></a>Perl</h2><p>首先我们需要安装 Windows 下的 <code>Perl</code> 依赖。前往官网 <a href="https://www.perl.org/get.html">https://www.perl.org/get.html</a> 我发现，有 <code>ActiveState Perl</code> 和 <code>Strawberry Perl</code> 两种版本的 <code>Perl</code> ，具体使用起来差不多，所以我选择了下载起来相对方便的 <code>草莓 Perl</code> <a href="http://strawberryperl.com/">http://strawberryperl.com/</a> 。</p>
+<h2 id="LaTeX"><a href="#LaTeX" class="headerlink" title="LaTeX"></a>LaTeX</h2><p>Windows 下有两种广泛使用的 LaTeX 版本，分别是 <code>TeX Live</code> 和 <code>MiKTeX</code> 。 <code>TeX Live</code> 安装体积高达 <strong>6GB</strong> ，我立刻放弃，选择了安装体积较小，后续使用中<strong>按需下载</strong>的 <code>MiKTeX</code> <a href="https://miktex.org/download">https://miktex.org/download</a> 。建议在安装时安装给<strong>当前用户</strong>，可以避免很多麻烦。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Docker 限制磁盘 IO 无效排错及总结]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/blkio-debug/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/blkio-debug/"/>
+        <updated>2020-03-15T17:47:48.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>该文完稿于 2020-03-13 凌晨</p>
+</blockquote>
+<h1 id="Background"><a href="#Background" class="headerlink" title="Background"></a>Background</h1><p>最近在做一个与 Docker 相关的实验，其中需要限制 Docker 容器中应用程序的 IO，比如 NginX 的 IO。这听起来很简单，毕竟远在 Feb 4th, 2016 release 的 Docker v1.10 就在其功能中加入了限制容器 IO 的参数</p>
+<blockquote>
+<p><strong>Constraints on disk I&#x2F;O:</strong> Various options for setting constraints on disk I&#x2F;O have been added to <code>docker run</code>: <code>--device-read-bps</code>, <code>--device-write-bps</code>, <code>--device-read-iops</code>, <code>--device-write-iops</code>, and <code>--blkio-weight-device</code>.</p>
+<p><a href="https://www.docker.com/blog/docker-1-10/">https://www.docker.com/blog/docker-1-10/</a></p>
+</blockquote>
+<p>就在一切都顺利进行，我写完包含了 <code>NginX</code> 的 <code>Dockerfile</code> ，准备满心欢喜地开始我的 <code>1MB/s</code> 实验的时候，一道晴天霹雳打在我心上——</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">root@53ace8551c27:/#$ <span class="built_in">dd</span> <span class="keyword">if</span>=500M.file bs=1M count=500 of=/dev/null</span><br><span class="line">500+0 records <span class="keyword">in</span></span><br><span class="line">500+0 records out</span><br><span class="line">524288000 bytes (524 MB, 500 MiB) copied, 0.132448 s, 4.0 GB/s</span><br></pre></td></tr></table></figure>
+
+<p>当然问题现在已经解决了。为了重现当时的情况，我们从头开始。</p>
+<h1 id="Toolbox"><a href="#Toolbox" class="headerlink" title="Toolbox"></a>Toolbox</h1><p>我们简单地使用 Debian 作为测试的 Docker Image。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ docker pull debian</span><br></pre></td></tr></table></figure>
+
+<p>并且使用 <code>dd</code> 命令生成一个 500M 的 000 文件，测试磁盘读写速度。</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">dd</span> <span class="keyword">if</span>=/dev/zero of=500M.file bs=1M count=500</span><br><span class="line">$ <span class="built_in">dd</span> <span class="keyword">if</span>=500M.file bs=1M count=500 of=/dev/null</span><br></pre></td></tr></table></figure>
+
+<h1 id="Yesterday-Once-More"><a href="#Yesterday-Once-More" class="headerlink" title="Yesterday Once More *"></a>Yesterday Once More *</h1><blockquote>
+<p>* <a href="https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL">Yesterday Once More – Carpenters</a></p>
+</blockquote>
+<h2 id="初次碰壁"><a href="#初次碰壁" class="headerlink" title="初次碰壁"></a>初次碰壁</h2><p>拉镜像</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">$ docker pull debian</span><br><span class="line"></span><br><span class="line">Using default tag: latest</span><br><span class="line">latest: Pulling from library/debian</span><br><span class="line">50e431f79093: Pull complete</span><br><span class="line">Digest: sha256:a63d0b2ecbd723da612abf0a8bdb594ee78f18f691d7dc652ac305a490c9b71a</span><br><span class="line">Status: Downloaded newer image <span class="keyword">for</span> debian:latest</span><br><span class="line">docker.io/library/debian:latest</span><br></pre></td></tr></table></figure>
+
+<p>找到宿主机的设备路径</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">sudo</span> fdisk -l</span><br><span class="line"></span><br><span class="line">Disk /dev/vda: 50 GiB, 53687091200 bytes, 104857600 sectors</span><br><span class="line">Units: sectors of 1 * 512 = 512 bytes</span><br><span class="line">Sector size (logical/physical): 512 bytes / 512 bytes</span><br><span class="line">I/O size (minimum/optimal): 512 bytes / 512 bytes</span><br><span class="line">Disklabel <span class="built_in">type</span>: gpt</span><br><span class="line">Disk identifier: -</span><br><span class="line"></span><br><span class="line">Device      Start       End   Sectors  Size Type</span><br><span class="line">/dev/vda1  227328 104857566 104630239 49.9G Linux filesystem</span><br><span class="line">/dev/vda14   2048     10239      8192    4M BIOS boot</span><br><span class="line">/dev/vda15  10240    227327    217088  106M EFI System</span><br><span class="line"></span><br><span class="line">Partition table entries are not <span class="keyword">in</span> disk order.</span><br></pre></td></tr></table></figure>
+
+<p>起一个 Docker，限制对应设备的读写速度</p>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ docker run -it --<span class="built_in">rm</span> --device-read-bps /dev/vda:1MB  --device-write-bps /dev/vda:1MB debian</span><br><span class="line"></span><br><span class="line">root@9f79e6469b67:/#</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">dd</span> <span class="keyword">if</span>=/dev/zero of=500M.file bs=1M count=500</span><br><span class="line"></span><br><span class="line">500+0 records <span class="keyword">in</span></span><br><span class="line">500+0 records out</span><br><span class="line">524288000 bytes (524 MB, 500 MiB) copied, 0.728238 s, 720 MB/s</span><br><span class="line"></span><br><span class="line">$ <span class="built_in">dd</span> <span class="keyword">if</span>=500M.file bs=1M count=500 of=/dev/null</span><br><span class="line"></span><br><span class="line">500+0 records <span class="keyword">in</span></span><br><span class="line">500+0 records out</span><br><span class="line">524288000 bytes (524 MB, 500 MiB) copied, 0.132448 s, 4.0 GB/s</span><br></pre></td></tr></table></figure>
+
+<p><strong>？</strong></p>
+<p>这是一个非常可怕的事情。我限制的 <code>1MB/s</code> 并不工作。这个实验是基于这个假设进行的，如果没有办法限制设备的 IO，实验也没有办法继续进行了。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Golang 中的 RESTful API 最佳实践]]></title>
         <id>https://razeen.me/posts/golang-and-restful-api/</id>
         <link href="https://razeen.me/posts/golang-and-restful-api/"/>
@@ -8881,6 +9425,99 @@ NUC 用了一段时间，还是有点卡，CPU跟不上。 最后还是组装了
         <summary type="html"><![CDATA[RESRful API已经流行很多年了，我也一直在使用它。最佳实践也看过不少，但当一个项目完成，再次回顾/梳理项目时，会发现很多API和规范还是多少有些出入。在这篇文章中，我们结合Go Web再次梳理一下RESTful API的相关最佳实践。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Customize Hexo and Theme NexT]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/customize-hexo/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/customize-hexo/"/>
+        <updated>2020-03-14T16:15:43.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><p>我大概是从两天前开始决定使用 Hexo 的。</p>
+<figure class="highlight subunit"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">橙橙橙 2020<span class="string">-03</span><span class="string">-10</span> 15:35:42</span><br><span class="line">    你现在在用hexo吗</span><br><span class="line">锅 2020<span class="string">-03</span><span class="string">-10</span> 16:15:22</span><br><span class="line">    对</span><br></pre></td></tr></table></figure>
+
+<figure class="highlight subunit"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">橙橙橙 2020<span class="string">-03</span><span class="string">-12</span> 18:05:24</span><br><span class="line">    你觉得hexo好还是jekyll好</span><br><span class="line">mxd 2020<span class="string">-03</span><span class="string">-12</span> 18:12:17</span><br><span class="line">    我喜欢hexo</span><br></pre></td></tr></table></figure>
+
+<p>昨天我装上了 <code>Hexo</code> ，配置了 <code>gh-pages</code> ，今天我装了一堆插件用于优化浏览体验，并把主题改成了自己喜欢的样子。我还增加了 <code>gitalk</code> 评论系统，并接入了 <code>Google Analytics</code> 服务等传统艺能。</p>
+<p>我会在这个帖子里做一些记录，关于我修改的比较重要的部分。</p>
+<h1 id="修改-Hexo-字体"><a href="#修改-Hexo-字体" class="headerlink" title="修改 Hexo 字体"></a>修改 Hexo 字体</h1><p>我修改了 <code>Hexo</code> 全局的字体，并根据自己的审美修改了字体大小和排版。修改字体需要重写 CSS ，覆盖 <code>NexT</code> 原有的样式表。</p>
+<p>在 <code>NexT</code> 的配置文件中找到如下片段</p>
+<figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Define custom file paths.</span></span><br><span class="line"><span class="comment"># Create your custom files in site directory `source/_data` and uncomment needed files below.</span></span><br><span class="line"><span class="attr">custom_file_path:</span></span><br><span class="line">  <span class="comment">#head: source/_data/head.swig</span></span><br><span class="line">  <span class="comment">#header: source/_data/header.swig</span></span><br><span class="line">  <span class="comment">#sidebar: source/_data/sidebar.swig</span></span><br><span class="line">  <span class="comment">#postMeta: source/_data/post-meta.swig</span></span><br><span class="line">  <span class="comment">#postBodyEnd: source/_data/post-body-end.swig</span></span><br><span class="line">  <span class="comment">#footer: source/_data/footer.swig</span></span><br><span class="line">  <span class="comment">#bodyEnd: source/_data/body-end.swig</span></span><br><span class="line">  <span class="comment">#variable: source/_data/variables.styl</span></span><br><span class="line">  <span class="comment">#mixin: source/_data/mixins.styl</span></span><br><span class="line">  <span class="attr">style:</span> <span class="string">source/_data/styles.styl</span></span><br></pre></td></tr></table></figure>
+
+<p>由于我只自定义了样式表，所以我只是把样式表的部分取消注释。我希望修改我的网站全局的字体，所以我先通过 <a href="https://www.font-converter.net/">https://www.font-converter.net/</a> 将 ttf 字体转换成了多种格式，将其放在 <code>source/fonts</code> 文件夹下，并增加 CSS 配置。</p>
+<figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">@font-face</span> &#123;</span><br><span class="line">  <span class="attribute">font-family</span>: <span class="string">&quot;FZS3JW&quot;</span>;</span><br><span class="line">  <span class="attribute">src</span>: <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.eot&quot;</span>); <span class="comment">/* IE9 Compat Modes */</span></span><br><span class="line">  <span class="attribute">src</span>: <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.eot?#iefix&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;embedded-opentype&quot;</span>), <span class="comment">/* IE6-IE8 */</span></span><br><span class="line">    <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.otf&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;opentype&quot;</span>), <span class="comment">/* Open Type Font */</span></span><br><span class="line">    <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.svg&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;svg&quot;</span>), <span class="comment">/* Legacy iOS */</span></span><br><span class="line">    <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.ttf&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;truetype&quot;</span>), <span class="comment">/* Safari, Android, iOS */</span></span><br><span class="line">    <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.woff&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;woff&quot;</span>), <span class="comment">/* Modern Browsers */</span></span><br><span class="line">    <span class="built_in">url</span>(<span class="string">&quot;/fonts/FZS3JW/FZS3JW.woff2&quot;</span>) <span class="built_in">format</span>(<span class="string">&quot;woff2&quot;</span>); <span class="comment">/* Modern Browsers */</span></span><br><span class="line">  <span class="attribute">font-weight</span>: normal;</span><br><span class="line">  <span class="attribute">font-style</span>: normal;</span><br><span class="line">  <span class="attribute">font-display</span>: swap;</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="selector-tag">body</span> &#123;</span><br><span class="line">    <span class="attribute">font-family</span>: <span class="string">&quot;Times New Roman&quot;</span>, <span class="string">&quot;FZS3JW&quot;</span>, <span class="string">&quot;PingFang SC&quot;</span>, <span class="string">&quot;Microsoft YaHei&quot;</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<p>这样，全局的字体就被修改为上述优先级了。</p>
+<h1 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h1><p><code>NexT</code> 提供了非常方便的评论接口，只需要申请对应的评论服务并把他们的 <code>API Key</code> 或者别的相关的东西复制过来就可以了。我这里主要记录一下 <code>gitalk</code> 的安装过程。</p>
+<h2 id="Gitalk"><a href="#Gitalk" class="headerlink" title="Gitalk"></a>Gitalk</h2><p><code>gitalk</code> 是一个使用 <code>GitHub issue</code> 作为对话记录工具的评论，我觉得想到这个点子的人一定是天才。</p>
+<p>首先我们需要创建一个 repo ，用于放所有的 issue （评论）。我创建了一个名为 <code>gitalk-wasteland</code> 的 repo 。然后我们什么都不用操作，进行下一步。</p>
+<p>进入 <code>GitHub OAuth App</code> 申请页面 <a href="https://github.com/settings/applications/new">https://github.com/settings/applications/new</a> ，创建一个新的 <code>OAuth App</code> 并设置 <em>Homepage URL</em> 和 <em>Authorization callback URL</em> 为 <strong>网站首页 URL</strong> 。然后根据配置文件注释，将 <em>Client ID</em> ， <em>Client Secret</em> ， <em>gitalk-wasteland(repo name)</em> 等信息填入</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Syncthing 文件同步工具部署和 iOS 替代方案]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/syncthing-all-platform/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/syncthing-all-platform/"/>
+        <updated>2020-03-14T14:45:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>Syncthing Official Site: <a href="https://syncthing.net/">https://syncthing.net/</a></p>
+<p>Syncthing Github: <a href="https://github.com/syncthing/">https://github.com/syncthing/</a></p>
+<p>KodExplorer Official Site: <a href="https://kodcloud.com/">https://kodcloud.com/</a></p>
+<p>KodExplorer Github: <a href="https://github.com/kalcaddle/KodExplorer">https://github.com/kalcaddle/KodExplorer</a></p>
+<h1 id="Introduction"><a href="#Introduction" class="headerlink" title="Introduction"></a>Introduction</h1><blockquote>
+<p>Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it’s transmitted over the internet.</p>
+</blockquote>
+<p><em>Syncthing</em> 是一个实时的文件同步程序，可以在两台以上的设备之间进行实时、端对端的文件同步。在不同设备间同步的时候，还可以对每个设备分别设置文件版本控制，保留被删除的文件的副本或者更改前的旧版本，在办公、科研、文档共享和数据共享上都有很大用处。</p>
+<p>我将 <em>Syngthing</em> 安装在了学校电脑、 Surface 和远端服务器上，远端服务器有公网 IP ，方便进行快速同步。这样只要我本地的数据发生更新，远端服务器就会同步数据，并且保存文件的旧版本。</p>
+<h1 id="服务器安装"><a href="#服务器安装" class="headerlink" title="服务器安装"></a>服务器安装</h1><p>虽然是开源项目，但是我不建议使用源代码安装。源码安装不利于软件的升级和版本控制。</p>
+<p>官网对文件安装的文档说明已经非常详细了，这边简单摘抄一些，并分享在安装过程中发现的问题并提供解决方案。</p>
+<p>全平台（除了 iOS）的安装文件可以在这里找到 <a href="https://syncthing.net/downloads/">https://syncthing.net/downloads/</a> 。</p>
+<h2 id="Deb-系"><a href="#Deb-系" class="headerlink" title="Deb 系"></a>Deb 系</h2><p>用户可以在两条 release 轨道中进行选择，分别是”stable” (latest release) 和 “candidate” (earlier release candidate) 。</p>
+<p>同时强烈建议通过 HTTPS 从 apt 源进行下载。</p>
+<p>Candidate Track 的版本升级会比 Stable Track <strong>早大约三个星期</strong>，追求刺激的用户可以使用 Candidate Track 。</p>
+<h3 id="Stable-Track"><a href="#Stable-Track" class="headerlink" title="Stable Track"></a>Stable Track</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># Add apt https support</span></span><br><span class="line"><span class="built_in">sudo</span> apt-get install apt-transport-https</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add the release PGP keys:</span></span><br><span class="line">curl -s https://syncthing.net/release-key.txt | <span class="built_in">sudo</span> apt-key add -</span><br><span class="line"></span><br><span class="line"><span class="comment"># Add the &quot;stable&quot; channel to your APT sources:</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">&quot;deb https://apt.syncthing.net/ syncthing stable&quot;</span> | <span class="built_in">sudo</span> <span class="built_in">tee</span> /etc/apt/sources.list.d/syncthing.list</span><br><span class="line"></span><br><span class="line"><span class="comment"># Update and install syncthing:</span></span><br><span class="line"><span class="built_in">sudo</span> apt-get update</span><br><span class="line"><span class="built_in">sudo</span> apt-get install syncthing</span><br></pre></td></tr></table></figure>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Start with Hexo]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/start-with-hexo/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/start-with-hexo/"/>
+        <updated>2020-03-13T16:18:51.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="一切的结束，一切的开始"><a href="#一切的结束，一切的开始" class="headerlink" title="一切的结束，一切的开始"></a>一切的结束，一切的开始</h1><p>我又搬博客了。在咕了两年零两个月之后，我终于继续找地方写我想写的东西了。<br>此时应该放个烟花庆祝一下。如果你的城市不能放烟花，请打开一首打上花火。  </p>
+<p>我把以前的博客封存了起来。在搬家时，我顺便翻了翻它。我发现每次搬家，都会再次发觉曾经的我的幼稚。当然人是要磨练的，在不断否定自己、改变自己后，才能在成长的路上艰难地向前挪动一步。</p>
+<p>但我也会惊讶，惊讶于曾经渺小的自己爆发出来的强大的能量，和童言无忌口无遮拦的那些存粹的话。要是让我现在去修改以前的文章，可能要大段大段的砍掉让我现在念起来会面红耳赤的内容。我最终决定还是将他们悉数保留，也算是对我的青春的一种纪念。</p>
+<h2 id="鞭尸"><a href="#鞭尸" class="headerlink" title="鞭尸"></a>鞭尸</h2><p>有的文章实在值得我自己翻出来狠狠的抽自己不算厚脸皮，感受这种尴尬气氛下微妙的喉咙干燥感。以下文章全部摘自旧博客 <code>日常</code> 分类，并亲自附上吐槽。</p>
+<ul>
+<li><a href="https://savepoint.touko.moe/blog/whispers-my-way-to-developer">我与开发的故事</a><br>我没想到当时的我竟有勇气将 Link 的内容设置为 <em>my-way-to-developer</em>，因为现在的我越发没有自信称自己为开发者。我觉得我自己就是个写代码造软件赚点外快的。可能这就是小孩子的勇气吧。</li>
+<li><a href="https://savepoint.touko.moe/blog/modify-typecho">我和typecho的第一次(</a><br>一篇中规中矩的初级技术文章，伴随着一个自言自语式的尴尬的开场。当时的我竟然可以突破重重看不懂的代码，找到问题的核心所在，还能依葫芦画瓢写一些 “it works” 的 Apache 配置文件，实在难得。这样一个聪明的小孩，竟然没有在 SE 的道路上继续走下去，实在是可惜了。</li>
+<li><a href="https://savepoint.touko.moe/blog/deep-in-physics-and-maths">再見，我的競賽生涯</a><br>就这点数学物理知识还是不要说自己是打竞赛的好。我感觉以前学竞赛学的那点皮毛，现在我把自己按在椅子前学两天，也能把题目做的头头是道。<br>哇，竟然还爱上杭州，半年前我提着行李箱顶着烈日在没地铁的浙大西溪校区边上走着的时候肯定无比后悔曾经说过的话。不过，只身一人从杭州前往深圳、中途中转广州的经历算是很深的记忆了。虽然他们可能远不及现在的日子精彩，但作为那时的我，也是一个值得纪念的挑战。</li>
+</ul>
+<h2 id="关于旧博客的存档"><a href="#关于旧博客的存档" class="headerlink" title="关于旧博客的存档"></a>关于旧博客的存档</h2><p>旧博客我还是做好了存档，网址是 <a href="https://savepoint.touko.moe/">https://savepoint.touko.moe/</a> 。也不知道当时是为何停止维护了，明明刚开了两个项目连载，分别是 MIPS CPU 和 bot-framework，结果最后也没能继续做下去。</p>
+<p>在考虑旧博客命名时，我和 POJO 讨论了如下几个选项。</p>
+<ul>
+<li>archive</li>
+<li>legacy</li>
+<li>deprecated</li>
+<li>milestone</li>
+<li>pyramid</li>
+<li>savepoint</li>
+<li>ruin</li>
+</ul>
+<p>这下可好，已经把未来数次的博客搬迁取名事宜考虑好了，以后可以尽情搬迁新博客而不用担心二级域不够用。</p>]]></summary>
+        <author>
+            <name>Wasteland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://wasteland.touko.moe/blog/2020/03/hello-world/</id>
+        <link href="https://wasteland.touko.moe/blog/2020/03/hello-world/"/>
+        <updated>2020-03-13T12:16:19.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Wasteland</name>
         </author>
     </entry>
     <entry>
