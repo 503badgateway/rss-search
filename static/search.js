@@ -51,8 +51,8 @@
       searchInput.value = query;
       handleSearch();
     } else {
-      // Show only newest 20 articles initially
-      showNewestArticles();
+      // Show no articles initially - search only
+      showNoArticles();
     }
   }
 
@@ -69,7 +69,7 @@
     }
     
     if (!query) {
-      showNewestArticles();
+      showNoArticles();
       return;
     }
     
@@ -88,11 +88,30 @@
     displayPaginatedArticles(filteredArticles);
   }
 
-  // Show newest 20 articles
-  function showNewestArticles() {
+  // Show no articles on homepage
+  function showNoArticles() {
     currentPage = 1;
-    filteredArticles = allArticles.slice(0, itemsPerPage);
-    displayPaginatedArticles(filteredArticles, true);
+    filteredArticles = [];
+    
+    // Hide all articles
+    allArticles.forEach(article => {
+      article.style.display = 'none';
+    });
+    
+    // Hide all sections
+    const sections = document.querySelectorAll('.daily-content');
+    sections.forEach(section => {
+      section.style.display = 'none';
+    });
+    
+    // Hide pagination
+    const paginationContainer = document.getElementById('pagination-controls');
+    if (paginationContainer) {
+      paginationContainer.style.display = 'none';
+    }
+    
+    // Update stats to show total article count
+    searchStats.textContent = `${totalArticleCount} articles indexed. Type to search.`;
   }
   
   // Display paginated articles
