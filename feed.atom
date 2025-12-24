@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-24T02:21:35.217Z</updated>
+    <updated>2025-12-24T02:40:03.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[嘿嘿，打爽了！]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/HD86aONB</id>
+        <link href="https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/HD86aONB"/>
+        <updated>2025-12-24T01:41:22.000Z</updated>
+        <summary type="html"><![CDATA[收到邀请 在两周前有两个女同学让我去打羽毛球，奈何没带拍子，只能用她们的，她们的拍子是普通商超就能买到的361拍子，老重了，打的胳膊乳酸堆积了，又酸又涨还有点疼，后来我把我的拍子带来了，还是自己的好用。 我的球拍 熏风 K520 Pro]]></summary>
+        <author>
+            <name>暖心向阳335</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[悲剧上演是谁的错]]></title>
         <id>http://www.xulog.cn/index.php?act=pl&amp;id=1064&amp;utm_source=blogfinder</id>
@@ -3437,6 +3447,25 @@ slidde 是一个简单、免费、响应式的网站构建器，号称如果你�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[建築(設計)資訊學基本功]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/12/blog-post.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/12/blog-post.html"/>
+        <updated>2025-12-14T16:19:00.008Z</updated>
+        <summary type="html"><![CDATA[如果想鍛鍊數位建築、運算設計、建築資訊學的基本功，強烈推薦以下經典書籍。
+Digital Design Media
+Authors: William J. Mitchell, Malcolm McCullough. ISBN 978-0471286660. John Wiley & Sons Inc., 1994. 512 pages.
+
+Twelve Lectures on Architecture: Algorithmic Sustainable Design
+Author: Nikos A. Salingaros. ISBN 978-0989346931. ISI Distributed Titles, 2010. 252 pages.
+Computational Design Thinking (AD Reader)
+Authors: Achim Menges, Sean Ahlquist. ISBN 978-0470665657. Wiley, 2011. 224 pages.
+The Algorithmic Beauty of Plants (The Virtual Laboratory)
+Authors: Przemyslaw Prusinkiewicz, Aristid Lindenmayer, J.S. Hanan. ISBN 978-0387972978. Springer, 1991. 228 pages.]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[《老梁谈水浒与三国》音频节目.50集全.百度网盘]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.esp66.com%2Fpost6760.html</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.esp66.com%2Fpost6760.html"/>
@@ -3873,6 +3902,74 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何解決英文作業系統執行中文程式亂碼問題]]></title>
+        <id>https://itorz324.blogspot.com/2025/11/how-to-fix-chinese-garbled-in-applications-on-english-windows.html</id>
+        <link href="https://itorz324.blogspot.com/2025/11/how-to-fix-chinese-garbled-in-applications-on-english-windows.html"/>
+        <updated>2025-11-20T22:03:00.118Z</updated>
+        <summary type="html"><![CDATA[如何解決英文作業系統執行中文程式亂碼問題：非 Unicode 程式的終極指南
+摘要：為什麼會出現亂碼？
+-->
+
+  
+
+  
+????）或亂碼的問題。這是一個經典的語系設定問題，主要發生在那些非 Unicode 編碼的舊式應用程式上。 
+  
+
+  
+
+  
+核心解決方案： 修改系統的「非 Unicode 程式的語言 (Language for
+    non-Unicode programs)」設定，將其變更為中文。
+  
+
+
+  
+詳細步驟：變更系統地區設定 (Change System Locale)
+  
+不會改變您作業系統的顯示語言，只會影響非
+    Unicode 程式的文字顯示。
+  
+步驟1.開啟控制台：
+從「開始」功能表或搜尋列開啟 Control Panel。
+  
+步驟2.進入地區設定：
+點擊 Clock, Language, and Region，然後點擊
+    Region。
+  
+
+  
+步驟3.進入管理分頁：
+在彈出的 Region 視窗中，切換到
+    Administrative 分頁。
+  
+步驟4.變更系統地區：
+在 Language for non-Unicode programs
+    區塊，點擊 Change system locale... 按鈕。
+  
+
+  
+步驟5.選擇中文語系：
+在 Region Settings
+    視窗中，從下拉選單選擇：
+- Chinese (Traditional, Taiwan) (繁體中文)
+-
+    Chinese (Simplified, PRC) (簡體中文)
+請根據您的中文程式類型選擇對應的語系。
+  
+步驟6.確認並重啟：
+點擊 OK
+    確認設定。系統會提示您必須重新啟動電腦才能使設定生效。請務必儲存所有工作後，
+    點擊 Restart now。
+  
+
+  
+重開後問題已解決：]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[鲁迅文集·杂文集·坟]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.fec.xyz%2Fread%2F2025-1522.html</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.fec.xyz%2Fread%2F2025-1522.html"/>
@@ -3943,6 +4040,128 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[NotebookLM 21 天學習挑戰-Day1 認識 NotebookLM]]></title>
+        <id>https://itorz324.blogspot.com/2025/11/notebooklm-learning-day1.html</id>
+        <link href="https://itorz324.blogspot.com/2025/11/notebooklm-learning-day1.html"/>
+        <updated>2025-11-15T08:02:00.154Z</updated>
+        <summary type="html"><![CDATA[第一週概述：基礎入門與核心功能
+
+  
+
+  
+ 
+
+  
+Day 1：啟程 - 認識 NotebookLM
+學習目標
+理解 NotebookLM 的核心價值與應用場景
+熟悉 NotebookLM 的使用者介面
+建立您的第一個 Notebook
+撰寫個人的學習宣言
+
+
+  
+什麼是NotebookLM？
+快速提取關鍵資訊
+回答關於文件內容的問題
+生成摘要與筆記
+在多份文件之間進行比較分析
+NotebookLM 的核心特性
+特性
+        說明
+        應用場景
+      
+文件上傳
+        支援 PDF、Google Docs、簡報、文字檔
+        匯集各種格式的資料來源
+      
+AI 問答
+        提問關於文件內容，獲得 AI 生成的答案
+        快速獲取特定資訊
+      
+智慧摘要
+        自動提取文件的關鍵要點
+        快速掌握文件主旨
+      
+筆記功能
+        建立、編輯與組織筆記
+        整理個人知識
+      
+AI 助理
+        利用 AI 生成內容與洞察
+        創意寫作與分析
+      
+跨文件分析
+        比較與分析多份文件
+        綜合研究與決策
+      
+Day 1 實作練習
+步驟 1：註冊與訪問 NotebookLM
+notebooklm.google.com-->
+        前往 NotebookLM (網址為：https://notebooklm.google.com/)
+
+      
+
+      
+若你已經登入Google Chrome，你也可以直接點選右上的應用程式 > 選擇NotebookLM
+
+
+
+同意服務條款
+
+      
+
+      
+介面導覽：
+左側邊欄：Notebook 列表與導航
+中央區域：Notebook 內容與文件列表
+右側面板：AI 助理與筆記編輯器
+
+
+  
+步驟 2：建立您的第一個 Notebook
+選擇隱私設定（建議選擇「僅限我」）
+點擊「Create」完成建立
+Notebook 是什麼？ Notebook 是 NotebookLM 中的基本組織單位。每個
+    Notebook
+    可以包含多份文件（稱為「Sources」）和多個筆記。您可以為不同的專案或主題建立不同的
+    Notebook。
+  
+步驟 3：撰寫您的學習宣言
+在您的 Notebook 中建立第一個筆記：
+點擊「+ New Note」
+標題：「我的 NotebookLM 學習宣言」
+Plain Text
+        
+我為什麼要學習 NotebookLM？
+[寫下您的動機與目的]
+
+我希望在 21 天內達成什麼目標？
+[列出具體的學習目標，例如：
+- 掌握基本操作
+- 應用於工作流程
+- 完成一個實際專案]
+
+我計劃如何應用 NotebookLM？
+[描述您打算在工作或生活中如何使用這個工具]
+
+我對 NotebookLM 的期望是什麼？
+[寫下您對這個工具的期待與想像]
+完成後點擊「Save」
+Day 1 重點心得
+NotebookLM 的三大價值：
+效率提升 - 用 AI 加速資訊處理，節省大量時間
+知識深化 - 透過提問與分析，更深入地理解資訊
+創意激發 - AI 助理幫助您生成新想法與洞察
+反思問題
+您對 NotebookLM 的第一印象是什麼？
+您最期待使用的功能是什麼？
+您的工作或學習中，哪些任務可能受益於 NotebookLM？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[用Cloudflare Durable Objects实现延迟部署]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fdarmau.co%2Fzh%2Farticle%2Fcloudflare-durable-objects-delay-deployment</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fdarmau.co%2Fzh%2Farticle%2Fcloudflare-durable-objects-delay-deployment"/>
@@ -3973,6 +4192,142 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[雜談：深刻體會Skype退役了 / Talk:  Deeply Felt Skype's Retirement]]></title>
+        <id>http://blog.pulipuli.info/2025/11/talk-deeply-felt-skypes-retirement.html</id>
+        <link href="http://blog.pulipuli.info/2025/11/talk-deeply-felt-skypes-retirement.html"/>
+        <updated>2025-11-03T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[微軟在2025年5月5日關閉Skype。我本來以為對我影響不大，聽說現在已經不用Skype打0800免費電話。不過似乎不是每個銀行都是如此。
+Microsoft is shutting down Skype on May 5, 2025. I initially thought it wouldn't affect me much, hearing that Skype is no longer needed for calling 0800 toll-free numbers. However, it seems that's not the case for every bank.
+
+
+0800免費電話只能用市話的時代 / The Era When 0800 Toll-Free Numbers Could Only Be Used With Landlines
+
+    
+  
+(圖片來源：https://pixabay.com/photos/telephone-technical-support-cisco-1223310/ )
+也許現代人都習慣了用手機代替市話的通訊生活。但在以前，市話可是家家戶戶必備的重要通訊手段，而且通常一戶就是一支固定號碼，不太會修改。
+相較之下，當時的手機號碼彷彿是拋棄式用品，大家可是說換就換。換了新的工作了，辦一個新的門號；男女交往分手了，換一個新的門號。當時沒有APP綁定手機門號做驗證這種機制，你記下朋友的手機門號多年後失聯，這一切都如此正常。
+
+在這樣的情境脈絡下，公司客戶服務的免付費電話0800，幾乎都只開放給市話撥打，手機撥號會被拒絕接聽。我想這可能是因為這對客戶來說的免付費電話實際上是由公司方付費的緣故，他們只顧慮到當時是主流的市話，並沒有把行動電話納入考量。
+
+行動電話不能撥打0800免付費電話，公司方大多會建議客戶改打市話客服，也就是讓使用行動電話的客戶自己繳交通話費，而且還是行動電話打市話的昂貴費用。當時在電話裡聽著「現在客服全在忙線中，請稍後片刻。」的自動語音，一邊看著手機上的通話時間，真的是讓人感到非常焦慮。
+用Skype撥打0800 / Use Skype To Call 0800
+
+    
+  
+(圖片來源：https://applealmond.com/posts/251833 )
+當時拯救廣大手機使用者的救星，就是Skype。在當時，Skype是可以讓手機撥打0800的主要通訊手段。許多提供0800的銀行，包括中國信託、台新銀行、國泰世華等等，都可以用Skype撥打。
+儘管在2024年的時候，Skype更換了電信營運商，造成撥打0800的時候會出現「發話人按國際電話費率付費」通知，但在沒有餘額的情況下使用Skype，0800還是可以繼續打的通。0800真的是佛心來著。
+打0800不用Skype了 / No More Skype for 0800 Calls.
+
+    
+  
+(表格來源：https://roo.cash/blog/creditcard-bank-service-phone-number/ )
+在Skype停止營運的現在，其實很多銀行已經推出了能讓手機撥打的0800號碼。根據袋鼠金融的整理，國泰世華、台新銀行、臺北富邦銀行、永豐銀行、兆豐銀行、星展銀行、上海商銀、聯邦銀行、華南銀行、土地銀行、第一銀行、瑞興銀行，都能讓手機撥打0800。
+也就是說，即使沒有Skype用來撥打市話0800的手段，我們也可以用自己的手機來打0800了。
+結語：也許不應該打電話到客服 / In Closing: Maybe You Shouldn't Have Called Customer Service.
+沒有Skype可以打市話0800，但我們也許還能用手機撥打0800。雖然是這樣說，但也並不是所有單位都有能讓手機撥打0800的管道。最近我在跟銀行聯繫的時候就遇到了這個狀況，索性牙一咬，用手機撥打市話吧。結果客服等了一千秒沒打通，通話費倒是扣款了100元，非常令人心疼啊。
+後來我改用線上文字客服去詢問。文字客服每次都只會跟我說，他們會聯絡專人再回電給我，後來就要看運氣能不能接到客服打來的電話，但這樣總比花大錢還打不通客服還好吧？
+沒有市話，在這種情況下還真的是很麻煩呢，唉。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感謝抖內！布丁光明燈上線 / Thanks for the Donation! Pudding Luminous Blessing is Online Now]]></title>
+        <id>http://blog.pulipuli.info/2025/10/thanks-for-the-donation-pudding-luminous-blessing-is-online-now.html</id>
+        <link href="http://blog.pulipuli.info/2025/10/thanks-for-the-donation-pudding-luminous-blessing-is-online-now.html"/>
+        <updated>2025-10-27T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[「布丁布丁吃什麼？」的捐款功能開設以來，陸陸續續也收到大善人們的愛心捐助。為了感謝大家的支持，我在部落格首頁加入了「布丁光明燈」來表達感謝。
+Since my blog's the donation feature was launched, I have continuously received generous donations from kind benefactors. To express my gratitude for everyone's support, I have added a "Luminous Blessing (Donors)" to the blog's homepage to show my appreciation.
+
+
+布丁光明燈 / Luminous Blessing (Donors)
+
+    
+  
+會做布丁光明燈的原因，除了想要感謝大家的捐款之外，也希望給各位研究者、IT人員一些祝福。我個人比較不喜歡擺乖乖，但我相信這世界上的事情能夠順利運作，背後得要仰賴無數多的人與設備共同的付出。
+如果我的部落格也能在大家背後，成為支持大家前進的其中一個動力來源，那就太好了呢。
+如何捐款？ / How to Donate?
+
+    
+  
+https://p.ecpay.com.tw/2462283 
+「布丁布丁吃什麼？」的捐款功能是用綠界支付實作。點下連結後將會跳轉到綠界的網頁。
+
+    
+  
+你可以在「金額」的部分填入你想要捐款的數字，金額隨喜。但由於綠界的規定，每種支付方式都有最低可填入的金額。例如信用卡支付最低得要填寫6元。
+
+    
+  
+填寫之後綠界會要求填寫付款人資訊。姓名跟手機雖然是必填的資料，但您可以輸入像是「楊先生」之類的稱呼，手機資訊僅是綠界金流使用，您的手機資訊不會透露給我看到。
+
+    
+  
+收件人資訊也是一樣的方式。捐款完成後，綠界會發送通知到您的手機簡訊。如果您有填寫電子信箱的話，信箱也會收到捐款通知。
+
+    
+  
+備註的部分，您可以填入留言給我的訊息。預設的情況下，我會把您的大名以姓氏加稱呼的方式，放到布丁光明燈上。例如「感謝楊先生支持點燈」。如果您希望以其他具名方式，或是不願意放上去的話，也可以在備註跟我說。
+最後勾選後面的「我已閱讀並了解 【個人資料運用聲明】 並已確認上述資訊無誤。」，並按下「前往付款」即可。系統會跳出請您確認資料填寫無誤的訊息，確認後即可進入下一步。
+
+    
+  
+接著就是付款的頁面了。依據付款金額，您可選擇信用卡、網路ATM、ATM虛擬帳號、超商條碼、超商代碼、綠界Pay的方式支付。支付完就算是完成捐款囉。
+再次感謝各方大德的支持~ 願大德研究順利、伺服器跟程式都能穩定運作！]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Cloudflare Tunnel的內網穿透來連接Home Assistant的Google助理 / Using Cloudflare Tunnel for Internal Network Penetration to Connect Home Assistant to Google Assistant]]></title>
+        <id>http://blog.pulipuli.info/2025/10/using-cloudflare-tunnel-for-internal-network-penetration-to-connect-home-assistant-to-google-assistant.html</id>
+        <link href="http://blog.pulipuli.info/2025/10/using-cloudflare-tunnel-for-internal-network-penetration-to-connect-home-assistant-to-google-assistant.html"/>
+        <updated>2025-10-20T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[如果要讓Google助理操作Home Assistant所連結的設備，那麼必須要有能夠連上Home Assistant的公開HTTPS網址才行。由於原本我用的Telebit發生問題，所以我花了一些時間找尋替代方案。這篇就做個記錄吧。
+To allow Google Assistant to control devices connected to Home Assistant, a public HTTPS address that can connect to Home Assistant is required. Since my original Telebit had issues, I spent some time looking for alternatives. This is just a record of that.
+
+
+網路架構 / Network Architecture
+
+    
+  
+在開始講解之前，我們要先釐清一下本篇文章所要著重的重點。
+上圖的左半邊是Google助理連結Home Assistant操作智慧裝置的主要途徑。具體來說，我們在Android手機呼叫Google助理時，它背後會去操作Google Home應用程式裡面連結的裝置。Google Home的連結是透過我們在Google Cloud Platform (簡稱GCP)設定好Home Assistant的整合方式來連到我們區域網路裡面的Home Assistant，以此操作跟Home Assistant相連的智慧裝置，例如智慧燈泡。
+如果設定完成的話，我們就能夠用語音指令來控制家裡的智慧燈泡。舉例來說，我們可以直接用語音控制來發送指令：「OK Google，關閉客廳燈光。」然後我們就能聽到Google助理回覆類似「好的，客廳燈光已關閉」的訊息，此時Home Assistan…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[希希助教祝各位同學中秋節快樂！ / TA. Sissi Wishes Everyone a Happy Mid-Autumn Festival!]]></title>
+        <id>http://blog.pulipuli.info/2025/10/ta-sissi-wishes-everyone-a-happy-midautumn-festival.html</id>
+        <link href="http://blog.pulipuli.info/2025/10/ta-sissi-wishes-everyone-a-happy-midautumn-festival.html"/>
+        <updated>2025-10-06T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[與家人團圓之後，做好開學的準備了嗎？新學期也要加油喔！
+
+
+AI藝術字 / AI Art Font
+字型的部分並不是使用AI繪圖，而是來自真實的字型。
+印章文字：汉仪新蒂唐朝体 - Hanyi Senty Tang Type
+https://www.sentyfont.com/sentytang.htm
+春聯題字：汉仪新蒂春联体 Hanyi Senty Spring Brush
+https://www.sentyfont.com/springbrush.htm 
+
+    
+  
+本來一開始我也是想用AI繪圖來產生文字，但實際上用起來，Bing的英文文字能夠順利畫出來，但中文字就成了奇妙的字體。
+
+    
+  
+這點ChatGPT也一樣。毛筆字看起來很厲害，但這到底在寫什麼呢？
+研究了半天，還是回來用字型好了。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2025年了新加坡ocbc银行还能用吗]]></title>
         <id>https://www.dongshushu.com/?p=10319</id>
         <link href="https://www.dongshushu.com/post/10319/"/>
@@ -3980,6 +4335,52 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[24年12月份的时候网上闹得沸沸扬扬说不能用了。 我也收到了ocbc发的邮件，通知这张卡12月就不能使用了，但 […]]]></summary>
         <author>
             <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看電腦覺得疲憊嗎？比起螢幕，你更應該注意炫光的問題 / Are You Tired of Looking at the Computer? Pay More Attention to Glare Than the Screen]]></title>
+        <id>http://blog.pulipuli.info/2025/08/are-you-tired-of-looking-at-the-computer-pay-more-attention-to-glare-than-the-screen.html</id>
+        <link href="http://blog.pulipuli.info/2025/08/are-you-tired-of-looking-at-the-computer-pay-more-attention-to-glare-than-the-screen.html"/>
+        <updated>2025-08-25T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[說到人體工學這件事情，我想講一下燈光的問題。作為租屋族，我發現大部分租屋環境的燈光都不太適合長時間使用電腦。這個問題有兩個層面：一個是螢幕前的光線不足，另一個是螢幕後的光線不足。瞭解這兩種燈光的問題，才能改善眼睛疲勞的狀況。
+Speaking of ergonomics, I want to talk about lighting. As a renter, I've found that the lighting in most rentals isn't suitable for prolonged computer use.  There are two aspects to this problem: insufficient light in front of the screen, and insufficient light behind the screen. Understanding these two lighting issues is key to improving eye strain.
+(這篇本來是2022年發佈在Facebook粉專上的文章，但實在是太多人都有同樣的問題，我想還是在Blog再重發一次好了，這樣也比較好找。)
+
+
+螢幕前的光線：掛燈幫助有限 / Screen Light: Desk Lamps Offer Limited Help
+ 
+https://youtu.be/0pUtp0xL4Tk
+說到不夠亮，大部分的人想到的都是螢幕前的光線不足，然後想到的是可以用螢幕掛燈來解決這個問題。
+
+https://www.kinyo.tw/products/pced855 
+
+令人覺得弔詭的是，螢幕本身就會發光，那為什麼我們還需要螢幕掛燈？我買了螢幕掛燈後，發現螢幕掛燈主要只有改善「桌面」的照度。我的桌面有八成都只有鍵盤跟滑鼠。而我打字操…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[為何桌前打字總是腰痠背痛？桌子高度和螢幕高度對人體工學的影響 / The Effect of Desk and Monitor Height on Ergonomics: Why Does Typing at a Desk Often Lead to Back Pain?]]></title>
+        <id>http://blog.pulipuli.info/2025/08/the-effect-of-desk-and-monitor-height-on-ergonomics-why-does-typing-at-a-desk-often-lead-to-back-pain.html</id>
+        <link href="http://blog.pulipuli.info/2025/08/the-effect-of-desk-and-monitor-height-on-ergonomics-why-does-typing-at-a-desk-often-lead-to-back-pain.html"/>
+        <updated>2025-08-18T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[自從買了螢幕支架之後，我開始對所謂的「人體工學」完全改觀了。我認為比起購買昂貴的「人體工學椅」，調整合適的桌子高度跟螢幕高度，可能才是解決你腰痠背痛的關鍵因素。
+Ever since I bought a monitor stand, my entire perspective on "ergonomics" has completely changed. I think that adjusting your desk and monitor to the proper height is probably more key to solving your back pain than buying an expensive "ergonomic chair".
+(這篇本來是2022年發佈在Facebook粉專上的文章，但實在是太多人都有同樣的問題，我想還是在Blog再重發一次好了，這樣也比較好找。)
+
+
+椅子不是人體工學的全部 / Chairs Are Not the Whole of Ergonomics
+對於我們這種時常坐在辦公桌前面的工作者來說，談到人體工學，你會想到什麼呢？很多人直覺上應該想到的是「椅子」吧。「人體工學椅」，「人體工學」四個字明明白白地寫在上面了。
+
+    
+  
+https://www.youtube.com/watch?v=_uFc5MyV6ag
+但我最近研究的結果是：椅子反而是最不重要的一塊。
+因為普通的一張摺疊椅，有靠背，椅墊到地板的高度大概在45cm左右，大概都可以滿足「雙腳平放在地面」、「背部稍微有依靠」的最低需求。
+當然，更高級的椅子坐起來更舒適，但它並不能改善你的腰痠背痛。
+大家應該都知道，腰痠背痛的原因是來自於坐姿不正確。說到坐姿不正確，大家應該都會想到的是椅子不夠人體工學。一把好的椅子的確可以讓你坐得端正，不過很遺憾的是，我…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
         </author>
     </entry>
     <entry>
@@ -3993,6 +4394,720 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Grasshopper for Mac 開發練習]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/08/grasshopper-for-mac.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/08/grasshopper-for-mac.html"/>
+        <updated>2025-08-11T07:54:00.006Z</updated>
+        <summary type="html"><![CDATA[這篇是參考 Your First Component (Mac) 一邊跟著做一邊紀錄，缺漏或步驟跳太快的部分會加上補充。
+一、Installing Tools (Mac) 安裝開發工具
+環境條件：macOS Monterey (12) 或以上、Rhino for Mac
+1. 安裝 Visual Studio Code
+
+
+下載安裝 Visual Studio Code，將應用程式搬到系統應用程式資料夾  /Applications。
+安裝以下 VS Code 延伸套件(Extensions):
+
+Intellicode for C# Dev Kit
+NuGet Gallery
+vscode-solution-explorer
+
+
+2. Install .NET on macOS 安裝 .NET 跨平台套件
+
+
+下載並安裝最新版 .NET SDK 和 .NET Runtime（此時最新版為 .NET 9.0.8, SDK 9.0.304, .NET Runtime 9.0.8）
+
+
+
+.NET 套件是安裝在 /usr/local/share/dotnet 路徑中。
+確認 /usr/local/share/dotnet/dotnet 執行檔有加到系統搜尋路徑 PATH，否則後續步驟無法執行。我是連結分身到個人應用程式資料夾（~ 波浪符號是指家目錄）：
+> ln -s /usr/local/share/dotnet/dotnet ~/Applications/
+
+接著檢查 .NET SDK 是否安裝正確：
+> dotnet --info 
+
+二、安裝 Rhino.Templates
+
+在 VS Code 中開啟終端機(Terminal)，有兩個方式：
+
+
+VS Code 主選單 Terminal > New Terminal, 或
+快捷鍵 ⌘+⇧+P 叫出指令框 Command Palette，搜尋 Terminal
+
+
+在 VS Code 終端機輸入以下指令，更新 .NET 內部工作檔。此處需用 sudo 以管理員權限執行。
+> sudo dotnet workload update
+
+
+在 VS Code 終端機輸入以下指令，安裝 Rhino.Templates：
+> dotnet new install Rhino.Templates
+
+三、HelloGrasshopper
+
+
+待續
+
+四、Simple Component
+
+
+五、Simple Mathematics Component
+
+
+六、Simple Geometry Component
+
+
+參考書
+Grasshopper Guides: GH 元件與外掛開發和技術指引
+RhinoCommon Guides 跨平台 .NET 外掛開發
+Getting Started with Rhino Development]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[李宏毅老師人工智慧系列課]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/08/blog-post.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/08/blog-post.html"/>
+        <updated>2025-08-11T06:31:00.004Z</updated>
+        <summary type="html"><![CDATA[好好運用李宏毅老師非常豐富的 YouTube 網路課，按部就班建立人工智慧、機器學習、生成式人工智慧的基礎：
+
+
+
+機器學習(2021)
+
+
+預測本頻道觀看人數 (上) - 機器學習基本概念簡介
+預測本頻道觀看人數 (下) - 深度學習基本概念簡介
+機器學習任務攻略
+類神經網路訓練不起來怎麼辦 (一)：局部最小值 (local minima) 與鞍點 (saddle point)
+類神經網路訓練不起來怎麼辦 (二)：批次 (batch) 與動量 (momentum)
+類神經網路訓練不起來怎麼辦 (三)：自動調整學習速率 (Learning Rate)
+類神經網路訓練不起來怎麼辦 (四)：損失函數 (Loss) 也可能有影響
+類神經網路訓練不起來怎麼辦 (五)：批次標準化 (Batch Normalization) 簡介
+卷積神經網路 (Convolutional Neural Networks, CNN)
+自注意力機制 (Self-attention) (上)
+自注意力機制 (Self-attention) (下)
+Transformer (上)
+Transformer (下) ← 至少看到這裡
+生成式對抗網路 (Generative Adversarial Network, GAN) (一) – 基本概念介紹
+生成式對抗網路 (Generative Adversarial Network, GAN) (二) – 理論介紹與WGAN
+生成式對抗網路 (Generative Adversarial Network, GAN) (三) – 生成器效能評估與條件式生成
+生成式對抗網路 (Generative Adversarial Network, GAN) (四) – Cycle GAN
+自督導式學習 (Self-supervised Learning) (一) – 芝麻街與進…]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[行動網路無法連線？三星手機簡易解決方案 / Mobile Network Not Connecting? Easy Solutions for Samsung Phones]]></title>
+        <id>http://blog.pulipuli.info/2025/08/mobile-network-not-connecting-easy-solutions-for-samsung-phones.html</id>
+        <link href="http://blog.pulipuli.info/2025/08/mobile-network-not-connecting-easy-solutions-for-samsung-phones.html"/>
+        <updated>2025-08-11T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[如果手機無法連上4G或5G網路，除了重開機或短暫切換成飛航模式之外，還可以將SIM卡的網路模式暫時切換，讓4G或5G網路斷線後重連，這樣就可以讓行動網路重新運作了。
+If your phone can't connect to a 4G or 5G network, besides restarting your phone or briefly switching to airplane mode, you can also temporarily switch the network mode of your SIM card to disconnect and reconnect to the 4G or 5G network. This can get your mobile network working again.
+
+
+問題說明 / Issue
+
+    
+  
+我使用的手機是Samsung XCover6 Pro，作業系統是Android 14、One UI 6.1。今天出門的時候赫然發現手機沒辦法使用行動網路了。確認了合約依然生效、通訊商的行動網路也正常之後，打電話向客服求救。
+客服耐心地指示我怎麼處理問題，而這的確也很有幫助，因此我也在這裡把做法整個敘述一次。
+解決方法 / Solution
+
+    
+  
+首先進入手機的「設定」，然後進入「連接」。
+
+    
+  
+進入到「行動網路」。
+
+    
+  
+找到無法連線到行動網路的SIM卡，例如我的是SIM1。點選它的「網路模式」。
+
+    
+  
+原本我是用4G連線，現在要先改成沒有4G的模式，也就是「3G/2G(自動連線)」。
+
+    
+  
+就這樣稍待片刻，大概5秒鐘。
+
+
+再用同樣的方法切回到有4G的網路模式。
+
+    
+  
+行動網路終於可以恢復正常連線了。
+其他解決方案 / Other Solutions
+
+    
+  
+https://www.storm.mg/lifestyle/5302590
+如果你無法使用這個方法來解決問題，網路上的「為何手機有訊號卻無法上網？一文教你5種方法解決」跟「手機有訊號沒網路 iPhone 難題超快解決！」還有建議其他的做法：
+重新開機。
+開啟飛航模式，讓行動網路暫時中斷，然後再關閉飛航模式恢復連線。
+關閉行動網路，讓行動網路暫時中斷，然後再開啟行動網路恢復連線。
+iPhone可以使用「重置網路設定」，請看「如果 iPhone 或 iPad 無法連線到 Wi-Fi 網路」的「7. 重置網路設定」。
+最後就是去詢問電信供應商的客戶服務了。
+中華電信：0800-080-123(中華市話、行動直撥123)
+遠端FET：0800-058-885 (免費)、遠傳手機直撥 888 (免費)
+台灣大哥大：0809-000-852
+希望這些做法對大家有所幫助。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[實作相容OpenAI API，但背後不是OpenAI的API服務 / Implementing OpenAI API-Compatible Services, But Not Powered by OpenAI]]></title>
+        <id>http://blog.pulipuli.info/2025/08/implementing-openai-api-compatible-services-but-not-powered-by-openai.html</id>
+        <link href="http://blog.pulipuli.info/2025/08/implementing-openai-api-compatible-services-but-not-powered-by-openai.html"/>
+        <updated>2025-08-04T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[我們上次談到了不是背後說用到OpenAI模型的API不見得能相容OpenAI API，那我們這次就來做個能夠相容於OpenAI API的服務，但只會回答「喵」的「喵型語言模型」。
+Last time we talked about how not all APIs that claim to use OpenAI models are necessarily compatible with the OpenAI API. This time, let's create a service compatible with the OpenAI API, but it only responds with "Meow." We'll call it the "Meow Language Model."
+
+
+系統架構 / System Architecture
+
+    
+  
+整個架構會由五個元件所組成：
+Python程式碼：不管你傳送什麼資訊，它只會回「喵」。
+Dify：AI應用程式框架的Dify裡面，可以用Code節點讓我們執行這段Python程式碼，然後把它包裝成Chatflow API。
+dify2openai：fatwang2開發的dify2openai將Dify的API模擬成OpenAI API格式。
+Cloudflare Tunnel：將運作在本地的API服務連接到Cloudflare提供的臨時網址上。
+FastGPT：使用自製的OpenAI API。
+程式碼 / Source Code
+
+    
+  
+https://github.com/pulipulichen/practice-Dify-OpenAI-API-2025.git 
+
+相關程式碼放在「practice-Dify-OpenAI-API-2025」保存庫裡面。這些程式碼是以Linux作業系統為主要…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D Gaussian Splatting]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/08/3d-gaussian-splatting.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/08/3d-gaussian-splatting.html"/>
+        <updated>2025-08-03T12:02:00.003Z</updated>
+        <summary type="html"><![CDATA[3D Gaussian Splatting (3DGS) 是 CG 界近年熱門新技術之一。
+Toolkits:
+
+
+Postshot (Windows only)
+KIRI Engine (Web, iOS, Android)
+3DGS Render for Blender, by KIRI Engine.
+Polycam (Web, iOS, Android)
+mesh2splat 
+
+---
+參考資料：
+
+
+相關資源
+
+Github/MrNeRF/awesome-3d-gaussian-splatting
+
+原論文
+
+Github.com/graphdeco-inria/gaussian-splatting
+
+相關論文
+
+Github/Awesome3DGS/3D-Gaussian-Splatting-Papers]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：生活小技巧之用魔鬼氈避免機車鑰匙脫落吧 / Talk: Use Velcro to Prevent Your Motorcycle Key From Falling Off]]></title>
+        <id>http://blog.pulipuli.info/2025/08/talk-use-velcro-to-prevent-your-motorcycle-key-from-falling-off.html</id>
+        <link href="http://blog.pulipuli.info/2025/08/talk-use-velcro-to-prevent-your-motorcycle-key-from-falling-off.html"/>
+        <updated>2025-08-01T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[這幾天騎機車騎到鑰匙居然整個掉出來了，這該怎麼辦好呢？
+
+
+鑰匙孔鬆動的問題 / Loose Keyhole Problem
+
+    
+  
+摩托車使用一段時間之後，似乎就很容易遇到鑰匙孔鬆動的問題。原本機車鑰匙在轉到可以發動的位置後，鑰匙應該會卡住、不能拔出。不過現在我的機車鑰匙孔，即使是轉動到可以發動的位置、並且在啟動中，鑰匙還是可以拿出來。
+我本來想說，鑰匙雖然可以拔出來，但放著不動鑰匙也還是會插在裡面，應該沒差吧。結果上次騎車的時候我膝蓋碰到鑰匙，它就這樣掉了下來。嚇得我趕緊停到路邊，把鑰匙收好。
+可能原因 / Possible Causes
+
+
+https://www.mobile01.com/topicdetail.php?f=266&t=2376250&p=9#31045150
+有這樣問題的網友並不在少數。根據「[問題] 機車行進中鑰匙可以拔出」這篇的討論，造成機車鑰匙鎖頭鬆動、無法固定鑰匙這個結果的原因，不外乎以下幾點：
+鑰匙過重：大多數的人都擁有多把鑰匙，而機車孔上插著鑰匙時掛著一大串其他物品，會讓鎖頭的彈簧承擔過重的負荷，最後導致無法固定。
+路面不平：騎車的路徑不斷上上下下的晃動，也會使得鑰匙持續甩動，最後讓鎖頭變鬆。
+解決的方法 / Solution Method
+解決鎖頭鬆動這個問題的做法大致上分成三種：更換鎖頭、更換鑰匙、取出、防掉落。
+
+    
+  
+https://www.youtube.com/watch?v=vE3v_pNJV_Y 
+
+第一種更換鎖頭做法可能是根絕問題的主要方法。不過更換鎖頭的安裝和維修並不容易，建議是到機車行處理，一般人應該比較難自行更換。
+ 
+
+https://disp.cc/b/Motorcycle/dQYF 
+
+費用的部分，網友Dcpp2015提到可能超過1000左右。但每臺機車可用的零件價格應該不太一樣。
+
+ …]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AdGuard Home不只是拿來擋廣告 / AdGuard Home Is More Than Just an Ad Blocker]]></title>
+        <id>http://blog.pulipuli.info/2025/07/adguard-home-is-more-than-just-an-ad-blocker.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/adguard-home-is-more-than-just-an-ad-blocker.html"/>
+        <updated>2025-07-28T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[自從裝起了AdGuard Home來擔任我住處的DNS伺服器之後，我用它擋掉了很多奇怪的廣告。除此之外，它還能拿來自訂Domain Name，真的是太實用了！
+Since I set up AdGuard Home as the DNS server for my place, it has blocked a lot of weird ads. Besides that, it can also be used for custom domain names, which is really practical!
+
+
+AdGuard Home
+
+    
+  
+https://adguard.com/zh_tw/adguard-home/overview.html 
+
+AdGuard Home 是一款免費開源的全網路廣告和追蹤器阻擋軟體（Network-wide ad and tracker blocking software）。它作為一個 DNS 伺服器（DNS Server）運作，將追蹤網域重新導向至一個「黑洞」（Black hole），進而防止你的裝置連線到這些帶有廣告或危險的伺服器。
+AdGuard Home 不僅可以阻擋網頁和應用程式中的廣告及追蹤器，還能保護你的隱私和資料，進而加快網頁載入速度。它支援 DNSSEC（域名系統安全擴充, Domain Name System Security Extensions），提供可自訂的過濾清單和家長控制功能。你可以透過網頁介面或手機應用程式輕鬆管理過濾程序。此外，AdGuard Home 也提供 Docker（軟體容器化平台）安裝方式，方便在不同平台上部署。
+AdGuard Home的安裝與設定 / Installing and Configuring AdGuard Home
+
+    
+  
+https://adg…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：在實體機器裡面架設虛擬機器的虛擬機器失敗 / TALK: Virtual Machine Failure Within Nested Virtualization on a Physical Machine]]></title>
+        <id>http://blog.pulipuli.info/2025/07/talk-virtual-machine-failure-within-nested-virtualization-on-a-physical-machine.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/talk-virtual-machine-failure-within-nested-virtualization-on-a-physical-machine.html"/>
+        <updated>2025-07-25T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[沒想到Proxmox VE裡面的Windows無法啟動WSL2的原因，可能是因為Proxmox VE宿主機的CPU是AMD。
+
+
+Windows中的虛擬機器 / Virtual Machines in Windows
+
+    
+  
+為了測試Docker Desktop在Windows環境下的運作，我用Proxmox VE架設了Windows 11 Pro N作業系統，然後安裝Docker Desktop來使用。Docker Desktop需要使用Windows的WSL (Windows Subsystem for Linux)來執行Docker容器，通常安裝完Docker Desktop後，軟體會再要求Windows配置好WSL。
+
+    
+  
+然而，當我嘗試使用「wsl --install」來安裝Ubuntu時，卻收到了以下錯誤訊息：
+PS C:\Users\user> wsl --install
+Downloading: Ubuntu
+Installing: Ubuntu
+WSL2 is not supported with your current machine configuration.
+Please enable the "Virtual Machine Platform" optional component and ensure virtualization is enabled in the BIOS.
+Enable "Virtual Machine Platform" by running: wsl.exe --install --no-distribution
+For information please visit https://aka.ms/enablevirtualization
+Error code: Wsl/InstallDistro/Service/RegisterDistro/CreateVm/HCS/HCS_E_HYPERV_NOT_INSTALLED
+幾經調查後，似乎是因為虛擬機器本身沒有啟動硬體虛擬化功能的緣故。那接下來就要離開Windows虛擬機器，從宿主機(host)來看看可能的原因了。
+Proxmox VE環境 / Proxmox VE Environment
+
+    
+  
+宿主機使用的CPU是AMD Ryzen 9 7940HS。就跟現代的CPU一樣，基本上都支援硬體虛擬化的功能。
+
+    
+根據Proxmox VE在Enable Nested Hardware-assisted Virtualization裡面的說明，虛擬化的參數已經開啟。但因為我使用的是AMD的CPU，跟PVE說明中的Intel有點不一樣。
+設定CPU / CPU Settings
+
+    
+  
+說明中也提到應該讓客機的CPU使用宿主機的CPU，設定為host即可。但結果依然是無法成功。
+
+  
+我嘗試了網路上提到的幾種設定，不過還是無法在客機Windows裡面啟用WSL。
+
+  
+有許多建議跟教學，不過看起來大家使用的CPU都是Intel系列。而Proxmox VE在CPU設定裡面也有hv-evmcs可供設定，這個設定似乎可以加強客機巢狀虛擬化的功能，但只能在Intel CPU裡面使用。
+小結 / In Closing
+幾經研究之後，感覺似乎是AMD的CPU無法啟用巢狀虛擬化，抑或是Windows的WSL還有其他要求，可能還有我沒察覺到的細節？
+總之這次嘗試算是失敗了。這篇就把過程記錄一下，看看未來有沒有辦法克服吧。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Home Assistant的localTuya設定裝置的實體？ / How to Set Up Device Entities in LocalTuya on Home Assistant?]]></title>
+        <id>http://blog.pulipuli.info/2025/07/how-to-set-up-device-entities-in-localtuya-on-home-assistant.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/how-to-set-up-device-entities-in-localtuya-on-home-assistant.html"/>
+        <updated>2025-07-21T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[要在Home Assistant裡面使用localTuya，我們除了要取得裝置的local key之外，還需要自行設定裝置的實體在Home Assistant的控制方式。以下我們就用威技除溼機WDH-11FS為例子，來看看怎麽將UVC模式設定到Home Assistant上。
+To use localTuya in Home Assistant, besides obtaining the device's local key, we also need to configure how the physical device is controlled within Home Assistant.  Below, we'll use the NWT WDH-11FS dehumidifier as an example to demonstrate how to set up the UVC mode in Home Assistant.
+
+
+前置作業 / Preliminary Work
+這篇的操作我主要想講Entity的設定，不過我們還是有必要提一下在這之前的操作。
+
+    
+  
+首先，我們必須確保你的Home Assistant有正確安裝localTyua，也就是LocalTuya integration。localTuya的保存庫有寫到如何安裝，最簡單的做法是用HACS。手動安裝的教學可以參考「LocalTuya Home Assistant 使用教程」這篇的做法。安裝完成後，啟動Home Assistant，在整合裡面就可以找到LocalTuya integration。
+
+    
+  
+https://www.youtube.com/watch?v=Q1ZShFJDvE0 
+
+下一步是要取得裝置的local key。這個步驟需要先讓裝置連上手機的Tuya…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：也許NAS作為NAS就好 / TALK: Perhaps a NAS Should Just Be a NAS]]></title>
+        <id>http://blog.pulipuli.info/2025/07/talk-perhaps-a-nas-should-just-be-a-nas.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/talk-perhaps-a-nas-should-just-be-a-nas.html"/>
+        <updated>2025-07-18T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[近期在更換QNAP NAS硬碟的時候，不禁思考起我對NAS看法的轉變。
+
+
+硬碟健康度出現問題 / Hard Drive Health Issues
+
+    
+  
+事情是來自於我注意到NAS硬碟健康度出現警告的時候開始。
+之前在工作時也碰過不少NAS，不過當時並沒有做好監控機制，幾乎都是等到整個NAS都不能正常運作的時候，我們才會注意到NAS硬碟出問題了。當然，這並不是什麼很好的做法。
+
+    
+  
+我在個人使用的NAS選擇的是QNAP的小主機。這臺QNAP NAS上的硬碟配置很簡單，連RAID都沒有設。它內建的硬碟插槽只有兩個，與其硬是拿來組RAID，我的做法是將這兩顆硬碟當作各別的兩個儲存池來處理。
+
+    
+  
+這次是我在登入NAS的時候注意到系統發出了硬碟健康度的警告。這個警告是來自於S. M. A. R. T. 機制，它指出這可硬碟在「Current_Pending_Sector」跟「Uncorrectable_Sector_Count」上面出現了問題。前者可能可以透過硬碟區塊修復來解決，但無法修復的區塊就會加入到「Uncorrectable_Sector_Count」，而這就是硬碟即將嚴重毀損的跡象。
+
+  
+https://forum.qnap.com/viewtopic.php?t=167523#top 
+
+簡單來說就是——該換硬碟了。
+
+    
+  
+QNAP的Notication Center能將硬體發出的警告用Email傳送通知。不過我之前設定的Gmail授權不知不覺過期了，難怪通知也沒在正常運作。現在可得要多多注意通知了。
+硬碟空間與NAS的使用 / Hard Drive Space and NAS Use
+
+    
+  
+既然已經決定要把硬碟替換了，那我要做的事情，就是把快壞掉的硬碟上的資料移動到其他地方去。我買了一顆8T的硬碟，用…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Home Assistant使用紅外線遙控器Moes UFO-R11 / Using Infrared Remote Control Moes UFO-R11 in Home Assistant]]></title>
+        <id>http://blog.pulipuli.info/2025/07/using-infrared-remote-control-moes-ufo-r-in-home-assistant.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/using-infrared-remote-control-moes-ufo-r-in-home-assistant.html"/>
+        <updated>2025-07-14T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[紅外線遙控器Moes UFO-R11可以透過Zigbee2MQTT跟Home Assistant整合在一起，讓我們能夠在Home Assistant裡面直接控制冷氣、電風扇等紅外線遙控的裝置。但是UFO-R11的設定可是出乎意料之外的複雜，讓我們用這篇來記錄一下做法吧。
+The Moes UFO-R11 infrared remote control can be integrated with Home Assistant via Zigbee2MQTT, allowing us to directly control infrared-controlled devices like air conditioners and fans within Home Assistant. However, setting up the UFO-R11 is unexpectedly complex. Let's use this post to document the process.
+
+
+Home Assistant與Zigbee2MQTT的關係 / The relationship between Home Assistant and Zigbee2MQTT
+
+    
+  
+Home Assistant (HA) 是一款開源的居家自動化平台，它內建了多種連結方式，能夠與各種智慧裝置連接。舉例來說，我們可以透過WIFI連接Tuya或Broadlink的設備，或是透過藍芽連線到SwitchBot的手指機器人。那如果我們要連上Zigbee設備的話，一般來說我們都會透過Zigbee2MQTT來居中協調。
+
+    
+  
+Zigbee2MQTT，簡稱z2m，是一個將 Zigbee 裝置橋接到 MQTT 的橋接器，然後z2m會將各式各樣的 Zigbee 裝置整合到 Home Ass…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：MacBook好像不是只有一種 / TALK: MacBook Seems Not to Be the Only One]]></title>
+        <id>http://blog.pulipuli.info/2025/07/talk-macbook-seems-not-to-be-the-only-one.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/talk-macbook-seems-not-to-be-the-only-one.html"/>
+        <updated>2025-07-11T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[最近拿到了一台別人不要的MacBook Air，這是2015年出產的版本。但沒想到MacBook Air的種類比我想像中的還要複雜許多。這個種類不只是指筆電的型號，還有它的週邊們。
+
+
+2015年的MacBook Air / 2015 MacBook Air
+
+    
+  
+拿到MacBook Air的第一件令我困擾的事情是：我沒有充電的裝置。它似乎是因為沒有電的關係，連開機都無法啟動。
+
+    
+  
+https://support.apple.com/zh-tw/109509 
+印象中，MacBook系列的充電器可都不便宜。而且這臺並不像是如今的MacBook已經採用了USB Type-C接頭來充電，而是使用著早期的磁吸充電的形式。
+我朋友聽了我的苦惱，拍拍胸脯跟我說：「沒問題，我家有之前MacBook Pro的充電線，借你。」過幾天我興高采烈地拿著朋友借我的接頭，然後我才意識到，原來MacBook的磁吸接頭有不同的規格。
+
+  
+https://support.apple.com/zh-tw/109509
+首先，這是2012年到2017年的MacBook Air充電線，規格是MagSafe 2。
+
+  
+https://support.apple.com/zh-tw/109509
+而這個是2011年以前MacBook Air使用的L型連接器充電線。
+
+    
+  
+https://support.apple.com/zh-tw/109509
+然後這是2006年到2009年MacBook Pro 15"跟17"使用的附「T」型連接器...等等，這跟前面的MagSafe 2看起來有什麼不同？難道只是一個是銀色跟白色的差異嗎？
+當然不是，雖然照片上看不出來，但實際上兩者的規格並不相同，連插都插不進去。
+
+  
+後來我決定直接去買一個USB Type-C轉到MacBoo…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Docker的Nextcloud用腳本新增外部網頁連結 / Adding External Site Links Using Scripts in Nextcloud on Docker]]></title>
+        <id>http://blog.pulipuli.info/2025/07/adding-external-site-links-using-scripts-in-nextcloud-on-docker.html</id>
+        <link href="http://blog.pulipuli.info/2025/07/adding-external-site-links-using-scripts-in-nextcloud-on-docker.html"/>
+        <updated>2025-07-07T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[客製化Nextcloud的下一步，我們能不能將外部網頁嵌入到Nextcloud的應用程式裡面呢？答案是使用外部網頁(External sites)擴充功能。我們可以進一步在Docker的Hook Folders中的post-installation資料夾中加入腳本，讓Nextcloud安裝完成後，自動開啟外部網頁擴充功能，並且將指定的網址加入到Nextcloud系統中。
+The next step in customizing Nextcloud: can we embed external web pages into Nextcloud applications?  The answer is yes, using the External sites app.  We can further automate this process by adding a script to the post-installation folder within the Docker Hook Folders. This script will enable the External sites app and add specific URLs to the Nextcloud system after Nextcloud installation is complete.
+
+
+Nextcloud的外部網站應用程式 / External Sites in Nextcloud
+
+    
+  
+https://apps.nextcloud.com/apps/external 
+
+Nextcloud 的外部網站應用程式（External Sites App）是一個簡潔卻功能強大的工具，讓管理者可以輕鬆地將外部網站連結整合到 Nextcloud 的網路介面中。使用者只需點擊對應的圖示，…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：3M牙線停售了 / TALK: 3M Dental Floss Discontinued]]></title>
+        <id>http://blog.pulipuli.info/2025/04/talk-m-dental-floss-discontinued.html</id>
+        <link href="http://blog.pulipuli.info/2025/04/talk-m-dental-floss-discontinued.html"/>
+        <updated>2025-07-04T04:00:00.001Z</updated>
+        <summary type="html"><![CDATA[之前我很常用的3M牙線，最近想要補充庫存的時候，我才發現它因為生產過程造成PFAS而停售了。
+
+
+3M細滑微孔結牙線 / 3M Stylish Dispenser
+
+    
+  
+https://disp.cc/ptt/Gossiping/1ckCCX6y
+之前我用3M的牙線已經用了好一陣子。這是我用過的牙線中，少數不會分叉，而且清理效率也神奇地比其他牙線高的好用牙線。
+
+    
+  
+但是最近要購買補充庫存品的時候，發現到處都已經停產，再也買不到了。
+3M停售PFAS產品 / 3M to Halt Production of PFAS Products
+
+    
+  
+https://disp.cc/ptt/Gossiping/1ckCCX6y 
+
+根據yoshika的說法，3M因為生產PFAS造成環境汙染，因此停售了各種PFAS產品，而這款牙線也因此再也不生產。
+
+    
+  
+https://topic.moenv.gov.tw/pops/cp-104-10935-53d66-2.html 
+
+PFAS是一種永久性的化學物質，它廣泛應用在各種商品上，但它因為需要很長的時間才能被分解，容易擴散到土壤、水質並影響生物，並不符合現在環保法規的要求。因此現在全球逐漸降低PFAS的使用。
+
+    
+  
+https://youtu.be/9dE2hcUi7cU 
+
+YouTuber阿淇博士 Dr. Achi在頻道裡常常宣導儘量避免使用PFAS的產品，沒想到我自己使用的牙線竟然也有PFAS，真的是無所不在。
+
+    
+https://lennychen.com/%E4%BD%A0%E6%88%96%E4%BD%A0%E5%AD%A9%E5%AD%90%E7%94%A8%E7%9A%84%E7%89%99%E7%B7%9A%E6%98%AF-ptfe-%E5%81%9A…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nextcloud客製化網頁：插入外部JavaScript腳本 / Nextcloud Customized Webpage: Inserting External JavaScript Scripts]]></title>
+        <id>http://blog.pulipuli.info/2025/06/nextcloud-customized-webpage-inserting-external-javascript-scripts.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/nextcloud-customized-webpage-inserting-external-javascript-scripts.html"/>
+        <updated>2025-06-30T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[要大幅度修改Nextcloud的網頁的話，建立主題(theme)可能是最常見的建議。但如果我們是要在Nextcloud的網頁裡面插入外部JavaScript腳本的話，這手續可就麻煩得多了。讓我們應用調整Docker的Nextcloud的技巧，在Nextcloud安裝完後，自動佈署修改後的程式碼吧。
+If you want to drastically modify the Nextcloud web interface, creating a theme is probably the most common suggestion. However, if you want to insert external JavaScript scripts into the Nextcloud web pages, the procedure becomes much more complicated. Let's apply the techniques of customizing a Dockerized Nextcloud instance to automatically deploy modified code after Nextcloud is installed.
+
+
+Nextcloud程式碼的位置 / Location of Nextcloud Code
+
+    
+  
+https://hub.docker.com/_/nextcloud/ 
+
+在Nextcloud的Docker版本裡面，Nextcloud的程式碼被擺在「 /var/www/html  」裡面。而影響Nextcloud顯示外觀的程式碼則擺在更深一層的「 /var/www/html/core/templates/ 」裡面。
+
+    
+  
+https://www.schillmania.com…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：修正「布丁布丁吃什麼？」部分功能 / TALK: “Pulipuli’s Blog” Feature Improvements]]></title>
+        <id>http://blog.pulipuli.info/2025/06/talk-pulipulis-blog-feature-improvements.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/talk-pulipulis-blog-feature-improvements.html"/>
+        <updated>2025-06-27T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[每隔一段時間就把累積的問題逐步修正，這次要來修正的是下載跟目錄的問題。
+
+
+下載文章 / Article Download
+
+    
+  
+如果登入帳號是「布丁布丁吃什麼？」的管理者的話，文章的開頭會顯示相關的管理功能，包括編輯、複製HTML程式碼、下載、文章內容的統計功能等等。
+
+    
+  
+其中下載功能是讓整份文章變成單純的HTML跟完整圖片所壓縮而成的壓縮檔案。壓縮檔裡面的HTML檔案只保留了部落格文章的內文跟圖片連結，不包含「布丁布丁吃什麼？」的其他元素。
+
+    
+  
+這不僅僅只是用於備份文章時可以節省一些空間，更重要的是，我可以將壓縮檔匯入到Blogger Editor裡面，方便編輯文章的內容。
+原本功能的問題是備份文章的時候圖片檔案名稱過長、圖片檔案未加上圖片相關的副檔名、備份抓取的文章內容包含了不相干的元素等等，現在總算修正這些問題了。
+文章目次 / Table of Contents
+
+    
+  
+「布丁布丁吃什麼？」文章的目次是由程式碼分析文章內容動態產生，但這個做法造成了許多問題。之前就有講過目次的錨點造成CSS文章排版錯誤，這次的問題是文章目次快取帶來的錯誤。
+為了避免每次都要重新產生目次，瀏覽器只要產生過該文章的目次後，就會把它保存到localStorage作為快取。下次開啟文章的時候就會直接用快取的程式碼來顯示目次。
+但如果該文章原本就沒有目次的話，這個做法會造成文章排版的錯誤。這個問題會發生在有些沒有標題的文章裡面，並造成文章的水平線消失。
+現在已經修正這個問題了。
+小結 / In Closing
+
+    
+  
+是說現在Google搜尋引擎的排序好像逐漸把社群媒體的重要性提高了。在Google上搜尋我自己的文章時，大多時候出現的都是發佈在Facebook或Instagram的連結。社群媒體上的內容其實都是部落格的引流工具而已，怎麽喧賓奪主了呢？
+我也不確定這個問題該怎麽處理好，這也可能代表著部落格的沒落吧，真是無奈啊。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[讓Docker架設的Nextcloud預設關閉或開啟應用程式 / Enabling or Disabling Apps by Default in a Dockerized Nextcloud Instance]]></title>
+        <id>http://blog.pulipuli.info/2025/06/enabling-or-disabling-apps-by-default-in-a-dockerized-nextcloud-instance.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/enabling-or-disabling-apps-by-default-in-a-dockerized-nextcloud-instance.html"/>
+        <updated>2025-06-23T04:00:00.005Z</updated>
+        <summary type="html"><![CDATA[既然談到用Docker架設Nextcloud，那我們就要活用Docker的架構，讓Nextcloud不僅僅是「開箱可用」，而且還是「自訂後」的可用。我們可以客製化的指令放在「/docker-entrypoint-hooks.d/post-installation」資料夾內，這樣就可以讓Nextcloud初次安裝完成後，自動進行我們要的設定。
+Since we're talking about setting up Nextcloud with Docker, let's leverage Docker's architecture to make Nextcloud not just "usable out-of-the-box," but usable after customization. We can place custom commands in the /docker-entrypoint-hooks.d/post-installation directory, allowing Nextcloud to automatically perform our desired configurations after the initial installation completes.
+
+
+Docker Nextcloud的自動配置 / Automated Configuration in Docker Nextcloud
+
+    
+  
+https://hub.docker.com/_/nextcloud
+在Nextcloud的Docker映像檔裡，有提到Nextcloud提供了五個自動配置的鉤子資料夾(hook folders)。只要我們將可以執行的腳本(.sh)放在資料夾內，Nextcloud就會在佈署過程中的特定階段嘗試去執行這些腳本。
+這些資料夾各別…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：有電梯與沒有電梯的大樓 / Talk: Buildings With and Without Elevators]]></title>
+        <id>http://blog.pulipuli.info/2025/03/talk-buildings-with-and-without-elevators.html</id>
+        <link href="http://blog.pulipuli.info/2025/03/talk-buildings-with-and-without-elevators.html"/>
+        <updated>2025-06-20T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[到底是走很近就能抵達，但沒有電梯的大樓好；還是必須走到山上，但是有電梯的大樓好呢？
+
+
+很近的大樓 / The Building, But Very Close
+
+    
+  
+我之前工作的兩個地方都在山上，但兩個工作場所截然不同。
+
+我之前工作的地方有著微妙的好處和壞處。壞處是樓梯間貼著募款蓋電梯的海報，從我看到它出現在牆壁上到現在，電梯還是沒有蓋出來。但它的好處也十分明顯：近。如果能順利找到機車的車位，那大概走路3分鐘就能夠抵達大樓樓下。連帶的好處就是附近各種吃飯的地方都很方便，全部都是下個樓、走一下就可以輕鬆抵達的距離。不過……回來時還是要爬樓梯。
+有電梯的大樓 / Building, But With an Elevator
+
+
+而我更之前工作的另一個地方是真的「在山上」。這個山的程度是，大概有一半的學生不會認知到把位置其實還是在校園的範圍內，而且早期的Google Map還真的把它畫出到校園外的程度。即使騎車停在停車場，要抵達工作場所的時候還是需要走很遠的路，而大部分的人會選擇搭公車。至於抵達之後，工作場所為了無障礙設置了電梯，能夠一口氣坐到頂樓去上班。是說當電梯蓋好的時候，它還蠻常壞的。但在不知不覺間它好像終於修好了，之後就很少看到它當機的樣子，真是可喜可賀。
+嗯？你說開車的話，就不用走這麼遠了啊。嗯……首先，要有車……
+
+    
+  
+儘管如此，我其實還是蠻喜歡走上山的感覺。離開的時候在橋上看到了耶穌光，好美。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[將 macOS 變成完美開發者電腦(2025)]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/06/macos-2025.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/06/macos-2025.html"/>
+        <updated>2025-06-17T22:02:00.003Z</updated>
+        <summary type="html"><![CDATA[以下整理是參考自 Promise Chukwuenyem 根據自身經驗所寫的 MacOS: Building the Perfect Development Machine in 2025 — How I Transformed My MacBook Into a Development Powerhouse，文中提供了很棒的一條龍流程。
+
+
+基本工具：安裝 Xcode 命令列工具和 Homebrew 套件管理環境(*)。
+現代化終端機(Terminal)工作環境：可選擇安裝 iTerm 和 Warp，但系統內建 Terminal 其實已經夠用。安裝好用的命令列指令(*)，然後設定 zsh 並用 Oh-My-Zsh 換上新外觀。
+建構夢幻開發環境：設置編輯器(*)、Docker 容器、套件版本管理、群組溝通工具、資料庫設置、遠端遙控工具 RustDesk(*)、剪貼簿功能補完(Clipy)。
+*) 附註：
+
+關於 Homebrew：安裝 Homebrew 後需先設定 .zshrc 和 .zprofile 環境變數，再執行 brew doctor 確認是否 OK。
+我並非專業開發者，額外的命令列指令就只裝 ripgrep 和 starship。ripgrep 速度真的超快、太快了。
+Oh-My-Zsh 若需要重新設定提示詞樣式，再執行一次 p10k configure 即可。Oh-My-Zsh 的外掛超多，我只根據自己常用習慣裝了 1password, bbedit, zsh-syntax-highlighting, zsh-autosuggestions，否則 alias 會爆炸多。
+關於程式編輯器，VS Code 仍是最多人使用，但因為外掛疊床架屋影響效能，有些開發者開始移轉陣地，轉往 Zed。
+提到容器管理，Kubernetes 是用於自動部署、擴充和管理「容器化應用程式」的開源系統，但因為太過複雜、維護時間成本太高，逐漸有公司傾向改用其他平台。
+RustDesk 可以視為替代 TeamViewer 的開源版軟體，但 TeamViewer 介面還是比較直覺。不過 RustDesk 程式碼有一些讓資安公司敏感的元件（例如採用中國憑證來製作驅動程式），也因為開源可以自行修改軟體，有不肖人士利用它來進行詐騙，也讓這個好工具背上不白之冤。我還是裝 TeamViewer，畢竟用習慣了。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology Archive for DSM & Packages]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/06/synology-archive-for-dsm-packages.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/06/synology-archive-for-dsm-packages.html"/>
+        <updated>2025-06-16T05:03:00.003Z</updated>
+        <summary type="html"><![CDATA[舊版 DSM 系統和套件安裝檔可以在這邊找到，尤其是 NAS 無法對外連線的狀況，例如位於隔離的內網。至於套件跟 DSM 版本相容性，就要仔細讀一下 Release Notes 了。在隔離的內網的最大問題是 NTP 無法對時，系統時間跑掉會影響很多東西。
+研究室的老 DS1513+ 最高只能撐到 DSM 7.1.1-42962 Update 8，主要套件版本：
+
+Cloud Sync 2.7.0-2360
+Replication Service 1.2.2-0353
+Synology Drive 3.2.1-23280]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用Docker建構開箱可用的Nextcloud  / Deploying a Ready-to-Use Nextcloud Instance with Docker]]></title>
+        <id>http://blog.pulipuli.info/2025/06/deploying-a-readytouse-nextcloud-instance-with-docker.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/deploying-a-readytouse-nextcloud-instance-with-docker.html"/>
+        <updated>2025-06-16T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[Nextcloud是一個相當受歡迎的自架雲端硬碟應用程式。過往我都是用LXC的容器形式架設，這次我們要用Docker技術架設Nextcloud。要架設一個開箱可以用的Nextcloud其實還是有點複雜，我把相關參數整理成docker-compose.yml，希望對有需要的人有所幫助。
+Nextcloud is a popular self-hosted cloud storage application. Previously, I used LXC containers for setup, but this time we'll use Docker. Setting up a ready-to-use Nextcloud instance can be somewhat complex. I've organized the relevant parameters into a docker-compose.yml file, hoping it will be helpful for those in need.
+
+
+Nextcloud
+
+    
+  
+https://nextcloud.com/ 
+
+Nextcloud 是一款開放原始碼的自架雲端儲存服務軟體，讓使用者可以在自己的伺服器上建立類似 Dropbox、Google Drive 或 iCloud 的功能。它提供檔案同步與分享、線上辦公室套件 (Office Suite)、聯絡人與行事曆管理、以及更多豐富的應用程式 (Apps)。透過 Nextcloud，您可以掌控自己的資料，不用擔心隱私外洩，同時享有高度客製化的彈性，打造專屬的雲端空間。
+
+    
+  
+Nextcloud 的介面設計簡潔直覺，容易上手。您可以透過網頁瀏覽器、桌面用戶端 (Desktop Client) 或行動應用程式 (Mobile…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[通过 Wi-Fi 自动备份你的 iPhone 到 Nas]]></title>
         <id>https://razeen.me/posts/easy-ways-backup-iphone-over-wifi/</id>
         <link href="https://razeen.me/posts/easy-ways-backup-iphone-over-wifi/"/>
@@ -4000,6 +5115,124 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[基于 libimobiledevice 开源项目，实现 iPhone 通过 Wi-Fi 自动备份到 NAS 等 Linux 服务器的完整教程。支持定时备份、电量控制、充电时备份等功能，告别手动备份的繁琐操作。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：燈泡不時熄滅，好像還是燈泡的問題 / TALK: The Lightbulb Keeps Going Out; It Seems to Still Be a Problem With the Bulb]]></title>
+        <id>http://blog.pulipuli.info/2025/06/talk-the-lightbulb-keeps-going-out-it-seems-to-still-be-a-problem-with-the-bulb.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/talk-the-lightbulb-keeps-going-out-it-seems-to-still-be-a-problem-with-the-bulb.html"/>
+        <updated>2025-06-13T04:00:00.006Z</updated>
+        <summary type="html"><![CDATA[一直搞不懂為什麼燈泡會時常熄滅的我，在調整了很多次熄滅的燈泡後，我忽然意識到這可能還是燈泡的問題，但是卻不是燈泡本身能不能正常運作的問題。
+
+
+現在使用的大燈泡 / The Light Bulbs in Use
+
+    
+  
+目前住處使用的燈泡是TVV LED 16W白光，是一個很大的燈泡。
+
+    
+  
+以燈座的大小來看，這個燈泡其實蠻適合的，而且這個燈泡的亮度也比較強。
+
+     
+儘管如此，燈泡還是不時會熄滅，需要手動扭緊或扭鬆，它才能再度點亮。
+以前使用的小燈泡 / Previously Used Light Bulbs
+
+    
+  
+不過在這之前，我們的燈泡其實不是這麼大顆，而是像這種比較小顆的省電燈泡。
+
+
+
+由於它相對較小，亮度自然也沒有現在換掉的那顆大型燈泡來得亮。放在碩大的燈座裡面，感覺也沒能善用空間。
+問題點：橫向的燈座 / The Problem: Horizontal Lamp Holders
+由於最近大顆圓形燈泡在熄滅之後一直無法用調整燈座來讓它點亮，我將之前使用的小顆省電燈泡裝了上去來使用。
+在安裝的過程中，我忽然意識到，大顆燈泡無法點亮的原因，可能是因為燈泡太大顆了，導致橫向燈座無法正常穩定固定住燈泡而接觸不良。
+這樣一說，忽然可以理解為什麼之前使用的都是小燈泡。因為橫向的燈座可能只能支撐這種小型燈泡而已，太大的燈泡就抓不穩了。
+
+    
+  
+當然，這也只是我的假設而已。
+由於燈座固定在天花板裝潢的後面，我實在是無法靠自己找到原因。現在先換上小型燈泡，雖然亮度稍微低了一點，但也總比三天兩頭就會熄滅的大顆燈泡來的好吧。
+先試試看再說。]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不知道怎麼下後設資料？用AI幫你添增索引關鍵字  / Don't Know How to Add Metadata? Use AI to Write Keywords]]></title>
+        <id>http://blog.pulipuli.info/2025/06/dont-know-how-to-add-metadata-use-ai-to-write-keywords.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/dont-know-how-to-add-metadata-use-ai-to-write-keywords.html"/>
+        <updated>2025-06-09T04:00:00.008Z</updated>
+        <summary type="html"><![CDATA[我開發了一個家用的倉儲管理系統來記錄家裡物品的收納位置和存量。為了讓我更容易用搜尋找到物品，我使用Google Gemini來解析物品的照片，以此來添增後設資料(metadata)，提高它被檢索找到的機會。使用下來意外地好用，但也有些限制。這篇就記錄一下這種用AI識別照片添增物品後設資料的心得吧。
+I developed a home inventory management system to track the location and quantity of items in my house. To make searching for items easier, I use Google Gemini to analyze photos of the items, adding metadata to increase their searchability. It's surprisingly effective, but it also has some limitations. This post documents my experience using AI image recognition to enhance item metadata.
+
+
+物品管理APP / Inventory Management App
+
+    
+  
+這各物品管理的APP是我用AppSheet創建的應用程式，只供我們家私人共用，不開放其他人取用。它可以用網頁或AppSheet的APP開啟。
+
+    
+  
+AppSheet可以讓我們用關鍵字檢索物品的後設資料。例如我搜尋「剪刀」，可供檢索的後設資料裡面只要有包含「剪刀」兩個字的物品，通通都可以檢索出來。
+
+    
+  
+然而大多時候，我們找物品用的名稱，通常都跟記錄在後設資料的名稱不一樣。像上圖的眼鏡，你會怎麼稱呼它…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雖然官方說 DSM 6.2 支援 Synology Drive，但還是要看機型]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/06/dsm-62-synology-drive.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/06/dsm-62-synology-drive.html"/>
+        <updated>2025-06-08T16:36:00.005Z</updated>
+        <summary type="html"><![CDATA[家中的老 NAS 是非常弱的 DS213air，十多年來勉強撐到 DSM 6.2 也算是值得。在查看套件與 DSM 7 的相容性時，發現竟然 Synology Drive 也支援 6.2 老系統：
+https://www.synology.com/zh-tw/dsm/6.2/software_spec/synology_drive
+不過根據文件所述方法去找，在 DSM 6.2 中卻怎麼都找不到 Synology Drive、套件中心裡也沒有。猜想可能是 CPU 相容問題，到舊版存檔區查看後，果然殘念～
+https://archive.synology.com/download/Package/SynologyDrive/1.0.0-10240
+DS213air 的 CPU 是 MARVELL Kirkwood 88F6282，是更古老的 ARMv5 架構，而 Synology Drive 只支援 CPU 架構到 ARMv7 以上。
+這裡有相容機型清單： https://www.synology.com/en-global/dsm/packages/SynologyDrive ，要 2016年(含)以後的機型才支援。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[雜談：不是每個API都叫做OpenAI的API / TALK: Not Every API Is Called OpenAI’s API]]></title>
+        <id>http://blog.pulipuli.info/2025/06/talk-not-every-api-is-called-openais-api.html</id>
+        <link href="http://blog.pulipuli.info/2025/06/talk-not-every-api-is-called-openais-api.html"/>
+        <updated>2025-06-06T04:00:00.007Z</updated>
+        <summary type="html"><![CDATA[最近遇上太多「號稱背後是OpenAI」的大型語言模型API，但實際上並不是「OpenAI的API」的狀況。這種誤解造成實際開發時帶來很大的困擾，我們藉這個機會說明一下吧。
+
+
+OpenAI的API / OpenAI’s API
+
+    
+  
+https://platform.openai.com/docs/api-reference/introduction 
+
+OpenAI API 是一組由 OpenAI 開發的應用程式介面 (API)，讓開發人員可以運用 OpenAI 的 AI 模型，像是 GPT、DALL-E、 Text Embedding等，建構自己的應用程式。它提供程式化的存取途徑，讓使用者可以透過程式碼與這些模型互動，進行像是自然語言處理、影像生成等任務。開發人員可以透過 API 傳送請求，並接收模型產生的結果，進而整合到自己的軟體或服務中。
+OpenAI API 支援多種程式語言，讓開發人員可以更彈性地整合到自己的開發環境中。一般常見的語法是使用Python的函式庫openai：
+import openai
+# 設定 API Key
+openai.api_key = "your_openai_api_key"
+# 發送請求給 GPT-4o
+response = openai.ChatCompletion.create(
+    model="gpt-4o",  # 指定使用 GPT-4o
+    messages=[
+        {"role": "system", "content": "你是一位專業的 AI 助理。"},
+        {"role": "user", "content": "請問 OpenAI GPT-4o 的特點是什麼？"}
+    ],
+    temperature=0.7
+)
+# 顯示回應
+print(response[…]]></summary>
+        <author>
+            <name>布丁布丁吃什麼？</name>
         </author>
     </entry>
     <entry>
@@ -4020,6 +5253,89 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[本文详细介绍如何配置一台 UPS 同时保护多台设备，包括群晖 NAS 和 Linux 服务器。通过 NUT (Network UPS Tools) 实现断电时的优雅关机，防止数据丢失和文件系统损坏。适合有多台设备需要断电保护的家庭服务器用户参考。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[選用高速行動固態硬碟 SSD]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/05/ssd.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/05/ssd.html"/>
+        <updated>2025-05-03T17:10:00.009Z</updated>
+        <summary type="html"><![CDATA[15GB 資料要傳多久？你想花 20 分鐘還是不到 1 分鐘？用慢速磁碟備份資料實在是太浪費生命！
+選購外接 SSD 硬碟或備份設備原則：
+
+
+傳輸介面頻寬：最低要有 USB 10Gbps、USB 3.2 Gen 2（同 USB 3.1 Gen 2）、Thunderbolt 3 或以上；最好是 USB 20Gbps、USB 3.2 Gen 2x2、USB4、Thunderbolt 3 或以上 。
+讀寫速度：500 MB/s 有點慢，建議至少 700-1000 MB/s 以上；最好 2000MB/s 以上。
+接頭類型：至少 USB Type-A/B/C SuperSpeed (SS)，速度勉強；最好都用 USB Type-C 或 Thunderbolt 4/5 接頭。
+
+以下是我自己看過或買過的。以個人經驗來說，在傳輸大檔案速度、資料頻繁備份、甚至影音剪輯上，性價比最好的是容量 2TB、讀寫速度 2000 MB/s 上下的外接 SSD 碟。
+
+Transcend (創見) 行動固態硬碟
+🔥🔥傳輸介面 USB 20Gbps，讀寫最高 2000/2000 MB/s（Type-C 接口，附 C-to-A, C-to-C 線）：
+
+
+ESD410C 1TB, 2TB, 4TB
+ESD360C 1TB, 2TB, 4TB
+
+
+🔥🔥傳輸介面 USB 3.2 Gen 2x2 20Gbps，讀寫最高 2000/2000 MB/s（Type-C 接口，附 C-to-A, C-to-C 線）：
+
+ESD380C 500GB, 1TB, 2TB, 4TB
+
+
+🔥傳輸介面 USB 10Gbps，讀寫最高 1050/950 MB/s（Type-C 接口，附 C-to-A, C-to-C 線）：
+
+ESD265C  500GB, 1TB, 2TB
+
+
+
+
+Transcend (創見) 迷你行動固態硬碟（隨身碟）
+🔥傳輸介面 USB 10Gbps，讀寫最高 1050/950 MB/s：
+
+ESD300 512GB, 1TB, 2TB，USB Type-C 接頭。
+ESD310 128GB, 256GB, 512GB, 1TB, 2TB，USB Type-A + Type-C 雙接頭。
+ESD320A 512GB, 1TB, 2TB，USB Type-A 接頭。
+ESD330C 512GB, 1TB, 2TB，USB Type-C 接頭。
+
+
+SanDisk 晟碟
+
+🔥🔥外接 SSD 硬碟，讀寫最高 3000/3000 MB/s：
+
+
+SanDisk Professional PRO-G40 SSD 1TB, 2TB, 4TB
+
+🔥🔥外接 SSD 硬碟，讀寫最高 2000/2000 MB/s：
+
+
+SanDisk Extreme PRO Portable SSD (E81) 1TB, 2TB, 4TB
+SanDisk PRO-BLADE TRANSPORT 1TB, 2TB, 4TB
+SanDisk Creator PRO (E81C) Portable SSD 1TB, 2TB, 4TB
+WD_BLACK P40 Game Drive SSD 500GB
+
+🔥外接 SSD 硬碟，讀寫最高 1000/1000 MB/s：
+
+SanDisk Extreme Portable SSD (E61) 500GB, 1TB, 2TB, 4TB, 8TB
+SanDisk Desk Drive (T40) 4TB, 8TB
+SanDisk Creator Desk Drive 4TB, 8TB
+WD My Passport Portable SSD 500GB, 1TB, 2TB
+
+Kingston 金士頓
+
+🔥🔥外接 SSD 固態硬碟，讀寫最高 2000/2000 MB/s：
+
+
+XS2000 (SSD) 1TB, 2TB, 4TB
+
+🔥外接 SSD 固態硬碟，讀寫最高 1000/1000 MB/s：
+
+
+
+
+XS1000 (SSD) 1TB, 2TB]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
         </author>
     </entry>
     <entry>
@@ -4063,6 +5379,42 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Multifunctional Controllers 多功能控制器]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/04/multifunctional-controllers.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/04/multifunctional-controllers.html"/>
+        <updated>2025-03-31T17:40:00.003Z</updated>
+        <summary type="html"><![CDATA[Hardware
+
+
+Elgato Stream Decks
+Logitech MX Creative Console
+Loupedeck: Live, Live S, +, CT (end of sale) → Logitech
+MiraBox: MBox N4, Slim, Slim Stream Dock
+TourBox
+
+
+Software
+
+
+Hexler TouchOSC
+Touch Portal
+
+
+MIDI Controllers
+
+
+Akai APC series
+Behringer BCF 2000, BCR 2000
+Codanova VMX VJ
+Intech Studio: GRID
+Korg Nano series
+Native Maschine Jam
+Novation Launchpad series]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[如何在 macOS 上安装 Git LFS 并解决 Homebrew 错误]]></title>
         <id>https://www.dongshushu.com/?p=10299</id>
         <link href="https://www.dongshushu.com/post/10299/"/>
@@ -4073,6 +5425,32 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Folderify: MacOS自訂資料夾圖示]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/02/folderify-macos.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/02/folderify-macos.html"/>
+        <updated>2025-02-25T14:12:00.003Z</updated>
+        <summary type="html"><![CDATA[如果想自訂資料夾圖示，要用影像處理軟體自己編修、調整、換圖片，挺麻煩的。Folderify 讓工作變得很簡單。
+
+步驟：
+
+
+建議先前往 Github 專案 看說明，了解指令下達方式。
+透過 brew 安裝 Folderify：
+> brew install folderify
+
+準備一張 PNG 圖檔，遮罩部分要設為透明，圖樣部分純黑色（例 sample.png）。尺寸至少 800 x 600 pixels。
+指令一：生成整套完整的 icon 圖檔，包括 .icns 和 .iconset。
+> folderify sample.png
+
+指令二：直接將 icon 圖檔指定至特定資料夾。
+> folderify sample.png /path/to/folder
+
+我試做的成果：]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ES模块的基本用法]]></title>
         <id>https://www.dongshushu.com/?p=10295</id>
         <link href="https://www.dongshushu.com/post/10295/"/>
@@ -4080,6 +5458,25 @@ Cromite是主打隱私保護的開源瀏覽器，基於Chromium開發。界面�
         <summary type="html"><![CDATA[ES模块（ECMAScript Modules, ESM）是 JavaScript 提供的一种模块化机制，它允 […]]]></summary>
         <author>
             <name>admin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[從 Wayback Machine 打包、收藏網站]]></title>
+        <id>http://prototypingideas.blogspot.com/2025/01/wayback-machine.html</id>
+        <link href="http://prototypingideas.blogspot.com/2025/01/wayback-machine.html"/>
+        <updated>2025-01-12T16:20:00.004Z</updated>
+        <summary type="html"><![CDATA[Internet Archive（網際網路典藏庫）提供的 Wayback Machine（網站時光機）是非常珍貴的網站保存中心，每隔一段時間就會爬全球網站、進行收錄備份。如果你想收藏一些古董或老網站供離線瀏覽，可以用 wayback_machine_downloader 下載備份到自己電腦裡。
+環境要求：Ruby，套件安裝與管理：gem
+> gem install wayback_machine_downloader
+先到 Wayback Machine 網站檢索是否想收藏的網站有被保存下來，並確認其網址是否正確。然後回到終端機：
+> wayback_machine_downloader http://site.url.to.backup/
+若出現錯誤訊息 400: BAD REQUEST
+可能是程式碼太舊有程式庫相容問題，請看這篇討論串。ShiftaDeband 另建分支解決問題了，可以到 https://github.com/ShiftaDeband/wayback-machine-downloader 直接下載整包 Zip，檔名是 wayback-machine-downloader-feature-httpGet.zip。解壓縮後，用終端機指令執行：
+> cd wayback-machine-downloader-feature-httpGet/bin
+> ruby wayback_machine_downloader http://site.url.to.backup/
+因為不是透過 gem 安裝，所以用 ruby 執行。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
         </author>
     </entry>
     <entry>
@@ -4245,6 +5642,85 @@ QHora-301W
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WordPress資安記事]]></title>
+        <id>http://prototypingideas.blogspot.com/2024/07/wordpress.html</id>
+        <link href="http://prototypingideas.blogspot.com/2024/07/wordpress.html"/>
+        <updated>2024-07-18T13:26:00.004Z</updated>
+        <summary type="html"><![CDATA[WordPress 是非常龐雜的系統，資安問題不容易處理，以下是近期處理過的問題，當作備忘錄。
+
+系統資訊
+
+
+作業系統：Synology DSM 7.2 (Linux)
+網站系統：Apache 2.4, PHP 8.2, MariaDB 10.11.6
+WordPress 5.6.6（自行安裝，不是系統內建版本）
+
+資安問題
+改通訊埠沒用，還是要靠防火牆
+我習慣會將 DSM 管理介面和 SSH 的通訊埠改掉，想說這樣比較安全。但資訊中心同仁提醒說這只對人類有用，像 SSH 攻擊或 port scanner 會用暴力法每個 port 都試，保險起見還是用防火墻擋起來，限制連線 IP 區間才安全。所以現在就改為僅限校內部分 IP 或網段可以連線 SSH 和管理界面。MySQL/MariaDB 則限制本機連線。
+Apache內的陳年古董，一併關掉吧
+如果網站伺服器是用 Apache 的話，你可能不知道網址輸入 yoursite.com/icons/ 可以列出一堆古董圖片檔案，那是用在傳統資料夾列表的檔案類型圖示。Apache 伺服器預設允許瀏覽檔案索引(Indexes)可能會洩漏主機內檔案內容、多重視圖(MultiViews)則可能洩漏隱藏檔，都是資安大忌，所以這兩個選項最好關掉。也因此 /icons/ 就等於沒用，可以移除掉，不要留著小漏洞。
+
+
+關掉 Apache 的檔案索引和多重視圖功能：
+
+
+資料夾內 .htaccess：
+Options -Indexes -MultiViews
+
+
+全域 .htaccess：
+<Directory "路徑">
+Options -Indexes -MultiViews
+</Directory>
+
+
+關掉 /icons/ 虛擬路徑：
+
+
+編輯 /usr/local/etc/apache24/conf/extra/httpd-autoindex.conf
+將以下幾行全部加上 # 註解符號，取消作用。
+
+
+Alias /icons/ "/var/packages/Apache2.4/target//usr/share/icons/"
+
+
+
+
+<Directory "/var/packages/Apache2.4/target//usr/share/icons">
+    Options Indexes MultiViews
+    AllowOverride None
+    Require all granted
+</Directory>
+
+若非必要，建議關掉 REST API
+除非你用 WordPress 的 REST API 開發應用（例如寫外部程式存取 WordPress 資料），否則最好把 REST API 關掉，要不然駭客會利用它做壞事。以下例子是將所有 /wp-json/* 連結都重導至首頁。不過，因為有些外掛靠 REST API 讀取 WordPress 資料，可能會受到影響。
+
+
+在全域 .htaccess 加上：
+
+<IfModule mod_rewrite.c>
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^wp-json/(.*)$ / [R=301,NC,L]
+</IfModule>
+防止直接讀取原始碼
+像 JavaScaript 原始碼在伺服器端就已經內嵌至 HTML 內，再送到瀏覽器端執行，一般使用者不應該直接讀取 JS 原始碼。如果可以直接讀取或執行，甚至可能夾帶參數，很危險。不需要讓外部使用者直接讀取的檔案都應該加上限制，以下例子是關閉站內所有 js, css 檔案的直接連結。
+
+
+在全域 .htaccess 加上：
+
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_REFERER} !^https://(.+\.)?yoursite\.com/ [NC]
+RewriteRule .*\.(js|css)$ - [F]
+</IfModule>]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[多种 Docker 镜像拉取解决方案与实践]]></title>
         <id>https://razeen.me/posts/how-to-pull-docker-image-in-china/</id>
         <link href="https://razeen.me/posts/how-to-pull-docker-image-in-china/"/>
@@ -4276,6 +5752,145 @@ QHora-301W
 点击开始连接，enjoy ：]]></summary>
         <author>
             <name>binsite - binss.me</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Drive 打包備份以及解壓縮麻煩事]]></title>
+        <id>http://prototypingideas.blogspot.com/2024/03/google-driver.html</id>
+        <link href="http://prototypingideas.blogspot.com/2024/03/google-driver.html"/>
+        <updated>2024-03-13T13:28:00.004Z</updated>
+        <summary type="html"><![CDATA[Google Drive 整批下載檔案或用 Google Takeout 備份時有個貼心的作法：當檔案總量大於 2GB 時，會拆成多個 2GB 的壓縮檔供下載。而且 Google 打包時會根據檔案大小幫我們整理在不同壓縮檔，讓每個 2GB 壓縮檔塞好塞滿。問題來了，當你解壓縮時，每個壓縮檔是解壓到各自的新資料夾中，不是還原到原本的資料夾結構中。
+假設原始檔案結構是這樣：
+
+
+如果總容量超過 2GB，打包後會拆成若干個壓縮檔，解壓縮後會變成這樣：
+
+
+
+如果要手動搬動檔案還原到本來的檔案結構，那會是很繁瑣、崩潰的過程。最理想的做法是將多個壓縮檔解壓縮到同一個資料夾中，檔案便會自動放到該放的地方。
+Windows
+以 WinRAR 為例：先在桌面或硬碟中建立一個目標資料夾 MyFolder，依序在每個壓縮檔上按右鍵、選 Extract files...，將解壓縮目的路徑(Destination path)指定到剛才建立的資料夾 MyFolder 再「確定」，所有檔案就會各自歸位了。WinRAR好處是會沿用資料夾，不會重建資料夾，也不會有被覆蓋的問題。
+
+MacOS or Linux
+系統內建的解壓縮工具 unzip 會重建資料夾、也就會覆蓋同名資料夾，所以沒辦法直接解壓縮多個壓縮檔到相同的資料夾中。建議安裝解壓縮套件 unar，用終端機輸入指令：
+$ unar [archive]
+或
+$ unar -o [path_to_target_directory] [archive]]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rhino 8 for Mac Dark Mode Color Tweaking 犀牛8深色模式底色調整]]></title>
+        <id>http://prototypingideas.blogspot.com/2024/03/rhino-8-for-mac-dark-mode-color.html</id>
+        <link href="http://prototypingideas.blogspot.com/2024/03/rhino-8-for-mac-dark-mode-color.html"/>
+        <updated>2024-03-12T17:40:00.005Z</updated>
+        <summary type="html"><![CDATA[[2024-02-25] 發現了方便的新工具 Gray～ 不用命令列指令，一鍵就切換應用程式的黑白模式。前往下載！ 
+Rhino 8 for Mac 預設的深色模式（Dark Mode）周邊工具版底色實在太黑，圖示看起來很吃力。如果不想採這篇文章的方法改動 macOS 系統設定，以下方法可以快速調整底色。
+打開 Rhino 8 > Settings... 或 Tools > Options...，進入 Advanced 進階設定，搜尋 "Background" 過濾參數清單，找到以下參數逐一調整顏色值：
+Rhino.UI.ThemeSettings.Content.Background 改為 Hex #606060。
+Rhino.UI.ThemeSettings.Content.Button.Enabled.Background 改為 Hex #606060。
+Rhino.UI.ThemeSettings.Content.Button.EnabledHover.Background 改為 Hex #808080。
+Rhino.UI.ThemeSettings.Frame.Button.EnabledHover.Background 改為 Hex #808080。
+Rhino.UI.ThemeSettings.Frame.Tab.Checked.Background 改為 Hex #606060。
+
+底色調整前
+
+
+底色調整後]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VMware vCenter6密碼原則變更]]></title>
+        <id>https://itorz324.blogspot.com/2023/12/vcenter6-password-policy-config.html</id>
+        <link href="https://itorz324.blogspot.com/2023/12/vcenter6-password-policy-config.html"/>
+        <updated>2023-12-06T08:10:00.009Z</updated>
+        <summary type="html"><![CDATA[vCenter6/7密碼原則變更方式：
+
+
+
+參考：
+👉 Link]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用Dell iDrac的網路安全設定加強安全管控]]></title>
+        <id>https://itorz324.blogspot.com/2023/11/dell-idrac-ip-filtering-config.html</id>
+        <link href="https://itorz324.blogspot.com/2023/11/dell-idrac-ip-filtering-config.html"/>
+        <updated>2023-11-10T10:00:00.005Z</updated>
+        <summary type="html"><![CDATA[iDRAC如何使用IP filtering進行安全性設定 
+▌Dell iDRAC (Integrated Dell Remote Access Controller) 是 Dell
+    伺服器上的一個遠端管理控制器。
+
+
+它提供了以下功能:
+
+
+  
+- 遠端開關機 - 可以遠端開機或關機伺服器。
+- 系統記錄 - 可以記錄伺服器的開機流程、事件等系統紀錄以方便故障排除。
+- 固件更新 - 可以透過網路更新伺服器硬體的韌體。
+- 加密功能 - 提供加密功能以確保遠端管理時的安全性。
+簡單來說,iDRAC 是 Dell 伺服器上內建的遠端管理控制器,提供 IT
+  管理員從網路遠端監控和管理 Dell
+  伺服器的能力。它大大簡化了資料中心的管理。 
+
+
+  ▌進行IP filtering安全性設定的目的
+
+安全性設定的目的是為了ACL，也就是限制可以存取的IP範圍。
+
+
+  ▌如何進行IP filtering安全性設定
+
+
+  
+
+
+  圖片設定為172.1.1.1，子網路遮罩設定為255.255.0.0，表示可以存取的IP範圍為172.1.x.x開頭的IP。
+▌參考來源：
+DELL Support]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Excel如何快速刪除空白列]]></title>
+        <id>https://itorz324.blogspot.com/2023/11/remove-blank-columns-in-excel.html</id>
+        <link href="https://itorz324.blogspot.com/2023/11/remove-blank-columns-in-excel.html"/>
+        <updated>2023-11-09T15:43:00.012Z</updated>
+        <summary type="html"><![CDATA[使用【Ctrl+G】快速移除Excel多餘空白列
+▌參考下圖
+選取任一行
+按下【Ctrl+G】
+選擇「特殊」>「空格」>「確定」
+選取該行按下右鍵
+刪除「整列」
+
+
+
+  
+
+
+
+
+
+善用小技巧就能讓你加快工作效率
+▍延伸閱讀
+
+
+  👉
+    Excel學習-「Excel 字串中插入2個以上符號」
+
+
+  👉
+  Excel 學習-「Excel 大小寫轉換」 & 「Excel 刪除特殊符號」]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
         </author>
     </entry>
     <entry>
@@ -4503,6 +6118,29 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[macOS 深色外觀模式下，如何讓特定應用程式保持淺色外觀？]]></title>
+        <id>http://prototypingideas.blogspot.com/2022/12/macos.html</id>
+        <link href="http://prototypingideas.blogspot.com/2022/12/macos.html"/>
+        <updated>2022-12-15T19:10:00.005Z</updated>
+        <summary type="html"><![CDATA[[2024-02-25] 發現了方便的新工具 Gray～ 不用命令列指令，一鍵就切換應用程式的黑白模式。前往下載！
+
+在 macOS 的深色模式下，如果遇到某些應用程式的介面在深色模式不好看，偏偏軟體又沒有提供深色、淺色模式切換功能，可以不理系統設定、單獨將該軟體強制切換到淺色模式嗎？
+
+可以！
+今天的主角是 Rhino 7，深色模式下工具圖示對比太強，時間久了眼睛不舒服。
+1. 打開 Terminal（終端機），輸入以下指令：
+osascript -e 'id of app "Rhino 7"'
+會得到 Rhino 7 的代碼：
+com.mcneel.rhinoceros.7
+然後再輸入以下指令：
+defaults write com.mcneel.rhinoceros.7 NSRequiresAquaSystemAppearance -bool Yes
+重開 Rhino 7 就可以了！
+如果有其他軟體也需要調整，如法泡製將雙引號內軟體名稱改掉、最後一行指令再換上軟體代碼即可。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NAS折腾记(7)：从零开始设置(黑)群晖系统]]></title>
         <id>https://razeen.me/posts/nas-07-syno-setting/</id>
         <link href="https://razeen.me/posts/nas-07-syno-setting/"/>
@@ -4510,6 +6148,229 @@ Ubuntu-20.04 (默认)
         <summary type="html"><![CDATA[在这篇文章中，我将分享群晖从零开始的设置。其中包含了存储池创建、共享文件夹创建、读写缓存设置、SMTP邮件发送、多网口链路聚合、Windows映射网络驱动、Mac挂载共享文件夹、iPhone连接NAS、Photos套件与手机APP设置、DS Videos设置、阿里/百度/OneDrive网盘数据同步等。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何快速計算IP 子網域 | 使用雲端IP子網域計算器]]></title>
+        <id>https://itorz324.blogspot.com/2022/11/ip-subnet-calculator.html</id>
+        <link href="https://itorz324.blogspot.com/2022/11/ip-subnet-calculator.html"/>
+        <updated>2022-12-02T01:07:00.258Z</updated>
+        <summary type="html"><![CDATA[若你是網管人員相信對IP子網域的計算不陌生，不過你也可以透過網路上的IP 子網域計算器來進行運算，相信能讓你省時、省力、又省腦。
+
+
+  計算子網域通常我會有二個目的：
+
+
+  
+規劃網路
+瞭解既有的網路如何劃分
+
+
+
+  本篇範例則著重在 > 瞭解既有的網路如何劃分
+
+
+  假設我們取得IP位址和子網路遮罩如下，我們想知道這個IP位址劃分在哪一個子網段、網路位址、可用IP範圍、廣播位址是什麼？ 
+
+
+ 
+
+我們先準備好下面輸入條件：
+
+
+   IP位址：10.112.81.189　 
+子網路遮罩(Subnet Mask)：255.255.255.224
+
+上面標示方式也可以簡打為：10.112.81.189/27
+至於為什麼是/27 簡單說明如下：
+/24
+/27
+11111111.11111111.11111111.11100000 使用了27個1，所以是8+8+8+3=27
+
+以下列出常用的標示：
+/24
+255.255.255.128
+  /25
+255.255.255.192
+  /26
+255.255.255.224
+  /27
+255.255.255.240
+  /28
+255.255.255.248
+  /29
+255.255.255.252
+  /30
+255.255.255.254
+  /31
+255.255.255.255
+  /32
+
+
+
+  ▍兩個雲端IP子網域計算器網站
+
+🔽 使用IPTP Networks網站-IP計算器
+
+
+  Step1.連線
+  https://www.iptp.net/zh_HK/iptp-tools/ip-calculator/
+
+
+Step2.輸入IP和子網路遮罩 > 點選「計算」
+IP：10.112.81.189
+Subnet Mask：255.255.255.224/27
+
+
+  
+
+
+
+Step3.取得子網路配置結果 
+
+
+  
+
+
+  從計算結果我們得知 10.112.81.x /
+  27可以規劃出8個網段，10.112.81.189位在第6組，有30個可以使用的IP
+
+網路位址：10.112.81.160
+可用IP範圍：10.112.81.161 -
+  10.112.81.190
+廣播位址：10.112.81.191
+🔽 使用calculator net網站-IP計算器
+
+
+  Step1.連線
+  https://www.calculator.net/ip-subnet-calculator.html
+
+Step2.輸入 Subnet和 IP Address > 點選「Calculate」
+
+
+  
+
+
+Step3.取得子網路配置結果 
+
+
+
+  
+
+
+  取得和IPTP Networks網站相同結果。
+
+
+  ▍結語： 
+
+
+  會使用雲端計算IP
+  子網域，個人其實是因為ISP業者提供企業很多對外的固定IP使用，但有時查不到留下的相關資訊，透過這個方式我們就可以查出IP可使用的範圍，供大家參考一下。
+
+
+  ▍參考網站
+
+
+
+  👉
+  IPTP Networks
+calculator net
+
+
+  👉
+  子網路遮罩計算教學
+
+
+  ▍延伸閱讀
+
+
+  👉
+    免費線上圖片轉icon、圖檔壓縮、圖檔resize教學
+
+
+  👉
+  PearOCR 完全免費的「在線OCR 文字識別」工具， 輕鬆轉換圖片上的文字 
+如何在Fortigate防火牆和Cisco nexus 9000兩個端點Port進行網路定速？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何讓 Windows 10/11再使用TLS1.0/1.1 的Web Site？]]></title>
+        <id>https://itorz324.blogspot.com/2022/11/how-to-reuse-tls1.0-web-site-at-windows10-and-windows11.html</id>
+        <link href="https://itorz324.blogspot.com/2022/11/how-to-reuse-tls1.0-web-site-at-windows10-and-windows11.html"/>
+        <updated>2022-11-23T04:44:00.198Z</updated>
+        <summary type="html"><![CDATA[▍什麼是TLS？TLS功能是？TLS為什麼要升級？
+
+
+  TLS中文是傳輸層安全性協定（縮寫：Transport Layer
+  Security）。最早的版本TLS
+  1.0是在1999年RFC2246發佈，而TLS的主要目的則是為了網際網路通訊安全，提供資料傳輸上的保障。
+
+隨著TLS版本的演進，目前到了Windows10已經開始支援TLS1.3版本。
+微軟、蘋果、Google及Mozilla四大瀏覽器在2020年終止支援TLS 1.0、1.1。此時若你公司仍舊有老舊使用TLS1.0/1.1的Web
+  Site，為了安全起見最好還是將你的系統盡快升級到支援TLS
+  1.2以上，但如果舊系統實在無法升級時應該怎麼處理？ 
+
+
+ 
+
+Firefox 設定編輯器內，且未來是否會停止支援尚未知道，目前我們就來看看如何設定避免再出現下方訊息： 
+
+
+  👉
+  此網站的連線不安全 ERR_SSL_VERSION_OR_CIPHER_MISMATCH 
+要啟用TLS1.0/1.1有兩個地方要進行設定：
+
+
+  
+在Windows 啟用TLS1.0/1.1
+在Firefox 啟用TLS1.0/1.1
+▍解決方式
+
+🔻在Windows 啟用TLS1.0/1.1
+Step1.使用win key+R >輸入 control 開啟控制台
+
+
+  
+
+
+🔻在Firefox 啟用TLS1.0或1.1
+Step1.打開Ffirefox設定編輯器 > about:config >接受風險並繼續
+
+
+  
+
+
+  Step2.調整參數 > security.tls.version.min > 若要啟用TLS1.0，輸入值【1】
+  (此處可以依據你的需求設定，見下圖)
+
+
+
+Step3.重新登入系統後，已可正常登入。
+
+
+後記：
+官網的說明，未來仍然可能會將此功能刪除，目前大多數的瀏覽器已不支援TLS1.0和TLS1.1，這可能是目前唯一比較快速的解決方式。
+
+
+
+▍延伸閱讀
+
+
+
+  👉
+  Windows10還能使用IE嗎？
+
+
+  👉
+  Chrome 還能使用 FTP嗎？
+
+
+  👉
+  解決 Chrome 開啟某特定網站出現 401 Unauthorized]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
         </author>
     </entry>
     <entry>
@@ -4531,6 +6392,92 @@ Ubuntu-20.04 (默认)
 这期我们从几个问题来入手。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[root 密碼也會過期？VMware vCenter 7 root 密碼到期處理]]></title>
+        <id>https://itorz324.blogspot.com/2022/11/vmware-vcenter7-root-password-expire.html</id>
+        <link href="https://itorz324.blogspot.com/2022/11/vmware-vcenter7-root-password-expire.html"/>
+        <updated>2022-11-04T14:29:00.007Z</updated>
+        <summary type="html"><![CDATA[vCenter7 的root密碼預設將在 90
+  天後到期，有時我們一時忘記，就忘了去變更密碼或延長密碼存留時間上限，造成root無法再登入，若你有一樣問題？可以參考本篇解決方式。
+
+
+  
+
+
+
+
+
+  ▍vCenter 7 root 密碼到期解決方式|延長密碼存留時間
+
+
+  Step1.使用預設的vCenter管理者帳號Administrator@vsphere.local登入主控台。
+
+(此處的@vSphere.local為您建置時的網域，此處使用預設值)
+> 選擇「系統管理 」
+
+
+  
+
+
+Step2.點選「組態」>「本機帳戶」>「編輯」
+
+
+  
+
+
+Step3.將「密碼存留時間上限」設為需要的日期；自訂密碼設定原則後>「儲存」
+
+
+
+
+
+Step4.使用PuTTY並用root帳號登入vCenter，此時會要求你變更密碼
+  >輸入新的密碼並確認。
+
+
+  
+
+
+Step5.再次使用root登入vCenter Server Appliance 管理介面。
+
+
+  
+
+
+Step6.已可正常登入
+
+
+  
+
+
+Step7.到「系統管理」 >「編輯」
+
+
+
+
+
+Step8.設定密碼有效期並輸入到期通知的郵件
+  >「儲存」，讓密碼到期前通知我們。
+
+
+  
+
+
+  ▍參考資源
+
+
+  👉
+  ThomasPreischl - VMware vCenter 7 and 6 Appliance root password reset and
+    secure password management
+
+
+  👉
+  VMware Doc變更根使用者的密碼及密碼到期設定
+台部落- vmware vcenter server appliance密碼重置]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
         </author>
     </entry>
     <entry>
@@ -4574,6 +6521,232 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[閱讀書單 Readings: Books]]></title>
+        <id>http://prototypingideas.blogspot.com/2012/08/readings-books.html</id>
+        <link href="http://prototypingideas.blogspot.com/2012/08/readings-books.html"/>
+        <updated>2022-09-29T16:45:00.015Z</updated>
+        <summary type="html"><![CDATA[[2025-08-30 更新]
+
+經典
+Ways of Seeing. John Berger. Penguin Books.
+
+[中譯本] 觀看的方式，約翰.伯格著，吳莉君譯，麥田出版
+BBC紀錄片(YouTube)：Ep. 1, Ep. 2, Ep. 3, Ep. 4
+
+Invisible Cities, Italo Calvino, Harcourt Brace Jovanovich.
+[中譯本] 看不見的城市，伊塔羅.卡爾維諾著，王志弘譯，時報出版
+Sotto il sole giaguaro, Italo Calvino.
+[中譯本] 在美洲虎太陽下，卡爾維諾著，倪安宇譯，時報出版
+City of bits: space, place and the infobahn. William J. Mitchell. The MIT Press.
+[中譯本] 位元城市，William Mitchell 著，陳瑞清譯，天下文化
+
+ME++: The Cyborg Self and the Networked City. William J. Mitchell. The MIT Press.
+e-topia: “Urban Life, Jim—But Not As We Know It.” William J. Mitchell. The MIT Press.
+
+
+諾曼大師(Donald A. Norman)系列書籍
+The Design of Everyday Things (1988, 2002)
+
+[中譯本] 設計的心理學：人性化的產品設計如何改變世界(3版)
+
+Things that Make Us Smart (1993)
+The Invisible Computer (1998)
+Emotional Design (2004)
+
+[中譯本] 情感@設計：為什麼有…]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閱讀書單 Readings: Movies]]></title>
+        <id>http://prototypingideas.blogspot.com/2012/08/readings-movies.html</id>
+        <link href="http://prototypingideas.blogspot.com/2012/08/readings-movies.html"/>
+        <updated>2022-09-29T16:45:00.014Z</updated>
+        <summary type="html"><![CDATA[[2023-08-13更新]
+
+電影
+大都會（Metropolis），1927
+2001太空漫遊（2001: A Space Odyssey）, 1968
+銀翼殺手（Blade Runner）, 1982
+電子世界爭霸戰（Tron）, 1982
+阿甘正傳（Forest Gump）, 1994
+未來總動員（Twelve Monkeys）, 1995
+攻殼機動隊（Ghost in the Shell）, 1995
+阿波羅13號（Apollo 13），1995（傳記電影）
+第五元素（The Fifth Element）, 1997
+蘿拉快跑（Run Lola Run）, 1998
+極光追殺令（Dark City）, 1998
+駭客任務（The Matrix）, 1999
+人工智慧（A.I.）, 2001
+浩劫重生（Cast Away）, 2001
+美麗境界（A Beautiful Mind），2001
+
+關鍵報告（Minority Report）, 2002
+記憶拼圖（Memento）, 2002
+駭客任務：重裝上陣（The Matrix Reloaded）, 2003
+駭客任務：最後戰役（The Matrix Revolutions）, 2003
+駭客任務動畫（The Animatrix），2003（Matrix動畫電影，共九部短片）
+王牌冤家（Eternal Sunshine of the Spotless Mind）, 2004
+明天過後（The Day After Tomorrow）, 2004
+羊男的迷宮（Pan's Labyrinth）, 2006
+這個男人來自地球（The Man from Earth）, 2007
+料理鼠王（Ratatouille）, 2007
+設計三部曲之一：傳奇字體Helvetica（Helvetica），2007（字體設計紀錄片）
+福音戰士新…]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[閱讀書單 Readings: TED Talks]]></title>
+        <id>http://prototypingideas.blogspot.com/2012/08/readings-ted.html</id>
+        <link href="http://prototypingideas.blogspot.com/2012/08/readings-ted.html"/>
+        <updated>2022-09-29T16:45:00.002Z</updated>
+        <summary type="html"><![CDATA[[2021-07-19更新]
+身處於任何前瞻領域，最大的挑戰莫過於培養一種卓越的能力--「用新思維面對未知的新挑戰」。學校和老師都不是全知全能者，自然無法扛起這個責任，但卻可以引導同學們去找到更有能力、更有洞見的人。TED聚集了全球各領域的優秀專家學者，以簡短演講傳遞改變世界的熱情與理想。
+
+
+
+以下演講僅是眾多精采演講中的部分，建議大家可以額外根據自己興趣在 TED 演講中尋找更多演講來聽。
+Benjamin Zander on Music and Passion 談音樂與熱情 (2008)
+Tim Brown on Creativity and Play 談創造力與遊戲 (2008)
+Tim Brown urges designers to think big 鼓勵設計師放大思考的格局 (2009)
+Sir Ken Robinson says schools kill creativity 學校是否扼殺了創意 (2006)
+Sir Ken Robinson: Bring on the learning revolution! 推動學習革命 (2010)
+Theo Jansen: My creations, a new form of life 創造新生命 (2007)
+Dean Kamen: The emotion behind invention 發明背後的情感 (2009)
+Jill Bolte Taylor's stroke of insight 你腦內的兩個世界 (2008)
+Randy Pausch: Really achieving your childhood dreams 實踐童年夢想 (2007)
+Matt Ridley: When ideas have sex 當腦中的"概念"交配起來 (2010)
+Rachel Armstrong: Architecture that repairs itself? 能夠自我修復的建築物 (2009)
+Magnus Larsson: Turning dunes into architecture 將沙丘變建築 (2009)
+Janine Benyus: Biomimicry in action 進行中的仿生科技 (2009)
+Michael Pawlyn: Using nature's genius in architecture 將大自然的智慧運用在建築上 (2010)
+
+Simone Giertz: Why you should make useless things 為什麼你該創造無用設計 (2018)
+容許不斷小失敗的嘗試，累積未來成功的機會。無用之用，是為大用！
+
+
+Michael Murphy: Architecture that's built to heal 用以治癒人的建築 (2016)
+建築不只是土石鋼筋的堆砌物、也不只是概念與美學的展現，建築與人類生心理健康有極其密切的關係。
+
+
+Matthew Mazzotta: Playful, wondrous public spaces built for community and possibility (2021)
+具備玩趣與驚奇的公共空間，形塑地區社群與更多可能性。
+
+
+Refik Anadol: Art in the age of machine intelligence (2020)
+機器智能時代的新藝術
+
+
+主題系列：
+
+建築類演講 (很多)
+The emotional impact of architecture (10 talks)
+How architecture can connect us (7 talks)
+How to revive a city (8 talks)
+Talks to (re)design your apartment (7 talks)]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creative Media Software 創意媒體軟體工具清單（持續更新）]]></title>
+        <id>http://prototypingideas.blogspot.com/2022/12/creative-media-software.html</id>
+        <link href="http://prototypingideas.blogspot.com/2022/12/creative-media-software.html"/>
+        <updated>2022-09-11T09:43:00.000Z</updated>
+        <summary type="html"><![CDATA[以下是有關於 Creative Media 軟體的彙整清單～
+
+
+Author
+Avidemux
+Cytoscape
+Delicious Library
+duet
+EpocCam Viewer Pro
+EXIF Sync
+Gephi
+GraphicConverter
+HandBrake
+IanniX
+iDisplay
+iMazing
+iMazing HEIC Converter
+Import.io App
+Instant Meshes
+Julia
+KORG KONTROL Editor
+Max/MSP/Jitter
+MAX4LIFE
+Maya
+Maxon Cinema 4D
+Mendeley Desktop
+Meshmixer
+Metashape
+Minecraft Education
+MuseScore
+Netspot
+Newtek NDI Scan Converter
+Newtek NDI Video Monitor
+NodeBox
+NTFS for Mac
+LiveCode
+OmniGraffle
+OSCulator
+ossia score library
+P-touch Editor
+pd
+Pomodoro
+Processing
+Python
+QGIS
+R
+Rack (VCV Rack)
+Regard3D
+Relay (shiftr.io) >> for MQTT
+ROLI
+ROLI BLOCKS Code
+RStudio
+Score (OSSIA Score)
+Scratch
+SDFormater
+Sequel Pro
+SideQuest
+Simple Client/Server
+Scratch
+Slido Switcher
+solidThinking
+Sonic Visualizer
+Spark AR Studio
+Storyboarder
+Structure_Synth
+Syncplay
+Syphon Recorder
+SyphonInject
+Tableau Desktop
+TCPSyphoneClient/Server
+Thea Render
+Topaz AI Gigapixel
+Topaz Adjust AI
+TouchDesigner099
+TouchPortal
+Twine
+Video Edit Pro - Video Trim
+VirtualDJ
+Visual Paradigm
+VPProjects
+vpt8
+Vuo
+Wireshark
+Wondershare UniConverter
+WordPress.com
+XMind]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Openwrt + Clash 全局科学上网]]></title>
         <id>https://razeen.me/posts/newifi3-d2-openwrt-clash/</id>
         <link href="https://razeen.me/posts/newifi3-d2-openwrt-clash/"/>
@@ -4594,6 +6767,143 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【AIX 學習】AIX extend filesystem的兩種方式]]></title>
+        <id>https://itorz324.blogspot.com/2021/02/how-to-extend-filesystem-in-aix.html</id>
+        <link href="https://itorz324.blogspot.com/2021/02/how-to-extend-filesystem-in-aix.html"/>
+        <updated>2022-07-13T16:57:00.021Z</updated>
+        <summary type="html"><![CDATA[▍想要擴增 AIX上的 filesystem空間大小可以使用 Command和 smit兩種方式
+  
+首先擴充前我們要先確認三個資訊：
+filesystem位於哪個vg？
+vg空間是否足夠？
+filesystem type是？
+
+  
+fslv02
+  
+
+  
+
+  
+jfs2和 vg為
+    pe3vg
+  
+
+  
+使用ls command去check vg空間
+lsvg pe3vg 
+顯示尚有 44544 megabytes，約 44.5G
+
+  
+
+  
+▼二種擴充方式
+
+  
+方式一、使用 command
+  
+ 1G，只要執行如下Command
+  
+chfs -a size=+1G /usr/sap/PE3
+
+  
+chfs Command範例：
+chfs -a size=3000M /tmp
+chfs -a size=+1G
+  /tmp
+chfs -a size=+100M /tmp
+“M”代表 megabytes
+“+”是增加 size
+沒有“+”是指定最終 size
+“-”是減少 size
+  
+方式二、使用smitty
+  
+執行 smit jfs2 
+選擇 Change / show Characteristics of an Enhanced Journaled File System
+選擇 /usr/sap/PE3
+
+  
+
+  
+
+  
+使用【F4】或【Esc+4】將單位改為 Gigabytes
+
+  
+
+  
+直接填入最後的 Size大小
+
+  
+
+  
+OK
+
+  
+確認結果
+
+  
+
+  
+▍延伸閱讀
+  
+【AIX 學習】如何在aix下新增一個lv和掛載filesystem？
+  
+AIX NFS 異常處理 | access denied
+  
+AIX Shell Script 排程作業-每月最後一天執行範例
+
+▍參考資源
+  
+Youtube：How To Expand A Filesystem in AIX
+  
+IBM Support chfs Command
+AIX - How to extend JFS filesystem
+LVM 簡介
+JFS 及 JFS2 大小限制]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何查詢你已安裝了幾套Micorsoft 365？]]></title>
+        <id>https://itorz324.blogspot.com/2022/06/find-out-how-many-microsoft365-are-installed.html</id>
+        <link href="https://itorz324.blogspot.com/2022/06/find-out-how-many-microsoft365-are-installed.html"/>
+        <updated>2022-06-28T05:31:00.004Z</updated>
+        <summary type="html"><![CDATA[前言：
+1.登入https://portal.office.com
+2.點擊你的頭像 > 檢視帳戶 > 管理裝置
+
+  
+
+3.查出已安裝設備；我們可將不需要的裝置進行移除。
+
+  
+
+▍延伸閱讀
+  
+Office365 Outlook 空間快爆了?
+  
+如何增加 【Admx files】到 AD群組原則 | 使用 Outlook 2016
+      Template為範例?]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[用 Google Workspace 帳號登入 Windows]]></title>
+        <id>http://prototypingideas.blogspot.com/2022/12/google-workspace-windows.html</id>
+        <link href="http://prototypingideas.blogspot.com/2022/12/google-workspace-windows.html"/>
+        <updated>2022-06-06T09:45:00.001Z</updated>
+        <summary type="html"><![CDATA[[參考官方文件 Overview: Enhanced desktop security for Windows ]
+在 Windows 10/11 電腦安裝 Google Credential Provider for Windows (GCPW)，即可用 Google Workspace 帳號登入該電腦。Google Workspace for Education Fundamentals 以上都支援 GCPW。
+若搭配 Windows device management，還可將該電腦納入 Google Workspace 管理。可惜 Google Workspace Education 要 Standard & Plus 版本以上才支援這項功能，Fundamentals 並不支援。不過至少還能享受 Single Sign-On (SSO) 的好處。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[利用 Markdown 画一些流程图、时序图、甘特图等]]></title>
         <id>https://razeen.me/posts/makedown-flow-and-mermaid-diagrams/</id>
         <link href="https://razeen.me/posts/makedown-flow-and-mermaid-diagrams/"/>
@@ -4602,6 +6912,378 @@ Ubuntu-20.04 (默认)
 这里记录下，方便查阅使用。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows10還能使用IE嗎？]]></title>
+        <id>https://itorz324.blogspot.com/2022/05/reuse-internet-explorer-in-windows10.html</id>
+        <link href="https://itorz324.blogspot.com/2022/05/reuse-internet-explorer-in-windows10.html"/>
+        <updated>2022-05-30T11:07:00.006Z</updated>
+        <summary type="html"><![CDATA[對於某些版本的 Windows 10，Internet Explorer 11 桌面應用程序將於 2022 年 6
+    月 15 日停用並停止支持。 
+
+  
+
+  
+那我們還可以在Windows10上使用IE嗎？
+  
+▍快速步驟參考： 【如何讓IE正常開啟不透過 Microsoft Edge？】
+  
+開啟 Micorsoft Edge > 設定 > 預設瀏覽器 > 找到「在 Microsoft
+      Edge 中以 Internet Explorer 開啟網站」 > 選擇「永不」。
+  
+
+  
+相容性、生產力和安全性。但實際使用上仍然有些網站需要使用到
+    IE，即使 Edge提供完整的「IE模式」，但仍無法涵蓋所有網站的需求。目前 Windwos 10 更新後你會發現，當我們啟動
+    IE會自動轉跳至 Microsoft Edge，那麼要如何調整這個設定，詳細步驟參考如下：
+  
+▍詳細步驟參考：
+  
+❶開啟Edge > 選擇右上角「設定及其它」或使用快速鍵「Alt+F」
+
+  
+❷選擇「設定」
+
+
+  
+
+
+
+
+  
+
+
+❹選擇「是，我確定」
+
+
+
+❺之後我們在 Windows10 開啟 IE即可正常啟用。
+▍文章相關連結彙整
+
+
+
+  👉
+  Windows Blogs
+
+
+  👉
+  How to Enable and Use IE Mode in Microsoft Edge?
+Welcome to Microsoft Edge
+Microsoft Web
+
+▍延伸閱讀
+
+
+
+  👉
+  Windows 10 黑屏自救術？不用送修用這招解決！
+
+
+  👉
+  如何自行設計 「Windows 10 安全模式」成為開機選單？
+如何調整 Windows10桌面圖示間距？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【VMware 管理工具】使用RVTools快速取得vSphere VM環境資訊]]></title>
+        <id>https://itorz324.blogspot.com/2022/05/vmware-management-tools-rvtools.html</id>
+        <link href="https://itorz324.blogspot.com/2022/05/vmware-management-tools-rvtools.html"/>
+        <updated>2022-05-12T17:01:00.011Z</updated>
+        <summary type="html"><![CDATA[▍前言：
+  
+參考VMware Docs。
+  
+▍開發者和功能
+  
+Rob de Veij所開發，且RVTools能夠列出有關VM、CPU、內存、磁盤、分區、網絡、CD
+    驅動器、USB 設備的信息。甚至快照、VMware工具、vCenter、資源池、集群、ESXi
+    主機、HBA、網卡、交換機、端口、分佈式交換機、分佈式端口、服務控制台、VM內核、數據存儲、多路徑信息、許可證信息和運行狀況檢查等資訊。且最方便的是，我們可以將以上資訊導出到 csv 和 xlsx 文件。
+    
+  
+▍支援VMware版本：
+  
+目前RVTools 4.3.1支援的VMware版本有：
+▍軟體下載：
+  
+👉https://dotnet.microsoft.com/download/dotnet-framework
+RVTools官網下載，由於Veeam
+    Software是RVTools的贊助商。所以須先註冊並接收來自Veeam的電子郵件通信，但你可以隨時取消訂閱。
+  
+▍安裝步驟
+  
+1.執行程式>I Agree>Next
+
+  
+
+  
+
+  
+
+  
+2. 選擇Everyone>Next
+
+
+  
+
+  
+
+  
+3.Next 
+
+  
+
+  
+
+  
+4.安裝完成>Close
+
+  
+▍匯出VM清單作業步驟
+  
+
+  
+
+  
+2.此時顯示vCenter上所有VM相關資訊
+
+  
+
+  
+3.匯出方式；File>Export all to Excel(或csv檔)
+
+
+  
+
+  
+
+  
+4.取得匯出資訊。
+
+  
+
+  
+
+▍結語
+
+
+  當我們管理的VM成長到一個數量，使用RVTools能讓我們省掉許多查詢時間，不管你要統計VM、計算空間可用量，或是評估移轉硬體到公有雲系統上等....。
+
+
+
+  ▍文章相關連結彙整
+
+
+
+  👉 RVTools 官網
+
+
+  👉
+  Microsoft dotNet下載
+VMware Docs
+RVTools 文件
+  
+▍延伸閱讀
+
+
+  👉 升級 VMware vCSA 步驟 | vcsa 6.7 update 
+👉【VMware疑難排解】升級到WIN10 後vSphere Client滑鼠操作異常
+
+👉 如何解決VMware Player 或VMware Workstation虛擬機顯示黑屏問題？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在Fortigate防火牆和Cisco nexus 9000兩個端點Port進行網路定速？]]></title>
+        <id>https://itorz324.blogspot.com/2022/03/how-to-set-port-speed-for-fortigate-and-cisco-switch.html</id>
+        <link href="https://itorz324.blogspot.com/2022/03/how-to-set-port-speed-for-fortigate-and-cisco-switch.html"/>
+        <updated>2022-04-15T14:18:00.016Z</updated>
+        <summary type="html"><![CDATA[AutoNegotiation機制，去自動決定兩個端點應該使用的速率。
+自動偵測速率失效或不穩通常是：
+新、舊設備硬體存在相容性問題。
+軟體、韌體的相容性問題。
+相關網路參數需要調整。 
+
+  
+auto-negotiation自動協商功能失效因素。 
+
+  
+  
+▍操作步驟：
+    
+Fortigate端： 
+
+    
+get system interface physical取得每個port speed
+    
+
+    
+
+    
+
+  
+diagnose hardware deviceinfo nic port7
+  
+
+  
+
+  
+
+  
+執行定速指令如下：
+
+  
+conf sys int
+Fortigate401e(interface)#edit port7
+Fortigate401e(port7)#set speed 1000full
+Fortigate401e(port7)#end
+
+  
+Cisco端：
+config t
+inter eth1/64
+speed 1000
+duplex full
+exit
+  
+參考圖示如下：
+
+  
+
+  
+可用以下3種方式確認修改後speed：
+sh inter eth1/64
+
+  
+sh run inter eth1/64
+
+  
+
+  
+ ►sh inter status
+
+  
+
+  
+
+
+  
+
+
+🔻結論是~ 
+
+
+  原本要進行定速的原因是「該網路埠一直出現掉包狀態」，定速後也改善了掉包狀況，但還是會掉包，也就是沒有實際解決問題，最後發現實際問題是出現在內網的一台「台製的交換器」燈號全亮，造成內部網路問題，此次的網路問題排除就當是一種經驗吧。
+
+ 
+▍更多的參考資源分享：
+
+
+
+  👉
+  Changing the speed of a FortiGate interface
+
+
+  👉
+  Troubleshoot Catalyst Switches to NIC Compatibility Issues
+
+
+
+  👉
+  網路傳輸三種方式參考資源：單工、半雙工、全雙工
+
+
+  👉
+  Cisco學習資訊分享
+
+
+Configuring and Troubleshooting Ethernet 10/100/1000Mb Half/Full Duplex
+    Auto-Negotiation
+
+
+▍延伸閱讀：
+
+
+  👉
+  如何透過 MAC Address 去尋找你的 Port 位置 |  以Cisco Switch
+    2960為範例
+
+
+  👉
+  如何設定 Cisco Switch telnet Console Timeout 時間]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAP 設定權限出現「Message no. 5@015」之問題排除？]]></title>
+        <id>https://itorz324.blogspot.com/2021/12/sap-message-no-5015.html</id>
+        <link href="https://itorz324.blogspot.com/2021/12/sap-message-no-5015.html"/>
+        <updated>2021-12-30T09:40:00.004Z</updated>
+        <summary type="html"><![CDATA[問題
+
+    
+    
+解決方式
+點擊左下方的錯誤訊息後顯示說明訊息視窗
+
+  
+
+Step3.
+在程式輸入 > SU24_AUTO_REPAIR > 執行
+
+
+  
+
+Step4.
+依照下圖步驟，輸入有問題的 Transaction Code先進行測試 Run
+
+
+
+
+ Step5.
+
+ 檢查是否有錯誤訊息
+
+
+  
+
+Step6.
+
+取消測試Run，再次正式執行
+
+
+  
+Step7.
+再次檢查是否有錯誤訊息
+
+Step8.
+檢查訊息是否正常
+
+Step9.
+權限設定已正常
+
+
+  
+
+
+
+  ▼延伸閱讀：
+
+
+如何申請SAP Object key？
+
+
+
+  👉
+  解決 SAP GUI 安全性問題-無法匯出檔案
+  
+如何申請 SAP Developer Key詳細步驟說明]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
         </author>
     </entry>
     <entry>
@@ -4622,6 +7304,982 @@ Ubuntu-20.04 (默认)
         <summary type="html"><![CDATA[由于在家里搭建了博客，Git 等服务， 经过了阿里云用 Nginx 做了 TCP Proxy, 导致了一个问题，家里看到的服务访问 IP 都是转发服务器的 IP，无法看到真实IP。联想到平常 LB 上的是支持 PROXY Protocol 转发真实IP, 于是搜了一下，Nginx 还真支持！]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何在 「Microsoft Edge啟用Tab Search」？]]></title>
+        <id>https://itorz324.blogspot.com/2021/11/how-to-enable-tab-search-in-microsoft-edge.html</id>
+        <link href="https://itorz324.blogspot.com/2021/11/how-to-enable-tab-search-in-microsoft-edge.html"/>
+        <updated>2021-11-22T16:24:00.096Z</updated>
+        <summary type="html"><![CDATA[如果你有特別注意「Tab Search」這個功能，你會發現 Google Chrome和 Firefox
+  等瀏覽器都已經內建「搜尋分頁」這個功能。
+
+
+  Chrome的這個功能，在之前的文章裡曾經介紹過「如何啟用「Chrome 搜尋分頁」功能，快速搜尋到你要的Chrome 分頁」，當時還是開發中的一個功能，目前在 Chrome
+  89版後已經內建此功能。開啟Chrome後你可以在右上角發現多出一個向下的小箭頭，此為新增的「搜尋分頁」功能，它可以幫助你快速查找開啟的眾多分頁。
+
+
+  
+
+
+
+
+  至於在Firefox
+  94.01版上開啟時，你可能頓時會看不出這個功能在何處？在Firefox比較特別的是，你必須要開到一定的分頁，這個功能才會出現。
+
+
+
+  
+
+
+
+  如何在 「Microsoft Edge啟用Tab Search」？
+目前在 Microsoft Edge
+  96版尚未提供此功能，不過我們可以透過一些方式去開啟，參考作法如下：
+
+
+  STEP1.
+
+選取 Microsoft Edge > 右鍵 > 內容 
+
+
+
+
+
+STEP2.
+
+捷徑 > 目標 > 新增 >「 --enable-features=msTabSearch」
+
+
+
+STEP3.
+
+
+  開啟左上角的「垂直索引標籤」> 可以看到多了一個「搜尋索引標籤」選項
+
+
+另外你也可以在 Google Chrome及Microsoft Edge上使用「搜尋分頁的快速鍵」去快速開啟它👉【Ctrl+Shift+A】
+結語：
+以往在「搜尋分頁」時需要一個個去點擊分頁，十分沒有效率，現在「搜尋分頁」這個功能對於喜歡開眾多分頁的使用者來說，真的是一項很方便的功能。
+▼延伸閱讀：
+
+
+  👉
+  3大瀏覽器如何快速開啟或關閉我的最愛列？
+如何使用瀏覽器快速幫網址產生「QR Code」？
+如何讓新版 Microsoft Edge 預設使用 InPrivate 模式啟動 | 啟動 InPrivate
+    的四種方式]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIX 問題排除-【0516-787 extendlv: Maximum Allocation for Logical Volume】| 2種方式變更MAX LPs詳細步驟]]></title>
+        <id>https://itorz324.blogspot.com/2021/11/aix-0516-787-extendlv-maximum-allocation-for-lv.html</id>
+        <link href="https://itorz324.blogspot.com/2021/11/aix-0516-787-extendlv-maximum-allocation-for-lv.html"/>
+        <updated>2021-11-15T07:44:00.332Z</updated>
+        <summary type="html"><![CDATA[問題：
+
+
+
+
+  當你在 AIX環境進行 filesystem extend 作業時，你遇到「0516-787 extendlv:
+  Maximum Allocation for Logical Volume」應該怎麼處理？
+
+
+  
+
+
+  這問題的主要原因是：每個 Logical Volume在建立時預設了 MAX
+  LPs，我們只要增加此數值即可解決此問題。 
+
+
+
+
+
+
+
+
+  作業環境：
+
+
+AIX 7.1版本
+
+
+  作業步驟：
+
+二種作業方式參考如下：
+使用 Command Line
+
+  
+使用 smit 
+
+
+
+
+
+▼使用 Command Line
+Step1.檢查目前 lv的MAX LPs Size
+假設 lv name是 ftplv
+#lslv ftplv  
+
+
+  
+
+ Step2.變更MAX LPs Size為4096
+#chlv -x 4096 ftplv
+
+
+
+
+
+
+▼使用 SMIT 
+
+執行 smit
+Step1.System Storage Management (Physical & Logical Storage)
+
+
+  
+
+
+Step2.Logical Volume Manager
+
+
+
+Step3.Logical Volumes
+
+
+
+Step4.Set Characteristic of a Logical Volume
+
+
+
+Step5.Change a Logical Volume
+
+
+
+Step6.使用F4 或 Esc+4
+
+
+  
+
+
+Step7.選擇要變更的 lv name
+
+
+  
+
+
+
+
+
+Step9.OK
+
+
+  
+
+
+Step10.驗證 extend filesystem 已正常
+
+
+  
+
+
+
+
+  ▼參考資源：
+
+
+  👉
+  台部落- AIX上增加邏輯卷時報錯誤0516-787 extendlv
+JUST DUCK IT-maximum-allocation-for-logical-volume
+
+▼延伸閱讀：
+👉  如何在aix下新增一個lv和掛載filesystem
+👉  AIX NFS 異常處理 | access denied
+👉  AIX Shell Script 排程作業-每月最後一天執行範例]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何申請 SAP Developer Key詳細步驟說明]]></title>
+        <id>https://itorz324.blogspot.com/2021/11/how-to-register-sap-developer-key.html</id>
+        <link href="https://itorz324.blogspot.com/2021/11/how-to-register-sap-developer-key.html"/>
+        <updated>2021-11-14T10:16:00.012Z</updated>
+        <summary type="html"><![CDATA[為什麼需要一個開發金鑰 (Developer Key)？
+
+
+  在 SAP 的環境裡，如果開發人員想要對 SAP Source或 SAP Dictionary
+  Object進行手動更改，則他們需要一個 Developer Key。
+一開始開發人員會收到一個SAP 開發存取需求視窗，如下圖：
+
+
+  
+
+
+  
+
+
+ 
+
+
+  如何申請 SAP Developer Key？
+
+
+STEP1.
+連線
+  SAP One Support Launchpad網站
+
+
+  
+https://launchpad.support.sap.com/
+  
+https://launchpad.support.sap.com/#/sscr
+  
+如何申請SAP Object key)
+
+
+  STEP2.
+選擇 Developers > Register
+
+
+
+STEP3.
+填入開發人員的 SAP帳號 > 點選「Register」並勾選要開發的系統
+  Installation Number
+
+
+  
+
+
+🔷 多位 User同時申請
+
+
+
+
+  STEP4.
+取得你要的「Developer Key」 
+
+
+
+
+
+
+
+▼參考資料：
+
+
+   👉
+  SAP BASIS Tuts - Registering developers for SSCR/developer key
+
+▼延伸閱讀：
+
+
+如何申請SAP Object key？
+
+
+  👉
+  解決 SAP GUI 安全性問題-無法匯出檔案
+  
+如何解壓縮SAP SAR檔？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PearOCR 完全免費的「在線OCR 文字識別」工具， 輕鬆轉換圖片上的文字]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/free-online-ocr-convert.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/free-online-ocr-convert.html"/>
+        <updated>2021-10-31T06:00:00.032Z</updated>
+        <summary type="html"><![CDATA[前言： 
+OCR稱為「光學字元識別」（英文全名是 Optical Character Recognition ），主要功能是用來將文字資料的圖像檔案進行分析辨識處理，取得文字及版面資訊的過程。 
+
+
+  
+「在線OCR 文字識別」網站，支援繁中、簡中、英文。
+
+
+  如果你有圖片轉文字或擷取圖片內文字的需求，你一定要試試看這個線上平台，因為它的操作十分直覺和簡單。
+
+
+  且市面上提供的OCR軟體大部分有識別次數和檔案大小的限制，或者需要收費才能解除限制，而
+  PearOCR的識別則完全免費，沒有次數和檔大小限制。
+
+
+
+
+  ▼網址： 
+網站：https://pearocr.com/
+https://doc.pearocr.com/
+
+
+
+  ▼操作步驟：
+
+
+  STEP1.
+
+選擇要辨識的語言 
+
+
+  
+
+
+STEP2.
+選擇上傳「本機電腦上的圖片」或使用「拖動方式上傳圖片」
+
+
+
+
+STEP3.
+
+上傳後等待掃描中
+
+
+
+STEP4.
+
+
+  右側為辨識後的「文字」，辨識的準確度會和該「圖片的清晰度」息息相關。 
+
+
+
+STEP5.
+
+
+  點選以「純文字方式顯示」，之後我們就可以copy轉換後文字拿來稍作修改，達到快速輸出的效果。
+
+
+  
+
+
+  STEP6.
+
+另外我們測試一下，若圖片字體傾斜，一樣可以辨識無誤。
+
+
+  
+
+
+
+結語：
+ PearOCR有以下三個優點：
+
+完全免費。
+圖片字體的「中文辨識度上」高。
+「所見及所得」，不需要下載才能看到輸出結果。 
+
+若您心中有更優的OCR工具也請不吝分享給大家。
+
+▼延伸閱讀：
+
+
+  👉
+  如何「秒」從微軟英文網站找到對應中文頁？
+3個超強「免費線上去背網站」
+如何「使用GIF動態圖檔輔助教學」？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何使用瀏覽器快速幫網址產生「QR Code」]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/how-to-use-browser-quickly-generate-qr-code.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/how-to-use-browser-quickly-generate-qr-code.html"/>
+        <updated>2021-10-29T07:53:00.006Z</updated>
+        <summary type="html"><![CDATA[如果你想幫網址產生QR Code，現在3大瀏覽器其中有2個已經內建該功能。
+
+
+  作法參考如下：
+
+
+  
+
+
+▼步驟如下：
+
+Microsoft Edge
+使用滑鼠點選網址列後 >
+    點擊右側出現的圖示
+
+    
+
+    
+選擇「下載」
+
+    
+
+    
+Google Chrome
+使用滑鼠點選網址列後 >
+    點擊右側出現的圖示。(其實和 Microsoft Edge是一樣的)
+
+    
+
+    
+選擇「下載」
+
+    
+Firefox
+安裝 Firefox擴充套件：Url to QrCode
+👉Firefox 擴充套件連結
+👉Url to QrCode 安裝連結
+
+    
+
+    
+選擇「新增至 Firefox」
+
+    
+
+    
+切換到你要的網頁後 > 點選網址右側的「URL to QR code」
+
+    
+
+    
+點選QR Code圖示按下右鍵 > 選擇「圖片另存新檔」
+
+    
+
+    
+
+
+  ▼結語
+▼延伸閱讀
+
+
+  👉
+  3大瀏覽器如何快速開啟或關閉我的最愛列？
+
+
+  👉
+  如何找回或刪除你的 Google歷史瀏覽記錄？
+
+
+  👉
+  如何變更預設瀏覽器? (WIN7 / WIN8 / WIN10)]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何透過WIndows Command快速查尋MAC Address及網卡製造商]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/how-to-find-mac-address-and-nic-manufacturer.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/how-to-find-mac-address-and-nic-manufacturer.html"/>
+        <updated>2021-10-27T08:39:00.003Z</updated>
+        <summary type="html"><![CDATA[前言 ：
+
+
+
+▼作業環境：
+
+
+Windows 7 or Windwos 10.
+
+
+
+  ▼作業步驟：
+
+
+
+  STEP1.
+
+開始 > 執行 >  cmd (命令提示字元)
+
+
+  
+
+
+  STEP2.
+
+可以先執行 getmac help 查看Command使用方式
+執行 > getmac /?
+
+
+
+
+  STEP3.
+
+執行 > getmac /v 即可查看詳細資訊，包含MAC Address 及網路卡介面廠商。
+若你的電腦有使用虛擬網卡也會一併列出，是不是簡單又方便呢？
+
+
+  
+
+
+
+  
+        ✅另外我們也可以透過線上網站查詢網卡製造商：
+      
+
+
+透過 Google 搜尋 >  MAC Vendor
+
+👉 https://macvendors.com/
+
+
+  
+
+
+▼結語：
+
+
+  通常會發生需要查找「網卡MAC或網卡製造商」，大概就是因為內部網路出現問題，需要知道是那個網卡造成，透過這個方式過濾可以把問題範圍縮小，其他就要看網管人員的功力了。
+
+
+
+  ▼延伸閱讀
+👉 使用 xcopy | robocopy 「複製目錄結構不含檔案」的兩種作法
+👉 【Windows Command 教學】"DIR" 指令如何使用?
+👉  產生樹狀目錄結構圖超簡單，使用Windows Command 「tree」指令來執行]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【IT技巧分享】3大瀏覽器如何快速開啟或關閉我的最愛列？]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/how-to-quickly-open-or-close-the-favorites-bar.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/how-to-quickly-open-or-close-the-favorites-bar.html"/>
+        <updated>2021-10-25T04:14:00.005Z</updated>
+        <summary type="html"><![CDATA[前言：
+要怎麼「快速開啟或關閉我的最愛列」？
+
+
+
+
+
+  ▼先看各大瀏覽器怎麼顯示「我的最愛列」：
+
+
+  
+Microsoft Edge
+個人覺得在Microsoft Edge
+    上要用滑鼠取點選顯示「我的最愛列」並不是很方便。
+參考步驟如下：
+設定
+    > 外觀 > 顯示我的最愛列 > 選擇「永遠」
+
+    
+
+    
+Google Chrome
+設定 > 外觀 > 顯示我的最愛列
+    
+
+    
+
+    
+Firefox
+在 Firefox網址右側空白處【按下右鍵】 >
+    書籤工具列 > 選擇【每次都顯示】
+
+    
+
+    
+▼結論
+答案就是使用快速鍵【ctrl + Shift + b】
+
+
+
+按一下【ctrl + Shift + b】 > 開啟
+再按一下【ctrl + Shift + b】 > 關閉
+且 3大瀏覽器都是使用一樣的快速鍵
+
+▼延伸閱讀： 
+如何快速重啟你的 Chrome 釋放記憶體並保留分頁？
+如何找回或刪除你的 Google歷史瀏覽記錄？
+
+
+  👉
+  Chrome 還能使用 FTP嗎？
+
+
+  👉
+  如何變更新版 Microsoft Edge 中的預設搜尋引擎？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【AIX 學習】如何在aix下新增一個lv和掛載filesystem]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/how-to-create-lv-and-mount-a-jfs2-filesystem-on-aix.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/how-to-create-lv-and-mount-a-jfs2-filesystem-on-aix.html"/>
+        <updated>2021-10-24T13:34:00.057Z</updated>
+        <summary type="html"><![CDATA[前言： 
+若要在IBM的 aix系統下建立一個 lv應該怎麼做呢？
+本篇記錄一下「如何在aix下新增一個 lv並掛載 filesystem」的作業方式。
+
+
+
+
+作業環境：
+
+
+AIX 7.1版本
+
+
+  作業步驟：
+
+
+STEP1.
+建立前我們可以先檢查 vg空間：
+lsvg rootvg (vg name視你要增加的 vg而定，此範例為 rootvg )
+順便從 Free PPs檢查該
+  vg剩餘空間
+
+接著開始建立 LV 
+
+執行 > smit lv
+
+
+  
+
+
+
+STEP2.
+選擇 > 「Add a Logical Volume」
+
+
+  
+
+
+STEP3.
+使用F4或【Esc+4】去選擇需要的選項。
+rootvg 
+
+
+
+STEP4.
+自訂 lv name > 此處輸入為 sourcelv
+40
+  (等於10GB)
+此處可從第一個圖找出 PP Size=256MB
+ 
+因此1G=4個單位PP Size
+ 
+10G=40個單位PP Size
+Logical volume TYPE > 選擇 jfs2 
+Enter
+
+
+  
+
+
+STEP5.
+OK
+
+
+  
+
+
+STEP6.
+接著我們建立一個 jfs2 type的filesystem
+執行 > smit jfs2
+
+
+  
+
+
+STEP7.
+「Add an Enhanced Journaled File System on a Previously Defined Logical
+    Volume」
+
+
+
+STEP8.
+sourcelv
+
+
+  Mount Point自訂filesystem 名稱 >
+  【/ibmsrc】
+
+先不選擇自動Mount > no
+
+
+  
+
+
+STEP9.
+OK
+
+
+  
+
+
+STEP10.
+執行 > mount /ibmsrc
+
+
+  
+
+
+STEP11.
+執行 > df -g
+確認已掛載且為10G
+
+
+
+▼延伸閱讀
+AIX 問題排除-【0516-787 extendlv: Maximum Allocation for Logical Volume】| 2種方式變更MAX LPs詳細步驟
+
+
+  👉
+  AIX Shell Script 排程作業-每月最後一天執行範例
+
+
+  👉
+  AIX NFS 異常處理 | access denied
+
+
+  👉
+  IBM HMC Console 登出作業方式]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VM 硬碟也會損壞？先不用重裝，試試用這個方法修復？]]></title>
+        <id>https://itorz324.blogspot.com/2021/09/how-to-fix-vm-disk.html</id>
+        <link href="https://itorz324.blogspot.com/2021/09/how-to-fix-vm-disk.html"/>
+        <updated>2021-09-29T14:28:00.003Z</updated>
+        <summary type="html"><![CDATA[VM (Virtual Machine)
+  就像正常電腦一樣，若作業不當或不正常開關機也會導致硬碟故障、損壞。運氣好我們可以使用
+  「chkdsk」修復損壞的硬碟。 
+
+若遇到 VM 硬碟損壞無法修復怎麼做？你可以試試用這個方法修復它。
+
+
+
+
+
+
+
+  ▼問題描述 
+▼修復作業方式 
+【事前環境準備】 
+
+
+
+  至
+  VMware網站下載 【VMware vCenter Converter Standalone】並安裝它。(若首次登入需先註冊
+  VMware才能下載)
+
+啟動後步驟如下：
+STEP1.
+
+執行 > Convert machine
+
+
+  
+
+
+STEP2.
+
+「來源類型」請選擇 > 【VMware Infrastructure virtual machine】
+輸入來源VM 所在的VMware ESXi Server及root 密碼 > Next
+
+
+  
+
+
+STEP3.
+
+選擇 > Ignore
+
+
+  
+
+
+
+  STEP4.
+
+選擇需要修復的VM (請事先將VM關機)
+> Next
+
+
+  
+
+
+  STEP5.
+
+診斷VM狀態中(這個過程可能會需要稍等~幾分鐘)
+
+
+  
+
+
+STEP6.
+
+若有vCenter可輸入vCenter IP及輸入root和密碼 > Next
+
+
+  
+
+
+STEP7.
+
+選擇 > Ignore
+
+
+
+STEP8.
+
+輸入目的VM名稱 > Next
+
+
+  
+
+
+STEP9.
+
+選擇目的 ESXi Server 和輸入root密碼 > Next
+
+
+
+STEP10.
+
+這邊可調整VM資源，包括硬碟大小；若無調整需求可按 > Next
+
+
+
+
+
+STEP11.
+
+確認設定後 > 選擇「完成」即可開始進行Convert
+
+
+  
+
+
+
+
+  STEP12.
+
+開始進行Convert
+
+
+
+STEP13.
+
+完成Convert
+
+
+  
+
+
+STEP14.
+
+啟動VM
+
+
+  
+
+
+STEP15.
+
+
+  沒有再發生「Checking file system on C」(根據經驗若再發生，通常可以等待 Chkdsk
+  跑完後再重開機，即可正常)
+
+
+完成修復
+
+
+▼相關參考：
+2012r2 vm running check disk perpetually
+
+
+  ▼延伸閱讀
+
+
+👉 升級 VMware vCSA 步驟 | vcsa 6.7 update
+👉 如何解決VMware Player 或VMware Workstation虛擬機顯示黑屏問題？
+👉 升級到WIN10 後vSphere Client滑鼠操作異常？]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Synology NAS 上使用 Google Secure LDAP]]></title>
+        <id>http://prototypingideas.blogspot.com/2021/09/synology-nas-google-secure-ldap.html</id>
+        <link href="http://prototypingideas.blogspot.com/2021/09/synology-nas-google-secure-ldap.html"/>
+        <updated>2021-09-12T07:05:00.004Z</updated>
+        <summary type="html"><![CDATA[[本文參考 Synology 官方文件 How do I join my Synology NAS to Google Secure LDAP?]
+教育版 Google Workspace for Education Fundamentals (GWEF) 也支援 Google Secure LDAP 了！也就是說伺服器可以綁定 Google Workspace 網域帳號作為登入或權限管制，逐步擺脫 AD 的限制。
+Synology NAS 使用 Google Secure LDAP 的綁定方式如下：
+1. 條件：
+
+
+Google Workspace 版本需支援 Google Secure LDAP 服務，Education Fundamentals 是 OK 的。
+以管理員身份登入 Synology NAS。
+Synology DSM 版本要 6.2.2 以上。
+
+
+2. 設定 Google Secure LDAP 服務
+
+
+在 Google Workspace 管理介面，前往 Apps > LDAP。
+新增一組 LDAP clients 設定。
+設定 LDAP client 權限：原則上 Verify user credential 和 Read user information 設為可檢閱整個網域(Entire Domain)，並打開 Read group information 檢閱群組資訊。
+用 Generate New Certificate 產生新的驗證憑證，下載憑證zip檔後解壓縮得到憑證(.crt)和金鑰(.key)。
+接著按 Generate access credentials 產生存取憑證。
+
+3. 設定 NAS
+
+
+DSM 7
+
+前往控制板 Control Panel > Domain/LDAP > Domain/LDAP。
+按「加入（Join）」，設定如下：
+
+Server type: 選 Auto-detect 或 LDAP
+Server address: 輸入 ldap.google.com
+下一步
+Bind DN or LDAP administrator account: 輸入 Google Secure LDAP 的管理員帳號
+Password: 輸入 Google Secure LDAP 管理員密碼
+Encryption: 選 SSL/TLS
+Base DN: 輸入 Google Secure LDAP 所屬網域。若帳號是 synotest@syno.net 則網域是 syno.net，故 base DN 為 dc=syno,dc=net
+Profile: 選 Standard
+勾選 Enable client certificate
+然後上傳剛剛下載的 client certificate。Certificate是.crt檔，Private Key是.key檔。
+下一步，待綁定檢查完成。
+
+完成綁定後，回到 Domain/LDAP 分頁，按上方的 Edit。在進階 Advanced 分頁中：
+
+勾選 Enable CIFS plain text password authentication
+不要勾選 Expand nested groups
+
+
+
+DSM 6.2.2
+
+前往控制板 Control Panel > Domain/LDAP > LDAP。
+啟用 Enable LDAP Client
+設定數值如下：
+
+LDAP Server address: 輸入 ldap.google.com
+Encryption: 選 SSL/TLS
+Base DN: 輸入網域，如 dc=syno,dc=net
+Profile: 選 Standard
+勾選 Enable CIFS plain text password authentication
+勾選 Do not expand nested groups
+勾選 Enable client certificate
+然後上傳剛剛下載的 client certificate。Certificate是.crt檔，Private Key是.key檔。
+按 OK 儲存，按 Apply 套用。
+
+當跳出對話框要求帳密時，輸入 Google Secure LDAP 的管理員帳密。
+
+4. 取消 LDAP 綁定
+
+
+DSM 7: 前往 Control Panel > Domain/LDAP > Domain/LDAP，勾選 Leave LDAP。
+DSM 6.2.2: 前往 Control Panel > Domain/LDAP > LDAP，取消勾選 Enable LDAP Client。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
         </author>
     </entry>
     <entry>
@@ -4675,6 +8333,127 @@ Ubuntu-20.04 (默认)
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[如何自行設計 「Windows 10 安全模式」成為開機選單？]]></title>
+        <id>https://itorz324.blogspot.com/2021/08/how-to-add-safe-mode-to-windows10-boot-menu.html</id>
+        <link href="https://itorz324.blogspot.com/2021/08/how-to-add-safe-mode-to-windows10-boot-menu.html"/>
+        <updated>2021-08-04T15:05:00.000Z</updated>
+        <summary type="html"><![CDATA[首先說明一下為什麼要增加一個「Windows 10 安全模式」開機選單？
+因為 Windows10更新不定時出現問題，系統又無法「禁用 Windows Update」。
+例如近期【更新顯示驅動後出現黑屏狀況】。
+【延伸閱讀】 👉
+  Windows 10 黑屏自救術？不用送修用這招解決。
+
+
+  因此若我們增加一個安全模式在開機選單，異常發生時我們便可以快速重開機進入安全模式。
+
+
+
+  ▼參考作業方式如下：
+
+STEP1.
+以系統管理者身分執行「命令提示字元」
+
+
+
+STEP2. 
+輸入「bcdedit /copy {current} /d "安全模式"」
+
+
+  
+
+
+STEP3.
+執行「msconfig」進入微軟系統設定公用程式。
+
+
+  
+
+
+STEP4.
+切換至【開機】> 點選【安全開機及最基本安全開機方式】>【設定開機等候秒數】
+
+
+
+STEP5.
+重新啟動
+
+
+
+STEP6.
+重新開機後即出現【安全模式】的開機選單。
+若未變更設定，預設是30秒內若未選擇任一清單，則自動進入 Windows10
+
+
+  
+
+
+STEP7.
+進入 Windows 10安全模式畫面
+
+
+當系統出現異常需要進「入安全模式」時，我們就可以使用開機選單方式快速進入安全模式。
+若我們不想影響開機登入時間，也可以將預設秒數減少，如此便能多增加一項選擇。 
+
+▼延伸閱讀
+
+
+  👉
+  Windows 10 黑屏自救術？不用送修用這招解決。
+
+
+  👉
+  如何調整 Windows10桌面圖示間距？
+解決 WINDOWS10 已安裝SMB1.0/CIFS Client
+    仍然無法連線網路芳鄰或網路磁碟機？
+善用 Windwos 10進階搜尋功能連「檔案內文」都找的到。]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何「秒」從微軟英文網站找到對應中文頁]]></title>
+        <id>https://itorz324.blogspot.com/2021/10/microsoft-english-website-to-chinese.html</id>
+        <link href="https://itorz324.blogspot.com/2021/10/microsoft-english-website-to-chinese.html"/>
+        <updated>2021-08-02T10:33:00.006Z</updated>
+        <summary type="html"><![CDATA[Micorsoft Support、Microsoft Docs....等。
+
+你會發現 Micorsof有些網站你只要改網址幾個字就可以轉到中文網頁。
+(PS.不是全部，有些則會透過翻譯)
+
+ 
+
+▼參考作業方式如下：
+
+►變更英文網址內的 > en-us 變更為 zh-tw
+
+
+  
+
+
+►變更為中文頁後
+
+
+
+►使用 Chrome翻譯中文頁
+
+
+其實「微軟相關網站」在「語言支援度上」一直都很不錯，且一直都有支援繁體中文，下次遇到微軟英文網站，你也可以試試看喔。
+
+
+  ▼延伸閱讀
+
+
+  👉
+  微軟停止更新的Hotfix如何下載？就在「Microsoft Update Catalog」網站。
+  
+什麼是Microsoft NCSI ?
+    Outlook無法收信、Outlook無法連線跟這個有什麼關係？
+Windows 10 黑屏自救術？不用送修用這招解決！]]></summary>
+        <author>
+            <name>阿湯哥IT三兩事</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Go学习笔记（十）老项目迁移 go module 大型灾难记录]]></title>
         <id>https://razeen.me/posts/accidents-of-migrating-to-go-modules/</id>
         <link href="https://razeen.me/posts/accidents-of-migrating-to-go-modules/"/>
@@ -4704,6 +8483,42 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
         <summary type="html"><![CDATA[在家里搭建了一个 GitLab 服务器，由于电信家庭宽带的公网 IP 是不固定的，且443端口是被封的，所以买了阿里云作为中转，利用 Ngnix 作 TCP Proxy 结合 DDNS ，这样就能正常上自己的 Git 了。但今天，我发现推代码怎么也推不上去，校对了密钥，服务器状态都没问题。最后上阿里云，重启了下 Nginx，发现可以了。 找了一圈原因，最后发现是 Nginx 转发缓存 DNS 解析导致的，下面我们就复现一下问题并找找为什么，以及解决方式。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[影音製播器材(中階)]]></title>
+        <id>http://prototypingideas.blogspot.com/2021/03/blog-post.html</id>
+        <link href="http://prototypingideas.blogspot.com/2021/03/blog-post.html"/>
+        <updated>2021-02-28T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[本文提供中階影音製播相關器材與資源連結，適用於小型或中型、個人或團體、活動或教學、直播或錄影等用途，基本訊號規格以 Full HD 視訊、Mono & Stereo 音訊為主。
+
+基本概念
+
+音訊常用接頭規格：Phone Jack 6.3mm (大接頭), 3.5mm Mini Jack (一般耳麥小接頭), RCA (梅花頭或Phono頭), XLR (Cannon頭), Toslink/Optical (光纖電纜), S/PDIF (數位光纖), USB, MIDI
+視訊常用接頭規格：HDMI (Standard/Mini/Micro), DisplayPort (Standard/Mini), DVI, VGA, RCA (類比視訊), YPbPr (色差端子), BNC, SDI, NDI
+訊號分配、切換、延伸、分離、調適、轉換，多用專用設備。
+
+音訊
+
+軟體：Rogue Amoeba 系列音訊工具(Mac Only)、JACK 與支援軟體、多通道輸出入ASIO4ALL for Windows 或 BlackHole for Mac
+硬體(混音器)：YAMAHA AG06、YAMAHA MG06X、Behringer Xenyx 502 or 802
+硬體(收音)：動圈式（適合一般有輕微噪音的環境）、電容式（高敏度，適合安靜環境或錄音室）、Zoom錄音麥克風
+
+
+
+視訊
+
+軟體：各類 VJ 軟體，以及支援 NDI、Syphon (Mac)、Spout (Windows) 等協定的軟體。
+硬體：HDMI 視訊擷取盒，如 AverMedia LGU (Live Gamer Ultra) GC553、Pengo 4K HDMI Grabber
+
+
+
+導播系統
+
+軟體：OBS (Open Broadcast System)
+硬體：ATEM Mini Pro]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
         </author>
     </entry>
     <entry>
@@ -4756,6 +8571,83 @@ Github Actions 是 Github 推出的自动化工作流， 就像 Gitlab 的 CI/CD
 我的主板是 微星B460M MORTAR WIFI ，驱动  R8125。类似型号安装应也差不多。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Synology NAS 作為 AD Server]]></title>
+        <id>http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html</id>
+        <link href="http://prototypingideas.blogspot.com/2020/09/synology-nas-ad-server.html"/>
+        <updated>2020-09-05T16:53:00.007Z</updated>
+        <summary type="html"><![CDATA[（2022.12.01更新）交大建築所自 2005 年開始使用 Windows Server 2003 管理微軟網域(Windows Domain)和網域帳號，供內部網路權限管理，包括網路列印、管理設備使用權限、以及網路資料夾。架設初期，各有一部 PDC 和 SDC 主機，也自行管理 DNS，還算小有規模。然而時光荏苒，由於正港網管黑手只有我一人、協助網管的學生年年交替且經驗不足、加上沒有資金升級新版 Windows Server（校方已經停止提供 Window Server 授權），到現在 2020 年了，仍仰賴古董級 Windows Server 2003 管理網域，曾歷經數次病毒入侵、主機或資料毀損導致系統重建，撐得很辛苦。
+八月初(2020.08)的一次斷電，讓僅剩的老 PDC 伺服器停擺，發現是某任管理員沒有將伺服器接上UPS而是接市電，經過多次無預警斷電、通電的突波，導致電路板上的電容爆漿而死機，更慘的是網域設定完全沒有備份、把硬碟拔到其他同型主機也沒用，慘～慘～慘～只好正式宣告本單位 Windows Server 2003 壽終正寢、網域得重建。緊急將列印伺服器中帳戶餘額資料備份後，決定邁向 NAS as AD Server 時代（幸好已經研究過一段時間）。
+
+然後，兩天內就完成重建、恢復運作了，如果了解目錄架構和角色的話，NAS 上的 AD Directory Server 設定起來蠻快的。
+其實自 2016 年起，Synology DSM (DiskStation Manager) 便支援 SMB/CIFS 協定、可以當作 AD Server，也就是可以名正言順的用 NAS 取代 Windows Server！由於缺乏好的 Use Case 當設定參考，一直沒有下定決心轉換。幸好2020年初看到官方文件、以及網路上一些文章和 YouTube 教學，仔細研究設定和使用情境後，終於確定以 Synology NAS 當作 AD Server 的實用性。
+
+
+詳細設定請參考 Synology Directory Server 管理手冊 for DSM 6.2 & Synology Directory Server 4.4
+2022最新版 Synology Directory Server 管理手冊 for DSM 7.1 & Synology Directory Server 4.10
+
+
+Synology Directory Server 4.10 (DSM 7) 相容性：
+
+
+等同於 Windows Server 2008 R2
+Samba 版本 4.10
+支援主要、次要網域控制站(Domain Controller; DC)
+
+
+以及幾項限制：
+
+
+只支援單一網域。
+會自動開啟 SMB 簽章（SMB Signing），這會拖慢檔案傳輸的速度。如果介意的話，可以手動關閉伺服器端的簽章，當然關閉後也降低安全性，需自負安全風險。用戶端也可以關掉：
+
+macOS：手動增加一個設定檔 /etc/nsmb.conf，內容為：
+[default]
+signing_required=no
+
+此外，Synology Directory Server 的介面僅提供基本管理功能，包括 OUs (Organization Unit), Users, Groups, Computers, Domain Controllers，然後就沒了。如果要用群組原則(Group Policy)，必須從一台已加入網域的電腦上執行 RSAT（Windows Remote Server Administration Tools 遠端伺服器管理工具），可參考這篇官方說明。
+
+另一個網域上常見的 AD 問題是用戶漫遊設定檔（Roaming Profiles），為了避免拖慢使用者在電腦登入的速度，我傾向關閉漫遊設定檔，只用本機設定檔。關閉方法是：
+
+
+在 RSAT 套件中，開啟群組原則管理套件（Group Policy Management）。
+找到原則路徑 Computer Configuration\Administrative Templates\System\User Profiles。
+勾選以下兩個選項 “Only allow local user profiles” 和 “Prevent Roaming Profile Changes from propagating to the server”，即可停用漫遊設定檔。
+
+
+參考網路資源：
+
+
+非官方 Synology 論壇
+[專題] Synology 進階應用：企業 AD 與 DNS 集中式整合管理 (上) ← 疑似翻譯自大陸網站？]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mac影片剪輯工作格式盡可能用ProRes]]></title>
+        <id>http://prototypingideas.blogspot.com/2020/08/macprores.html</id>
+        <link href="http://prototypingideas.blogspot.com/2020/08/macprores.html"/>
+        <updated>2020-08-30T13:25:00.006Z</updated>
+        <summary type="html"><![CDATA[一般在 MacOS 中剪輯影片多以 Final Cut Pro、Premiere Pro、After Effect 三種平台進行。最近我和兒子在 Premiere Pro 剪輯影片時偶而因為影片素材格式問題而造成意外當機，在網路搜尋解方後，普遍看到的建議是盡量採用蘋果的 ProRes 格式作為工作格式。
+Adobe 員工 kevin_monahan 的建議如下：
+
+
+匯入素材影片時，將其轉碼為 ProRes LT（適合效能中階以上的電腦）或 ProRes Proxy（適合效能較低或老舊的電腦）。
+在 Sequence Settings 中，將預覽編碼格式（render preview codec）改為 ProRes LT。
+匯出影片時，使用 smart rendering。基本上就是將整段時間軸用 ProRes LT 編碼計算，也用 ProRes LT 格式輸出（要打開 Using Preview 選項）。之後若需要 H.264 格式，再另行轉檔。
+
+在這篇關於 Premiere Pro 2020 預覽與當機問題的討論串中，davidarbor 提到 Premiere Pro 在特定工作中使用 Proxy 的時機，值得參考。
+
+
+關於 ProRes 編碼格式的中文介紹，可以參考這篇精研事務所的文章「6種 ProRes 格式，你應該選哪種呢？」或者詳讀官方的 Apple ProRes 白皮書。簡單來說，一般到半專業用途的影片剪輯用 ProRes Proxy 和 ProRes LT 已經足夠，以 Full HD (1920 x 1080) 29.97 fps 來說，兩種編碼格式分別是每秒鐘 45Mb 和 102 Mb 位元率。專業剪輯才需要考慮 ProRes 422, ProRes HQ, ProRes 444, ProRes 444 XQ 等格式，資料傳輸量當然就十分驚人。
+
+
+Apple 近期推出 ProRes RAW 還沒有時間仔細了解，大家有空可以看蘋果官方文件或杰克森林的「為什麼ProRes RAW很強大？」自行研究。]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
         </author>
     </entry>
     <entry>
@@ -4956,6 +8848,16 @@ tmpfs 497M 0 497M 0% /dev/shm
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[交大Sigfox基地台]]></title>
+        <id>http://prototypingideas.blogspot.com/2018/02/sigfox.html</id>
+        <link href="http://prototypingideas.blogspot.com/2018/02/sigfox.html"/>
+        <updated>2018-09-29T08:16:00.000Z</updated>
+        <summary type="html"><![CDATA[很高興有機會與 Sigfox + Unabiz 合作，納入智慧校園版圖！]]></summary>
+        <author>
+            <name>Prototyping Ideas</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[IPFS 初体验，利用 IPFS 托管你的静态网站]]></title>
         <id>https://razeen.me/posts/start-ipfs-gateway/</id>
         <link href="https://razeen.me/posts/start-ipfs-gateway/"/>
@@ -4964,6 +8866,56 @@ tmpfs 497M 0 497M 0% /dev/shm
 其实IPFS是一种协议，全称为Inter-Planetary File System，是一种点对点超媒体协议，旨在取代旧的HTTP，使网络更快，更安全，更开放。]]></summary>
         <author>
             <name>Razeen`s Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网站运维工具，数据备份一键shell脚本]]></title>
+        <id>https://www.moewah.com/archives/13.html</id>
+        <link href="https://www.moewah.com/archives/13.html"/>
+        <updated>2018-09-21T11:56:00.000Z</updated>
+        <summary type="html"><![CDATA[都说数据无价！对于网站主来说最重要的永远是数据！数据是网站的根本，在确保数据安全之前，莫谈网站收益。数据备份，是每一个站长都应该重视的事情。多数站长同时拥有多个服务器，显而易见的备份也成为了一件...]]></summary>
+        <author>
+            <name>MoeWah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apache/Nginx/PHP屏蔽垃圾UA爬虫的方法]]></title>
+        <id>https://www.moewah.com/archives/12.html</id>
+        <link href="https://www.moewah.com/archives/12.html"/>
+        <updated>2018-09-21T11:51:00.000Z</updated>
+        <summary type="html"><![CDATA[最近发现手上有个站点访问速度非常慢，看了nginx 日志发现有好多宜搜等垃圾的抓取记录，这些垃圾爬虫既不遵守 robots 规则对服务器造成压力，还不能为网站带来流量的无用爬虫，于是从网络上整理...]]></summary>
+        <author>
+            <name>MoeWah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何隐藏PHP/Nginx版本信息]]></title>
+        <id>https://www.moewah.com/archives/10.html</id>
+        <link href="https://www.moewah.com/archives/10.html"/>
+        <updated>2018-09-21T11:47:00.000Z</updated>
+        <summary type="html"><![CDATA[其实隐藏 Nginx 版本号无非就是为了防止“各版本公开的漏洞”被人利用而已，这点 Nginx 其实很早就考虑到了，在Nginx 的配置文件里只要加上server_tokens off就可以在网...]]></summary>
+        <author>
+            <name>MoeWah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPUlimit有效防止Linux系统CPU过载]]></title>
+        <id>https://www.moewah.com/archives/9.html</id>
+        <link href="https://www.moewah.com/archives/9.html"/>
+        <updated>2018-09-21T11:42:00.000Z</updated>
+        <summary type="html"><![CDATA[最近使用Nginx服务器测试 pagespeed 的加速效果时，发现这货会造成 CPU 占用过高，Nginx 经常 100%，尽管使用的是静态缓存，总是触发主机商的CPU占用上限，不停的被强制关...]]></summary>
+        <author>
+            <name>MoeWah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux系统开启缓存服务NSCD]]></title>
+        <id>https://www.moewah.com/archives/8.html</id>
+        <link href="https://www.moewah.com/archives/8.html"/>
+        <updated>2018-09-21T11:35:00.000Z</updated>
+        <summary type="html"><![CDATA[NSCD(Name Service Cache Daemon)是服务缓存守护进程，它为NIS和LDAP等服务提供更快的验证。不管是什么系统，缓存是一项非常重要的技术[或机制]，缓存的主旨就是提高...]]></summary>
+        <author>
+            <name>MoeWah</name>
         </author>
     </entry>
     <entry>
