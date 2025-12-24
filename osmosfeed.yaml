@@ -3,7 +3,14 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+# Cache configuration - persist all indexed articles indefinitely
+# cacheUrl will be uncommented after first successful deployment
+# cacheUrl: https://503badgateway.github.io/rss-search/cache.json
+cacheMaxDays: 36500 # 100 years - effectively never delete articles
+
+# Site configuration
+siteTitle: "RSS Search Engine"
+
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://css-tricks.com/feed/
