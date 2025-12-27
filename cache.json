@@ -6,6 +6,536 @@
       "siteUrl": "https://bf.zzxworld.com",
       "articles": [
         {
+          "id": "https://556799.xyz/archives/rustxue-xi-bi-ji-1?utm_source=blogfinder",
+          "author": null,
+          "description": "Rust学习笔记(1)",
+          "link": "https://556799.xyz/archives/rustxue-xi-bi-ji-1?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T17:10:15.000Z",
+          "wordCount": 2459,
+          "title": "Rust学习笔记(1)",
+          "imageUrl": "https://556799.xyz/upload/icon.PNG"
+        },
+        {
+          "id": "https://blog.hzchu.top/2025/%E5%AF%92%E6%8B%9B%E5%AE%A3%E4%BC%A0%E7%89%87/?utm_source=blogfinder",
+          "author": null,
+          "description": "寒招 | 宣传片",
+          "link": "https://blog.hzchu.top/2025/%E5%AF%92%E6%8B%9B%E5%AE%A3%E4%BC%A0%E7%89%87/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T16:41:21.000Z",
+          "wordCount": 2032,
+          "title": "寒招 | 宣传片",
+          "imageUrl": "https://blog.hzchu.top/img/avatar.webp"
+        },
+        {
+          "id": "https://yunyitang.me/2025-xmas/?utm_source=blogfinder",
+          "author": null,
+          "description": "又一年圣诞🎄",
+          "link": "https://yunyitang.me/2025-xmas/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T16:37:22.000Z",
+          "wordCount": null,
+          "title": "又一年圣诞🎄",
+          "imageUrl": null
+        },
+        {
+          "id": "https://roy.wang/lofi/?utm_source=blogfinder",
+          "author": null,
+          "description": "Lofi - 极简、纯粹、黑白风格的 Hexo 博客主题",
+          "link": "https://roy.wang/lofi/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T16:00:00.000Z",
+          "wordCount": 341,
+          "title": "Lofi - 极简、纯粹、黑白风格的 Hexo 博客主题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tilawacesoil.top/poem/%e5%8d%88%e5%90%8e%e5%bf%83%e6%82%b8/?utm_source=blogfinder",
+          "author": null,
+          "description": "午后心悸",
+          "link": "https://www.tilawacesoil.top/poem/%e5%8d%88%e5%90%8e%e5%bf%83%e6%82%b8/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T14:58:15.000Z",
+          "wordCount": 1510,
+          "title": "午后心悸",
+          "imageUrl": "https://www.tilawacesoil.top/wp-content/uploads/星空.webp"
+        },
+        {
+          "id": "https://blog.samhou.top/cpp-return-scope-life/?utm_source=blogfinder",
+          "author": null,
+          "description": "奶奶都能看懂的 C++ —— 函数返回值、作用域和生命周期",
+          "link": "https://blog.samhou.top/cpp-return-scope-life/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T13:13:02.000Z",
+          "wordCount": 1571,
+          "title": "奶奶都能看懂的 C++ —— 函数返回值、作用域和生命周期",
+          "imageUrl": "https://img.samhou.top/1760839277161.jpg"
+        },
+        {
+          "id": "https://www.mioc.cn/archives/chuan-bo-pei-ji-zai?utm_source=blogfinder",
+          "author": null,
+          "description": "船舶配积载",
+          "link": "https://www.mioc.cn/archives/chuan-bo-pei-ji-zai?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T12:56:53.000Z",
+          "wordCount": 1007,
+          "title": "船舶配积载",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mioc.cn/archives/li-yu-gu-zhou-zai-man-qian-nian-chou-xu?utm_source=blogfinder",
+          "author": null,
+          "description": "李煜的孤舟，载满千年愁绪",
+          "link": "https://www.mioc.cn/archives/li-yu-gu-zhou-zai-man-qian-nian-chou-xu?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T11:14:54.000Z",
+          "wordCount": 1007,
+          "title": "李煜的孤舟，载满千年愁绪",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5746.html?utm_source=blogfinder",
+          "author": null,
+          "description": "教你绕过 Worker 免费计划中 10ms 的 CPU 时间限制，另附各家 AI 对该方法的搜索和评估结果。",
+          "link": "https://blog.xiaohack.org/5746.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:45:51.000Z",
+          "wordCount": 4869,
+          "title": "教你绕过 Worker 免费计划中 10ms 的 CPU 时间限制，另附各家 AI 对该方法的搜索和评估结果。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5737.html?utm_source=blogfinder",
+          "author": null,
+          "description": "【开源】分享一个我自用拆解学习开源项目的提示词",
+          "link": "https://blog.xiaohack.org/5737.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:45:05.000Z",
+          "wordCount": 2551,
+          "title": "【开源】分享一个我自用拆解学习开源项目的提示词",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5733.html?utm_source=blogfinder",
+          "author": null,
+          "description": "开源自荐，MQTT 调试器，请大佬们帮忙看看",
+          "link": "https://blog.xiaohack.org/5733.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:44:07.000Z",
+          "wordCount": 2512,
+          "title": "开源自荐，MQTT 调试器，请大佬们帮忙看看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5730.html?utm_source=blogfinder",
+          "author": null,
+          "description": "智谱请所有「GLM Coding Plan」用户喝杯奶茶",
+          "link": "https://blog.xiaohack.org/5730.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:41:46.000Z",
+          "wordCount": 2522,
+          "title": "智谱请所有「GLM Coding Plan」用户喝杯奶茶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5729.html?utm_source=blogfinder",
+          "author": null,
+          "description": "sing-box 规则集 json 转 srs",
+          "link": "https://blog.xiaohack.org/5729.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:40:22.000Z",
+          "wordCount": 2484,
+          "title": "sing-box 规则集 json 转 srs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5727.html?utm_source=blogfinder",
+          "author": null,
+          "description": "免費 canva 教育版 [還不快加入]",
+          "link": "https://blog.xiaohack.org/5727.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:39:52.000Z",
+          "wordCount": 2446,
+          "title": "免費 canva 教育版 [還不快加入]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.mioc.cn/archives/shi-pin-bi-zhi-tui-jian?utm_source=blogfinder",
+          "author": null,
+          "description": "视频壁纸推荐",
+          "link": "https://www.mioc.cn/archives/shi-pin-bi-zhi-tui-jian?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T10:11:57.000Z",
+          "wordCount": 1007,
+          "title": "视频壁纸推荐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5723.html?utm_source=blogfinder",
+          "author": null,
+          "description": "开源一个高颜值壁纸站：干净无广告，支持 4K 下载，已上线！",
+          "link": "https://blog.xiaohack.org/5723.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T09:46:32.000Z",
+          "wordCount": 2520,
+          "title": "开源一个高颜值壁纸站：干净无广告，支持 4K 下载，已上线！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sunzhongwei.com/aws-cli-command-line-tool-retrieve-list-of-files-linode-object-storage?utm_source=blogfinder",
+          "author": null,
+          "description": "AWS CLI 命令行工具获取 Linode Object Storage 上的文件列表",
+          "link": "https://www.sunzhongwei.com/aws-cli-command-line-tool-retrieve-list-of-files-linode-object-storage?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T09:23:05.000Z",
+          "wordCount": 701,
+          "title": "AWS CLI 命令行工具获取 Linode Object Storage 上的文件列表",
+          "imageUrl": null
+        },
+        {
+          "id": "https://baiwumm.com/archives/iU5wR3hc?utm_source=blogfinder",
+          "author": null,
+          "description": "动态配色方案：在 Next.js 中实现 Shadcn UI 主题色切换",
+          "link": "https://baiwumm.com/archives/iU5wR3hc?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T08:41:43.000Z",
+          "wordCount": 2835,
+          "title": "动态配色方案：在 Next.js 中实现 Shadcn UI 主题色切换",
+          "imageUrl": "https://cdn.baiwumm.com/covers/article/gTDGN1YOiFQSVFogIxnKktA6Zip3dYus.webp"
+        },
+        {
+          "id": "https://hejunjie.life/blog/ka8dy46f?utm_source=blogfinder",
+          "author": null,
+          "description": "一次受限环境下的 MySQL 数据导出与“可交付化”实践",
+          "link": "https://hejunjie.life/blog/ka8dy46f?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T08:39:17.000Z",
+          "wordCount": 1640,
+          "title": "一次受限环境下的 MySQL 数据导出与“可交付化”实践",
+          "imageUrl": "https://hejunjie.life/_astro/php.DoApYH8-.png"
+        },
+        {
+          "id": "https://www.biibii.cn/495.html?utm_source=blogfinder",
+          "author": null,
+          "description": "联想System x/ThinkSystem系列服务器“Backup GPT corruption detected”告警",
+          "link": "https://www.biibii.cn/495.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T07:57:00.000Z",
+          "wordCount": 729,
+          "title": "联想System x/ThinkSystem系列服务器“Backup GPT corruption detected”告警",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weisay.com/blog/view-your-commenter-report.html?utm_source=blogfinder",
+          "author": null,
+          "description": "快来解锁你的年度互动报告",
+          "link": "https://www.weisay.com/blog/view-your-commenter-report.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T07:37:37.000Z",
+          "wordCount": 448,
+          "title": "快来解锁你的年度互动报告",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/comreport.png"
+        },
+        {
+          "id": "https://xiangming.site/1095.html?utm_source=blogfinder",
+          "author": null,
+          "description": "嘿嘿，我又写了个新插件！",
+          "link": "https://xiangming.site/1095.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T07:22:00.000Z",
+          "wordCount": 525,
+          "title": "嘿嘿，我又写了个新插件！",
+          "imageUrl": null
+        },
+        {
+          "id": "http://rushihu.com/archives/2518?utm_source=blogfinder",
+          "author": null,
+          "description": "什么是优质的内容？",
+          "link": "http://rushihu.com/archives/2518?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T07:12:18.000Z",
+          "wordCount": 7970,
+          "title": "什么是优质的内容？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wikimoe.com/post/t7v6pj8x?utm_source=blogfinder",
+          "author": null,
+          "description": "《Lovelive!》初代联动",
+          "link": "https://www.wikimoe.com/post/t7v6pj8x?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T06:44:07.000Z",
+          "wordCount": 93,
+          "title": "《Lovelive!》初代联动",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wikimoe.com/post/t7v6jfs3?utm_source=blogfinder",
+          "author": null,
+          "description": "《PA饭》过年版",
+          "link": "https://www.wikimoe.com/post/t7v6jfs3?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T06:40:27.000Z",
+          "wordCount": 93,
+          "title": "《PA饭》过年版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dao.js.cn/new/2025122612040.shtml?utm_source=blogfinder",
+          "author": null,
+          "description": "运用lunar实现黄历、道历、八字排盘",
+          "link": "https://www.dao.js.cn/new/2025122612040.shtml?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T05:37:51.000Z",
+          "wordCount": null,
+          "title": "运用lunar实现黄历、道历、八字排盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ygz.ink/archives/3740.html?utm_source=blogfinder",
+          "author": null,
+          "description": "从2025年驶来的轻轨上，我给明年写了十二站月光！",
+          "link": "https://ygz.ink/archives/3740.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T05:33:39.000Z",
+          "wordCount": 883,
+          "title": "从2025年驶来的轻轨上，我给明年写了十二站月光！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5722.html?utm_source=blogfinder",
+          "author": null,
+          "description": "【agent 测评】背景与挑战以及机遇",
+          "link": "https://blog.xiaohack.org/5722.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T04:59:27.000Z",
+          "wordCount": 2772,
+          "title": "【agent 测评】背景与挑战以及机遇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wikimoe.com/post/t7v19xly?utm_source=blogfinder",
+          "author": null,
+          "description": "2025年工作结束，有事明年再说",
+          "link": "https://www.wikimoe.com/post/t7v19xly?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T04:46:45.000Z",
+          "wordCount": 93,
+          "title": "2025年工作结束，有事明年再说",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5717.html?utm_source=blogfinder",
+          "author": null,
+          "description": "【开源】基于和风天气的 Dify 插件",
+          "link": "https://blog.xiaohack.org/5717.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T04:32:15.000Z",
+          "wordCount": 2569,
+          "title": "【开源】基于和风天气的 Dify 插件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5715.html?utm_source=blogfinder",
+          "author": null,
+          "description": "[开源] 将 react 的 hooks 和 组件化思路带入 go 的 TUI 开发。",
+          "link": "https://blog.xiaohack.org/5715.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:51:49.000Z",
+          "wordCount": 2683,
+          "title": "[开源] 将 react 的 hooks 和 组件化思路带入 go 的 TUI 开发。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5714.html?utm_source=blogfinder",
+          "author": null,
+          "description": "解析了爱下电子书网的在线阅读，把网页端小说渲染在终端阅读",
+          "link": "https://blog.xiaohack.org/5714.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:51:18.000Z",
+          "wordCount": 2456,
+          "title": "解析了爱下电子书网的在线阅读，把网页端小说渲染在终端阅读",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5713.html?utm_source=blogfinder",
+          "author": null,
+          "description": "AI 命理量化推演系统：从底层算法到 Prompt 指令，打造你的私人运势专家（附完整文档与实战案例）V1.0.0",
+          "link": "https://blog.xiaohack.org/5713.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:50:00.000Z",
+          "wordCount": 3374,
+          "title": "AI 命理量化推演系统：从底层算法到 Prompt 指令，打造你的私人运势专家（附完整文档与实战案例）V1.0.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5712.html?utm_source=blogfinder",
+          "author": null,
+          "description": "自由管理 codex cli、Claude code 等 API 中转商的 CLI 返代软件 Clipal，支持多供应商优先级、自动故障转移等",
+          "link": "https://blog.xiaohack.org/5712.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:48:45.000Z",
+          "wordCount": 2611,
+          "title": "自由管理 codex cli、Claude code 等 API 中转商的 CLI 返代软件 Clipal，支持多供应商优先级、自动故障转移等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5711.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Nature vs Golang: 性能基准测试",
+          "link": "https://blog.xiaohack.org/5711.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:46:27.000Z",
+          "wordCount": 3151,
+          "title": "Nature vs Golang: 性能基准测试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5706.html?utm_source=blogfinder",
+          "author": null,
+          "description": "“快手直播事件”引发的技术思考",
+          "link": "https://blog.xiaohack.org/5706.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:44:46.000Z",
+          "wordCount": 2441,
+          "title": "“快手直播事件”引发的技术思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5705.html?utm_source=blogfinder",
+          "author": null,
+          "description": "白嫖 lovable AI 网站设计和搭建 2 月会员 先到先得",
+          "link": "https://blog.xiaohack.org/5705.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:06:30.000Z",
+          "wordCount": 2550,
+          "title": "白嫖 lovable AI 网站设计和搭建 2 月会员 先到先得",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5702.html?utm_source=blogfinder",
+          "author": null,
+          "description": "[2FA][DNS][2api][主机监控] 一个功能丰富的 API 管理面板，支持多种云服务和 API 的集中管理与监控。",
+          "link": "https://blog.xiaohack.org/5702.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:05:28.000Z",
+          "wordCount": 2592,
+          "title": "[2FA][DNS][2api][主机监控] 一个功能丰富的 API 管理面板，支持多种云服务和 API 的集中管理与监控。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5692.html?utm_source=blogfinder",
+          "author": null,
+          "description": "AMD，Yes！搞定 AMD 显卡在 Windows 本地部署 ComfyUI + Z-Image 生图的全流程及踩坑记录",
+          "link": "https://blog.xiaohack.org/5692.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:03:53.000Z",
+          "wordCount": 3294,
+          "title": "AMD，Yes！搞定 AMD 显卡在 Windows 本地部署 ComfyUI + Z-Image 生图的全流程及踩坑记录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5687.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Dazl Dev Pro（1 个月）— 使用 AI 构建可用于生产环境的应用（可视化 + 代码访问）— 优惠码",
+          "link": "https://blog.xiaohack.org/5687.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:02:13.000Z",
+          "wordCount": 2487,
+          "title": "Dazl Dev Pro（1 个月）— 使用 AI 构建可用于生产环境的应用（可视化 + 代码访问）— 优惠码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5685.html?utm_source=blogfinder",
+          "author": null,
+          "description": "LFM2-2.6B-Exp 发布，号称市面上最強大的 3B 模型",
+          "link": "https://blog.xiaohack.org/5685.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:00:20.000Z",
+          "wordCount": 2532,
+          "title": "LFM2-2.6B-Exp 发布，号称市面上最強大的 3B 模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.bufanz.com/20251226403.html?utm_source=blogfinder",
+          "author": null,
+          "description": "淘宝账号已注册18周年，获得珍贵的淘宝岁月LV.18勋章",
+          "link": "https://www.bufanz.com/20251226403.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T03:00:00.000Z",
+          "wordCount": 845,
+          "title": "淘宝账号已注册18周年，获得珍贵的淘宝岁月LV.18勋章",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5681.html?utm_source=blogfinder",
+          "author": null,
+          "description": "KataBump 免费容器申请教程，法国地区，CPU 0.25 核 + 308MB 内存、需 4 天续费一次",
+          "link": "https://blog.xiaohack.org/5681.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T02:53:39.000Z",
+          "wordCount": 2848,
+          "title": "KataBump 免费容器申请教程，法国地区，CPU 0.25 核 + 308MB 内存、需 4 天续费一次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.xiaohack.org/5663.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Kiro 百万奖池计划",
+          "link": "https://blog.xiaohack.org/5663.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T02:50:44.000Z",
+          "wordCount": 2465,
+          "title": "Kiro 百万奖池计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://note-star.cn/2025-12/2179.html?utm_source=blogfinder",
+          "author": null,
+          "description": "今天珠海 12 度",
+          "link": "https://note-star.cn/2025-12/2179.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T02:09:38.000Z",
+          "wordCount": 57,
+          "title": "今天珠海 12 度",
+          "imageUrl": "/shortcut/logo.ico"
+        },
+        {
+          "id": "https://liuqingwushui.top/archives/128/?utm_source=blogfinder",
+          "author": null,
+          "description": "双旦之圣诞",
+          "link": "https://liuqingwushui.top/archives/128/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T01:49:29.000Z",
+          "wordCount": 751,
+          "title": "双旦之圣诞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.sanji.one/%e4%b8%ba%e4%bb%80%e4%b9%88%e8%af%b4%e5%86%85%e5%90%91%e7%9a%84%e4%ba%ba%e7%b2%be%e7%a5%9e%e5%86%85%e8%80%97%e5%be%88%e4%b8%a5%e9%87%8d/?utm_source=blogfinder",
+          "author": null,
+          "description": "为什么说内向的人精神内耗很严重?",
+          "link": "https://www.sanji.one/%e4%b8%ba%e4%bb%80%e4%b9%88%e8%af%b4%e5%86%85%e5%90%91%e7%9a%84%e4%ba%ba%e7%b2%be%e7%a5%9e%e5%86%85%e8%80%97%e5%be%88%e4%b8%a5%e9%87%8d/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T01:49:14.000Z",
+          "wordCount": null,
+          "title": "为什么说内向的人精神内耗很严重?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.moodlog.cn/archives/19.html?utm_source=blogfinder",
+          "author": null,
+          "description": "【记录】当前主题修改日志",
+          "link": "https://blog.moodlog.cn/archives/19.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T01:35:00.000Z",
+          "wordCount": 821,
+          "title": "【记录】当前主题修改日志",
+          "imageUrl": "/usr/themes/pigeon/assets/img/favicon.svg"
+        },
+        {
+          "id": "http://www.xulog.cn/index.php?act=pl&id=1067&utm_source=blogfinder",
+          "author": null,
+          "description": "村口露天温泉水",
+          "link": "http://www.xulog.cn/index.php?act=pl&id=1067&utm_source=blogfinder",
+          "publishedOn": "2025-12-26T01:02:18.000Z",
+          "wordCount": null,
+          "title": "村口露天温泉水",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wikimoe.com/post/t7uoude7?utm_source=blogfinder",
+          "author": null,
+          "description": "2025年最后半天班",
+          "link": "https://www.wikimoe.com/post/t7uoude7?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T00:18:13.000Z",
+          "wordCount": 93,
+          "title": "2025年最后半天班",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ddbzhou.com/post/huangjin10000meiyuan/?utm_source=blogfinder",
+          "author": null,
+          "description": "黄金将涨到10000美元？",
+          "link": "https://ddbzhou.com/post/huangjin10000meiyuan/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T00:00:00.000Z",
+          "wordCount": 368,
+          "title": "黄金将涨到10000美元？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://deeprouter.org/article/notionnext-remove-clerk-auth?utm_source=blogfinder",
+          "author": null,
+          "description": "NotionNext优化：移除 Clerk 组件以提升加载速度",
+          "link": "https://deeprouter.org/article/notionnext-remove-clerk-auth?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T00:00:00.000Z",
+          "wordCount": 1053,
+          "title": "NotionNext优化：移除 Clerk 组件以提升加载速度",
+          "imageUrl": "https://www.notion.so/image/attachment%3A0a60d4cb-6bd3-4fd9-971b-2d81d87e8084%3Aunnamed.jpg?table=block&id=2d597571-0fee-8089-a48e-f99c568fc273&t=2d597571-0fee-8089-a48e-f99c568fc273"
+        },
+        {
+          "id": "https://www.bmpi.dev/self/antifragile/?utm_source=blogfinder",
+          "author": null,
+          "description": "反脆弱",
+          "link": "https://www.bmpi.dev/self/antifragile/?utm_source=blogfinder",
+          "publishedOn": "2025-12-26T00:00:00.000Z",
+          "wordCount": 341,
+          "title": "反脆弱",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.immarcus.com/blog/essence-of-laws?utm_source=blogfinder",
           "author": null,
           "description": "法律的底层逻辑",
@@ -26,6 +556,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.horonlee.com/posts/%E5%85%B3%E4%BA%8EEcho%E6%A1%86%E6%9E%B6%E8%B7%AF%E7%94%B1%E5%8C%B9%E9%85%8D%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6%E7%9A%84%E5%9D%91?utm_source=blogfinder",
+          "author": null,
+          "description": "关于Echo框架路由匹配与中间件的坑",
+          "link": "https://blog.horonlee.com/posts/%E5%85%B3%E4%BA%8EEcho%E6%A1%86%E6%9E%B6%E8%B7%AF%E7%94%B1%E5%8C%B9%E9%85%8D%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%B6%E7%9A%84%E5%9D%91?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T23:32:32.000Z",
+          "wordCount": null,
+          "title": "关于Echo框架路由匹配与中间件的坑",
+          "imageUrl": null
+        },
+        {
           "id": "https://wiki.eryajf.net/pages/211cb3/?utm_source=blogfinder",
           "author": null,
           "description": "学习周刊-总第243期-2025年第52周",
@@ -34,6 +574,66 @@
           "wordCount": 523,
           "title": "学习周刊-总第243期-2025年第52周",
           "imageUrl": "https://t.eryajf.net/imgs/2025/10/1761231395296.webp"
+        },
+        {
+          "id": "https://blog.grtsinry43.com/moments/2025/12/26/a-unique-career-planning-experience?utm_source=blogfinder",
+          "author": null,
+          "description": "职规赛，一次特别的体验",
+          "link": "https://blog.grtsinry43.com/moments/2025/12/26/a-unique-career-planning-experience?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T17:39:51.000Z",
+          "wordCount": 430,
+          "title": "职规赛，一次特别的体验",
+          "imageUrl": null
+        },
+        {
+          "id": "https://taxodium.ink/album-18.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Album#18 - 天国印鑑を聴きなさい",
+          "link": "https://taxodium.ink/album-18.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T17:00:00.000Z",
+          "wordCount": 916,
+          "title": "Album#18 - 天国印鑑を聴きなさい",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.hantaotao.top/archives/191/?utm_source=blogfinder",
+          "author": null,
+          "description": "产品交付时问题排查",
+          "link": "https://blog.hantaotao.top/archives/191/?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T15:43:00.000Z",
+          "wordCount": 1462,
+          "title": "产品交付时问题排查",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cytrogen.icu/posts/6e69.html?utm_source=blogfinder",
+          "author": null,
+          "description": "当 True 并不是 True",
+          "link": "https://cytrogen.icu/posts/6e69.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T15:32:25.000Z",
+          "wordCount": 799,
+          "title": "当 True 并不是 True",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.yanqingshan.com/237.html?utm_source=blogfinder",
+          "author": null,
+          "description": "乙巳圣诞随笔",
+          "link": "https://blog.yanqingshan.com/237.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T15:17:49.000Z",
+          "wordCount": 828,
+          "title": "乙巳圣诞随笔",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.solazy.me/20251225/?utm_source=blogfinder",
+          "author": null,
+          "description": "为什么我如此珍视善意的评论",
+          "link": "https://blog.solazy.me/20251225/?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T15:00:00.000Z",
+          "wordCount": 880,
+          "title": "为什么我如此珍视善意的评论",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/sol/felipe-galvan-wh-epdjif4-unsplash.webp"
         },
         {
           "id": "https://www.weiwenchao.com/2079.html?utm_source=blogfinder",
@@ -76,6 +676,16 @@
           "imageUrl": "https://bu.dusays.com/2025/12/25/694d3637b1ef8.png"
         },
         {
+          "id": "https://luolt.cn/archives/3111.html?utm_source=blogfinder",
+          "author": null,
+          "description": "一款实用免费开源的封面生成工具源码",
+          "link": "https://luolt.cn/archives/3111.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T13:08:00.000Z",
+          "wordCount": 1424,
+          "title": "一款实用免费开源的封面生成工具源码",
+          "imageUrl": null
+        },
+        {
           "id": "https://blog.mfwt.top/index.php/archives/931/?utm_source=blogfinder",
           "author": null,
           "description": "博客装修记：升级 Typecho 主程序",
@@ -104,6 +714,26 @@
           "wordCount": 1790,
           "title": "奶奶都能看懂的 C++ —— 函数与参数传递",
           "imageUrl": "https://img.samhou.top/1760839277161.jpg"
+        },
+        {
+          "id": "https://www.weisay.com/blog/a-christmas-dessert-diary.html?utm_source=blogfinder",
+          "author": null,
+          "description": "圣诞节的甜品手作小记",
+          "link": "https://www.weisay.com/blog/a-christmas-dessert-diary.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T10:50:36.000Z",
+          "wordCount": 464,
+          "title": "圣诞节的甜品手作小记",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/xmasdessert.png"
+        },
+        {
+          "id": "https://blog.zhheo.com/p/vtyyrfd3.html?utm_source=blogfinder",
+          "author": null,
+          "description": "我在2026年推荐的Mac软件",
+          "link": "https://blog.zhheo.com/p/vtyyrfd3.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T10:39:00.000Z",
+          "wordCount": 1569,
+          "title": "我在2026年推荐的Mac软件",
+          "imageUrl": "https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover"
         },
         {
           "id": "https://blog.xiaohack.org/5659.html?utm_source=blogfinder",
@@ -206,6 +836,16 @@
           "imageUrl": "https://lawtee.com/images/share.webp"
         },
         {
+          "id": "https://www.zywvvd.com/notes/tools/music/music-lyrics/music-lyrics/?utm_source=blogfinder",
+          "author": null,
+          "description": "Github 歌词下载工具 163MusicLyrics",
+          "link": "https://www.zywvvd.com/notes/tools/music/music-lyrics/music-lyrics/?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T07:26:38.000Z",
+          "wordCount": 1108,
+          "title": "Github 歌词下载工具 163MusicLyrics",
+          "imageUrl": "https://uipv4.zywvvd.com:33030/HexoFiles/vvd_image_files/202512251531453.png"
+        },
+        {
           "id": "https://pewae.com/2025/12/errors-i-met-using-qosaddsockettoflow-to-build-qos-on-windows.html?utm_source=blogfinder",
           "author": null,
           "description": "近期使用QOSAddSocketToFlow()在Windows下建立QoS踩过的坑",
@@ -246,6 +886,16 @@
           "imageUrl": "https://cdn.ncii.cn/picbase/lsky/2025/12/25/694cdf9ea407d.webp"
         },
         {
+          "id": "https://www.geedea.pro/essays/prejudice-of-college-education/?utm_source=blogfinder",
+          "author": null,
+          "description": "教师的傲慢 II",
+          "link": "https://www.geedea.pro/essays/prejudice-of-college-education/?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T06:47:00.000Z",
+          "wordCount": 1873,
+          "title": "教师的傲慢 II",
+          "imageUrl": "/favicon.png"
+        },
+        {
           "id": "https://www.geedea.pro/essays/%E6%95%99%E5%B8%88%E7%9A%84%E5%82%B2%E6%85%A2-ii/?utm_source=blogfinder",
           "author": null,
           "description": "教师的傲慢 II",
@@ -264,6 +914,16 @@
           "wordCount": 479,
           "title": "本地直接部署到 EdgeOne Pages",
           "imageUrl": "https://xn--otsr53afot.com/og/bj/%E6%9C%AC%E5%9C%B0%E7%9B%B4%E6%8E%A5%E9%83%A8%E7%BD%B2%E5%88%B0edgeonepages.png"
+        },
+        {
+          "id": "http://www.auiou.com/relevant/00002136.jsp?utm_source=blogfinder",
+          "author": null,
+          "description": "2025的年底感言",
+          "link": "http://www.auiou.com/relevant/00002136.jsp?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T06:33:00.000Z",
+          "wordCount": 67,
+          "title": "2025的年底感言",
+          "imageUrl": null
         },
         {
           "id": "https://blog.xiaohack.org/5643.html?utm_source=blogfinder",
@@ -403,6 +1063,16 @@
           "publishedOn": "2025-12-25T03:35:01.000Z",
           "wordCount": null,
           "title": "C语言 Windows.h 构建 GUI 中文乱码问题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.aiheadn.cn/archives/c26af6c.html?utm_source=blogfinder",
+          "author": null,
+          "description": "1Panel部署PlantUML.jar以及中文方块修复",
+          "link": "https://blog.aiheadn.cn/archives/c26af6c.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-25T03:34:22.000Z",
+          "wordCount": 1518,
+          "title": "1Panel部署PlantUML.jar以及中文方块修复",
           "imageUrl": null
         },
         {
@@ -576,6 +1246,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://onewumi.top/2025/12/25/christmas/?utm_source=blogfinder",
+          "author": null,
+          "description": "圣诞节礼盒",
+          "link": "https://onewumi.top/2025/12/25/christmas/?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T18:32:33.000Z",
+          "wordCount": 15907,
+          "title": "圣诞节礼盒",
+          "imageUrl": null
+        },
+        {
           "id": "https://xn--otsr53afot.com/posts/huang/?utm_source=blogfinder",
           "author": null,
           "description": "歌名：我曾爱过一个人",
@@ -584,6 +1264,16 @@
           "wordCount": 269,
           "title": "歌名：我曾爱过一个人",
           "imageUrl": "https://xn--otsr53afot.com/og/shipin/%E8%8D%92.png"
+        },
+        {
+          "id": "https://www.geedea.pro/posts/love-lost-in-xmas-eve/?utm_source=blogfinder",
+          "author": null,
+          "description": "撞到人要说对不起",
+          "link": "https://www.geedea.pro/posts/love-lost-in-xmas-eve/?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T17:39:00.000Z",
+          "wordCount": 1669,
+          "title": "撞到人要说对不起",
+          "imageUrl": "/favicon.png"
         },
         {
           "id": "https://www.geedea.pro/posts/%E6%92%9E%E5%88%B0%E4%BA%BA%E8%A6%81%E8%AF%B4%E5%AF%B9%E4%B8%8D%E8%B5%B7/?utm_source=blogfinder",
@@ -686,6 +1376,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ygz.ink/archives/3732.html?utm_source=blogfinder",
+          "author": null,
+          "description": "做了一个读者排行榜单的页面",
+          "link": "https://ygz.ink/archives/3732.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T13:11:06.000Z",
+          "wordCount": 762,
+          "title": "做了一个读者排行榜单的页面",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.lifd.site/2025/12/jin-tian-shi-ping-an-ye-ye-shi-zhang-jin-hu-zhan-yi-sheng-li-ji-nian-ri/?utm_source=blogfinder",
           "author": null,
           "description": "今天是平安夜，也是长津湖战役胜利纪念日",
@@ -773,6 +1473,16 @@
           "publishedOn": "2025-12-24T10:19:05.000Z",
           "wordCount": null,
           "title": "震惊不已，贫道手搓乾坤，Z-BlogPHP拓源主题用户中心出世",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ygz.ink/archives/3713.html?utm_source=blogfinder",
+          "author": null,
+          "description": "本站已开启Rss订阅地址",
+          "link": "https://ygz.ink/archives/3713.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T10:10:46.000Z",
+          "wordCount": 700,
+          "title": "本站已开启Rss订阅地址",
           "imageUrl": null
         },
         {
@@ -866,6 +1576,16 @@
           "imageUrl": "https://teachermate.oss-cn-qingdao.aliyuncs.com/ljm6f-1766559364284-2025_final.png?x-oss-process=image/resize,w_800/format,webp"
         },
         {
+          "id": "https://www.kqwq.com/notes/3410.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Windows 11 概念版光标 V2 鼠标指针皮肤",
+          "link": "https://www.kqwq.com/notes/3410.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T06:56:03.000Z",
+          "wordCount": null,
+          "title": "Windows 11 概念版光标 V2 鼠标指针皮肤",
+          "imageUrl": null
+        },
+        {
           "id": "https://imqi1.com/note/877?utm_source=blogfinder",
           "author": null,
           "description": "ChatGPT年度总结，卖号纠纷，代码块新样式",
@@ -884,6 +1604,16 @@
           "wordCount": 965,
           "title": "写在 2025 年结束前",
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/sol/kelly-sikkema-qn_4d-a2xm8-unsplash.webp"
+        },
+        {
+          "id": "https://ygz.ink/archives/3685.html?utm_source=blogfinder",
+          "author": null,
+          "description": "2025年度各大App“成绩单”出炉，谁是你的“年度应用”？",
+          "link": "https://ygz.ink/archives/3685.html?utm_source=blogfinder",
+          "publishedOn": "2025-12-24T05:13:02.000Z",
+          "wordCount": 678,
+          "title": "2025年度各大App“成绩单”出炉，谁是你的“年度应用”？",
+          "imageUrl": null
         },
         {
           "id": "https://lawtee.com/article/ai-lacks-memory-not-computing-power/?utm_source=blogfinder",
@@ -2753,6 +3483,526 @@
       "siteUrl": "https://www.blogsclub.org/feed.xml",
       "articles": [
         {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5762.html",
+          "author": "xiaohack's Blog",
+          "description": "我又来了，这次完成了链式代理分流和支持外部节点的更新，前情提要：这是一个基于 mack-a 大佬的八合一一键代理脚本的重构版本，保留了原脚本的大部分功能，功能上主要添加了链式代理功能。现在可以在...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5762.html",
+          "publishedOn": "2025-12-26T16:53:02.000Z",
+          "wordCount": 2451,
+          "title": "更新链式代理分流与外部节点支持-一键代理脚本",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5761.html",
+          "author": "xiaohack's Blog",
+          "description": "之前《[人人有份，e3 office 365/edu 邮箱自助注册子号]》注册的，现在那个全局额外添加上了 @office.mzz.edu.rs 邮箱，这个许可我放到了 e1 订阅下，只有邮箱，...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5761.html",
+          "publishedOn": "2025-12-26T16:33:38.000Z",
+          "wordCount": 2546,
+          "title": "e1 office 365/edu 邮箱自助注册，额外添加 edu.rs 邮箱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5760.html",
+          "author": "xiaohack's Blog",
+          "description": "github.com  action/lunes.host-Uptime at main · oyz8/action这是一个单纯使用 GitHub action 做一些事情的仓库. Contri...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5760.html",
+          "publishedOn": "2025-12-26T16:30:55.000Z",
+          "wordCount": 2886,
+          "title": "在 Lunes.host 上使用 Node.js Generic 方式部署 Uptime Kuma 监控面板",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5753.html",
+          "author": "xiaohack's Blog",
+          "description": "Google – 18 Dec 25  T5Gemma 2: The next generation of encoder-decoder modelsT5Gemma 2 is the next...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5753.html",
+          "publishedOn": "2025-12-26T16:29:38.000Z",
+          "wordCount": 2521,
+          "title": "Google 发布了 T5Gemma 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5749.html",
+          "author": "xiaohack's Blog",
+          "description": "​​​​​​​​​​​​​​​​​​​​​​​喜加一 | EPIC 限免（12.27）第十弹​本期礼物We Were Here Together「我们曾一起在这里」注：游戏截止！12.28，00...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5749.html",
+          "publishedOn": "2025-12-26T16:29:02.000Z",
+          "wordCount": 2438,
+          "title": "EPIC 限免（12.27）第十弹:「我们曾一起在这里」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.hansjack.com/posts/repo/zhixu-app",
+          "author": "寒士杰克",
+          "description": "该渲染由 Shiro API 生成，可能存在排版问题，最佳体验请前往：https://www.hansjack.com/posts/repo/zhixu-appTIPZhixu 目标是制作个人知识与任务系统，优先解决两件事：信息管理混乱与多端同步困难。\n::: grid {cols=4,rows=1,type=images}\n\n\n\n\n:::评论区：提出你的需求和建议看完了？说点什么呢",
+          "link": "https://www.blogsclub.org/jump?url=https://www.hansjack.com/posts/repo/zhixu-app",
+          "publishedOn": "2025-12-26T16:03:01.000Z",
+          "wordCount": 1162,
+          "title": "Untitled",
+          "imageUrl": "https://www.hansjack.com/home-og"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://xjmu.ac.cn/index.php/post/208.html",
+          "author": "夕阳西下",
+          "description": "这几天去了杭州-余杭区，忙了一阵，吃了几顿杭州特色菜，唯一没有吃到杭州西湖醋鱼。",
+          "link": "https://www.blogsclub.org/jump?url=https://xjmu.ac.cn/index.php/post/208.html",
+          "publishedOn": "2025-12-26T15:25:43.000Z",
+          "wordCount": 417,
+          "title": "遗憾-西湖醋鱼",
+          "imageUrl": "https://wangb.zz.ac/wp-content/uploads/2025/12/fGfCcUHg3.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.tilawacesoil.top/poem/%e5%8d%88%e5%90%8e%e5%bf%83%e6%82%b8/",
+          "author": "Tilawa Cesoil的小站",
+          "description": "午后心悸",
+          "link": "https://www.blogsclub.org/jump?url=https://www.tilawacesoil.top/poem/%e5%8d%88%e5%90%8e%e5%bf%83%e6%82%b8/",
+          "publishedOn": "2025-12-26T14:58:15.000Z",
+          "wordCount": 1510,
+          "title": "午后心悸",
+          "imageUrl": "https://www.tilawacesoil.top/wp-content/uploads/星空.webp"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://xjmu.ac.cn/index.php/post/207.html",
+          "author": "夕阳西下",
+          "description": "申请了内存256的服务器，但是不知道干啥宝塔安装不了。",
+          "link": "https://www.blogsclub.org/jump?url=https://xjmu.ac.cn/index.php/post/207.html",
+          "publishedOn": "2025-12-26T14:55:31.000Z",
+          "wordCount": 417,
+          "title": "不知道内存256的服务器干啥",
+          "imageUrl": "https://wangb.zz.ac/wp-content/uploads/2025/12/ScreenShot_2025-12-26_213326_914-1.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.krjojo.com/12670.html",
+          "author": "手里有只毛毛虫",
+          "description": "收集整理全网：年度最好用AI工具 - 2025年12月。 省流总结 预算够首选用Google全家桶，便宜平替用 ...\n2025 年度AI工具推荐 包含链接地址最先出现在手里有只毛毛虫。",
+          "link": "https://www.blogsclub.org/jump?url=https://www.krjojo.com/12670.html",
+          "publishedOn": "2025-12-26T14:40:23.000Z",
+          "wordCount": 1194,
+          "title": "2025 年度AI工具推荐 包含链接地址",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://qin.bi/4.html",
+          "author": "亲笔 qin.bi",
+          "description": "...",
+          "link": "https://www.blogsclub.org/jump?url=https://qin.bi/4.html",
+          "publishedOn": "2025-12-26T13:11:00.000Z",
+          "wordCount": 2360,
+          "title": "2025：步履间的沉淀与前行",
+          "imageUrl": "https://1841435104.v.123pan.cn/1841435104/PicTu/qinbi/tupian/20251227081646.webp?imageView2/2/w/980/q/75"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.xhhao.com/archives/dlaXm9wj",
+          "author": "林间拾语",
+          "description": "本文详细介绍了在Halo 2.x插件中集成Redis的完整过程，包括核心设计、配置方式、代码实现以及注意事项，解决了类加载器冲突等问题，确保Redis配置的复用和服务的稳定性。",
+          "link": "https://www.blogsclub.org/jump?url=https://www.xhhao.com/archives/dlaXm9wj",
+          "publishedOn": "2025-12-26T13:09:40.000Z",
+          "wordCount": 2221,
+          "title": "Halo 2.22.x 插件集成 Redis 完整指南",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/chuan-bo-pei-ji-zai",
+          "author": "秘柯絮语",
+          "description": "船舶配积载 最近一直在忙船舶配积载考试，而且又到期末周了😭 杂货配积载",
+          "link": "https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/chuan-bo-pei-ji-zai",
+          "publishedOn": "2025-12-26T12:56:53.000Z",
+          "wordCount": 1007,
+          "title": "船舶配积载",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://yxbug.ren/2025/12/26/ANTS/",
+          "author": "YUEXIABUG",
+          "description": "这篇文章早在 8 月份的时候就像动笔写了，当时也在《涂棋子》这篇文章中发过预告，但拖延症的晚期的我一直想着“后面再说”。最近也没什么生活上的文章可以分享，于是就又提起笔写写蚂蚁。不过要注意的是，由于年代久远，部分文字没有配图。其实我一直都挺喜欢蚂蚁的，蚂蚁这样的真社会性动物在我看来是非常值得人类学习的。在这样的社会关系中，没有人是真正的高贵和平庸，每个人都是社会运转的一个齿轮，除了用来生育的蚁后，每只蚂蚁都是绝对平等的。哪怕是蚁后，它所享受的权利都是因为它要付出更多的义务（一辈子不再出巢、一辈子不停的生育）。可以这么说，我们观察和学习蚂蚁不能把一只只蚂蚁单独分割开来看，我们要把蚂蚁作为一个完整的整体去看。这样对蚂蚁的喜爱就为我现在养蚂蚁做了很好的铺垫。我在今年 7 月份的时候就开始养第一批蚂蚁。我听从大佬的建议，在淘宝店买一窝 40-50 工蚁的工匠收获蚁以及一套另一家淘宝店的蚂蚁入门套装（包含一个蚁巢、一套工具、防逃液、三根 18 口径的试管）。到家后我就把蚁巢组装好，然后刷上防逃液。由于第一次懂得不多，刷完防逃液没多久我就把蚂蚁暴力放了进去，之后因为防逃液中有酒精的缘故，很多工蚁就死了，后面这只蚁后也没再产卵。可以说，这只蚁后被我养成了孤后。啥都不懂的我在网上求助网友，有网友就说可能是温度原因。刚好那个网友有一套保温装置不用了，就送给我了。新后在这期间我又买了一窝工匠收获蚁的新后（新后就是才交配完但没有出工蚁的蚁后）和一窝 20-30 工的工匠收获蚁，这只新后到家的时候已经有几枚卵了。我就把它放在保温箱里，尽量不去打扰它。在等待出工蚁的途中，我买了很多面包虫回来，供蚁群补充蛋白质。没过一个月，新后的第一批工蚁就开始出了，并且蚁后又生了几枚卵。我把面包虫切段后放在了试管里，刚放下去就看见蚁后迫不及待的扑上来大快朵颐。这里说明一下，新后在从娘家吃饱了出来交配之后就不再进食，…",
+          "link": "https://www.blogsclub.org/jump?url=https://yxbug.ren/2025/12/26/ANTS/",
+          "publishedOn": "2025-12-26T12:35:00.000Z",
+          "wordCount": 2102,
+          "title": "ANTS",
+          "imageUrl": "https://yxbug.ren/images/avatar.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/ETcSd3Fs",
+          "author": "暖心向阳335",
+          "description": "该生因未获评“三好学生”而愤懑不平：同届一名常翘课、学习懈怠的同学却获选，而自己勤学苦读反落选，质疑评选标准。虽有同窗共鸣，称其“十好学生”以讽，且获其他奖项慰藉，仍感不公。文末以诗控诉：勤学者如尘，懈怠者得誉，斥评优机制扭曲，育人失公。",
+          "link": "https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/ETcSd3Fs",
+          "publishedOn": "2025-12-26T12:18:50.000Z",
+          "wordCount": 284,
+          "title": "与我无缘的三好学生",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.fogflea.com/archives/luan-xue-shu-xue-mu-han-shu-zai-gao-zhong-shu-lie-de-ying-yong",
+          "author": "Fogfleaの巢",
+          "description": "美籍匈牙利数学家 乔治・波利亚 说过 ‘母函数’这一名称由拉普拉斯命名。然而，欧拉在拉普拉斯之前很久就已使用母函数这一工具A",
+          "link": "https://www.blogsclub.org/jump?url=https://www.fogflea.com/archives/luan-xue-shu-xue-mu-han-shu-zai-gao-zhong-shu-lie-de-ying-yong",
+          "publishedOn": "2025-12-26T11:49:48.000Z",
+          "wordCount": 707,
+          "title": "乱学数学-母函数在高中数列的应用",
+          "imageUrl": "https://www.fogflea.com/upload/49043684_p0.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5746.html",
+          "author": "xiaohack's Blog",
+          "description": "前言一句话总结：将重计算从 Worker 卸载到 DO 中。我见网络上有零星的讨论提到可以将 CPU 任务卸载到 DO 中，但没找到一篇详细介绍的教程（也可能是我太火星了），官方文档里也没有类似...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5746.html",
+          "publishedOn": "2025-12-26T10:45:51.000Z",
+          "wordCount": 4864,
+          "title": "教你绕过 Worker 免费计划中 10ms 的 CPU 时间限制，另附各家 AI 对该方法的搜索和评估结果。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5737.html",
+          "author": "xiaohack's Blog",
+          "description": "github.com  GitHub - comeonzhj/howPrompt: A prompt word for a driver that decomposes the...A prom...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5737.html",
+          "publishedOn": "2025-12-26T10:45:05.000Z",
+          "wordCount": 2562,
+          "title": "【开源】分享一个我自用拆解学习开源项目的提示词",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5733.html",
+          "author": "xiaohack's Blog",
+          "description": "佬们好，最近在工作的时候需要使用 mqtt，然后调试的时候来回复制粘贴有点麻了，于是 vibe 了一个 mqtt 客户端，可以发送快捷指令，导入导出配置，方便多设备调试，这是我的第一个开源项目，...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5733.html",
+          "publishedOn": "2025-12-26T10:44:07.000Z",
+          "wordCount": 2513,
+          "title": "开源自荐，MQTT 调试器，请大佬们帮忙看看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5730.html",
+          "author": "xiaohack's Blog",
+          "description": "订阅用户在指定编程工具中接入 GLM Coding Plan，并配置 MCP，并输入口令，即可获得一张沪上阿姨新品奶茶兑换券，并通过沪上阿姨官方小程序完成兑换。小程序链接：t.hsay.com/...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5730.html",
+          "publishedOn": "2025-12-26T10:41:46.000Z",
+          "wordCount": 2521,
+          "title": "智谱请所有「GLM Coding Plan」用户喝杯奶茶",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5729.html",
+          "author": "xiaohack's Blog",
+          "description": "srs 是 sing-box 独有的规则集二进制缓存格式，由 json 文件编译而来。如何方便快捷处理规则集的编辑和 srs 格式生成呢？我搞了这么个仓库：  github.com  GitHu...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5729.html",
+          "publishedOn": "2025-12-26T10:40:22.000Z",
+          "wordCount": 2480,
+          "title": "sing-box 规则集 json 转 srs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5727.html",
+          "author": "xiaohack's Blog",
+          "description": "免費 canva 教育版 [還不快加入]",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5727.html",
+          "publishedOn": "2025-12-26T10:39:52.000Z",
+          "wordCount": 2432,
+          "title": "免費 canva 教育版 [還不快加入]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/shi-pin-bi-zhi-tui-jian",
+          "author": "秘柯絮语",
+          "description": "分享四段风格各异的视频壁纸，包含自然风光与动漫角色主题。",
+          "link": "https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/shi-pin-bi-zhi-tui-jian",
+          "publishedOn": "2025-12-26T10:11:57.000Z",
+          "wordCount": 1009,
+          "title": "视频壁纸推荐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://743.world/index.php/archives/41/",
+          "author": "无底协和的小站",
+          "description": "今天有幸可以和前某大厂高管进行对话，仔细想想应该是我目前可以接触到的最顶级的人脉资源了，并且还是在如此轻松惬意的环境，所以大抵可以称得上极为珍贵吧。地点在猎德涌旁边，想当年上何级的选修课还来过这...",
+          "link": "https://www.blogsclub.org/jump?url=https://743.world/index.php/archives/41/",
+          "publishedOn": "2025-12-26T09:44:06.000Z",
+          "wordCount": 1574,
+          "title": "有幸进行这次谈话",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.lifengdi.com/hou-duan/4668",
+          "author": "李锋镝的博客",
+          "description": "数据库更新如何实现乐观锁",
+          "link": "https://www.blogsclub.org/jump?url=https://www.lifengdi.com/hou-duan/4668",
+          "publishedOn": "2025-12-26T09:26:11.000Z",
+          "wordCount": 1297,
+          "title": "数据库更新如何实现乐观锁",
+          "imageUrl": "https://image.lifengdi.com/wp-content/uploads/2025/02/d6f2cec8-6a61-94cd-c713-33eb1168b4ce.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://baiwumm.com/archives/iU5wR3hc",
+          "author": "谜叶象限",
+          "description": "这篇文章介绍了如何在Next.js应用中实现动态主题色切换系统，以满足用户多样化的审美需求。文章首先提出了使用CSS自定义属性...",
+          "link": "https://www.blogsclub.org/jump?url=https://baiwumm.com/archives/iU5wR3hc",
+          "publishedOn": "2025-12-26T08:41:43.000Z",
+          "wordCount": 2835,
+          "title": "动态配色方案：在 Next.js 中实现 Shadcn UI 主题色切换",
+          "imageUrl": "https://cdn.baiwumm.com/covers/article/gTDGN1YOiFQSVFogIxnKktA6Zip3dYus.webp"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=http://www.yveji.com/Scenery/taking-orders.html",
+          "author": "悦己",
+          "description": "猜猜这是啥菜，味道还挺好的  口感非常细腻，不进嘴吃肯定是猜不出这是啥  这是嘛菜？看着象是排骨还是啥，对吧？  这又是啥菜？反正是一盘汤煮了些菜，到底是什么汤呢？煮的是啥菜呢？  清凉小菜泡萝...",
+          "link": "https://www.blogsclub.org/jump?url=http://www.yveji.com/Scenery/taking-orders.html",
+          "publishedOn": "2025-12-26T08:09:52.000Z",
+          "wordCount": 424,
+          "title": "民族风情的餐馆怎么点菜",
+          "imageUrl": "https://s41.ax1x.com/2025/12/26/pZJgkQO.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.weisay.com/blog/view-your-commenter-report.html",
+          "author": "威言威语",
+          "description": "前几天在瓦匠那儿看到了博友的年度报告，再加上年底各种 APP 都在发总结，就想着不如也从评论者的角度做一份试试。前端页面交给 AI 出，我来处理数据获取，折腾了几个晚上，最后就有了这份博友的年度互动报告。数据不复杂，主要图个好玩，欢迎点进来看看。",
+          "link": "https://www.blogsclub.org/jump?url=https://www.weisay.com/blog/view-your-commenter-report.html",
+          "publishedOn": "2025-12-26T07:37:37.000Z",
+          "wordCount": 447,
+          "title": "快来解锁你的年度互动报告",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/comreport.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.dao.js.cn/new/2025122612040.shtml",
+          "author": "懋和道人",
+          "description": "这是一篇关于利用开源项目lunar实现黄历、道历和八字排盘工具的介绍文章。文章首先指出，古人天文地理的历法规律与现代计算机的逻辑建模有相似之处。为了方便同门及爱好者更精准地排定课表、查询道历，作者利用lunar实现了三个功能。\n\n其中，黄历功能已经更新前端渲染，可以查询黄道吉日等信息，支持多种内容如星座、干支、生肖等。点击黄历页面的日期会跳转到对应的老黄历页面，这是一个值得倡导的中国传统文化输出。\n\n此外，还实现了道历功能，提供纯真的道教正统的月历，旨在提供精准的道教节日等精准的道教月历输出。\n\n还有排盘工具，懋和道人排盘工具在登录后可以导出报告，未登录状态下也可以直接展示当前时期的排盘信息。作者也会使用这个工具为找他测算命运的用户进行...",
+          "link": "https://www.blogsclub.org/jump?url=https://www.dao.js.cn/new/2025122612040.shtml",
+          "publishedOn": "2025-12-26T05:37:51.000Z",
+          "wordCount": null,
+          "title": "运用lunar实现黄历、道历、八字排盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://ygz.ink/archives/3740.html",
+          "author": "宗宗酱",
+          "description": "从2025年驶来的轻轨上，我给明年写了十二站月光！",
+          "link": "https://www.blogsclub.org/jump?url=https://ygz.ink/archives/3740.html",
+          "publishedOn": "2025-12-26T05:33:39.000Z",
+          "wordCount": 883,
+          "title": "从2025年驶来的轻轨上，我给明年写了十二站月光！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5722.html",
+          "author": "xiaohack's Blog",
+          "description": "背景从 24 年开始，LLM 从简单的文本对话向具备感知、规划、工具使用和自主行动能力的方向发展（关键词 React、Plan And Action），测试的核心痛点是模型的不确定性、技能的稳定...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5722.html",
+          "publishedOn": "2025-12-26T04:59:27.000Z",
+          "wordCount": 2791,
+          "title": "【agent 测评】背景与挑战以及机遇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.jfsay.com/archives/3972.html",
+          "author": "静风说",
+          "description": "看《日掛中天》",
+          "link": "https://www.blogsclub.org/jump?url=https://www.jfsay.com/archives/3972.html",
+          "publishedOn": "2025-12-26T04:38:25.000Z",
+          "wordCount": 814,
+          "title": "看《日掛中天》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5717.html",
+          "author": "xiaohack's Blog",
+          "description": "最近在搓一个天气相关的项目，结果发现 Dify 上居然还没有一个够用且全面的天气插件，每次都得用 HTTP 请求节点自己拼参数想了想不如自己整一个（谁不喜欢拖拖拽拽就完事了呢所以写了一个和风天气...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5717.html",
+          "publishedOn": "2025-12-26T04:32:15.000Z",
+          "wordCount": 2566,
+          "title": "【开源】基于和风天气的 Dify 插件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.hollowman.cn/archives/opthightlight.html",
+          "author": "我心向阳",
+          "description": "因为喜欢写一些技术文章，因此代码在文章中的比例还是比较大的。给高亮代码弄个良好的外观很有必要。一、哪些外观1.顶部 banner 修饰给多行代码顶部弄个 banner,是很多高亮代码都提供了的美...",
+          "link": "https://www.blogsclub.org/jump?url=https://www.hollowman.cn/archives/opthightlight.html",
+          "publishedOn": "2025-12-26T04:17:00.000Z",
+          "wordCount": 1268,
+          "title": "优化高亮代码外观",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5715.html",
+          "author": "xiaohack's Blog",
+          "description": "最近想搞一搞 agent cli 开发。UI 层面，node 有比较成熟的 ink 方案。但是看了下 go TUI 相关的解决方案，描述 UI 的方式有点别扭。当然可能是我没找到更好的实现思路。...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5715.html",
+          "publishedOn": "2025-12-26T03:51:49.000Z",
+          "wordCount": 2683,
+          "title": "[开源] 将 react 的 hooks 和 组件化思路带入 go 的 TUI 开发。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5713.html",
+          "author": "xiaohack's Blog",
+          "description": "本模型基于《滴天髓》、《三命通会》、《子平真诠》逻辑，将传统命理量化为数学模型。第一部分：排盘与基础设定1. 排盘原则指定模式：直接读取输入的干支，跳过自动排盘公式，以输入的年月日时为准。起运计...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5713.html",
+          "publishedOn": "2025-12-26T03:50:00.000Z",
+          "wordCount": 3381,
+          "title": "AI 命理量化推演系统：从底层算法到 Prompt 指令，打造你的私人运势专家（附完整文档与实战案例）V1.0.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5712.html",
+          "author": "xiaohack's Blog",
+          "description": "Clipal：意思是 CLI 的伙伴https://github.com/lansespirit/Clipal项目是 go 语言的，直接编译成二进制文件，没有界面，不论 MacOS 、Linux...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5712.html",
+          "publishedOn": "2025-12-26T03:48:45.000Z",
+          "wordCount": 2606,
+          "title": "自由管理 codex cli、Claude code 等 API 中转商的 CLI 返代软件 Clipal，支持多供应商优先级、自动故障转移等",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5711.html",
+          "author": "xiaohack's Blog",
+          "description": "nature 是一款较新的编程语言，其轻量简单，易于学习。在设计理念和运行时架构上参考了 golang ，同时有着更丰富的语法特性，更适用于业务开发，并在持续探索更广泛的应用领域。性能是衡量编程...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5711.html",
+          "publishedOn": "2025-12-26T03:46:27.000Z",
+          "wordCount": 3137,
+          "title": "Nature vs Golang: 性能基准测试",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5706.html",
+          "author": "xiaohack's Blog",
+          "description": "先来看下，近几年大厂发生的几个影响较大的运营事故：这几起事件的共同点：影响范围广、故障时间长、造成非常负面的舆论影响；这次快手的事情，还是远远超出了我的想象，服务故障只会影响正常使用，但是被攻击...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5706.html",
+          "publishedOn": "2025-12-26T03:44:46.000Z",
+          "wordCount": 2453,
+          "title": "“快手直播事件”引发的技术思考",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://fantasydm.top/blog/bd85233b/",
+          "author": "🌟星野の隙間🌟",
+          "description": "给小网站自制了bangumi数据解析套件",
+          "link": "https://www.blogsclub.org/jump?url=https://fantasydm.top/blog/bd85233b/",
+          "publishedOn": "2025-12-26T03:35:32.000Z",
+          "wordCount": null,
+          "title": "给小网站自制了bangumi数据解析套件",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5705.html",
+          "author": "xiaohack's Blog",
+          "description": "0 元验证的信用卡（bug 卡、黑卡）4133310395577369|11/26|7434133310403524940|01/27|7124133310398070933|11/26|579...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5705.html",
+          "publishedOn": "2025-12-26T03:06:30.000Z",
+          "wordCount": 2497,
+          "title": "白嫖 lovable AI 网站设计和搭建 2 月会员 先到先得",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5702.html",
+          "author": "xiaohack's Blog",
+          "description": "功能 top界面 top流畅 top支持反重力和 gcl，你甚至能自由组合，不过 api 联网正在研究怎么实现体验地址：   api-monitor.zeabur.app  API Monito...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5702.html",
+          "publishedOn": "2025-12-26T03:05:28.000Z",
+          "wordCount": 2610,
+          "title": "[2FA][DNS][2api][主机监控] 一个功能丰富的 API 管理面板，支持多种云服务和 API 的集中管理与监控。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5692.html",
+          "author": "xiaohack's Blog",
+          "description": "AMD 7800XT 显卡 Windows 本地部署 ComfyUI + Z-Image 保姆级教程 前言作为一名 AMD Yes!  用户，想在本地跑 AI 生图实在费劲。网上很多教程推荐使用...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5692.html",
+          "publishedOn": "2025-12-26T03:03:53.000Z",
+          "wordCount": 3307,
+          "title": "AMD，Yes！搞定 AMD 显卡在 Windows 本地部署 ComfyUI + Z-Image 生图的全流程及踩坑记录",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5687.html",
+          "author": "xiaohack's Blog",
+          "description": "代码： DAZLXPGdazl.dev📌 转载信息来源：https://linux.do/t/topic/1363323原作者：li446528285转载时间：2025/12/26 11:02:13",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5687.html",
+          "publishedOn": "2025-12-26T03:02:13.000Z",
+          "wordCount": 2497,
+          "title": "Dazl Dev Pro（1 个月）— 使用 AI 构建可用于生产环境的应用（可视化 + 代码访问）— 优惠码",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5685.html",
+          "author": "xiaohack's Blog",
+          "description": "LFM2-2.6B-Exp 是一个基于 LFM2-2.6B 的实验性检查点，采用纯强化学习技术构建。在教学理解、知识掌握和数学基准方面不断取得进步在这些领域优于其他 3B 模型其 IFBench...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5685.html",
+          "publishedOn": "2025-12-26T03:00:20.000Z",
+          "wordCount": 2533,
+          "title": "LFM2-2.6B-Exp 发布，号称市面上最強大的 3B 模型",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.bufanz.com/20251226403.html",
+          "author": "不凡博客",
+          "description": "淘宝账号已注册18周年，获得珍贵的淘宝岁月LV.18勋章{cat_gallery}{/cat_gallery}",
+          "link": "https://www.blogsclub.org/jump?url=https://www.bufanz.com/20251226403.html",
+          "publishedOn": "2025-12-26T03:00:00.000Z",
+          "wordCount": 845,
+          "title": "淘宝账号已注册18周年，获得珍贵的淘宝岁月LV.18勋章",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5681.html",
+          "author": "xiaohack's Blog",
+          "description": "1. 访问 KataBump 官网，注册登录KataBump：https://dashboard.katabump.com/2. 进入控制台3. 点击 Order4. 随便输入一个名称，环境 n...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5681.html",
+          "publishedOn": "2025-12-26T02:53:39.000Z",
+          "wordCount": 2844,
+          "title": "KataBump 免费容器申请教程，法国地区，CPU 0.25 核 + 308MB 内存、需 4 天续费一次",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5663.html",
+          "author": "xiaohack's Blog",
+          "description": "「Kiro 百万奖池计划」重磅启动 - 任何中国大陆请问有什么可以帮您？地区开发者，只要你在任何公开赛事开发项目并获奖，Kiro 即刻为你 1:1 奖金加倍！总奖池：1,000,000 RMB ...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5663.html",
+          "publishedOn": "2025-12-26T02:50:44.000Z",
+          "wordCount": 2480,
+          "title": "Kiro 百万奖池计划",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://vindlog.com/Album/530.html",
+          "author": "Vind Log",
+          "description": "Fot...",
+          "link": "https://www.blogsclub.org/jump?url=https://vindlog.com/Album/530.html",
+          "publishedOn": "2025-12-26T02:00:00.000Z",
+          "wordCount": 718,
+          "title": "【翻新】上海 Fotografiska 6 2024 VI 上海旧照片",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://liuqingwushui.top/archives/128/",
+          "author": "流情的博客",
+          "description": "博主虽然对洋节不太感冒，但在节日氛围的感染下，还是去逛了夜市和玉林街，感受到了节日的热闹。最后，博主还收到了一束花，询问读者是否也收到了花。",
+          "link": "https://www.blogsclub.org/jump?url=https://liuqingwushui.top/archives/128/",
+          "publishedOn": "2025-12-26T01:49:29.000Z",
+          "wordCount": 766,
+          "title": "双旦之圣诞",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.moodlog.cn/archives/19.html",
+          "author": "Moodlog",
+          "description": "当前已修改进度评论区样式已修改为对话气泡样式友链页申请友链表单内置rss订阅功能集成到友链页面header头部集成音乐播放器首页新增动态展示（可自动展示纯文字动态）重构归档页大家还有什么好的意见...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.moodlog.cn/archives/19.html",
+          "publishedOn": "2025-12-26T01:35:00.000Z",
+          "wordCount": 821,
+          "title": "【记录】当前主题修改日志",
+          "imageUrl": "/usr/themes/pigeon/assets/img/favicon.svg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://uwillno.com?blog=59",
+          "author": "UWillno's Blog",
+          "description": "博客安卓版开发记录",
+          "link": "https://www.blogsclub.org/jump?url=https://uwillno.com?blog=59",
+          "publishedOn": "2025-12-26T00:00:00.000Z",
+          "wordCount": 3195,
+          "title": "博客安卓版开发记录",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.blogsclub.org/jump?url=https://tianhw.top/posts/fuwari-newtab-links/",
           "author": "THW’s Blog",
           "description": "本文介绍了如何通过 rehype-external-links 插件，让 Fuwari 博客中的外部链接自动在新标签页打开，提升用户阅读体验。",
@@ -2773,6 +4023,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251225/",
+          "author": "So!azy",
+          "description": "我的博客没有留言和评论功能，原因早在在《没有留言板的博客》一文里详细解释过。不过，即便博客这块自留地是安静的，在其他社交平台或者公域渠道发声时，依然难免会遇到各种各样的评论。\n我自己很少主动去评论别人的内容，今天想聊聊这背后的缘由。\n促使我写下这些文字的诱因，是我在大众点评收到的互动。最近我在一家主打「正宗老北方馒头」的店下面写了评价，结果收到一条评论说：「菜市场五毛一个啊，买十个还送一个」。\n坦白说，这类评论我经常收到。我们不妨分析一下这类表达。对方想说什么？最表层的信息自然是：你买贵了，菜市场的性价比更高。我自认不是个小肚鸡肠的人，不至于为了这点意见就破防。我反感的是这类评论背后深层的傲慢。\n首先，他默认了一些我「不知道」的信息，比如我不逛菜市场，或者我没吃过五毛钱一个的馒头，甚至在为完全一样的馒头多花一倍多的钱。这种基于信息差的优越感其实非常粗浅，他先入为主地假设了我的认知水平，并用一种质疑的语气表达出来。\n有人可能会说，文字表达会有歧义，也许对方只是想分享信息呢？那么我们可以对比一下，一个中立且友善的表达应该是怎样的。比如「感谢分享」，或者「我还没发现这里有家馒头店」，再或者是「它和菜市场那种五毛一个的吃起来有什么区别吗」。这种沟通方式才叫信息交换，而不是单方面的认知打压。\n在公域平台上自发地表达其实是一件挺难的事。我指的不是随手留个言，而是主动发帖或者写长文分享经验、审美或者信息。对于这类创作者，我们理应心存一份感激和体谅。即便别人分享的是你 10 年前就知道的东西，如果不感兴趣，划走就是了。这个世界总需要有人去填补认知差，而不是去打击每一个在他看来「不如自己」的人。\n更何况，一个人在某个领域认知深刻，并不代表他在所有领域都领先。一个不如你了解杭州美食的人，可能在收入或者其他专业领域远超于你。粗暴地认为别人「不懂」，本身就是一种无知。\n除了路人，我也收到过商家的恶意评论。\n早些年，我在杭州一家名气很大的甜品店，花了三位数消费。体验下来发现，其产品完全配不上口碑和价格，于是我写了一篇非常客观的中评。为什么说是客观？因为我的女朋友，也就是我常提到的室友，是一位从业将近 10 年的甜品师。而我本人对于烘焙、面包和甜品的理论知识储备也算丰富。\n商家在收到我千字的评价后，回复了一篇长篇大论的阴阳怪气。大意有两点：一是他们的配方一直在调整，就算是今天吃的和上周也是不一样的；二是拿破仑的酥皮是油的焦香，不是油哈味，建议我多吃点才能学会分辨。\n这种傲慢溢于言表。一位店主理所当然地觉得所有顾客都不懂行，吃不出自己出品的好坏。我并不想在这里比拼谁的段位更高，但拿破仑的油酥到底是焦香还是油哈味，作为一个老饕，这点基本的分辨力还是有的。至于他的配方一天变多少次，与我无关。作为消费者，我是来品鉴美食的，我不需要研判你的产品里放的是臭豆腐还是钻石。\n说这么多，并不是为了鼓励大家从此不去评价。相反，正因为我经常收到心怀不轨的评论，...",
+          "link": "https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251225/",
+          "publishedOn": "2025-12-25T15:00:00.000Z",
+          "wordCount": 880,
+          "title": "为什么我如此珍视善意的评论",
+          "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/sol/felipe-galvan-wh-epdjif4-unsplash.webp"
+        },
+        {
           "id": "https://www.blogsclub.org/jump?url=https://www.weiwenchao.com/2079.html",
           "author": "魏文超博客",
           "description": "《我的北漂第一天》",
@@ -2791,6 +4051,16 @@
           "wordCount": null,
           "title": "博客装修记：升级 Typecho 主程序",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?url=https://www.weisay.com/blog/a-christmas-dessert-diary.html",
+          "author": "威言威语",
+          "description": "圣诞节妈妈带俩娃做甜品：一起煮西米打芒果泥，做了杨枝甘露；用巧克力画圣诞树，点缀草莓蓝莓；蛋挞挤奶油变成小雪人；还叠了草莓松饼塔。孩子们偷吃芒果、挤巧克力玩得开心。早上收到“圣诞老人”送的艾莎玩具，真是个甜甜的圣诞！",
+          "link": "https://www.blogsclub.org/jump?url=https://www.weisay.com/blog/a-christmas-dessert-diary.html",
+          "publishedOn": "2025-12-25T10:50:36.000Z",
+          "wordCount": 469,
+          "title": "圣诞节的甜品手作小记",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/xmasdessert.png"
         },
         {
           "id": "https://www.blogsclub.org/jump?url=https://www.rz.sb/archives/362/",
@@ -4739,6 +6009,66 @@
       "feedUrl": "https://blogtalk.org/feed.xml?sort=latest",
       "siteUrl": "https://www.blogtalk.org/home?sort=latest",
       "articles": [
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.hansjack.com%2Fposts%2Frepo%2Fzhixu-app",
+          "author": "时光流·言",
+          "description": "该渲染由 Shiro API 生成，可能存在排版问题，最佳体验请前往：https://www.hansjack.com/posts/repo/zhixu-app TIP Zhixu 目标是制作个人知识与任务系统，优先解决两件事：信息管理混乱与多端同步困难。 ::: grid {cols=4,rows=1,type=images} ::: 评论区：提出你的需求和建议 看完了？说点什么呢",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.hansjack.com%2Fposts%2Frepo%2Fzhixu-app",
+          "publishedOn": "2025-12-26T16:03:01.000Z",
+          "wordCount": 1162,
+          "title": "预告：Zhixu（知序）AI 赋能待办 & 笔记 APP",
+          "imageUrl": "https://www.hansjack.com/home-og"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.krjojo.com%2F12670.html",
+          "author": "手里有只毛毛虫",
+          "description": "收集整理全网：年度最好用AI工具 - 2025年12月。 省流总结 预算够首选用Google全家桶，便宜平替用 ... 2025 年度AI工具推荐 包含链接地址最先出现在手里有只毛毛虫。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.krjojo.com%2F12670.html",
+          "publishedOn": "2025-12-26T14:40:23.000Z",
+          "wordCount": 1194,
+          "title": "2025 年度AI工具推荐 包含链接地址",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.weisay.com%2Fblog%2Fview-your-commenter-report.html",
+          "author": "威言威语",
+          "description": "前几天在瓦匠那儿看到了博友的年度报告，再加上年底各种 APP 都在发总结，就想着不如也从评论者的角度做一份试试。前端页面交给 AI 出，我来处理数据获取，折腾了几个晚上，最后就有了这份博友的年度互动报告。数据不复杂，主要图个好玩，欢迎点进来看看。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.weisay.com%2Fblog%2Fview-your-commenter-report.html",
+          "publishedOn": "2025-12-26T07:37:37.000Z",
+          "wordCount": 447,
+          "title": "快来解锁你的年度互动报告",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/comreport.png"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.dao.js.cn%2Fnew%2F2025122612040.shtml",
+          "author": "南蛮子懋和",
+          "description": "这是一篇关于利用开源项目lunar实现黄历、道历和八字排盘工具的介绍文章。文章首先指出，古人天文地理的历法规律与现代计算机的逻辑建模有相似之处。为了方便同门及爱好者更精准地排定课表、查询道历，作者利用lunar实现了三个功能。 其中，黄历功能已经更新前端渲染，可以查询黄道吉日等信息，支持多种内容如星座、干支、生肖等。点击黄历页面的日期会跳转到对应的老黄历页面，这是一个值得倡导的中国传统文化输出。 此外，还实现了道历功能，提供纯真的道教正统的月历，旨在提供精准的道教节日等精准的道教月历输出。 还有排盘工具，懋和道人排盘工具在登录后可以导出报告，未登录状态下也可以直接展示当前时期的排盘信息。作者也会使用这个工具为找他测算命运的用户进行测算。 文章还介绍了lunar的优势，包括其全面性、精确计算节气、胎神、九星等细节的能力，以及公历时间转换为农历及干支的便捷性。改造黄历、道历、排盘的过程是一次对传统文化的解构与重组，通过Python脚本、JavaScript与PHP的结合，复杂的黄历、道历、排盘变得一键可循。 最后，文章强调算力虽能算出天时，但算不出人心之愿力，希望这套工具能帮助到志同道合的道友，让传统文化在数字时代焕发新生。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.dao.js.cn%2Fnew%2F2025122612040.shtml",
+          "publishedOn": "2025-12-26T05:37:51.000Z",
+          "wordCount": null,
+          "title": "运用lunar实现黄历、道历、八字排盘",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3972.html",
+          "author": "静风说",
+          "description": "女演员辛芷蕾凭借着这部电影，前段时间拿下了威尼斯电影节最佳女主角奖。 电影里，美云在服装城经营一家女装店，同时还在线上直播带货，看上去生意惨淡。有一个镜头我特意暂停看了一下，直播间里只有13个人，而且弹幕都在说质量不好要退货，有的买家拿到退款也不肯改差评，厂家那边的服装质量有问题，收货后又不退款。美云这些年隐忍当“小三”无名无份，第二次怀上了不负责任的已婚男的孩子（已流产一次），孕早期去医院检查发现孕酮和HCG值偏低，B超无胎心，医生给她开了药，让她回去多注意休息。但她为了生计，还是得在女装店里继续奔波劳累。 美云去医院检查的那天，意外遇到了葆树，他因为胃癌住院。两人多年前是情侣关系，在一次意外交通事故中，美云开车撞死人，是葆树替她顶罪去坐牢。刚开始美云还去监狱探望他，可时间一久，她受不了那种压抑和煎熬，最终选择从他的生活里消失。葆树心里有失望，也有记恨。重逢之后，美云总想“偿还”葆树，打算留在他身边照顾他，直到他身体康复。但葆树从来没有提过让她还，而且在监狱里的那些岁月，怎么还？葆树母亲心梗去世，他到最后都没能见上一面，母亲到死都不知道儿子是清白的，怎么还？心理和身体的病痛折磨，这一切又要怎么还？ 虽然葆树在心里也怨恨美云，但当两人在电梯里被困时，他还是“本能”下意识地为她再次打开逃生通道，自己被困在里面，反而看上去平静释然。美云在电梯门重重关上时，只能再次被愧疚与煎熬淹没。也许在葆树看来，自己已经很难康复，留在美云身边只是纠缠和拖累，看不到希望，于是选择主动离开她。当他得知美云怀孕后，虽然他自己经济困顿，捉襟见肘，还是把钱还给美云，让她安心养孩子。 这部电影前半段是漫长的铺垫，情感压抑克制，直到影片最后，情感如决堤般宣泄释放。美云慌忙赶去客运站送葆树，衣服都来不及换，吊牌挂在背后，突然腹痛发作，在客运站的厕所里不幸流产，大汗淋漓，内心翻涌，颤抖着把孕囊冲进下水道，用衣服...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3972.html",
+          "publishedOn": "2025-12-26T04:38:25.000Z",
+          "wordCount": 814,
+          "title": "看《日掛中天》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliuqingwushui.top%2Farchives%2F128%2F",
+          "author": "流情的博客",
+          "description": "AI摘要 博主虽然对洋节不太感冒，但在节日氛围的感染下，还是去逛了夜市和玉林街，感受到了节日的热闹。最后，博主还收到了一束花，询问读者是否也收到了花。 此内容根据文章生成，不代表个人观点，仅用于文章内容的解释与总结 圣诞快乐~ 最近节日是真的多，平安夜，圣诞~元旦~情人节，真是让商家狠狠的赚了一笔，笑得合不拢嘴了。 博主向来自诩一个遵纪守法的爱国人士，对于所谓洋人的节日不太感冒。但架不住沿途所见之景皆是在宣示节日的氛围。 好嘛，本着来都来了的心态，那就走走？逛逛？看看？玩玩？ （公司附近的一条夜市街，人流量不多，但是看到有人在拍照） 今天是圣诞节，博主下班的时候就已经快十点了，又去了玉林街一趟。确实是比往日是更热闹一点。走走停停~ （省略一万字，中间过程博主心知即可，不足为外人道也） 然后回去时，多了一束花。 那么问题来了，圣诞节你收到了花了吗？",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliuqingwushui.top%2Farchives%2F128%2F",
+          "publishedOn": "2025-12-26T01:49:29.000Z",
+          "wordCount": 748,
+          "title": "双旦之圣诞",
+          "imageUrl": null
+        },
         {
           "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.munue.com%2F762.html",
           "author": "随风沐虐",
