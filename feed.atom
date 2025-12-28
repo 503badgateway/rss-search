@@ -2,16 +2,900 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2025-12-27T01:22:16.978Z</updated>
+    <updated>2025-12-28T01:42:02.938Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[通行密钥（Passkeys）：Telegram 正式上线全新安全登录方式]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.munue.com%2F763.html</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.munue.com%2F763.html"/>
+        <updated>2025-12-28T00:20:15.000Z</updated>
+        <summary type="html"><![CDATA[通行密钥（Passkeys）是一种免密码的安全登录技术，它依托公钥私钥加密体系与设备本地验证机制，替代了传统密码形式，能显著提升账户登录的安全性与操作便捷性。 Telegram 已正式上线通行密钥登录功能，该功能可完全取代短信验证码登录。一方面解决了此前国际短信验证码存在的发送成本高、部分地区接收失败等痛点，另一方面也有效规避了短信验证码被劫持的风险，实现了登录安全与便捷性的双重升级。 值得注意的是，通行密钥会存储在用户自主选择的密码管理器中，可以与 iCloud、Google 等密码管理应用同步，其安全性与可用性不受 Telegram 平台服务本身的影响，保障了密钥的独立性与稳定性。， 核心优势 替代短信验证，无接收地域限制、无劫持风险 依托公钥加密体系，登录安全等级更高 密钥存于个人密码管理器，与平台服务解耦 已支持的客户端： iOS 官方客户端版本 ≥ v12.2.3 Android 官方客户端版本 ≥ v12.2.8 Desktop 官方客户端和第三方客户端版本 ≥ v6.3.6 iOS 和 Android 第三方客户端不支持通行密钥，接口限制 Windows 上需要设备支持 Windows Hello 开启方式： 中文界面：设置 -> 隐私 -> 通行密钥 英文界面：Settings -> Privacy and Security -> Passkey iOS 上无法开启或出错的解决办法：连续点击10次“设置” -> 进入“Debug”界面 -> 点击“Clear Database and Cache” -> 再去开启 Android 上无法开启或出错的解决办法：安装 Goole Play 或 官网直装版本试试 https://www.munue.com/wp-content/uploads/2025/12/Telegram-Passkeys-Set.mp4 为保...]]></summary>
+        <author>
+            <name>随风沐虐</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内外常用DNS、DoH地址汇总]]></title>
+        <id>https://blog.harrverse.com/posts/public-dns-directory/?utm_source=blogfinder</id>
+        <link href="https://blog.harrverse.com/posts/public-dns-directory/?utm_source=blogfinder"/>
+        <updated>2025-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[国内外常用DNS、DoH地址汇总]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国内外常用DNS、DoH地址汇总]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.harrverse.com/posts/public-dns-directory/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.harrverse.com/posts/public-dns-directory/"/>
+        <updated>2025-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[汇总 2025 国内外主流 DNS (阿里/腾讯/Google/Cloudflare) 的 IPv4/IPv6 及 DoH 加密地址，提供网络安全访问指南。]]></summary>
+        <author>
+            <name>Gemsly Hoshino's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo升级版本]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://hyde.live/archives/update</id>
+        <link href="https://www.blogsclub.org/jump?url=https://hyde.live/archives/update"/>
+        <updated>2025-12-27T20:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Halo升级版本]]></summary>
+        <author>
+            <name>下午倆點半的海德公園</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[恭喜我们永州队拿到冠军！😋]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.pipishe.com/archives/89/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.pipishe.com/archives/89/"/>
+        <updated>2025-12-27T19:20:00.000Z</updated>
+        <summary type="html"><![CDATA[恭喜我们永州队拿到冠军！😋]]></summary>
+        <author>
+            <name>皮皮社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 命令速查：常用操作]]></title>
+        <id>https://xn--otsr53afot.com/posts/git-command-quick-reference/?utm_source=blogfinder</id>
+        <link href="https://xn--otsr53afot.com/posts/git-command-quick-reference/?utm_source=blogfinder"/>
+        <updated>2025-12-27T16:35:00.000Z</updated>
+        <summary type="html"><![CDATA[Git 命令速查：常用操作]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[阿凡达3与疯狂动物城2]]></title>
+        <id>https://www.blogsclub.org/jump?url=http://www.yveji.com/Cultural/avatar-3-and-zootropolis-2.html</id>
+        <link href="https://www.blogsclub.org/jump?url=http://www.yveji.com/Cultural/avatar-3-and-zootropolis-2.html"/>
+        <updated>2025-12-27T16:25:00.000Z</updated>
+        <summary type="html"><![CDATA[《阿凡达：火与烬》时长3小时17分钟，进影院前少喝点水。2009年上映的《阿凡达》时长2小时42分钟，2022年上映的《阿凡达：水之道》时长3小时12分钟。  《阿凡达：火与烬》就个人角度来说，...]]></summary>
+        <author>
+            <name>悦己</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20251224]]></title>
+        <id>https://61.life/2025/1224?utm_source=blogfinder</id>
+        <link href="https://61.life/2025/1224?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:54:11.000Z</updated>
+        <summary type="html"><![CDATA[20251224]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20251223]]></title>
+        <id>https://61.life/2025/1223?utm_source=blogfinder</id>
+        <link href="https://61.life/2025/1223?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:40:53.000Z</updated>
+        <summary type="html"><![CDATA[20251223]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 · 仍在路上，半径之外]]></title>
+        <id>https://innei.in/notes/205?utm_source=blogfinder</id>
+        <link href="https://innei.in/notes/205?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:38:02.000Z</updated>
+        <summary type="html"><![CDATA[2025 · 仍在路上，半径之外]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20251222]]></title>
+        <id>https://61.life/2025/1222?utm_source=blogfinder</id>
+        <link href="https://61.life/2025/1222?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:37:52.000Z</updated>
+        <summary type="html"><![CDATA[20251222]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《静女》：一次躲藏，一场等待，与永恒的爱之初见]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/jing-nu-yi-ci-duo-cang-yi-chang-deng-dai-yu-yong-heng-de-ai-zhi-chu-jian</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/jing-nu-yi-ci-duo-cang-yi-chang-deng-dai-yu-yong-heng-de-ai-zhi-chu-jian"/>
+        <updated>2025-12-27T15:34:26.000Z</updated>
+        <summary type="html"><![CDATA[《静女》：一次躲藏，一场等待，与永恒的爱之初见]]></summary>
+        <author>
+            <name>秘柯絮语</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dify 安全优雅升级到新版本指南]]></title>
+        <id>https://www.51it.wang/ll/2127?utm_source=blogfinder</id>
+        <link href="https://www.51it.wang/ll/2127?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Dify 安全优雅升级到新版本指南]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末流水账 1227]]></title>
+        <id>https://blog.solazy.me/20251227/?utm_source=blogfinder</id>
+        <link href="https://blog.solazy.me/20251227/?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[周末流水账 1227]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[周末流水账 1227]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251227/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251227/"/>
+        <updated>2025-12-27T15:28:00.000Z</updated>
+        <summary type="html"><![CDATA[时间过得可真快，转眼就来到了 2025 年最后一个周末。
+也不知道是怎么了，就是这最后一个周末，患上了感冒，我可是在前段时间甲流横行的时候也没有中招的。
+昨天晚上就感觉不对，索性早早就睡下了，今天上午醒来果然头昏昏沉沉，而且鼻塞严重。索性就由着性子一直昏睡到了下午，过了一个真正回血的周六。
+
+  
+
+其实，每次感冒发烧，我都有一个舒缓的办法，就是洗一个尽可能滚烫的热水澡。反正不知道有没有科学依据，每次洗完之后我都会感觉到一丝轻松。就连当年新冠刚放开那会儿，阳了在家，我都会洗滚烫的热水澡，尽管那时候所谓的专家都不建议在阳了的时候洗澡。
+原本昨天在公司的时候，就预定了今天早上送上门的活虾，想来上一整天的「大虾毛豆净化日」，可昨天晚上感到不适的时候，就退掉了订单。睡到下午起来，索性一天就吃一顿了。去家附近新开的举高高旋转火锅，它家是海底捞旗下的新品牌，主营自助小火锅，最近开始发力铺店了。
+
+
+
+
+
+
+
+
+
+
+
+
+整体感觉还不错，50 多块钱，能吃到很多肉。最主要的是服务是真的不错，不愧是海底捞的能力下放了。吃这顿...]]></summary>
+        <author>
+            <name>So!azy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20251221]]></title>
+        <id>https://61.life/2025/1221?utm_source=blogfinder</id>
+        <link href="https://61.life/2025/1221?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:23:50.000Z</updated>
+        <summary type="html"><![CDATA[20251221]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🆕 跨平台音乐管理器九歌v2.2.5 更新，音乐不用再天问！]]></title>
+        <id>https://www.huluohu.com/posts/2017/?utm_source=blogfinder</id>
+        <link href="https://www.huluohu.com/posts/2017/?utm_source=blogfinder"/>
+        <updated>2025-12-27T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[🆕 跨平台音乐管理器九歌v2.2.5 更新，音乐不用再天问！]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🆕 跨平台音乐管理器九歌v2.2.5 更新，音乐不用再天问！]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.huluohu.com%2Fposts%2F2017%2F</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.huluohu.com%2Fposts%2F2017%2F"/>
+        <updated>2025-12-27T15:13:03.000Z</updated>
+        <summary type="html"><![CDATA[这是一个开源的跨平台音乐播放器项目，目标是创建兼容主流开源流媒体服务器并支持多种操作系统的专业音乐客户端，实现客户端和服务器之间的数据互操作性 (支持Windows, Linux, MacOS。 项目名称"九歌"，源于《楚辞》，以纪念屈原。 NSMusicS 项目旨在构建一个完整的音乐生态系统，包含桌面客户端 (Electron)、服务器端 (Go) 和移动客户端 (Flutter)。它支持多种流媒体服务器，例如 Navidrome、Jellyfin 和 Emby，未来计划支持 Subsonic (需等待新 API)。 此外，NSMusicS 还支持本地音乐库，并计划支持各种网络云盘（如、Webdav、onedriver等），甚至未来也会为其他应用场景（影视视频、相册、小说、文档、笔记）提供云服务场景，项目最终目标是集成到小米等智能家居生态中。 ⭐star数量 2.3k stars 🚀 核心功能亮点 跨平台支持: Windows, Linux, macOS, 未来将支持Android, iOS, Android车载系统 多服务器兼容: Navidrome, Jellyfin, Emby (未来支持 Subsonic 和 NSMusicS-GO) 本地音乐库支持: Windows (macOS, Linux, Docker版本开发中) 专业音频播放: (丰富的音效功能开发中) 国际化支持: 已实现 系统托盘: Windows, macOS (Linux版本开发中) (未来) 网络云盘支持 (未来) 丰富的音效 (未来) 多种音乐使用场景 (例如卡拉OK，家庭影音) (未来) 人工智能功能 (音乐识别，伴奏提取，卡拉OK评分等) (未来) 知识图谱 (推荐系统，图数据库等) 🎊 版本更新内容 如果在本地模式下导入的歌曲未显示，请手动切换到服务器模式，然后再切换回本地模式。 ...]]></summary>
+        <author>
+            <name>胡萝虎的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[圆梦3D打印：拓竹P1SC开箱]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://me.xu19.com/bambu-lab-p1sc-unboxing/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://me.xu19.com/bambu-lab-p1sc-unboxing/"/>
+        <updated>2025-12-27T14:55:40.000Z</updated>
+        <summary type="html"><![CDATA[我有一个3D打印梦 说起3D打印，第一次接触还是在工学院的展厅上看到的，展位上摆放了学生自己组装制作的3D打印机，还有打印 ...]]></summary>
+        <author>
+            <name>我是军爸</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今天应该是2025年最后一次加班了]]></title>
+        <id>https://www.lifd.site/2025/12/jin-tian-ying-gai-shi-2025-nian-zui-hou-yi-ci-jia-ban-le/?utm_source=blogfinder</id>
+        <link href="https://www.lifd.site/2025/12/jin-tian-ying-gai-shi-2025-nian-zui-hou-yi-ci-jia-ban-le/?utm_source=blogfinder"/>
+        <updated>2025-12-27T14:06:22.000Z</updated>
+        <summary type="html"><![CDATA[今天应该是2025年最后一次加班了]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[浅谈影音酒店提供电视等设备进行放映是否侵犯著作权]]></title>
+        <id>https://blog.fz.do/2025/%e6%b5%85%e8%b0%88%e5%bd%b1%e9%9f%b3%e9%85%92%e5%ba%97%e6%8f%90%e4%be%9b%e7%94%b5%e8%a7%86%e7%ad%89%e8%ae%be%e5%a4%87%e8%bf%9b%e8%a1%8c%e6%94%be%e6%98%a0%e6%98%af%e5%90%a6%e4%be%b5%e7%8a%af%e8%91%97/?utm_source=blogfinder</id>
+        <link href="https://blog.fz.do/2025/%e6%b5%85%e8%b0%88%e5%bd%b1%e9%9f%b3%e9%85%92%e5%ba%97%e6%8f%90%e4%be%9b%e7%94%b5%e8%a7%86%e7%ad%89%e8%ae%be%e5%a4%87%e8%bf%9b%e8%a1%8c%e6%94%be%e6%98%a0%e6%98%af%e5%90%a6%e4%be%b5%e7%8a%af%e8%91%97/?utm_source=blogfinder"/>
+        <updated>2025-12-27T14:05:45.000Z</updated>
+        <summary type="html"><![CDATA[浅谈影音酒店提供电视等设备进行放映是否侵犯著作权]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SMART 警告响了一周：NAS 掉盘后，ChatGPT 给我一颗定心丸]]></title>
+        <id>https://www.tortorse.com/archives/nas-disk-price-shock/?utm_source=blogfinder</id>
+        <link href="https://www.tortorse.com/archives/nas-disk-price-shock/?utm_source=blogfinder"/>
+        <updated>2025-12-27T13:56:26.000Z</updated>
+        <summary type="html"><![CDATA[SMART 警告响了一周：NAS 掉盘后，ChatGPT 给我一颗定心丸]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[米饭的2025年度总结]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://world.ccrice.com/2025/12/27/1406</id>
+        <link href="https://www.blogsclub.org/jump?url=https://world.ccrice.com/2025/12/27/1406"/>
+        <updated>2025-12-27T13:27:41.000Z</updated>
+        <summary type="html"><![CDATA[今天已经是12月22日啦~    因为12月31日之后就会是新的一年，所以是时候写2025年米饭的年度报告了结果12月22日我只写了上面那一小段   然后拖到了12月27日 （超级拖延症）首先，...]]></summary>
+        <author>
+            <name>CC米饭的小世界</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[主题微调，辞旧迎新]]></title>
+        <id>https://knay.net/note/blog-theme-southlane-v1b2?utm_source=blogfinder</id>
+        <link href="https://knay.net/note/blog-theme-southlane-v1b2?utm_source=blogfinder"/>
+        <updated>2025-12-27T13:21:19.000Z</updated>
+        <summary type="html"><![CDATA[主题微调，辞旧迎新]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有些事需要三观统一]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.okang.top%2Farchives%2F3324</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.okang.top%2Farchives%2F3324"/>
+        <updated>2025-12-27T13:19:55.000Z</updated>
+        <summary type="html"><![CDATA[有些事需要五官打底]]></summary>
+        <author>
+            <name>康丰日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2025也闲谈·圩四】第三季终章：求存求真]]></title>
+        <id>http://www.qncd.com/?p=12353&amp;utm_source=blogfinder</id>
+        <link href="http://www.qncd.com/?p=12353&amp;utm_source=blogfinder"/>
+        <updated>2025-12-27T13:14:00.000Z</updated>
+        <summary type="html"><![CDATA[【2025也闲谈·圩四】第三季终章：求存求真]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年终开始的新任务，持续到1月7日夜]]></title>
+        <id>https://blog.mcenahle.org.cn/2025/12/27/373.html?utm_source=blogfinder</id>
+        <link href="https://blog.mcenahle.org.cn/2025/12/27/373.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T13:07:15.000Z</updated>
+        <summary type="html"><![CDATA[年终开始的新任务，持续到1月7日夜]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习 || 【灵潇2026方案作图-007】Run!建筑设计防火疏散体系]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.yishu.pro/archives/179.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.yishu.pro/archives/179.html"/>
+        <updated>2025-12-27T13:03:50.000Z</updated>
+        <summary type="html"><![CDATA[公共流线和疏散流线是两种交通概念，前者用于日常使用和休闲流线，也就是前面提过的以人的视点去观察建筑，类似于古典建筑园林中的观光路线。而后者类似于古典园林中仆人使用的流线，追求路径短能快速满足疏散要求，是紧急状态下逃生流线。
+区别
+楼梯
+游览楼梯：迎合、引导...]]></summary>
+        <author>
+            <name>异数</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025！]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.qingfengnb.cn/archives/125/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.qingfengnb.cn/archives/125/"/>
+        <updated>2025-12-27T13:03:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年，中国举行抗战胜利80周年阅兵，福建舰入列，科技创新加速。全球冲突与灾难频发，但撤侨、烈士归国等展现人性温暖。流行文化与体育赛事带来欢乐，亦告别多位名人。这一年充满高对比度，人类在困境...]]></summary>
+        <author>
+            <name>轻风blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC地图]]></title>
+        <id>https://www.mioc.cn/archives/mcdi-tu?utm_source=blogfinder</id>
+        <link href="https://www.mioc.cn/archives/mcdi-tu?utm_source=blogfinder"/>
+        <updated>2025-12-27T12:59:18.000Z</updated>
+        <summary type="html"><![CDATA[MC地图]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MC地图]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/mcdi-tu</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.mioc.cn/archives/mcdi-tu"/>
+        <updated>2025-12-27T12:59:18.000Z</updated>
+        <summary type="html"><![CDATA[嘿嘿最近厚着脸皮从朋友那要了个MC地图 而且也做了服务端部署，有兴趣的朋友可以去试试，1.21.10原版（服务器性能不好，就打算开20个人） 地址：jlc.mc.mioc.cn]]></summary>
+        <author>
+            <name>秘柯絮语</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多数时间可以被约分的一年]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.glowisle.me/posts/2025-annual-summary/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.glowisle.me/posts/2025-annual-summary/"/>
+        <updated>2025-12-27T12:20:14.000Z</updated>
+        <summary type="html"><![CDATA[我平常没什么拍照片的习惯，手机相册里最多的就是截图，所以从相册里看看这一年都干了什么是没希望了，幸好今年上半年我很喜欢发朋友圈，可以看着朋友圈来写点东西。
+我在上半年的时候，真的很喜欢发朋友圈，每两条的间隔很少超过一周。不知从什么时候起，我开始思考为什么要发朋友圈，发朋友圈想得到什么、能得到什么、得到了什么，在那之后，我就很少发朋友圈了。
+朋友圈作为一个上不去下不来的社交媒体，既没有推特（我会叫它一辈子推特的，X这个名字真的太难听了）的信息传播速度，也没有豆瓣的独特氛围。最特殊的一点是，朋友圈的看客，基本都是亲戚、老师、同学、同事。仅仅四类看客，就可以让一个人打扮成四种形象。朋友圈里的自己，是自己想让别人认为的自己。
+我在这里敢下结论：「每条朋友圈都或多或少有表演性质。」
+除去这种看起来似乎有点肮脏的心理，也会有「分享」的成分。但「记录」不可能占大部分，因为一旦有了观众，就肯定会设想他们看到的反应了。如果只是为了记录，为什么要让别人看见？这种渴望被看见的心理，和写博客的心理有异曲同工之妙1。所以我想让别人看见的我是什么样子？
+还有一阵子我在朋友圈转发我写得狗屁不通的文章，那些不堪回首的往昔……
+这里我其实是在批判自己。倒不如说，我博客大部分可能有攻击性的文章，都是在批判过去的自己。往坏处想，过去的自己确实幼稚；往好处想，自己有不少进步。我相信大部分写博客的人，都不敢读自己以前的文章。
+扯远了。
+
+疯狂看书的一年
+这一年我读了16 本书。有些书写了书评或读后感。
+
+    
+    
+
+堆在一起看，还是挺壮观的。暑假我开始疯狂看书。起因是我妈买了一本莫言的《不被大风吹倒》，说实话这是我看过莫言的第一本书。
+通过看这本书，我发现看书好像很有意思，于是继续去我妈那里觅食，「借」来了东野圭吾的两本，又不知道从哪认识了尾崎红叶，就买了一本代表作。这本书是以「三岛由纪夫一口气读完并大呼…]]></summary>
+        <author>
+            <name>映屿</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[回顾喵喵的2025]]></title>
+        <id>https://www.mmbkz.cn/b37582d8.html?utm_source=blogfinder</id>
+        <link href="https://www.mmbkz.cn/b37582d8.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T12:19:00.000Z</updated>
+        <summary type="html"><![CDATA[回顾喵喵的2025]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[开始了兄弟们]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.pipishe.com/archives/88/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.pipishe.com/archives/88/"/>
+        <updated>2025-12-27T11:55:16.000Z</updated>
+        <summary type="html"><![CDATA[今天大战开始啦，兄弟姐妹们速度去围观。😜]]></summary>
+        <author>
+            <name>皮皮社</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[油条豆腐脑，总结要趁早｜我的2025年度小记]]></title>
+        <id>https://www.suiyan.cc/blog/20251227113006?utm_source=blogfinder</id>
+        <link href="https://www.suiyan.cc/blog/20251227113006?utm_source=blogfinder"/>
+        <updated>2025-12-27T11:30:06.000Z</updated>
+        <summary type="html"><![CDATA[油条豆腐脑，总结要趁早｜我的2025年度小记]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[ UHALO PRO ] 插件渲染测试]]></title>
+        <id>https://blog.xiaoxiaomo.cn/archives/uhalo-pro-cha-jian-xuan-ran-ce-shi?utm_source=blogfinder</id>
+        <link href="https://blog.xiaoxiaomo.cn/archives/uhalo-pro-cha-jian-xuan-ran-ce-shi?utm_source=blogfinder"/>
+        <updated>2025-12-27T10:24:58.000Z</updated>
+        <summary type="html"><![CDATA[[ UHALO PRO ] 插件渲染测试]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP基于SESSION的简单访问频率管控系统]]></title>
+        <id>https://luolt.cn/archives/3112.html?utm_source=blogfinder</id>
+        <link href="https://luolt.cn/archives/3112.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T09:39:00.000Z</updated>
+        <summary type="html"><![CDATA[PHP基于SESSION的简单访问频率管控系统]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[总结与意义]]></title>
+        <id>https://lilun.bearblog.dev/endof2025/?utm_source=blogfinder</id>
+        <link href="https://lilun.bearblog.dev/endof2025/?utm_source=blogfinder"/>
+        <updated>2025-12-27T09:31:00.000Z</updated>
+        <summary type="html"><![CDATA[总结与意义]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[表情包仙人又来了！]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://b.ncii.cn/archives/TSYOXe9p</id>
+        <link href="https://www.blogsclub.org/jump?url=https://b.ncii.cn/archives/TSYOXe9p"/>
+        <updated>2025-12-27T09:30:51.000Z</updated>
+        <summary type="html"><![CDATA[[openAi 摘要生成异常：Server returned HTTP response code: 503 for URL: https://api.siliconflow.cn/v1/chat/completions]]]></summary>
+        <author>
+            <name>卖烤肉博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美国“斩杀线”有多恐怖？]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.wkqx.com/19.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.wkqx.com/19.html"/>
+        <updated>2025-12-27T09:11:30.000Z</updated>
+        <summary type="html"><![CDATA[美国“斩杀线”有多恐怖？]]></summary>
+        <author>
+            <name>惟康前行</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[巴黎散记]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Ffatesinger.com%2F105360</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Ffatesinger.com%2F105360"/>
+        <updated>2025-12-27T07:56:34.000Z</updated>
+        <summary type="html"><![CDATA[戴高乐机场 巴黎作为顶级城市之一，来看一看总归是好的。初到戴高乐机场还是较为震惊的，到处都是中文标识。本次乘坐的法航，早上抵达巴黎，不过因为冬天的原因，外面还是一片漆黑，乘坐火车抵达市区，巴黎的牛马们也开始准备搬砖了，看来大家都不容易。 中文标识 地铁站 出了地铁站天还是黑的，路上几乎没有人，算是难得的安静时刻，这么早酒店是肯定无法入住的，于是只能强行city walk，星巴克都要八点才营业。 凌晨的巴黎 其实小巴黎的街道还算可以，没有传说中的那么脏乱差。 凌晨巴黎街道 凌晨巴黎街道 凌晨巴黎街道 熬到了星巴克开始营业，简单的吃个早餐继续city walk，毕竟巴黎消费太高，按秒计费的。从星巴克出来天已经放亮，路上的人逐渐多了起来。 天亮了 说实话，如果你第一个到访的城市是巴黎，那决定是美的震撼的，但是当你去了很多欧洲城市，建筑真的是平平无奇了，我尔滨的中央大街甚至都有一战之力。 圣丹尼街 都柏林广场 法国人的穿搭还是有点东西，国内牛马们如果这样穿估计会被归为异类吧。 路过 Café de Flore，巴黎最古老的咖啡馆之一。 欧洲人无论什么温度都是短裤跑步 再路过 塞纳河畔 塞纳河畔，告白气球里的场所了。 塞纳河 Alphand 大道 文学咖啡馆 – 双叟咖啡馆 圣礼拜堂 圣礼拜堂是法国哥特式建筑的杰出范例，由路易九世国王委托建造，旨在收藏圣物，包括基督的荆棘冠冕。 巴黎人还是时尚 巴黎警察局 巴黎司法宫 路人 巴黎圣母院 19 年的时候着火了。 巴黎圣母院 自行车 多芬广场 西岱岛 巴黎警察局（Préfecture de Police）的总部大楼 圣米歇尔桥 塞纳河畔 自行车 不愧是巴黎，公共自行车都和爱马仕的自行车很像。 塞纳河畔 已有圣诞氛围 纪念品店 圣雅克塔 圣雅克塔是16世纪被毁的圣雅克-德拉布什里教堂仅存的遗迹。]]></summary>
+        <author>
+            <name>大发贱志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[将你的博客部署一个开源轻量级服务器监控 Beszel]]></title>
+        <id>https://jyblog.cn/4654/?utm_source=blogfinder</id>
+        <link href="https://jyblog.cn/4654/?utm_source=blogfinder"/>
+        <updated>2025-12-27T07:48:28.000Z</updated>
+        <summary type="html"><![CDATA[将你的博客部署一个开源轻量级服务器监控 Beszel]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[夕阳富士山城景]]></title>
+        <id>https://www.wikimoe.com/post/t7x43c4z?utm_source=blogfinder</id>
+        <link href="https://www.wikimoe.com/post/t7x43c4z?utm_source=blogfinder"/>
+        <updated>2025-12-27T07:42:48.000Z</updated>
+        <summary type="html"><![CDATA[夕阳富士山城景]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐说 NO.12 鲁迅的书单]]></title>
+        <id>https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45?utm_source=blogfinder</id>
+        <link href="https://wangyurui.com/posts/yin-shuo-no-12-lu-xun-de-shu-dan-b9794e45?utm_source=blogfinder"/>
+        <updated>2025-12-27T06:37:15.000Z</updated>
+        <summary type="html"><![CDATA[隐说 NO.12 鲁迅的书单]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[隐说 NO.12 鲁迅的书单]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwangyurui.com%2Fposts%2Fyin-shuo-no-12-lu-xun-de-shu-dan-b9794e45</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwangyurui.com%2Fposts%2Fyin-shuo-no-12-lu-xun-de-shu-dan-b9794e45"/>
+        <updated>2025-12-27T06:37:15.000Z</updated>
+        <summary type="html"><![CDATA[本栏目《隐说》由原《棱镜通讯》分离而来，《隐说》主要聚焦于我近期读的一些好书、好文章、好的付费栏目、日常思考等等，其中有摘录、点评、扩展。 1、鲁迅的书单 1930年秋，许寿裳的长子许世瑛（“清华七友”之一）考取了清华大学国文系，鲁迅先生为他开列了一份应读文学书目,这份书目见于许寿裳著的《亡友鲁迅印象记》。后来,人民文学出版社将其收入《鲁迅全集》，题名为《开给许世瑛的书单》列书12种，记有： 计有功　宋人《唐诗纪事》四部丛刊本　又有单行本 辛文房　元人《唐才子传》今有木活字单行本 严可均《全上古……隋文》￼　今有石印本，其中零碎不全之文甚多，可不看。（查了下，全称应是《全上古三代秦汉三国六朝文》，其中包含《全隋文》） 丁福保《全上古……隋诗》￼排印本 吴荣光《历代名人年谱》可知名人一生中的社会大事，因其书为表格之式也。可惜的是作者所认为历史上的大事者，未必真是“大事”。最好是参考日本三省堂出版之《模范最新世界年表》。 胡应麟　明人《少室山房笔丛》广雅书局本　亦有石印本 《四库全书简明目录》其实是现有的较好的书籍之批评，但须注意其批评是“钦定”的。 《世说新语》刘义庆　晋人清谈之状 《唐摭言》五代王定保《雅雨堂丛书》中有　唐文人取科名之状态 《抱朴子外篇》葛洪　有单行本　内论及晋末社会状态 《论衡》王充　内可见汉末之风俗迷信等 《今世说》王晫　明末清初之名士习 太隐识: 我家正好有一套人民文学出版社的《鲁迅全集》（共十八卷），为了验证这个书单的真实性，就翻了翻原文，这个书单是在第八卷附录一里的“一九三零”中，其中包括了我很喜欢的《世说新语》，另外，这里面我还读过胡应麟的《少室山房笔丛》和辛文房的《唐才子传》（但都没有读完...），其他的书有时间读一读，到时候分享下读书心得。 2、文人吵架 | 周立民 在多抓鱼买了本周立民先生的《躺着读书》，书不厚，读起来挺有趣的，前边讲了很多...]]></summary>
+        <author>
+            <name>太隐</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【72 的开发工具 001】IDEA 2025.3 新出的 Develocity 插件数倍加快构建速度]]></title>
+        <id>https://blog.xiaohack.org/5772.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5772.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T06:16:17.000Z</updated>
+        <summary type="html"><![CDATA[【72 的开发工具 001】IDEA 2025.3 新出的 Develocity 插件数倍加快构建速度]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【72 的开发工具 001】IDEA 2025.3 新出的 Develocity 插件数倍加快构建速度]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5772.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5772.html"/>
+        <updated>2025-12-27T06:16:17.000Z</updated>
+        <summary type="html"><![CDATA[可以缓存，Maven 构建速度提升数倍，强烈建议大家安装   JetBrains  Develocity IntelliJ 插件 - IntelliJ IDEA 最新变化Develocity I...]]></summary>
+        <author>
+            <name>xiaohack's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[两款小插件：Webdav上传、全局自定义字体]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://qin.bi/6.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://qin.bi/6.html"/>
+        <updated>2025-12-27T06:03:34.000Z</updated>
+        <summary type="html"><![CDATA[今天上午抽了点空余时间，用Ai开发了两款适配自己使用的插件：Webdav上传插件和全局自定义字体插件，这里把功能特点和实际用处整理出来分享下。
+##Webdav上传
+做这个插件，核心是为了解决一个实际麻烦：我的图片资源都存在云盘上，之前要上传图片拿外链，都得打开客户端操作，流程又繁琐，还特别费时间。
+
+想优化这个操作流程、提高点效率，就打算自己做个专属插件。现在可以直接上传图片就能自动生成...]]></summary>
+        <author>
+            <name>亲笔 qin.bi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修烟囱+博客年度统计]]></title>
+        <id>https://ilogs.cn/2025/12/27/343.html?utm_source=blogfinder</id>
+        <link href="https://ilogs.cn/2025/12/27/343.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T05:02:00.000Z</updated>
+        <summary type="html"><![CDATA[修烟囱+博客年度统计]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[修烟囱+博客年度统计]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://ilogs.cn/2025/12/27/343.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://ilogs.cn/2025/12/27/343.html"/>
+        <updated>2025-12-27T05:02:00.000Z</updated>
+        <summary type="html"><![CDATA[昨天一早，老妈打来电话，说家里的取暖炉老是返烟，弄得屋里很烟、眼睛都睁不开。吃完早餐就立马开车回了家。检查后，我估计问题大概率出在屋顶。搬来梯子爬上屋顶，果然看到防风的弯头已经脱落了。我赶紧给老...]]></summary>
+        <author>
+            <name>我的日志</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[宇宙坟场或梦与醒：对永生与轮回的想象]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fpathos.page%2Fblog%2Fimmortality-and-reincarnation%2F</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fpathos.page%2Fblog%2Fimmortality-and-reincarnation%2F"/>
+        <updated>2025-12-27T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[数字祖先和他的梦 我在上篇文章中一笔带过，提到了一种平衡的永生方式：当肉体衰落和死亡，意识被贮存。之所以说“平衡”，是因为这保证了新陈代谢。以贮存意识的方式永生，意味着失去了能动体，但保留意识。 我小的时候曾经幻想过“恰当”的永生方式。死亡为什么这么可怕？可怕的不是你将不能做任何事情，而是你将不能看任何东西（抱歉，我这里又遵循了柏拉图的视觉思想图式，即以视觉来理解思想的形式）。死亡就像灯灭。灯灭之前，“我”可能相信“我”死后世界仍然存在和运转。但这好像又不对，因为死亡意味着“我”看不到这个世界会这样了，这个世界与“我”无关了。因此“我”很难拒绝这样一种想法：“我”死了之后，世界也就没了。我们后面会看到，如果宇宙完满觉醒，那么思想就是宇宙，没有思想就是没有宇宙，思想和存在是同一的。 所以如果条件还不允许，那么一种可以接受的恰当永生方式是做一块有意识的石头。它伫立在人世间的某个地方，看沧海桑田、悲欢离合、喜怒哀乐。 可能会有人耐不住寂寞，认为这样的生不如死。这或许就是《红楼梦》（原名《石头记》）这样一般小说暗示的某种主题。女娲补天遗留的石头感到寂寞，因为只能看不能做，而想去人世间走一遭。当然，他经历了对人世间的希望和喜爱逐渐幻灭。最终，静寂而不是参与，可能是真正圆满的状态。我在下一篇文章将会提出，这是佛教对宇宙的设想：人间很苦，静寂是解脱和圆满。 所以我们可以想象未来子孙们祭拜的不是冰冷的木质灵牌，而是可以看到子孙的意识贮存器。每一个人出于自愿、约定甚至被迫的原因，决定维持宇宙的新陈代谢和世代交替。由此代价获得的好处可能是：这些意识贮存器将彼此之间相连，并与子孙的意识共享，实现对世界的全息把握（当然是以某种层次和顺序）。 这就是说，数字祖先除了不能行动，可思一切。他可以做一个体验机，在其中拥有各种体验，食色性，都可以通过技术手段实现。（当然，这也不是单纯的技术了。） 但是，既然...]]></summary>
+        <author>
+            <name>pathos•page</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年最后一场音乐会，《我推的孩子》交响音乐会]]></title>
+        <id>https://www.wikimoe.com/post/t7wtlftn?utm_source=blogfinder</id>
+        <link href="https://www.wikimoe.com/post/t7wtlftn?utm_source=blogfinder"/>
+        <updated>2025-12-27T03:56:02.000Z</updated>
+        <summary type="html"><![CDATA[2025年最后一场音乐会，《我推的孩子》交响音乐会]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年度文章摘录汇编索引]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://jiangcl.com/4416</id>
+        <link href="https://www.blogsclub.org/jump?url=https://jiangcl.com/4416"/>
+        <updated>2025-12-27T03:26:23.000Z</updated>
+        <summary type="html"><![CDATA[年度文章摘录汇编索引]]></summary>
+        <author>
+            <name>蒙需</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[听腾格尔 2021《时光音乐会》版《天堂》，听懂藏在旋律里的父爱]]></title>
+        <id>https://xiangming.site/1102.html?utm_source=blogfinder</id>
+        <link href="https://xiangming.site/1102.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T03:00:00.000Z</updated>
+        <summary type="html"><![CDATA[听腾格尔 2021《时光音乐会》版《天堂》，听懂藏在旋律里的父爱]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[锁车音效分享下载 - 特斯拉/宝马/比亚迪/深蓝/领克/极氪等提示音一键下载]]></title>
+        <id>https://www.iyouhun.com/post-296.html?utm_source=blogfinder</id>
+        <link href="https://www.iyouhun.com/post-296.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T02:36:20.000Z</updated>
+        <summary type="html"><![CDATA[锁车音效分享下载 - 特斯拉/宝马/比亚迪/深蓝/领克/极氪等提示音一键下载]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自在的感觉是什么样的呢？]]></title>
+        <id>https://rolen.wiki/what-does-the-feeling-of-freedom-feel-like/?utm_source=blogfinder</id>
+        <link href="https://rolen.wiki/what-does-the-feeling-of-freedom-feel-like/?utm_source=blogfinder"/>
+        <updated>2025-12-27T02:33:26.000Z</updated>
+        <summary type="html"><![CDATA[自在的感觉是什么样的呢？]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染水痘记（上）]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.jfsay.com/archives/3968.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.jfsay.com/archives/3968.html"/>
+        <updated>2025-12-27T02:19:47.000Z</updated>
+        <summary type="html"><![CDATA[感染水痘记（上）]]></summary>
+        <author>
+            <name>静风说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[感染水痘记（上）]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3968.html</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3968.html"/>
+        <updated>2025-12-27T02:19:47.000Z</updated>
+        <summary type="html"><![CDATA[没想到自己四十岁了，在2025年最后一个月，竟然感染了水痘。 第一天：低烧身体不适 周末感觉全身肌肉关节酸痛，发冷恶心，身体各处还会随机抽痛。中午裹着三层棉被、抱着热水袋睡了一觉，醒来觉得头晕难受又躺下了，量了几次体温将近38度。夜里一直发热出汗、做梦不断，以为是被传染感冒。回想前几天就已经有精神萎靡、嗜睡的感觉。 第二天：持续恶心反胃 早上起床感觉精神好一些，送两个娃上学后，便去上班了。临走前照镜子发现脸上冒出几颗陌生的红痘，位置比较对称，不小心碰破了，还有些流水，以为是上火，没放在心上。到了单位有同事问我，是不是身体不舒服，看着脸色不太对。一整天仍旧持续反胃，中午和晚上吃不下任何东西，闻到饭菜的味道就恶心，和以往怀孕早期的症状很相似，当时又一度怀疑是意外怀孕了。 第三天：确诊感染水痘 早上照镜子看到脸上和身体的红痘比昨天多了，而且随着时间推移，到中午越来越多，有的红痘中间是透明水状，凭经验判断和之前发烧感冒引发的急性荨麻疹的症状不同，反复上网查询，怀疑是水痘。下午便赶紧去医院皮肤科，医生检查后确诊为水痘，并登记我的身份证信息和工作单位上报给省系统。因为水痘有极强传染性，需要隔离休息两周。 从医院回家后火速收拾衣服和生活用品，直接搬出去隔离，两个娃放学后住到爷爷奶奶家。家里所有的床单被褥衣物都清洗晾晒，房间喷洒酒精消毒。hillway出差在外，得知情况后，给两个娃预约去接种水痘疫苗，每剂200多元。根据网络资料，接种水痘疫苗后，一般在2周左右开始产生有效免疫力，全程规范接种（通常为2剂）后，免疫力会更持久。而水痘的潜伏期通常为 10-24天，多数情况下集中在 14-16天。虽然两个娃接种时间有些晚，但希望也能起到一些降低发病风险，或感染后减轻症状、缩短病程的作用。 治疗水痘，医生给我开具了两种药：明竹欣盐酸伐昔洛韦片（三盒，每天两次，每次一片0.3g），久邦阿昔洛韦乳膏3...]]></summary>
+        <author>
+            <name>静风说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鸽子表示，人类的尖刺太弱了]]></title>
+        <id>https://www.wikimoe.com/post/t7wooarb?utm_source=blogfinder</id>
+        <link href="https://www.wikimoe.com/post/t7wooarb?utm_source=blogfinder"/>
+        <updated>2025-12-27T02:09:46.000Z</updated>
+        <summary type="html"><![CDATA[鸽子表示，人类的尖刺太弱了]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬至（6、7/81）：个人主页网站重建]]></title>
+        <id>https://blog.mcenahle.org.cn/2025/12/27/372.html?utm_source=blogfinder</id>
+        <link href="https://blog.mcenahle.org.cn/2025/12/27/372.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T02:01:27.000Z</updated>
+        <summary type="html"><![CDATA[冬至（6、7/81）：个人主页网站重建]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[疯狂动物城2 (2025)【1080P 俄罗斯正式版】【英语配音 | 内封中文字幕】]]></title>
+        <id>https://blog.xiaohack.org/5765.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5765.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T02:00:21.000Z</updated>
+        <summary type="html"><![CDATA[疯狂动物城2 (2025)【1080P 俄罗斯正式版】【英语配音 | 内封中文字幕】]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【翻新】上海 Fotografiska 7 2025 I]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://vindlog.com/Album/536.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://vindlog.com/Album/536.html"/>
+        <updated>2025-12-27T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[F...]]></summary>
+        <author>
+            <name>Vind Log</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提供一个正在用的番茄小说免广告的方法]]></title>
+        <id>https://blog.xiaohack.org/5764.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5764.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T01:52:42.000Z</updated>
+        <summary type="html"><![CDATA[提供一个正在用的番茄小说免广告的方法]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[提供一个正在用的番茄小说免广告的方法]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5764.html</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5764.html"/>
+        <updated>2025-12-27T01:52:42.000Z</updated>
+        <summary type="html"><![CDATA[设置-关于番茄-隐私政策及简明版-番茄小说隐私政策-简单体验模式（打开） 即可享受番茄小说免广告福利。 记得关闭暗黑模式，要不然简单体验模式开关会找不到📌 转载信息来源： https://lin...]]></summary>
+        <author>
+            <name>xiaohack's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顺利解决 Alist 挂载 Google Drive 没几天就掉线的问题]]></title>
+        <id>https://yufm.com/662069.html?utm_source=blogfinder</id>
+        <link href="https://yufm.com/662069.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T01:16:28.000Z</updated>
+        <summary type="html"><![CDATA[顺利解决 Alist 挂载 Google Drive 没几天就掉线的问题]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[顺利解决 Alist 挂载 Google Drive 没几天就掉线的问题]]></title>
+        <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fyufm.com%2F662069.html</id>
+        <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fyufm.com%2F662069.html"/>
+        <updated>2025-12-27T01:16:28.000Z</updated>
+        <summary type="html"><![CDATA[作为非IT专业人员，经常会碰到各种各样不知所以然的问题。 用1Panel 装了几个小应用，计划用自动备份定期将数据通过 Alist 中转备份到 Google Drive (Gdrive). 但 AList 挂载 Gdrive 没几天就会掉线，挂载 Onedrive 和 Dropbox 就没问题。搞得我定期备份到 Gdrive 的任务老是失败。 还好有了 AI，这些问题基本不用求人就能搞定。用 Gemini 问了下问题原因和解决办法，几分钟搞定： AList 挂载 Google Drive 没几天就掉线，1Panel装的几个常用的几个常用小应用通过通过 Alist 来作为中间的 WebDAV 桥梁进行日常天最常见的原因是你的 Google Cloud 项目处于“测试（Testing）”模式，导致 Refresh Token（刷新令牌）的有效期只有 7 天。 以下是具体原因分析及彻底解决方法： 1. 核心原因：Google 的 7 天过期策略 如果你是按照常规教程在 Google Cloud Console 创建的 OAuth 客户端，默认的“发布状态”是 “测试（Testing）”。 规则： 在测试模式下，对于外部用户类型，Google 颁发的刷新令牌会在 7 天后失效。 现象： AList 挂载成功后，前几天正常，正好到第 7 天或之后就报错 invalid_grant 或无法读取文件。 2. 彻底解决方法 你需要将 Google Cloud 项目的发布状态从“测试”改为“生产（Production）”。 操作步骤： 访问 Google Cloud Console (OAuth 同意屏幕)。 在左侧菜单点击 “OAuth 同意屏幕”。 在中间找到 “发布状态 (Publishing status)” 栏目。 点击下方的 “发布应用 (PUBLISH APP)” 按钮并确认。...]]></summary>
+        <author>
+            <name>悠FM</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钱不是拿来救命的，是拿来保命的]]></title>
+        <id>https://www.dengxiaokang.com/1287/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1287/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:52:22.000Z</updated>
+        <summary type="html"><![CDATA[钱不是拿来救命的，是拿来保命的]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[谁花钱，听谁的]]></title>
+        <id>https://www.dengxiaokang.com/1285/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1285/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:51:24.000Z</updated>
+        <summary type="html"><![CDATA[谁花钱，听谁的]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么谈钱]]></title>
+        <id>https://www.dengxiaokang.com/1283/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1283/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:50:40.000Z</updated>
+        <summary type="html"><![CDATA[为什么谈钱]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[所谓的懂，不过就是逢场作戏]]></title>
+        <id>https://www.dengxiaokang.com/1281/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1281/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:50:13.000Z</updated>
+        <summary type="html"><![CDATA[所谓的懂，不过就是逢场作戏]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么有的人就是想不通呢]]></title>
+        <id>https://www.dengxiaokang.com/1279/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1279/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:49:45.000Z</updated>
+        <summary type="html"><![CDATA[为什么有的人就是想不通呢]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[金钱至上是怎么来的]]></title>
+        <id>https://www.dengxiaokang.com/1277/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1277/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:49:08.000Z</updated>
+        <summary type="html"><![CDATA[金钱至上是怎么来的]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第三周刊_No.50｜2025年度观影：属于女人的，属于世界的]]></title>
+        <id>https://www.joeytoday.com/blog/2025/weekly-050?utm_source=blogfinder</id>
+        <link href="https://www.joeytoday.com/blog/2025/weekly-050?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[第三周刊_No.50｜2025年度观影：属于女人的，属于世界的]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不折腾了+一周回顾]]></title>
+        <id>https://ddbzhou.com/post/buzhetengle/?utm_source=blogfinder</id>
+        <link href="https://ddbzhou.com/post/buzhetengle/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[不折腾了+一周回顾]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【翻译】透明型领导力 > 仆人式领导力]]></title>
+        <id>https://untymen.com/2025/12/27/3aa9b79d7d3e/?utm_source=blogfinder</id>
+        <link href="https://untymen.com/2025/12/27/3aa9b79d7d3e/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【翻译】透明型领导力 &gt; 仆人式领导力]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 潮流周刊#133：为什么要多读技术博客？]]></title>
+        <id>https://pythoncat.top/posts/2025-12-27-weekly/?utm_source=blogfinder</id>
+        <link href="https://pythoncat.top/posts/2025-12-27-weekly/?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Python 潮流周刊#133：为什么要多读技术博客？]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[学习笔记28：从感官享乐到自我实现]]></title>
+        <id>http://www.zahui.top/posts/2025/12/27/new.html?utm_source=blogfinder</id>
+        <link href="http://www.zahui.top/posts/2025/12/27/new.html?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[学习笔记28：从感官享乐到自我实现]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[让 AI 戴着镣铐跳舞]]></title>
+        <id>https://lutaonan.com/blog/ai-coding-principle?utm_source=blogfinder</id>
+        <link href="https://lutaonan.com/blog/ai-coding-principle?utm_source=blogfinder"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[让 AI 戴着镣铐跳舞]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[缓慢之年，夜行长路：我的2025回望]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://chemath.com/posts/year-in-review-2025-a-walk-in-ordos/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://chemath.com/posts/year-in-review-2025-a-walk-in-ordos/"/>
+        <updated>2025-12-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[回顾这一年：人生最有价值的时刻，不是最后的功成名就，而是对未来正充满期待与不安之时。]]></summary>
+        <author>
+            <name>青城回忆录</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-12小记]]></title>
+        <id>https://blog.storical.fun/posts/write-202512/?utm_source=blogfinder</id>
+        <link href="https://blog.storical.fun/posts/write-202512/?utm_source=blogfinder"/>
+        <updated>2025-12-26T23:50:37.000Z</updated>
+        <summary type="html"><![CDATA[2025-12小记]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025-12小记]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.storical.fun/posts/write-202512/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.storical.fun/posts/write-202512/"/>
+        <updated>2025-12-26T23:50:37.000Z</updated>
+        <summary type="html"><![CDATA[2025快结束了
+但是小记还是要写的]]></summary>
+        <author>
+            <name>绘星里</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[写半天忘保存了。。。]]></title>
+        <id>https://www.wellobserve.com/?post=20251227012227&amp;utm_source=blogfinder</id>
+        <link href="https://www.wellobserve.com/?post=20251227012227&amp;utm_source=blogfinder"/>
+        <updated>2025-12-26T17:22:27.000Z</updated>
+        <summary type="html"><![CDATA[写半天忘保存了。。。]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust学习笔记(1)]]></title>
         <id>https://556799.xyz/archives/rustxue-xi-bi-ji-1?utm_source=blogfinder</id>
         <link href="https://556799.xyz/archives/rustxue-xi-bi-ji-1?utm_source=blogfinder"/>
         <updated>2025-12-26T17:10:15.000Z</updated>
         <summary type="html"><![CDATA[Rust学习笔记(1)]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[做了一个一键更换衣服的 AI 应用网站，支持最新的 nano banana 模型]]></title>
+        <id>https://blog.xiaohack.org/5763.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5763.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:55:21.000Z</updated>
+        <summary type="html"><![CDATA[做了一个一键更换衣服的 AI 应用网站，支持最新的 nano banana 模型]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[更新链式代理分流与外部节点支持-一键代理脚本]]></title>
+        <id>https://blog.xiaohack.org/5762.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5762.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:53:02.000Z</updated>
+        <summary type="html"><![CDATA[更新链式代理分流与外部节点支持-一键代理脚本]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -48,12 +932,32 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[e1 office 365/edu 邮箱自助注册，额外添加 edu.rs 邮箱]]></title>
+        <id>https://blog.xiaohack.org/5761.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5761.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:33:38.000Z</updated>
+        <summary type="html"><![CDATA[e1 office 365/edu 邮箱自助注册，额外添加 edu.rs 邮箱]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[e1 office 365/edu 邮箱自助注册，额外添加 edu.rs 邮箱]]></title>
         <id>https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5761.html</id>
         <link href="https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5761.html"/>
         <updated>2025-12-26T16:33:38.000Z</updated>
         <summary type="html"><![CDATA[之前《[人人有份，e3 office 365/edu 邮箱自助注册子号]》注册的，现在那个全局额外添加上了 @office.mzz.edu.rs 邮箱，这个许可我放到了 e1 订阅下，只有邮箱，...]]></summary>
         <author>
             <name>xiaohack's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Lunes.host 上使用 Node.js Generic 方式部署 Uptime Kuma 监控面板]]></title>
+        <id>https://blog.xiaohack.org/5760.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5760.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:30:55.000Z</updated>
+        <summary type="html"><![CDATA[在 Lunes.host 上使用 Node.js Generic 方式部署 Uptime Kuma 监控面板]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -68,12 +972,32 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Google 发布了 T5Gemma 2]]></title>
+        <id>https://blog.xiaohack.org/5753.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5753.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Google 发布了 T5Gemma 2]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google 发布了 T5Gemma 2]]></title>
         <id>https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5753.html</id>
         <link href="https://www.blogsclub.org/jump?url=https://blog.xiaohack.org/5753.html"/>
         <updated>2025-12-26T16:29:38.000Z</updated>
         <summary type="html"><![CDATA[Google – 18 Dec 25  T5Gemma 2: The next generation of encoder-decoder modelsT5Gemma 2 is the next...]]></summary>
         <author>
             <name>xiaohack's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EPIC 限免（12.27）第十弹:「我们曾一起在这里」]]></title>
+        <id>https://blog.xiaohack.org/5749.html?utm_source=blogfinder</id>
+        <link href="https://blog.xiaohack.org/5749.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:29:02.000Z</updated>
+        <summary type="html"><![CDATA[EPIC 限免（12.27）第十弹:「我们曾一起在这里」]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -113,11 +1037,41 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【thought】站在陡坡上的一周：一次关于自律幻觉的记录]]></title>
+        <id>https://www.blackbzy.com/posts/self-reflection-on-habit-breakdown/?utm_source=blogfinder</id>
+        <link href="https://www.blackbzy.com/posts/self-reflection-on-habit-breakdown/?utm_source=blogfinder"/>
+        <updated>2025-12-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[【thought】站在陡坡上的一周：一次关于自律幻觉的记录]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lofi - 极简、纯粹、黑白风格的 Hexo 博客主题]]></title>
         <id>https://roy.wang/lofi/?utm_source=blogfinder</id>
         <link href="https://roy.wang/lofi/?utm_source=blogfinder"/>
         <updated>2025-12-26T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[Lofi - 极简、纯粹、黑白风格的 Hexo 博客主题]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025：在虚构里捞点现实的碎屑]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.7rees.cc/articles/interest-5</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.7rees.cc/articles/interest-5"/>
+        <updated>2025-12-26T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[2025：在虚构里捞点现实的碎屑]]></summary>
+        <author>
+            <name>7rees | 自由流动的树</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[国投白银 LOF 套利的基本逻辑]]></title>
+        <id>https://zyzhang.com/%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6%20LOF%20%E5%A5%97%E5%88%A9%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%80%BB%E8%BE%91/?utm_source=blogfinder</id>
+        <link href="https://zyzhang.com/%E5%9B%BD%E6%8A%95%E7%99%BD%E9%93%B6%20LOF%20%E5%A5%97%E5%88%A9%E7%9A%84%E5%9F%BA%E6%9C%AC%E9%80%BB%E8%BE%91/?utm_source=blogfinder"/>
+        <updated>2025-12-26T15:45:00.000Z</updated>
+        <summary type="html"><![CDATA[国投白银 LOF 套利的基本逻辑]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -130,6 +1084,49 @@
         <summary type="html"><![CDATA[这几天去了杭州-余杭区，忙了一阵，吃了几顿杭州特色菜，唯一没有吃到杭州西湖醋鱼。]]></summary>
         <author>
             <name>夕阳西下</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[26岁前，用全部存款家当换一鼎“二手丹炉”，接盘了闲鱼寂寞富哥的“退役机甲”]]></title>
+        <id>https://www.52txr.cn/2025/buy2shouji.html?utm_source=blogfinder</id>
+        <link href="https://www.52txr.cn/2025/buy2shouji.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T15:18:00.000Z</updated>
+        <summary type="html"><![CDATA[26岁前，用全部存款家当换一鼎“二手丹炉”，接盘了闲鱼寂寞富哥的“退役机甲”]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这鸡蛋真难吃]]></title>
+        <id>https://blog.solazy.me/20251226/?utm_source=blogfinder</id>
+        <link href="https://blog.solazy.me/20251226/?utm_source=blogfinder"/>
+        <updated>2025-12-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[这鸡蛋真难吃]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[这鸡蛋真难吃]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251226/</id>
+        <link href="https://www.blogsclub.org/jump?url=https://blog.solazy.me/20251226/"/>
+        <updated>2025-12-26T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[在日常沟通里，最让人感到疲惫的往往不是观点的交锋，而是逻辑的错位。
+
+最近看到一张流传很广的梗图，内容是关于「这鸡蛋真难吃」的一连串对话。这几组对话精准地捕捉到了现实生活中那些让人哑口无言的时刻。如果我们试着剥开这些话术的外壳，会发现里面藏着一些非常典型且微妙的逻辑怪圈。
+首先要看 A 说的那句「这鸡蛋真难吃」。从字面上看，这是一句对客观事物的评价，但从生活场景出发，这更多是一种感性感受的直接表达。当一个人说出这句话时，他其实是在分享一种主观的糟糕体验。而 B 的所有回应，其实都没有承接住这个感受，而是迅速把话题拉到了一个完全不同的维度。
+比如 B 说的第一句话：「隔壁家那鸭蛋更难吃，你咋不说呢？」
+这种反应在生活中随处可见。当你在表达某种不满时，总有人跳出来提醒你，还有人比你更惨。这种逻辑其实是试图通过引入一个更糟糕的对象，来证明你当下的负面感受是不正当的，或者是不值一提的。虽然在逻辑上这被归类为一种「比差」的谬误，但在生活中，它更像是一种话题的劫持。隔壁的鸭蛋难吃，并不能让 A 手里这枚鸡蛋的味道变好哪怕一点点，它只是让讨论失去了焦点。
+紧接着，B 又提出了一个看起来很有底气的逻辑：「有本事你下个好吃的蛋来。」
+这种回复巧妙地把「评价者」和「生产者」的角色搞混了。一个人不需要成为厨师才能评价菜品的咸淡，也不需要学会下蛋才能判断鸡蛋的味道。这种话术的本质是在人为地提高评价的门槛。当一个人无法反驳「鸡蛋难吃」这个事实时，他就会试图通过质疑对方的专业能力来让对方闭嘴。
+在这一系列对话中，最让人深思的是 B 为什么会做出这些反应。
+除了常见的防御心理，这种答非所问往往是因为 B 陷入了一种「绝对理性」的误区。在 B 的视角里，他可能觉得自己在陈述事实，或者在提供另一种视角。但问题在于，A 和 B 根本没有在同一个频率上。
+当 A 在表达一种负面情绪时，他需要的首先是情感上的承接。而 B 的反应，却是在用一种冷冰冰的、甚至带有攻击性的逻辑去解构 A 的感受。B 似乎不知道该如何处理对方的情绪，于是下意识地选择了一套自以为严密的逻辑体系作为盔甲。
+如果对话的双方都是在进行纯粹的学术探讨，或者是在讨论宏观的蛋类生产数据，那么 B 提到的这些「背景」和「比较」或许有一定的讨论价值。但回到生活本身，这种回应就显得极度缺乏共情。B 不愿意承认 A 的感受是真实的，而是试图用各种宏大的叙事，比如鸡有多勤劳、环境有多不易、过去有多糟糕，来覆盖掉 A 嘴里那一点真切的苦涩。
+这就导致了一种很奇怪的现象：B 觉得自己句句在理，而 A 只觉得心塞。
+在这种沟通模式下，对话的焦点从「鸡蛋好不好吃」转移到了「说话的人是不是挑剔」，甚至是「说话的人有没有良心」。这种泛道德化的回应，其实是思维上的一种错位。因为承认鸡蛋难吃并讨论如何改进，需要的是对他人的理解和对事实的尊重，而质疑一个人的立场或感恩之心，却显得简单且...]]></summary>
+        <author>
+            <name>So!azy</name>
         </author>
     </entry>
     <entry>
@@ -164,6 +1161,16 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025 年度AI工具推荐 包含链接地址]]></title>
+        <id>https://www.krjojo.com/12670.html?utm_source=blogfinder</id>
+        <link href="https://www.krjojo.com/12670.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T14:40:23.000Z</updated>
+        <summary type="html"><![CDATA[2025 年度AI工具推荐 包含链接地址]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025 年度AI工具推荐 包含链接地址]]></title>
         <id>https://www.blogsclub.org/jump?url=https://www.krjojo.com/12670.html</id>
         <link href="https://www.blogsclub.org/jump?url=https://www.krjojo.com/12670.html"/>
         <updated>2025-12-26T14:40:23.000Z</updated>
@@ -184,6 +1191,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[也来说说 2025 年的公众号]]></title>
+        <id>https://joojen.com/archives/8731.html?utm_source=blogfinder</id>
+        <link href="https://joojen.com/archives/8731.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T13:54:22.000Z</updated>
+        <summary type="html"><![CDATA[也来说说 2025 年的公众号]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么还要到大城市去]]></title>
+        <id>https://joojen.com/archives/8728.html?utm_source=blogfinder</id>
+        <link href="https://joojen.com/archives/8728.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T13:52:59.000Z</updated>
+        <summary type="html"><![CDATA[为什么还要到大城市去]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[奶奶都能看懂的 C++ —— 函数返回值、作用域和生命周期]]></title>
         <id>https://blog.samhou.top/cpp-return-scope-life/?utm_source=blogfinder</id>
         <link href="https://blog.samhou.top/cpp-return-scope-life/?utm_source=blogfinder"/>
@@ -201,6 +1228,16 @@
         <summary type="html"><![CDATA[...]]></summary>
         <author>
             <name>亲笔 qin.bi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo 2.22.x 插件集成 Redis 完整指南]]></title>
+        <id>https://www.xhhao.com/archives/dlaXm9wj?utm_source=blogfinder</id>
+        <link href="https://www.xhhao.com/archives/dlaXm9wj?utm_source=blogfinder"/>
+        <updated>2025-12-26T13:09:40.000Z</updated>
+        <summary type="html"><![CDATA[Halo 2.22.x 插件集成 Redis 完整指南]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -244,6 +1281,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[15类修辞金句助力写作提分]]></title>
+        <id>https://www.wanghao.me/15leixiucijinjuzhulixiezuotifen.html?utm_source=blogfinder</id>
+        <link href="https://www.wanghao.me/15leixiucijinjuzhulixiezuotifen.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T12:20:58.000Z</updated>
+        <summary type="html"><![CDATA[15类修辞金句助力写作提分]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[与我无缘的三好学生]]></title>
         <id>https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/ETcSd3Fs</id>
         <link href="https://www.blogsclub.org/jump?url=https://nxxy335.top/archives/ETcSd3Fs"/>
@@ -251,6 +1298,16 @@
         <summary type="html"><![CDATA[该生因未获评“三好学生”而愤懑不平：同届一名常翘课、学习懈怠的同学却获选，而自己勤学苦读反落选，质疑评选标准。虽有同窗共鸣，称其“十好学生”以讽，且获其他奖项慰藉，仍感不公。文末以诗控诉：勤学者如尘，懈怠者得誉，斥评优机制扭曲，育人失公。]]></summary>
         <author>
             <name>暖心向阳335</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年年度总结]]></title>
+        <id>https://note-star.cn/2025-12/2180.html?utm_source=blogfinder</id>
+        <link href="https://note-star.cn/2025-12/2180.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T12:07:07.000Z</updated>
+        <summary type="html"><![CDATA[2025年年度总结]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -484,6 +1541,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2026 热力肆意]]></title>
+        <id>https://pwsz.com/life/4859.html?utm_source=blogfinder</id>
+        <link href="https://pwsz.com/life/4859.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T08:29:24.000Z</updated>
+        <summary type="html"><![CDATA[2026 热力肆意]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[民族风情的餐馆怎么点菜]]></title>
+        <id>http://www.yveji.com/Scenery/taking-orders.html?utm_source=blogfinder</id>
+        <link href="http://www.yveji.com/Scenery/taking-orders.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T08:09:52.000Z</updated>
+        <summary type="html"><![CDATA[民族风情的餐馆怎么点菜]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[民族风情的餐馆怎么点菜]]></title>
         <id>https://www.blogsclub.org/jump?url=http://www.yveji.com/Scenery/taking-orders.html</id>
         <link href="https://www.blogsclub.org/jump?url=http://www.yveji.com/Scenery/taking-orders.html"/>
@@ -549,6 +1626,16 @@
         <link href="http://rushihu.com/archives/2518?utm_source=blogfinder"/>
         <updated>2025-12-26T07:12:18.000Z</updated>
         <summary type="html"><![CDATA[什么是优质的内容？]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你要交课设，VS Code 一键删注释]]></title>
+        <id>https://blog.yang1120.com/archives/709?utm_source=blogfinder</id>
+        <link href="https://blog.yang1120.com/archives/709?utm_source=blogfinder"/>
+        <updated>2025-12-26T07:03:59.000Z</updated>
+        <summary type="html"><![CDATA[你要交课设，VS Code 一键删注释]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -655,6 +1742,16 @@
         <link href="https://www.wikimoe.com/post/t7v19xly?utm_source=blogfinder"/>
         <updated>2025-12-26T04:46:45.000Z</updated>
         <summary type="html"><![CDATA[2025年工作结束，有事明年再说]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[看《日掛中天》]]></title>
+        <id>https://www.jfsay.com/archives/3972.html?utm_source=blogfinder</id>
+        <link href="https://www.jfsay.com/archives/3972.html?utm_source=blogfinder"/>
+        <updated>2025-12-26T04:38:25.000Z</updated>
+        <summary type="html"><![CDATA[看《日掛中天》]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
@@ -1200,6 +2297,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[多个模型复用同一张GPU卡方案]]></title>
+        <id>https://chegva.com/6573.html?utm_source=blogfinder</id>
+        <link href="https://chegva.com/6573.html?utm_source=blogfinder"/>
+        <updated>2025-12-25T21:31:13.000Z</updated>
+        <summary type="html"><![CDATA[多个模型复用同一张GPU卡方案]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[花了288英镑修了我那佳能24-70mm红圈镜头/还能让这个镜头再战几年]]></title>
         <id>https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fjustyy.com%2Farchives%2F70688</id>
         <link href="https://www.blogtalk.org/go?from=feed&amp;link=https%3A%2F%2Fjustyy.com%2Farchives%2F70688"/>
@@ -1227,6 +2334,26 @@
         <summary type="html"><![CDATA[Album#18 - 天国印鑑を聴きなさい]]></summary>
         <author>
             <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生日]]></title>
+        <id>https://www.xiaozonglin.cn/birthday-2025/?utm_source=blogfinder</id>
+        <link href="https://www.xiaozonglin.cn/birthday-2025/?utm_source=blogfinder"/>
+        <updated>2025-12-25T16:18:16.000Z</updated>
+        <summary type="html"><![CDATA[生日]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于大语言模型（LLM）的遗留系统重构与自动化测试流水线实践]]></title>
+        <id>https://www.blogsclub.org/jump?url=https://www.7rees.cc/articles/tech-2</id>
+        <link href="https://www.blogsclub.org/jump?url=https://www.7rees.cc/articles/tech-2"/>
+        <updated>2025-12-25T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[基于大语言模型（LLM）的遗留系统重构与自动化测试流水线实践]]></summary>
+        <author>
+            <name>7rees | 自由流动的树</name>
         </author>
     </entry>
     <entry>
@@ -1987,6 +3114,16 @@
         <link href="https://knay.net/note/untitled-20251225?utm_source=blogfinder"/>
         <updated>2025-12-25T05:09:23.000Z</updated>
         <summary type="html"><![CDATA[噶胆归来，与20多年好朋友分手]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[免费 AI 大模型 API 接口，Gemini 3 Flash 预览版的 Golang 代理实现]]></title>
+        <id>https://www.sunzhongwei.com/free-ai-large-model-api-interface-gemini-3-flash-preview-version?utm_source=blogfinder</id>
+        <link href="https://www.sunzhongwei.com/free-ai-large-model-api-interface-gemini-3-flash-preview-version?utm_source=blogfinder"/>
+        <updated>2025-12-25T05:08:31.000Z</updated>
+        <summary type="html"><![CDATA[免费 AI 大模型 API 接口，Gemini 3 Flash 预览版的 Golang 代理实现]]></summary>
         <author>
             <name>BlogFinder</name>
         </author>
