@@ -6,6 +6,386 @@
       "siteUrl": "https://bf.zzxworld.com",
       "articles": [
         {
+          "id": "https://www.immarcus.com/blog/she-and-i?utm_source=blogfinder",
+          "author": null,
+          "description": "「射」和「矮」",
+          "link": "https://www.immarcus.com/blog/she-and-i?utm_source=blogfinder",
+          "publishedOn": "2026-01-15T00:00:00.000Z",
+          "wordCount": 55,
+          "title": "「射」和「矮」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.chenrui.com/post/3468.html?utm_source=blogfinder",
+          "author": null,
+          "description": "且看",
+          "link": "https://www.chenrui.com/post/3468.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T23:03:05.000Z",
+          "wordCount": 29,
+          "title": "且看",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wusiyu.me/ucg-fiber-openwrt-proxy-failover-solution-and-review-compare-routeros/?utm_source=blogfinder",
+          "author": null,
+          "description": "UCG Fiber 主路由器 + OpenWrt 透明代理 + 高可用 方案和评测（对比ROS）",
+          "link": "https://wusiyu.me/ucg-fiber-openwrt-proxy-failover-solution-and-review-compare-routeros/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T16:44:47.000Z",
+          "wordCount": 2772,
+          "title": "UCG Fiber 主路由器 + OpenWrt 透明代理 + 高可用 方案和评测（对比ROS）",
+          "imageUrl": "https://wusiyu.me/wp-content/uploads/2026/01/下载.jpg"
+        },
+        {
+          "id": "https://www.52txr.cn/2026/Ubuntusoftwares.html?utm_source=blogfinder",
+          "author": null,
+          "description": "嗨，靓仔！你的Ubuntu怎么果里果气的？（Ubuntu必备软件清单备忘）",
+          "link": "https://www.52txr.cn/2026/Ubuntusoftwares.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T15:28:00.000Z",
+          "wordCount": null,
+          "title": "嗨，靓仔！你的Ubuntu怎么果里果气的？（Ubuntu必备软件清单备忘）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://61.life/2026/0114?utm_source=blogfinder",
+          "author": null,
+          "description": "20260114",
+          "link": "https://61.life/2026/0114?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T14:50:47.000Z",
+          "wordCount": 76,
+          "title": "20260114",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.hantaotao.top/archives/195/?utm_source=blogfinder",
+          "author": null,
+          "description": "离谱的Bug",
+          "link": "https://blog.hantaotao.top/archives/195/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T14:45:29.000Z",
+          "wordCount": 1463,
+          "title": "离谱的Bug",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weiwenchao.com/2246.html?utm_source=blogfinder",
+          "author": null,
+          "description": "《我们为何无法正确、充分地表达自己？》",
+          "link": "https://www.weiwenchao.com/2246.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T14:23:00.000Z",
+          "wordCount": 270,
+          "title": "《我们为何无法正确、充分地表达自己？》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.arlmy.me/posts/Note/Note_HoshinoMichio_TheEternalJourney/?utm_source=blogfinder",
+          "author": null,
+          "description": "摘：《永恒的时光之旅》",
+          "link": "https://z.arlmy.me/posts/Note/Note_HoshinoMichio_TheEternalJourney/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T14:20:46.000Z",
+          "wordCount": 339,
+          "title": "摘：《永恒的时光之旅》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.mcenahle.org.cn/2026/01/14/393.html?utm_source=blogfinder",
+          "author": null,
+          "description": "冬至（25/81）：2次送别",
+          "link": "https://blog.mcenahle.org.cn/2026/01/14/393.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T14:15:29.000Z",
+          "wordCount": null,
+          "title": "冬至（25/81）：2次送别",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.arlmy.me/posts/Note/Note_WGSebald_TheEmigrants/?utm_source=blogfinder",
+          "author": null,
+          "description": "摘：《移民》",
+          "link": "https://z.arlmy.me/posts/Note/Note_WGSebald_TheEmigrants/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:42:46.000Z",
+          "wordCount": 295,
+          "title": "摘：《移民》",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.qncd.com/?p=12421&utm_source=blogfinder",
+          "author": null,
+          "description": "【尺牍】无奈的愤怒与生活的温度",
+          "link": "http://www.qncd.com/?p=12421&utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:40:54.000Z",
+          "wordCount": 471,
+          "title": "【尺牍】无奈的愤怒与生活的温度",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blog.nastree.cn/post/design-05?utm_source=blogfinder",
+          "author": null,
+          "description": "金地·正源会",
+          "link": "http://blog.nastree.cn/post/design-05?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:36:00.000Z",
+          "wordCount": 306,
+          "title": "金地·正源会",
+          "imageUrl": "https://cdn.nastree.cn/2026/favicon.png"
+        },
+        {
+          "id": "https://ygz.ink/archives/3989.html?utm_source=blogfinder",
+          "author": null,
+          "description": "博客小程序审核通过了",
+          "link": "https://ygz.ink/archives/3989.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:35:54.000Z",
+          "wordCount": 2695,
+          "title": "博客小程序审核通过了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.arlmy.me/posts/Note/Note_MarcinWicha_Rzeczykt%C3%B3rychniewyrzuci%C5%82em/?utm_source=blogfinder",
+          "author": null,
+          "description": "摘：《未弃之物》",
+          "link": "https://z.arlmy.me/posts/Note/Note_MarcinWicha_Rzeczykt%C3%B3rychniewyrzuci%C5%82em/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:33:46.000Z",
+          "wordCount": 364,
+          "title": "摘：《未弃之物》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.arlmy.me/posts/Note/Note_StewartBrand_HowBuildingsLearn/?utm_source=blogfinder",
+          "author": null,
+          "description": "摘：《建筑养成记》",
+          "link": "https://z.arlmy.me/posts/Note/Note_StewartBrand_HowBuildingsLearn/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:05:46.000Z",
+          "wordCount": 1325,
+          "title": "摘：《建筑养成记》",
+          "imageUrl": "https://z.arlmy.me/pics/Note/HowBuildingsLearn_1.jpg"
+        },
+        {
+          "id": "https://hulatu.com/posts/food-chao-fen/?utm_source=blogfinder",
+          "author": null,
+          "description": "一碗南昌炒粉，应该是什么样的",
+          "link": "https://hulatu.com/posts/food-chao-fen/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T13:02:40.000Z",
+          "wordCount": 144,
+          "title": "一碗南昌炒粉，应该是什么样的",
+          "imageUrl": "https://hulatu.com/images/cf.jpg"
+        },
+        {
+          "id": "https://www.nekopara.uk/archives/devlog01_Optimization_NekoWebShow.html?utm_source=blogfinder",
+          "author": null,
+          "description": "主题开发日志01：优化NekoWebShow加载速度",
+          "link": "https://www.nekopara.uk/archives/devlog01_Optimization_NekoWebShow.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T12:43:24.000Z",
+          "wordCount": 665,
+          "title": "主题开发日志01：优化NekoWebShow加载速度",
+          "imageUrl": "https://teachermate.oss-cn-qingdao.aliyuncs.com/ptegE-1768394556053-Optimization_NekoWebShow.png?x-oss-process=image/resize,w_800/format,webp"
+        },
+        {
+          "id": "https://anotherdayu.com/2026/7628/?utm_source=blogfinder",
+          "author": null,
+          "description": "几个我喜欢的特殊快捷键",
+          "link": "https://anotherdayu.com/2026/7628/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T11:28:44.000Z",
+          "wordCount": 1879,
+          "title": "几个我喜欢的特殊快捷键",
+          "imageUrl": "https://anotherdayu.com/wp-content/uploads/2023/12/20250429_1534_博客社群形象_simple_compose_01jt1gkt3nf138r1gm196njhgn.png"
+        },
+        {
+          "id": "https://note-star.cn/2026-01/2197.html?utm_source=blogfinder",
+          "author": null,
+          "description": "给简笔记画了个脑图",
+          "link": "https://note-star.cn/2026-01/2197.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T11:20:03.000Z",
+          "wordCount": 57,
+          "title": "给简笔记画了个脑图",
+          "imageUrl": "/shortcut/logo.ico"
+        },
+        {
+          "id": "https://ygz.ink/archives/3986.html?utm_source=blogfinder",
+          "author": null,
+          "description": "安卓植物大战僵尸杂交版",
+          "link": "https://ygz.ink/archives/3986.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T11:16:43.000Z",
+          "wordCount": 2702,
+          "title": "安卓植物大战僵尸杂交版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aiwazi.com/2762.html?utm_source=blogfinder",
+          "author": null,
+          "description": "移动贺岁流量抽奖，最高 100G，已抽中 30G",
+          "link": "https://www.aiwazi.com/2762.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T09:41:44.000Z",
+          "wordCount": 240,
+          "title": "移动贺岁流量抽奖，最高 100G，已抽中 30G",
+          "imageUrl": null
+        },
+        {
+          "id": "https://iliu.org/posts/ubuntu2510-install-ibus-libpinyin/?utm_source=blogfinder",
+          "author": null,
+          "description": "Ubuntu25.10编译安装Ibus-libpinyin",
+          "link": "https://iliu.org/posts/ubuntu2510-install-ibus-libpinyin/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T09:04:40.000Z",
+          "wordCount": 478,
+          "title": "Ubuntu25.10编译安装Ibus-libpinyin",
+          "imageUrl": "https://iliu.org/%3Cimage%20path/url%3E"
+        },
+        {
+          "id": "https://1900.live/xu-qiu-deng-yu-liu-liang-ma/?utm_source=blogfinder",
+          "author": null,
+          "description": "需求等于流量吗？",
+          "link": "https://1900.live/xu-qiu-deng-yu-liu-liang-ma/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T09:03:39.000Z",
+          "wordCount": 465,
+          "title": "需求等于流量吗？",
+          "imageUrl": "https://og.190102.xyz/api/og?title=%25E9%259C%2580%25E6%25B1%2582%25E7%25AD%2589%25E4%25BA%258E%25E6%25B5%2581%25E9%2587%258F%25E5%2590%2597%25EF%25BC%259F&desc=%25E8%25B5%25B7%25E5%259B%25A0%25E6%259C%2580%25E8%25BF%2591%25E5%258D%259A%25E5%258F%258B%25E4%25BE%259D%25E7%2584%25B6%25E5%258F%2591%25E4%25BA%2586%25E4%25BB%2596%25E7%259A%2584%25E6%2591%2584%25E5%25BD%25B1%25E7%25AB%2599%2520her.blue%2520%25E7%259A%2584%25E8%25AE%25BF%25E9%2597%25AE%25E6%2595%25B0%25E6%258D%25AE%25E7%25BB%2599%25E6%2588%2591%25E7%259C%258B%25EF%25BC%258C%25E8%25AF%25B4%25E5%258E%259F%25E6%259D%25A5%25E4%25BB%2596%25E7%259A%2584%25E7%25AB%2599%25E4%25B9%259F%25E6%259C%2589%25E4%25BA%25BA%25E7%259C%258B%25E3%2580%2582%25E4%25BB%2596%25E7%259A%2584%25E7%25AB%2599%25E7%2582%25B9%25E5%25B1%259E%25E4%25BA%258E%25E6%2591%2584%25E5%25BD%25B1%25E7%25AB%2599%25EF%25BC%258C%25E6%25AD%25A4%25E5%2589%258D%25E6%2596%25A5%25E3%2580%258C%25E5%25B7%25A8%25E8%25B5%2584%25E3%2580%258D%25E4%25B9%25B0%25E8%25BF%2587%25E4%25B8%2580%25E4%25B8%25AA%25E4%25BB%2598%25E8%25B4%25B9%25E7%259A%2584Ghost%25E4%25B8%25BB%25E9%25A2%2598%25EF%25BC%258C%25E7%25BD%2591%25E7%25AB%2599%25E8%25AE%25BE%25E8%25AE%25A1%25E9%259D%259E%25E5%25B8%25B8%25E6%25BC%2582%25E4%25BA%25AE%25EF%25BC%258C%25E6%2588%2591%25E6%259B%25BE%25E7%25BB%258F%25E4%25B9%259F%25E5%258E%259A%25E8%2584%25B8%25E7%259A%25AE%25E8%25A6%2581%25E6%259D%25A5%25E7%2594%25A8%25E8%25BF%2587%25E4%25B8%2580%25E6%25AE%25B5%25E6%2597%25B6&date=2026-01-14"
+        },
+        {
+          "id": "https://www.aiwazi.com/2757.html?utm_source=blogfinder",
+          "author": null,
+          "description": "0 元解锁电信天翼云电脑 8C16G 高配 2 个月免费使用",
+          "link": "https://www.aiwazi.com/2757.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T08:57:32.000Z",
+          "wordCount": 254,
+          "title": "0 元解锁电信天翼云电脑 8C16G 高配 2 个月免费使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.pet111.cn/archives/510/?utm_source=blogfinder",
+          "author": null,
+          "description": "这张明信片，是我 2026 的第一缕暖 @虫虫",
+          "link": "https://blog.pet111.cn/archives/510/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T08:39:00.000Z",
+          "wordCount": 3092,
+          "title": "这张明信片，是我 2026 的第一缕暖 @虫虫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weisay.com/blog/old-bloggers-notes.html?utm_source=blogfinder",
+          "author": null,
+          "description": "老派博主的博客体验笔记",
+          "link": "https://www.weisay.com/blog/old-bloggers-notes.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T08:35:23.000Z",
+          "wordCount": 496,
+          "title": "老派博主的博客体验笔记",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/blog.png"
+        },
+        {
+          "id": "https://www.sunzhongwei.com/oracle-create-read-only-user?utm_source=blogfinder",
+          "author": null,
+          "description": "Oracle 创建只读用户",
+          "link": "https://www.sunzhongwei.com/oracle-create-read-only-user?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T08:07:45.000Z",
+          "wordCount": 424,
+          "title": "Oracle 创建只读用户",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wangdu.site/course/2303.html?utm_source=blogfinder",
+          "author": null,
+          "description": "2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro",
+          "link": "https://www.wangdu.site/course/2303.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T06:12:33.000Z",
+          "wordCount": 1279,
+          "title": "2026年1月最全Gemini学生优惠申请指南及问题：免费获取一年 Google AI Pro",
+          "imageUrl": "https://cdn.wwkejishe.top/wp-cdn-02/2026/20260113163333851.webp"
+        },
+        {
+          "id": "https://onojyun.com/2026/01/14/%e8%a7%92%e8%89%b2%e6%89%ae%e6%bc%94/?utm_source=blogfinder",
+          "author": null,
+          "description": "角色扮演",
+          "link": "https://onojyun.com/2026/01/14/%e8%a7%92%e8%89%b2%e6%89%ae%e6%bc%94/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T06:00:00.000Z",
+          "wordCount": 3478,
+          "title": "角色扮演",
+          "imageUrl": "https://onojyun.com/wp-content/uploads/2022/12/cropped-mobius_icon_black.jpg?w=200"
+        },
+        {
+          "id": "https://www.mioc.cn/archives/an-you-guan-shi-pin-bai-piao-gu-ge-yun-er-san-shi?utm_source=blogfinder",
+          "author": null,
+          "description": "按油管视频白嫖谷歌云二三事",
+          "link": "https://www.mioc.cn/archives/an-you-guan-shi-pin-bai-piao-gu-ge-yun-er-san-shi?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T05:55:13.000Z",
+          "wordCount": 1014,
+          "title": "按油管视频白嫖谷歌云二三事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.zhheo.com/p/tw9uwtki.html?utm_source=blogfinder",
+          "author": null,
+          "description": "如何免水印下载豆包生成的图片？豆包AI图去水印，无水印下载",
+          "link": "https://blog.zhheo.com/p/tw9uwtki.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T05:31:42.000Z",
+          "wordCount": 1459,
+          "title": "如何免水印下载豆包生成的图片？豆包AI图去水印，无水印下载",
+          "imageUrl": "https://p.zhheo.com/20234681e06b8e086aa5b15481cb89fd38c7071002.png!cover"
+        },
+        {
+          "id": "https://www.weiwenchao.com/2245.html?utm_source=blogfinder",
+          "author": null,
+          "description": "《小心AI会自信地胡言乱语》",
+          "link": "https://www.weiwenchao.com/2245.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T04:53:00.000Z",
+          "wordCount": 280,
+          "title": "《小心AI会自信地胡言乱语》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://lawtee.com/article/xi-yi-zhi-du-bi-jiao/?utm_source=blogfinder",
+          "author": null,
+          "description": "西医的制度与价值，并不适用于所有社会",
+          "link": "https://lawtee.com/article/xi-yi-zhi-du-bi-jiao/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T04:39:00.000Z",
+          "wordCount": 59,
+          "title": "西医的制度与价值，并不适用于所有社会",
+          "imageUrl": "https://lawtee.com/images/share.webp"
+        },
+        {
+          "id": "https://bi1vmm.cn/index.php/archives/81/?utm_source=blogfinder",
+          "author": null,
+          "description": "计划进行服务器搬迁和备案",
+          "link": "https://bi1vmm.cn/index.php/archives/81/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T03:51:00.000Z",
+          "wordCount": 701,
+          "title": "计划进行服务器搬迁和备案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.moeworld.tech/2026/01/14/%e5%85%b3%e4%ba%8e%e5%a8%81%e8%81%94%e9%80%9a%e5%92%8ctailscale%e7%9a%84%e9%82%a3%e4%ba%9b%e5%9d%91-%e8%87%aa%e5%bb%baderp/?utm_source=blogfinder",
+          "author": null,
+          "description": "关于威联通和Tailscale的那些坑-自建Derp",
+          "link": "https://blog.moeworld.tech/2026/01/14/%e5%85%b3%e4%ba%8e%e5%a8%81%e8%81%94%e9%80%9a%e5%92%8ctailscale%e7%9a%84%e9%82%a3%e4%ba%9b%e5%9d%91-%e8%87%aa%e5%bb%baderp/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T03:09:12.000Z",
+          "wordCount": 947,
+          "title": "关于威联通和Tailscale的那些坑-自建Derp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.hudi.space/posts/fe93e64/?utm_source=blogfinder",
+          "author": null,
+          "description": "用免费域名，搭建一个自己的临时邮箱服务保护您的真实邮箱地址",
+          "link": "https://www.hudi.space/posts/fe93e64/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T03:00:50.000Z",
+          "wordCount": 2369,
+          "title": "用免费域名，搭建一个自己的临时邮箱服务保护您的真实邮箱地址",
+          "imageUrl": "https://bitiful.hudi.space/posts/2026/01/14/moemail_cover.png"
+        },
+        {
+          "id": "https://www.weiwenchao.com/2230.html?utm_source=blogfinder",
+          "author": null,
+          "description": "《细节之处看匠心》",
+          "link": "https://www.weiwenchao.com/2230.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T02:46:14.000Z",
+          "wordCount": 371,
+          "title": "《细节之处看匠心》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://chrison.cn/live/347.html?utm_source=blogfinder",
+          "author": null,
+          "description": "说说：做了个小程序，智查-生物信息助手",
+          "link": "https://chrison.cn/live/347.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:40:00.000Z",
+          "wordCount": 651,
+          "title": "说说：做了个小程序，智查-生物信息助手",
+          "imageUrl": null
+        },
+        {
           "id": "https://vjo.cc/1935?utm_source=blogfinder",
           "author": null,
           "description": "用Docker部署RustDesk远程桌面控制工具",
@@ -14,6 +394,56 @@
           "wordCount": 1119,
           "title": "用Docker部署RustDesk远程桌面控制工具",
           "imageUrl": null
+        },
+        {
+          "id": "https://ddbzhou.com/post/%E6%89%93%E8%84%B8%E4%BA%86/?utm_source=blogfinder",
+          "author": null,
+          "description": "打脸了",
+          "link": "https://ddbzhou.com/post/%E6%89%93%E8%84%B8%E4%BA%86/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 369,
+          "title": "打脸了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.gudong.site/2026/01/14/code-review.html?utm_source=blogfinder",
+          "author": null,
+          "description": "code review",
+          "link": "https://blog.gudong.site/2026/01/14/code-review.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 267,
+          "title": "code review",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/culinary-class-wars?utm_source=blogfinder",
+          "author": null,
+          "description": "黑白厨师",
+          "link": "https://limboy.me/posts/culinary-class-wars?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 151,
+          "title": "黑白厨师",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.fiveth.cc/now/2025-09/?utm_source=blogfinder",
+          "author": null,
+          "description": "2025-09",
+          "link": "https://blog.fiveth.cc/now/2025-09/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 86,
+          "title": "2025-09",
+          "imageUrl": "https://blog.fiveth.cc/images/share.png"
+        },
+        {
+          "id": "https://1byte.io/articles/2025-books/?utm_source=blogfinder",
+          "author": null,
+          "description": "我在 2025 年看完的书",
+          "link": "https://1byte.io/articles/2025-books/?utm_source=blogfinder",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 420,
+          "title": "我在 2025 年看完的书",
+          "imageUrl": "https://1byte.io/articles/2025-books/cover-1.jpg"
         },
         {
           "id": "https://www.immarcus.com/blog/music-to-die-for?utm_source=blogfinder",
@@ -56,6 +486,36 @@
           "imageUrl": null
         },
         {
+          "id": "http://qthinker.net/content/53?utm_source=blogfinder",
+          "author": null,
+          "description": "随思 - 2026-01-13",
+          "link": "http://qthinker.net/content/53?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T18:21:46.000Z",
+          "wordCount": 1929,
+          "title": "随思 - 2026-01-13",
+          "imageUrl": "/uploads/2025/10/03/avatar_c27acee3409240e7873513991c3ee562.jpg"
+        },
+        {
+          "id": "https://blog.mfwt.top/index.php/archives/983/?utm_source=blogfinder",
+          "author": null,
+          "description": "对讲机默认频道？可能根本没这回事",
+          "link": "https://blog.mfwt.top/index.php/archives/983/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T16:57:07.000Z",
+          "wordCount": null,
+          "title": "对讲机默认频道？可能根本没这回事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ygz.ink/archives/3981.html?utm_source=blogfinder",
+          "author": null,
+          "description": "更新了下邮件模板",
+          "link": "https://ygz.ink/archives/3981.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T16:37:04.000Z",
+          "wordCount": 2698,
+          "title": "更新了下邮件模板",
+          "imageUrl": null
+        },
+        {
           "id": "https://innei.in/posts/tech/lobehub-performance-dx-optimization?utm_source=blogfinder",
           "author": null,
           "description": "记 LobeHub 的性能和 DX 优化",
@@ -64,6 +524,16 @@
           "wordCount": 1471,
           "title": "记 LobeHub 的性能和 DX 优化",
           "imageUrl": "https://innei.in/home-og"
+        },
+        {
+          "id": "https://terryhu.cn/posts/2026/2025%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E6%8E%8C%E6%8E%A7%E8%87%AA%E5%B7%B1/?utm_source=blogfinder",
+          "author": null,
+          "description": "🗽2025年度总结「掌控自己」",
+          "link": "https://terryhu.cn/posts/2026/2025%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E6%8E%8C%E6%8E%A7%E8%87%AA%E5%B7%B1/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T15:29:18.000Z",
+          "wordCount": 112,
+          "title": "🗽2025年度总结「掌控自己」",
+          "imageUrl": "https://terryhu.cn/posts/2026/2025%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93%E6%8E%8C%E6%8E%A7%E8%87%AA%E5%B7%B1/cover.jpg"
         },
         {
           "id": "http://stuit.cn/Xiaolu/Post/1595.html?utm_source=blogfinder",
@@ -96,6 +566,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://joojen.com/archives/8769.html?utm_source=blogfinder",
+          "author": null,
+          "description": "当早起不再是难事，一切都已经悄然改变",
+          "link": "https://joojen.com/archives/8769.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T14:36:21.000Z",
+          "wordCount": 3053,
+          "title": "当早起不再是难事，一切都已经悄然改变",
+          "imageUrl": "https://joojen.com/wp-content/uploads/2026/01/8769thumb.png"
+        },
+        {
+          "id": "https://joojen.com/archives/8766.html?utm_source=blogfinder",
+          "author": null,
+          "description": "江南的冬天让人想去南方",
+          "link": "https://joojen.com/archives/8766.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T14:35:44.000Z",
+          "wordCount": 3061,
+          "title": "江南的冬天让人想去南方",
+          "imageUrl": "https://joojen.com/wp-content/uploads/2026/01/8766thumb.png"
+        },
+        {
           "id": "https://blog.mcenahle.org.cn/2026/01/13/392.html?utm_source=blogfinder",
           "author": null,
           "description": "冬至（24/81）：设计徽标，准备出游",
@@ -116,6 +606,36 @@
           "imageUrl": null
         },
         {
+          "id": "https://onojyun.com/2026/01/13/%e8%b0%8e%e8%a8%80%e6%88%90%e7%96%be/?utm_source=blogfinder",
+          "author": null,
+          "description": "谎言成疾",
+          "link": "https://onojyun.com/2026/01/13/%e8%b0%8e%e8%a8%80%e6%88%90%e7%96%be/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T13:51:06.000Z",
+          "wordCount": 3407,
+          "title": "谎言成疾",
+          "imageUrl": "https://onojyun.com/wp-content/uploads/2022/12/cropped-mobius_icon_black.jpg?w=200"
+        },
+        {
+          "id": "https://www.glowisle.me/posts/pseudo-philosopher/?utm_source=blogfinder",
+          "author": null,
+          "description": "哲学之癫",
+          "link": "https://www.glowisle.me/posts/pseudo-philosopher/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T13:41:00.000Z",
+          "wordCount": 1740,
+          "title": "哲学之癫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://loveapple.icu/Jeju-day-2/?utm_source=blogfinder",
+          "author": null,
+          "description": "水煮鱼的济州岛旅行日记：Day2",
+          "link": "https://loveapple.icu/Jeju-day-2/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T12:39:14.000Z",
+          "wordCount": 1134,
+          "title": "水煮鱼的济州岛旅行日记：Day2",
+          "imageUrl": "https://loveapple.icu/img-api/random-image?9562"
+        },
+        {
           "id": "https://61.life/2026/0112?utm_source=blogfinder",
           "author": null,
           "description": "20060112",
@@ -134,6 +654,16 @@
           "wordCount": 821,
           "title": "宗教、男权与战争压迫下女性苦难史——读卡勒德·胡赛尼的《灿烂千阳》",
           "imageUrl": null
+        },
+        {
+          "id": "http://www.yveji.com/Scenery/creative-cultural-products.html?utm_source=blogfinder",
+          "author": null,
+          "description": "有趣的文创产品",
+          "link": "http://www.yveji.com/Scenery/creative-cultural-products.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T11:48:51.000Z",
+          "wordCount": 426,
+          "title": "有趣的文创产品",
+          "imageUrl": "https://s41.ax1x.com/2026/01/13/pZD3KG8.jpg"
         },
         {
           "id": "https://www.luohuayu.cn/55.html?utm_source=blogfinder",
@@ -183,6 +713,16 @@
           "publishedOn": "2026-01-13T10:00:28.000Z",
           "wordCount": 2864,
           "title": "微信小程序‘宗宗酱’再次进行升级",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.krjojo.com/12765.html?utm_source=blogfinder",
+          "author": null,
+          "description": "白嫖阿里云免费PG数据库",
+          "link": "https://www.krjojo.com/12765.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T07:35:54.000Z",
+          "wordCount": 1495,
+          "title": "白嫖阿里云免费PG数据库",
           "imageUrl": null
         },
         {
@@ -264,6 +804,26 @@
           "wordCount": 1044,
           "title": "再见👋 LeanCloud",
           "imageUrl": null
+        },
+        {
+          "id": "https://blog.xxbjf.com/archives/zi-jian-jian-yi-linuxyun-wei-zhu-shou?utm_source=blogfinder",
+          "author": null,
+          "description": "自建简易Linux运维助手",
+          "link": "https://blog.xxbjf.com/archives/zi-jian-jian-yi-linuxyun-wei-zhu-shou?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T04:31:48.000Z",
+          "wordCount": 4283,
+          "title": "自建简易Linux运维助手",
+          "imageUrl": "/upload/favicon.ico"
+        },
+        {
+          "id": "https://ellenli.cc/posts/2026-02/?utm_source=blogfinder",
+          "author": null,
+          "description": "26周记 | 02 带娃四天",
+          "link": "https://ellenli.cc/posts/2026-02/?utm_source=blogfinder",
+          "publishedOn": "2026-01-13T04:00:00.000Z",
+          "wordCount": 1457,
+          "title": "26周记 | 02 带娃四天",
+          "imageUrl": "https://ellenli.cc/img/share.png"
         },
         {
           "id": "https://ellenli.cc/weekly/2026-02/?utm_source=blogfinder",
@@ -484,6 +1044,16 @@
           "wordCount": 1400,
           "title": "219 “道德完善计划v1.0”在2025年的执行情况",
           "imageUrl": null
+        },
+        {
+          "id": "https://macin.org/2026/01/12/ba-sheng/?utm_source=blogfinder",
+          "author": null,
+          "description": "巴生：慢吞吞地去尝最正宗的肉骨茶",
+          "link": "https://macin.org/2026/01/12/ba-sheng/?utm_source=blogfinder",
+          "publishedOn": "2026-01-12T22:44:59.000Z",
+          "wordCount": 648,
+          "title": "巴生：慢吞吞地去尝最正宗的肉骨茶",
+          "imageUrl": "https://macinorg-blog.oss-cn-chengdu.aliyuncs.com/blog/Shirley_IMG_0279.webp"
         },
         {
           "id": "https://blog.xxbjf.com/archives/ubuntuchang-yong-zhi-ling-ji-xin-de?utm_source=blogfinder",
@@ -5843,6 +6413,256 @@
       "siteUrl": "https://www.blogsclub.org/feed.xml",
       "articles": [
         {
+          "id": "https://www.blogsclub.org/jump?id=19395",
+          "author": "Xuan's blog",
+          "description": "LoadRunner 在录制脚本时经常会遇到网络连接失败、回放报错等问题，这些问题往往与本地代理配置、防火墙设置或浏览器缓存有关。本文从实际场景出发，提供完整的排查与解决方案。前言期末作业需要用...",
+          "link": "https://www.blogsclub.org/jump?id=19395",
+          "publishedOn": "2026-01-14T18:12:33.000Z",
+          "wordCount": 5637,
+          "title": "解决 LoadRunner12.55 无Internet连接及 SSL、415 等回放错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19394",
+          "author": "懋和道人",
+          "description": "这篇文章是关于一个曾经广受欢迎的云端服务提供者LeanCloud的兴衰历程的回顾。LeanCloud曾是开发者社区中的佼佼者，以其Serverless云服务为核心，帮助无数开发者解决服务器搭建、运维等繁琐事务，专注于产品的核心功能。然而，该服务的命运在2021年发生了一次重大的转折，被心动网络收购后，原本以为会迎来进一步的繁荣，却反而陷入了困境。\n\nLeanCloud在发展过程中经历了许多重要的里程碑事件，包括产品诞生、独立运营、重要融资、产品迭代与市场拓展等。然而，随着心动网络的收购，LeanCloud的服务规范开始调整，节点调整、功能冻结、正式停服等一系列事件接连发生。最终，LeanCloud在历经十余年的运营后，宣布将在未来某一天正式停止对外提供服务，这令许多用户和开发者感到遗憾和失落。\n\n关于停服通知的具体内容，LeanCloud表示将停止新用户注册和创建新的应用，现有存量应用在正式停止服务前仍可继续使用。同时，根据《个人信息保护法》及相关法律法规，服务停止后，平台将依法对留存的所有用户数据进行永久性销毁或匿名化处理。此外，LeanCloud还提供了数据导出和迁移指引，以保障用户的权益。对于迁移过程中遇到的任何问题，用户都可以随时联系LeanCloud团队。\n\n在LeanCloud的生命周期中，许多博友对其表达了缅怀之情。同时，一些开发者还提到了他们在LeanCloud中的项目和数据存储情况，表达了对于数据迁移的担忧和期待。此外，文章还介绍了一些可替代LeanCloud的边缘化数据部署服务，包括腾讯云EdgeOne、阿里云边缘安全加速等...",
+          "link": "https://www.blogsclub.org/jump?id=19394",
+          "publishedOn": "2026-01-14T17:13:07.000Z",
+          "wordCount": 662,
+          "title": "LeanCloud选择性去世",
+          "imageUrl": "//www.dao.js.cn/img/webp/no.webp"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19391",
+          "author": "Fogfleaの巢",
+          "description": "一道等轴双曲线的旋转做法",
+          "link": "https://www.blogsclub.org/jump?id=19391",
+          "publishedOn": "2026-01-14T14:23:34.000Z",
+          "wordCount": 620,
+          "title": "一道等轴双曲线的旋转做法",
+          "imageUrl": "https://www.fogflea.com/upload/92191625_p0_master1200.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19392",
+          "author": "魏文超博客",
+          "description": "《我们为何无法正确、充分地表达自己？》",
+          "link": "https://www.blogsclub.org/jump?id=19392",
+          "publishedOn": "2026-01-14T14:23:00.000Z",
+          "wordCount": 270,
+          "title": "《我们为何无法正确、充分地表达自己？》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19389",
+          "author": "宗宗酱",
+          "description": "博客小程序审核通过了",
+          "link": "https://www.blogsclub.org/jump?id=19389",
+          "publishedOn": "2026-01-14T13:35:54.000Z",
+          "wordCount": 2695,
+          "title": "博客小程序审核通过了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19388",
+          "author": "Ming博客",
+          "description": "晚睡晚起 vs 晚睡早起一份给当代青年的睡眠自救指南（非医疗建议）",
+          "link": "https://www.blogsclub.org/jump?id=19388",
+          "publishedOn": "2026-01-14T13:11:54.000Z",
+          "wordCount": 63,
+          "title": "晚睡晚起 vs 晚睡早起一份给当代青年的睡眠自救指南（非医疗建议）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19390",
+          "author": "GTX690战术核显卡导弹的猫窝",
+          "description": "给NekoWebShow加载提速为期三个月的实习结束了，准备迎来寒假了，我在想要不要做一些有意思的事情。受到Bhao小姐姐博客的启发，我萌生了想要重新装修博客的想法，主题也很明确——猫娘乐园主题...",
+          "link": "https://www.blogsclub.org/jump?id=19390",
+          "publishedOn": "2026-01-14T12:43:24.000Z",
+          "wordCount": 665,
+          "title": "主题开发日志01：优化NekoWebShow加载速度",
+          "imageUrl": "https://teachermate.oss-cn-qingdao.aliyuncs.com/ptegE-1768394556053-Optimization_NekoWebShow.png?x-oss-process=image/resize,w_800/format,webp"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19387",
+          "author": "宗宗酱",
+          "description": "安卓植物大战僵尸杂交版",
+          "link": "https://www.blogsclub.org/jump?id=19387",
+          "publishedOn": "2026-01-14T11:16:43.000Z",
+          "wordCount": 2702,
+          "title": "安卓植物大战僵尸杂交版",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19384",
+          "author": "爱娃子",
+          "description": "移动的流量老贵了，10 个 G 都要好几块，这次四川移动贺岁流量抽奖来袭，最高可中 100G，吐槽下我怎么中不了 100G，反正我的运气...",
+          "link": "https://www.blogsclub.org/jump?id=19384",
+          "publishedOn": "2026-01-14T09:41:44.000Z",
+          "wordCount": 240,
+          "title": "移动贺岁流量抽奖，最高 100G，已抽中 30G",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19385",
+          "author": "爱娃子",
+          "description": "由于我最近需要一款可以长时间使用的免费云电脑，有时候装个软件用起来也方便，于是就找到了这款可以白嫖两个月时长的云电脑，配置还...",
+          "link": "https://www.blogsclub.org/jump?id=19385",
+          "publishedOn": "2026-01-14T08:57:32.000Z",
+          "wordCount": 254,
+          "title": "0 元解锁电信天翼云电脑 8C16G 高配 2 个月免费使用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19386",
+          "author": "小生博客",
+          "description": "小呆你好呀！收到你的明信片真的好暖～谢谢你的新年祝福，也祝你 2026 年万事顺遂，生活里常伴温柔与安稳，每一份真诚都能被温柔接住～小李，你好！2026 年阖家安康，万事顺意！愿新岁体检指标常优...",
+          "link": "https://www.blogsclub.org/jump?id=19386",
+          "publishedOn": "2026-01-14T08:39:00.000Z",
+          "wordCount": 3092,
+          "title": "这张明信片，是我 2026 的第一缕暖 @虫虫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19393",
+          "author": "威言威语",
+          "description": "最近看了一篇文章，触动挺大。我也根据文章整理了自己对博客的一些感受。写博客，其实是给别人看的。技术再炫也不能抢走阅读感受。好的博客，是读者想打开就能顺利读完、想用功能就能轻松找到，也能感受到用心和舒服，让人愿意一次次回来的那种地方。",
+          "link": "https://www.blogsclub.org/jump?id=19393",
+          "publishedOn": "2026-01-14T08:35:23.000Z",
+          "wordCount": 489,
+          "title": "老派博主的博客体验笔记",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/blog.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19383",
+          "author": "异数",
+          "description": "最近隔三差五都在打彩票，感觉还不错，新的一年，大乐透和双色球都有单票中奖过200的记录了，因此今天特意写篇博文，分析一下今天的大乐透投注。\n今年的大乐透红区号码出现尾数相同的期数较少，比如04 24这种就是尾数相同，基本上两三期才有一期会出现两个尾数相同的...",
+          "link": "https://www.blogsclub.org/jump?id=19383",
+          "publishedOn": "2026-01-14T06:54:00.000Z",
+          "wordCount": 826,
+          "title": "彩票 || 大乐透2026年006期分析",
+          "imageUrl": "https://www.yishu.pro/img/qian-li-jiang-shan-tu04.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19382",
+          "author": "nocoding.life",
+          "description": "前言：\n 本文只是作为一个书摘的作用，为自己复习《为成果管理》这本书的内容，并没有一个凝练的读后感。\n 序言\n \n  本书不告诉他们如何正确地去做事，而是旨在帮他们找到正确的事去做。\n \n 开篇即点名主旨：要做正确的事情，而不是仅仅满足于把事情做对。工作时间长了慢慢意识到，事情是做不完的。有些事情是重要的，需要你立刻去做；有些事情看似紧急，但是等一等，要么它就自行消解，要么你的上下游就能把这个问题解决掉。虽然很早就知道了用四象限来分类任务，但是工作多了才越来越意识到：把重要的事情做好，剩下的要么挑着做，要么放那放着就好。正如曾传言贝佐斯只回复、处理发第二遍的邮件，只发一遍的要么是不那么重要，要么是可以别人来解决。\n \n  每天早上各位管理者的桌上都堆满了问题，都在呼唤他的关注，却少有人告诉他哪些是要事，哪些只是干扰他的聒噪。\n \n 曾国藩一生也常常用一个“拖”字诀，一些两边为难的事，一些不痛不痒的事，脸皮厚，话说好，慢慢拖着就好。\n 第一部分：看懂企业\n Part 1: 抓重点\n \n  管理者之所以不顾及明天，是因为他无法从今天的事务中脱身。不过这依然只是一个表象，真正的病根是他们毫无知识基础和体系来完成企业中的经济任务。\n \n \n  对企业至关重要的是成效(effectiveness)，而不是效率(efficiency)。也就是说，与之相关的问题不是如何将事情做对，而是如何找到对的事情去做，并汇聚资源，集中力量做好它们。\n \n \n  获取经济成果靠的是不断发掘机会，而不是一直解决问题。\n \n \n  为了创造成果，资源必须分配给机会，而非问题。\n \n 上面这两段话是我第一次读到，结合自己的工作经验，也非常能够感同身受。以日常的工作内容为例，有很大一部分时间是要用来给服务做维护，修修补补各种问题。但business的增长从来不是说我们今天修了这个bug，明天修了那个bug就能…",
+          "link": "https://www.blogsclub.org/jump?id=19382",
+          "publishedOn": "2026-01-14T06:19:29.000Z",
+          "wordCount": null,
+          "title": "《为成果管理》读书笔记｜Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19379",
+          "author": "莫比乌斯",
+          "description": "角色扮演",
+          "link": "https://www.blogsclub.org/jump?id=19379",
+          "publishedOn": "2026-01-14T06:00:00.000Z",
+          "wordCount": 3478,
+          "title": "角色扮演",
+          "imageUrl": "https://onojyun.com/wp-content/uploads/2022/12/cropped-mobius_icon_black.jpg?w=200"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19380",
+          "author": "秘柯絮语",
+          "description": "按油管视频白嫖谷歌云二三事 近来无聊，就按油管视频打算白嫖一下谷歌云的虚拟服务器。试了一下，可以用但仅仅只是能用。 过程祥记 注册账号 先去创建一个谷歌账号，这里不做演示。（听说现在谷歌账号越来越难注册了，可以去百度一下怎么注册） 然后登录谷歌云。这里需要一张支持外币的非银联卡来做支付验证，借记卡、",
+          "link": "https://www.blogsclub.org/jump?id=19380",
+          "publishedOn": "2026-01-14T05:55:13.000Z",
+          "wordCount": 1012,
+          "title": "按油管视频白嫖谷歌云二三事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19381",
+          "author": "皮皮社",
+          "description": "中频电炉是HT系列灰铸铁冶炼的常用设备，HT200、HT250作为主流工程铸铁牌号，其铁水成分稳定性直接影响铸件质量。本文针对4吨中频电炉，精简梳理这两种牌号铁水的核心冶炼要点，重点明确硅铁、锰...",
+          "link": "https://www.blogsclub.org/jump?id=19381",
+          "publishedOn": "2026-01-14T05:03:00.000Z",
+          "wordCount": 915,
+          "title": "4吨中频电炉冶炼HT200/HT250铁水教程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19378",
+          "author": "魏文超博客",
+          "description": "《小心AI会自信地胡言乱语》",
+          "link": "https://www.blogsclub.org/jump?id=19378",
+          "publishedOn": "2026-01-14T04:53:00.000Z",
+          "wordCount": 280,
+          "title": "《小心AI会自信地胡言乱语》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19377",
+          "author": "fengc's Blog",
+          "description": "发布日期: 2026-01-14",
+          "link": "https://www.blogsclub.org/jump?id=19377",
+          "publishedOn": "2026-01-14T04:30:50.000Z",
+          "wordCount": 611,
+          "title": "摄影习作: 陆家嘴秋色",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19373",
+          "author": "喂猫猫",
+          "description": "朋友们，由于我在雨云购买的美国服务器到期，我计划近期搬迁到腾讯云国内服务器，并进行备案，可能会闭站一段时间，待备案通过后恢复稳定。对了，腾讯云轻量应用服务器 2核4G5M60GBSSD盘 500...",
+          "link": "https://www.blogsclub.org/jump?id=19373",
+          "publishedOn": "2026-01-14T03:51:00.000Z",
+          "wordCount": 701,
+          "title": "计划进行服务器搬迁和备案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19371",
+          "author": "谶の博客",
+          "description": "2026.01.13,19:41，我因为实在无法忍受近两年来让人琢磨不透的复杂情绪，最终在对象与哥哥的鼓励下怀...",
+          "link": "https://www.blogsclub.org/jump?id=19371",
+          "publishedOn": "2026-01-14T03:40:42.000Z",
+          "wordCount": null,
+          "title": "一通心理援助电话后…",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19370",
+          "author": "夕阳西下",
+          "description": "2025年免费域名统计",
+          "link": "https://www.blogsclub.org/jump?id=19370",
+          "publishedOn": "2026-01-14T03:34:28.000Z",
+          "wordCount": 442,
+          "title": "2025年免费域名统计",
+          "imageUrl": "https://tu.xjmu.ac.cn/wp-content/uploads/2026/01/1768361613-fIPLVfZuH.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19374",
+          "author": "纳思稻壳",
+          "description": "最近我发现了一个开源项目叫 van-nav，它的思路特别简单：把所有服务入口做成一个“家庭主页”，点一下就进，再也不用背端口号了。 🧾 项目简介 Van Nav 是一个轻量导航站，内置搜索引擎集成，很适合作为浏览器主页使用；它还配套提供了浏览器插件和 API，方便你快速添加/管理常用入口。部署也很",
+          "link": "https://www.blogsclub.org/jump?id=19374",
+          "publishedOn": "2026-01-14T03:33:00.000Z",
+          "wordCount": 2031,
+          "title": "飞牛部署轻量级导航 van-nav",
+          "imageUrl": "/upload/pc_preview.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19369",
+          "author": "蒙需",
+          "description": "网络主播面临 MCN 机构高额赔偿诉讼怎么办",
+          "link": "https://www.blogsclub.org/jump?id=19369",
+          "publishedOn": "2026-01-14T03:04:57.000Z",
+          "wordCount": 1570,
+          "title": "网络主播面临 MCN 机构高额赔偿诉讼怎么办",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19372",
+          "author": "魏文超博客",
+          "description": "《细节之处看匠心》",
+          "link": "https://www.blogsclub.org/jump?id=19372",
+          "publishedOn": "2026-01-14T02:46:00.000Z",
+          "wordCount": 371,
+          "title": "《细节之处看匠心》",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.blogsclub.org/jump?id=19363",
           "author": "Chongxiの咖啡屋",
           "description": "批判是为了祛魅\n0. 引\n中国互联网商业公司有一种把任何硬科技迅速转化成地摊经济的魔力。AI 也不例外\n在近年来的 AI 浪潮里，体现的不是全面的技术飞升，而是套壳、卖课和阉割\n1. AI 未动 镰刀先行\n最魔幻的奇观。中美 AI 创业者的观念完全不同：\nOpenAI 想的是：我要做 AGI，我要改变人类生产力\n而国内所谓AI教父们：家人们，99 元 AI 搞钱课，错过悔终生！\n中国第一批靠 AI 赚到大钱的，不是搞技术的，而是搞培训的\n它们利用普通人对被 AI 取代的焦虑，贩卖毫无营养的提示词教程\n工业革命来了，大家不去造蒸汽机，也不去开工厂，全都在村口摆摊卖蒸汽机成功学。这直接把 AI 拉低到微商的水平\n2. 带着镣铐跳舞\n大模型的原理是概率预测。如果你给它加上了过多的“敏感词过滤”和“价值观对齐”，会直接破坏模型的逻辑推理能力\n而国内商业化大模型在回答问题前，要先过三道审核关\n\n用户提问：“草莓里有几颗红色的？”\nLLM推理： “草莓”敏感吗？“红色”敏感吗？这是否暗示什么？\n\n为了绝对的安全，模型被进行了前额叶切除术，它变得唯唯诺诺，稍微复杂一点的问题就回答 作为一个人工智能语言模型，我无法回答...\n本来就比人家慢一截，算法还要被阉割，这仗怎么打？\n3. 为了 AI 而 AI\n国内商业互联网大厂现在的 AI 策略是：不管有没有用，先加上 AI 再说，因为这样KPI和股价好看\n输入法以前打字挺快，现在非要给你弹个“AI 帮写”，点进去生成的全是废话文学\n网盘/相册强行加入 AI 搜索，结果不仅搜不准，还把用户隐私扫了一遍\n练现在的办公软件都在吹 AI 生成，生成出来的东西逻辑不通，除了做演示视频骗骗投资人，根本没法在实际工作里用\n\n噱头大于实质：\n\n它们不是在思考AI 怎么解决痛点，而是在思考怎么把 AI 这个词塞进我的产品介绍里\n这和几年前的*“区块链+”、“元宇宙+”*一模一样。风口来了，猪都想飞，不管自己是不是猪\n\n\n\n4. 出淤泥而不染\n4.1. 开源是一种勇气\n在国内商业互联网大厂都在搞“API 收费”、“刷榜单”的时候，DeepSeek 直接把权重扔到了 Hugging Face 上\n这为什么是勇气？\n开源意味着你的架构、参数、训练思路完全透明。如果你的技术是套壳或者汉化，开源就是公开处刑。DeepSeek 敢开源，说明它对自己的原创架构有极度的自信\n腾讯阿里做模型，第一反应是怎么把用户圈在我的云服务里。DeepSeek 的反应是怎么让开发者用得爽。这种Developer First的硅谷气质，在国内太稀缺了\nDeepSeek 是极少数被国际硬核开发者社区疯狂点赞的中国模型。尤其是 DeepSeek-Coder，在代码生成领域甚至一度吊打 GPT-4，这是实打实的战绩\n4.2. 出身不同\nDeepSeek 的背景非常有意思，它不是传统的互联网大厂，它背后的金主是幻方量化，一家顶级的量化私募\n为什么这点很关键？\n很简单，因为不差钱。传统大厂做 AI，CFO 天天盯着问：这东西下个季度能带来多少广告收入？\nDeepSeek 没这个压力，它是真的在把 AI 当作数学问题来解，而不是当作产品来卖\n搞量化的人最擅长什么？算力优化。DeepSeek 最恐怖的地方在于，它用比 OpenAI 少得多的卡，练出了性能接近的模型。DeepSeek-V2/V3 的推理成本极低，这就是算法层面的硬实力\n4.3. 鲶鱼效应\nDeepSeek 干了一件让国内所有云厂商都骂娘、但开发者都叫好的事：低价\n当百度和阿里的 API 还在卖几分钱一千 token 的时候，DeepSeek 甚至给出了近乎免费的价格。这一招直接逼得字节、阿里等被迫大幅降价跟进\n这才是真正的互联网精神，通过技术进步降低成本，从而普惠大众。而不是通过垄断技术来收割超额利润\n5. 结\n大多数国内商业互联网公司把 AI 当噱头，本质上是因为急\n\n资本急： 需要新故事来拉升低迷的股价\n大厂急： 怕被时代抛弃，所以搞百模大战，不管质怎么样，先凑个量\n普通人急： 怕失业，所以去买课，...",
@@ -5851,6 +6671,46 @@
           "wordCount": 1819,
           "title": "中国商业互联网公司\"AI\"乱象:技术革命变成商业炒作",
           "imageUrl": "https://blog.chongxi.us/images/OG.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19376",
+          "author": "Oki's Blog",
+          "description": "更新这篇文章，已经在2026年了。之前也一直想来更新下博客，除除草，但是一登录了，也就不知道想发些什么。2025年是不平凡的一年，包括家人的身体状态出了问题、固定资产的重组、工作的不顺利等等，但...",
+          "link": "https://www.blogsclub.org/jump?id=19376",
+          "publishedOn": "2026-01-14T02:31:59.000Z",
+          "wordCount": 742,
+          "title": "全新的2026年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19365",
+          "author": "Vind Log",
+          "description": "上海古漪园，位于嘉定区南翔，是明清时期的著名园林，也是我非常喜欢去的公园之一。\n\n\n\n\n\n\n\n\n\n由于本来就没有评论，本次翻新偷懒了，直接清空阅读次数。",
+          "link": "https://www.blogsclub.org/jump?id=19365",
+          "publishedOn": "2026-01-14T02:00:13.000Z",
+          "wordCount": 1325,
+          "title": "【翻新】古漪园 V 人物",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19367",
+          "author": "云奚小屋",
+          "description": "在不少偏远地区，有许多女生怀揣求学梦，却因家庭贫困面临辍学难题。她们渴望知识，却苦于没钱买课本、交学费，求学之路走得格外艰难。云奚公益小组一直牵挂着这些困境女生，多年来坚持帮扶工作，见证了太多温...",
+          "link": "https://www.blogsclub.org/jump?id=19367",
+          "publishedOn": "2026-01-14T01:33:00.000Z",
+          "wordCount": null,
+          "title": "云奚公益小组【邀你助力困境女生求学】",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19368",
+          "author": "刘郎阁",
+          "description": "现在不管是个人远程管理设备，还是团队日常协作运维，远程桌面工具都成了刚需。市面上的 TeamViewer 、 AnyDesk 、向日葵、 ToDesk 各有优势，可要么商用版价格不菲，要么免费版...",
+          "link": "https://www.blogsclub.org/jump?id=19368",
+          "publishedOn": "2026-01-14T00:17:00.000Z",
+          "wordCount": 1334,
+          "title": "用Docker部署RustDesk远程桌面控制工具",
+          "imageUrl": null
         },
         {
           "id": "https://www.blogsclub.org/jump?id=19364",
@@ -5920,6 +6780,16 @@
           "publishedOn": "2026-01-13T13:41:00.000Z",
           "wordCount": 1740,
           "title": "哲学之癫",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19375",
+          "author": "静风说",
+          "description": "宗教、男权与战争压迫下女性苦难史——读卡勒德·胡赛尼的《灿烂千阳》",
+          "link": "https://www.blogsclub.org/jump?id=19375",
+          "publishedOn": "2026-01-13T12:29:37.000Z",
+          "wordCount": 821,
+          "title": "宗教、男权与战争压迫下女性苦难史——读卡勒德·胡赛尼的《灿烂千阳》",
           "imageUrl": null
         },
         {
@@ -6133,6 +7003,16 @@
           "imageUrl": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/sol/img_8297.webp"
         },
         {
+          "id": "https://www.blogsclub.org/jump?id=19366",
+          "author": "AsZero",
+          "description": "在学校严格的代理环境下，如何配置自建RustDesk服务器？",
+          "link": "https://www.blogsclub.org/jump?id=19366",
+          "publishedOn": "2026-01-13T00:00:00.000Z",
+          "wordCount": 704,
+          "title": "在学校高墙内网穿透连接家里RustDesk的踩坑与折腾记录",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.blogsclub.org/jump?id=19358",
           "author": "Honesty",
           "description": "enhanced-Faa...",
@@ -6221,6 +7101,16 @@
           "wordCount": 5446,
           "title": "LoadRunner 性能测试操作全流程：从脚本录制到结果分析",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=19397",
+          "author": "逐暗者的麦田",
+          "description": "AI炒股初探",
+          "link": "https://www.blogsclub.org/jump?id=19397",
+          "publishedOn": "2026-01-12T12:16:18.000Z",
+          "wordCount": 1649,
+          "title": "AI炒股初探",
+          "imageUrl": "https://pic.shellingford.cn/i/2026/01/12/1dj0bz.webp"
         },
         {
           "id": "https://www.blogsclub.org/jump?id=19301",
@@ -8150,6 +9040,116 @@
       "siteUrl": "https://www.blogtalk.org/home?sort=latest",
       "articles": [
         {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fshiker.tech%2Farchives%2F288",
+          "author": "橙序员小站",
+          "description": "Steam Machine是Valve公司推出的一款旨在为PC玩家提供便捷游戏体验的游戏主机。它运行SteamOS，试图打破传统主机与PC之间的界限。尽管2013年首次提出时引起广泛关注，但Steam Machine的市场表现未如预期，逐渐被遗忘。然而，2023年关于其价格的泄露重新引发讨论，许多PC玩家对其售价可能超出预期表示担忧。据报道，Steam Machine的价格可能在$499到$699之间，这一价格在市场中并不便宜，尤其是与目前流行的游戏主机相比。部分媒体认为，尽管价格较高，Steam Machine提供的性能和功能可能使其仍具吸引力，但也有观点认为高价可能导致其销量受限，特别是在经济压力较大的情况下。价格的泄露引发了玩家的复杂情绪，有人担心其性价比，也有人对其潜在价值持乐观态度，认为其能够推动游戏生态发展。玩家的反应分歧明显，部分愿意为高性能支付额外费用，而另一些则认为市场上已有更具性价比的解决方案。未来Steam Machine的市场表现仍有待观察，价格将直接影响其在PC游戏市场的潜力和影响力。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fshiker.tech%2Farchives%2F288",
+          "publishedOn": "2026-01-15T00:58:30.000Z",
+          "wordCount": 1779,
+          "title": "Steam Machine价格泄露：PC玩家的担忧与期待",
+          "imageUrl": "https://shiker.tech/images/logo.svg"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.immarcus.com%2Fblog%2Fshe-and-i",
+          "author": "I'm Marcus",
+          "description": "我从小就觉得1，哪个古人肯定是把这两个字给搞反了。 「射」字，「身」高仅一「寸」，这难道不是「矮」的意思吗？ 「矮」字，弓「矢」被「委」曲待发的样子，这难道不是「射」的意思吗？ 肯定是搞反了。 于是，我在大学甲骨文课上，斗胆问了中文系教授。教授对着我使劲翻白眼。 那门课我后来差点挂掉。 Footnotes 我爸给我灌输的奇怪知识 ↩",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.immarcus.com%2Fblog%2Fshe-and-i",
+          "publishedOn": "2026-01-15T00:00:00.000Z",
+          "wordCount": 55,
+          "title": "「射」和「矮」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fblog.ybyq.wang%2Farchives%2F1418.html",
+          "author": "Xuan's blog",
+          "description": "LoadRunner 在录制脚本时经常会遇到网络连接失败、回放报错等问题，这些问题往往与本地代理配置、防火墙设置或浏览器缓存有关。本文从实际场景出发，提供完整的排查与解决方案。 前言 期末作业需要用LoadRunner对上学期开发的项目做性能测试。我早早的做完了作业并完成了答辩，后面陆续帮助舍友和同学解决了录制等问题，把遇到的问题和解决方案都给总结了一下，发了三篇简单的教程。 在解决了五六位同学的问题后，发现对每个人的问题和方法都不太一样。所以下面这些解决办法，建议可以每个都尝试一下，大概率可以得到解决。 一、录制阶段：无法连接网络问题 问题表现 使用 LoadRunner 12.55 录制时，启动后会提示 \"无 Internet 连接\"。 排查思路 LoadRunner 录制通过拦截浏览器的 HTTP(S) 流量实现，因此本地防火墙、代理软件都可能干扰流量捕获。应首先排除系统层面的干扰，再根据是否使用代理进行配置。 解决方案一：关闭本地防火墙 适用场景： 所有情况下优先检查 防火墙（如 Microsoft Defender、火绒等）可能会阻止 LoadRunner 的网络监听行为。 打开 Windows 安全中心 -> 防火墙和网络保护。 临时关闭所有网络配置文件的防火墙。 解决方案二：配置 HTTP 代理（根据本地环境选择） 场景 A：本地未安装任何代理软件 操作步骤： 进入 Recording Options -> HTTP Properties -> Advanced。 在代理设置中选择使用LoadRunner代理服务器。 场景 B：本地安装了代理软件（如 Clash、Clash Verge） 操作步骤： 配置端口映射 进入 Recording Options -> Network -> Port Mapping，添加目标服务器： 目标服务器地址：被测网站的域名（如...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fblog.ybyq.wang%2Farchives%2F1418.html",
+          "publishedOn": "2026-01-14T18:12:33.000Z",
+          "wordCount": 5637,
+          "title": "解决 LoadRunner12.55 无Internet连接及 SSL、415 等回放错误",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.dao.js.cn%2Fnew%2F2026011512067.shtml",
+          "author": "南蛮子懋和",
+          "description": "这篇文章主要描述了LeanCloud这个后端云服务平台的历程和停止服务的通知。LeanCloud曾是开发者圈里非常受欢迎的后端小管家，提供了以Serverless云服务为核心的各种服务，帮助无数开发者省掉服务器搭建、运维的繁琐琐事。然而，在2021年与心动公司的“联姻”后，LeanCloud的服务经历了一些变故，最终宣布停止对外提供服务。 文章详细列出了关于LeanCloud停止服务的通知，包括功能冻结、正式停止服务的时间表、数据导出和迁移、余额退款等具体事项。通知中还提到了其他可替代LeanCloud的边缘化数据部署的服务，包括腾讯云EdgeOne、阿里云边缘安全加速、百度智能云边缘计算节点等，它们都有各自的核心功能和免费额度，以及适用场景。 此外，文章还回顾了LeanCloud的完整生命周期时间轴，从团队筹备、产品诞生、独立运营、重要融资、产品迭代与市场拓展、战略收购等关键节点，到服务规范调整、节点调整、功能冻结和正式停服的全过程。 对于个人和企业在LeanCloud中的项目，这篇文章的作者提到了一些具体的案例，如wulintangimg和“漏尽阁·修道乎”等道教专题的数据存储，在LeanCloud关闭后，将不复存在。不过，作者表示可能会选择其他方式存储，继续提供API服务。 总的来说，这篇文章对LeanCloud的历程和停止服务的原因进行了详细的阐述，并提供了其他可替代服务的选项。对于使用LeanCloud的开发者来说，这是一篇非常有价值的文章，可以帮助他们了解未来可能的替代方案和迁移策略。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.dao.js.cn%2Fnew%2F2026011512067.shtml",
+          "publishedOn": "2026-01-14T17:13:07.000Z",
+          "wordCount": 662,
+          "title": "LeanCloud选择性去世",
+          "imageUrl": "//www.dao.js.cn/img/webp/no.webp"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.fogflea.com%2Farchives%2Fyi-dao-deng-zhou-shuang-qu-xian-de-xuan-zhuan-zuo-fa",
+          "author": "Fogfleaの巢",
+          "description": "这周不去研学，待在教室里板刷了八套数学卷，发现了一道有意思的题。 题目大意 有双曲线 C:x^2-y^2=2 ，设 A 为其左顶点，D(0,\\sqrt{2}) ， M 在左支上， N 在 C 右支上，且 M,A,N 三点不共线， AD 平分 \\angle MAN ，求证： MN 过定点。 答案做法 很经典，因为平分线的缘故， AM 和 AN 斜率积为 1 ，那么设 MN:y=kx+t, M(x_1,y_1),N(x_2,y_2) 。 联立 MN,C ： \\left\\{ \\begin{aligned} &y=kx+t\\\\ &x^2-y^2=2 \\end{aligned} \\right. 有 (1-k^2)x^2-2ktx-t^2-2=0， \\Delta 一通乱算 >0 ，然后韦达： x_1+x_2=\\frac{2kt}{1-k^2},x_1x_2=-\\frac{t^2+2}{1-k^2} 。 然后表达斜率积为 1 这个条件又是一通乱算得到 (k^2-1)(-\\frac{t^2+2}{1-k^2})+(kt-\\sqrt{2})\\frac{2kt}{1-k^2}+t^2-2=0 ，于是 t=0 或 t=\\sqrt{2}k。 t=\\sqrt{2}k 这个 M,A,N 三点共线了，舍掉，剩个 t=0 ，那就是恒过 (0,0) 。 想法很简单，但算起来是真麻烦，所以我一开始就没打算这么干。 我的做法 先扯点别的，之前某一次周测最后一题也有一个等轴双曲线，当时看到 x^2-y^2 条件反射平方差出 (x+y)(x-y) ，突然灵机一动，如果把 (x+y),(x-y) 看成新坐标系下的 x,y 会怎样呢？然后就想到 OI 里有个 trick ：曼哈顿距离转切比雪夫距离好像也是类似这样干的，本质貌似是做了个平面旋转，再一想 x^2-y^2=1 转个 \\frac{\\pi}{4} 跟 xy=1 ...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.fogflea.com%2Farchives%2Fyi-dao-deng-zhou-shuang-qu-xian-de-xuan-zhuan-zuo-fa",
+          "publishedOn": "2026-01-14T14:23:34.000Z",
+          "wordCount": 620,
+          "title": "一道等轴双曲线的旋转做法",
+          "imageUrl": "https://www.fogflea.com/upload/92191625_p0_master1200.jpg"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fygz.ink%2Farchives%2F3989.html",
+          "author": "宗宗酱",
+          "description": "小程序目前已经提交上线了，小程序备案也提交了就等管局审核通过了。暂时小程序只是不能进行分享。那个分享和在微信搜我这个小程序要给它交30块钱🥲，不想交。欢迎大家用手机微信扫码访问小程序帮忙提交点反馈信息🫶，也算是打通了微信😁。公众号也和博客是同步更新的！ 免责声明 本站内容（教程、软件、资料等）仅供个人学习研究之用，严禁用于商业或非法目的，使用风险自负。博客部分内容来源自网络，版权归属原作者，本站不承担相关版权责任。请在试用下载后24小时内删除相关资源，支持正版。 如涉及侵权，请通过邮件：gouweicaosheji#163.com与我联系处理。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fygz.ink%2Farchives%2F3989.html",
+          "publishedOn": "2026-01-14T13:35:54.000Z",
+          "wordCount": 2695,
+          "title": "博客小程序审核通过了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.weisay.com%2Fblog%2Fold-bloggers-notes.html",
+          "author": "威言威语",
+          "description": "最近看了一篇文章，触动挺大。我也根据文章整理了自己对博客的一些感受。写博客，其实是给别人看的。技术再炫也不能抢走阅读感受。好的博客，是读者想打开就能顺利读完、想用功能就能轻松找到，也能感受到用心和舒服，让人愿意一次次回来的那种地方。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.weisay.com%2Fblog%2Fold-bloggers-notes.html",
+          "publishedOn": "2026-01-14T08:35:23.000Z",
+          "wordCount": 489,
+          "title": "老派博主的博客体验笔记",
+          "imageUrl": "https://img.weisay.com/weiimg/icon/big/blog.png"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fnocoding.life%2Farchives%2FEGhKZIO1",
+          "author": "nocoding.life",
+          "description": "前言： 本文只是作为一个书摘的作用，为自己复习《为成果管理》这本书的内容，并没有一个凝练的读后感。 序言 本书不告诉他们如何正确地去做事，而是旨在帮他们找到正确的事去做。 开篇即点名主旨：要做正确的事情，而不是仅仅满足于把事情做对。工作时间长了慢慢意识到，事情是做不完的。有些事情是重要的，需要你立刻去做；有些事情看似紧急，但是等一等，要么它就自行消解，要么你的上下游就能把这个问题解决掉。虽然很早就知道了用四象限来分类任务，但是工作多了才越来越意识到：把重要的事情做好，剩下的要么挑着做，要么放那放着就好。正如曾传言贝佐斯只回复、处理发第二遍的邮件，只发一遍的要么是不那么重要，要么是可以别人来解决。 每天早上各位管理者的桌上都堆满了问题，都在呼唤他的关注，却少有人告诉他哪些是要事，哪些只是干扰他的聒噪。 曾国藩一生也常常用一个“拖”字诀，一些两边为难的事，一些不痛不痒的事，脸皮厚，话说好，慢慢拖着就好。 第一部分：看懂企业 Part 1: 抓重点 管理者之所以不顾及明天，是因为他无法从今天的事务中脱身。不过这依然只是一个表象，真正的病根是他们毫无知识基础和体系来完成企业中的经济任务。 对企业至关重要的是成效(effectiveness)，而不是效率(efficiency)。也就是说，与之相关的问题不是如何将事情做对，而是如何找到对的事情去做，并汇聚资源，集中力量做好它们。 获取经济成果靠的是不断发掘机会，而不是一直解决问题。 为了创造成果，资源必须分配给机会，而非问题。 上面这两段话是我第一次读到，结合自己的工作经验，也非常能够感同身受。以日常的工作内容为例，有很大一部分时间是要用来给服务做维护，修修补补各种问题。但business的增长从来不是说我们今天修了这个bug，明天修了那个bug就能做大的。我们要专注于开发新的feature，把更多的人引入到我们的产品或者服务中来，创...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fnocoding.life%2Farchives%2FEGhKZIO1",
+          "publishedOn": "2026-01-14T06:19:29.000Z",
+          "wordCount": null,
+          "title": "《为成果管理》读书笔记｜Part 1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fonojyun.com%2F2026%2F01%2F14%2F%25e8%25a7%2592%25e8%2589%25b2%25e6%2589%25ae%25e6%25bc%2594%2F",
+          "author": "莫比乌斯",
+          "description": "很久之前录过一期节目，还是跟前助理一起录制的，大致聊到了“最意难平”的事情，她讲述了一段关于给猫安乐死的事情，说她亲眼看着猫在安乐死时的挣扎，顿生了悔意，也从此充满了对这件事的阴影与恐惧。 这件事情是我们从来没有听她聊起过的，而在节目中突然聊到，也让我们有些措手不及。那个时候也在我内心留下了一个“阴影”——原来给猫安乐死是这么恐怖的事情。 直到家里的老猫在去年安乐时，当针头扎入它的手臂，它确实生气地抗议了一声，但随着第一管镇定剂推入时，它立马沉睡过去，期间没有任何挣扎的迹象，然后才是推入了心脏麻痹的安乐针剂。抱歉我必须非常冷静地描述这段记忆，因为它还是会让我非常难受，所以我用理性的视角回顾这段经历。 总之，安乐死并没有想象中的那么恐怖，但因为经历过，才把这两件事串联起来，让我对一个人的信任近乎为零。不过这里面确实存在主观上的偏见，甚至还有疑邻窃斧式的确认性偏差。 因为跟助理分道扬镳，到最后几乎变成了“不能看合订本”的闹剧。她当初的行为、说的话，到最后每个人得到的信息都是不同的，而当初我们原本应该向当事人确认的机会，都被对方以“我不说是因为怕你们生气”给掩盖过去，到最后大家都无法拼凑出一个完整的人设，甚至原本建立起来的好感，也因为这种支离破碎的信息不对称给弄得生理性恶心了。 所以当这样的人设被破灭时，当初那个关于安乐死的故事也变得拙劣、丑陋，像极了在舞台上扭动着身体、跳着寓意不明的现代舞的演员，将自己的身体折叠成会引发观众幻肢痛的形状，以获得那一瞬间所有人的关注与惊叹。 我已经无法再去确认真相，当初的安乐死到底发生了什么，更有可能她都已经忘记了当初的那个故事版本在说些什么，因为她更关心的是所有人的关注与惊叹。 之前在遛狗时，观察到一对母女的对白： 妈妈：妹妹幸不幸福？妈妈对你这么好。 女儿：嗯…… 妈妈：你觉得幸福就说呀，是不是觉得周末过得很幸福？ 女儿：（小声）嗯…… 妈妈...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fonojyun.com%2F2026%2F01%2F14%2F%25e8%25a7%2592%25e8%2589%25b2%25e6%2589%25ae%25e6%25bc%2594%2F",
+          "publishedOn": "2026-01-14T06:00:00.000Z",
+          "wordCount": 3478,
+          "title": "角色扮演",
+          "imageUrl": "https://onojyun.com/wp-content/uploads/2022/12/cropped-mobius_icon_black.jpg?w=200"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Facevs.com%2F4689%2F",
+          "author": "acevs",
+          "description": "昨晚我安装了益盟炒股软件。想看看免费内容都提供啥，晚上10点左右安装的。 然后有021电话联系我，我不认识直接挂断了。然后又继续打过来，我接听，一位先生，他说看到我下载了他们的软件，首次使用功能不会用，专门来指导我使用那个软件，我说软件好不好使用是用户体验的一部分，我只是想看看免费功能都有啥，几个软件对比，对方还是坚持要指导我使用，说指导后不好用，删除了也可以的。他说了一分钟我左右让我按照他的指示操作，最后我还是直接挂断了电话。虽然不是很礼貌和客气，但是我觉得就这样子吧。 经传多赢 去年安装过炒股软件也是电话联系，问我要开通什么付费服务，当时我决心只买基金。所以直接拒绝。当然只要付费的项目我都不考虑的。 还有一个AI教育的软件，当时为了测试手机上ai图片识别，比如孩子的成绩单排名比较，发个图给AI，AI一般误差2%以内。挺不错。 AI教育软件联系我，我说比较AI软件测试用的。对方了解后，让我继续比较。不再打扰。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Facevs.com%2F4689%2F",
+          "publishedOn": "2026-01-14T03:11:27.000Z",
+          "wordCount": 1721,
+          "title": "安装哪些app后会有人电话联系你",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fyxgoa.cn%2Farchives%2F145%2F",
+          "author": "云奚小屋",
+          "description": "在不少偏远地区，有许多女生怀揣求学梦，却因家庭贫困面临辍学难题。她们渴望知识，却苦于没钱买课本、交学费，求学之路走得格外艰难。 云奚公益小组一直牵挂着这些困境女生，多年来坚持帮扶工作，见证了太多温暖改变：西部山区的小敏，曾因家境贫寒险些辍学，是云奚公益小组的助学金让她重返课堂，最终考上医科大学，如今成为家乡的医生回馈社会；大别山区的倩倩，在云奚公益小组的资助和鼓励下完成学业，毕业后选择回乡任教，把爱心传递给更多孩子。 真实案例 为了帮助更多这样的女孩，云奚公益小组联合雲莫水屋、腾讯公益发起助学金筹集活动。作为深耕困境女生帮扶的公益力量，云奚公益小组会全程把控善款流向，让每一笔捐款都用在实处 —— 可能是一套课本、一学期学费，或是一份生活补贴，为女孩们扫清求学障碍。 公益不难，力所能及就好。少喝一杯奶茶、省下一点零花钱，你的善意经由云奚公益小组传递，就能为困境女生点亮希望。 加入云奚公益小组的爱心行动，让我们一起用微光汇聚暖流，帮女孩们握住改变命运的钥匙，让她们在求学路上勇敢前行！ 👆🏻扫描上面微信小程序码即可助力困境女生求学让我们一起用微光汇聚暖流把",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fyxgoa.cn%2Farchives%2F145%2F",
+          "publishedOn": "2026-01-14T01:33:00.000Z",
+          "wordCount": null,
+          "title": "云奚公益·助力困境女生求学",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fvjo.cc%2F1935",
           "author": "刘郎阁",
           "description": "现在不管是个人远程管理设备，还是团队日常协作运维，远程桌面工具都成了刚需。市面上的 TeamViewer 、 AnyDesk 、向日葵、 ToDesk 各有优势，可要么商用版价格不菲，要么免费版功能受限，还得依赖第三方服务器，数据安全总让人有点不踏实。 [...]",
@@ -8157,6 +9157,16 @@
           "publishedOn": "2026-01-14T00:17:00.000Z",
           "wordCount": 1117,
           "title": "用Docker部署RustDesk远程桌面控制工具",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fyufree.cn%2Fcn%2F2026%2F01%2F14%2Fsllm%2F",
+          "author": "于淼",
+          "description": "我很早就在折腾本地大语言模型了，但平时主要还是用网页版或API调用，一方面是本地资源贫瘠，16GB内存供养不了大模型；另一方面，本地能跑的模型效果实在是有限。这两方面说的其实是一回事，那就是相比计算集群，我自己这点可用推理算力实在够呛，属于边缘计算了。但反观我们科研数据分析，到今天用得最多的还是线性回归跟假设检验，可见我的要求可能本来就是矫情。 跟着大语言模型成长这几年，从参数量越来越大，到数据不够了用合成数据，再到MoE构架激活少量参数，明显感觉一个旗舰模型大概在用的时候能激活20B到30B的参数已经非常优秀了，而低一个数量级也差不多够日常用了。但MoE构架的模型大都是稀疏的，我这电脑连本体都放不下，只能跑跑为端侧设计的 gemma3n 这种稠密模型。然而，就算是这种够日常用的，上下文也小的可怜。 然后我就开始想对策了。既然本地内存不够用，我可以租算力，也不贵。然而，我又有点担心数据泄露，查来查去，看中了远程过程调用(RPC)这个方案。简单说就是我用某个模型时在本地计算前几层，后面的计算扔到云端，这样就算被截胡，反推也比较难。我用colab尝试了下，确实可行，但由于当前超高的网络延迟也非常慢，这里记录下。 在Colab或服务器端，需要下载本地同样的模型与 llama.cpp ，要用ngrok来穿透内网，要开启缓存，不然更慢，如果你是在局域网服务器部署就更简单些，不需要ngrok做内网穿透，直接用内网IP： # 1. 编译支持 RPC 的 llama.cpp\r\n!git clone https://github.com/ggerganov/llama.cpp\r\n%cd llama.cpp\r\n!cmake -B build -DLLAMA_CUDA=ON -DGGML_RPC=ON\r\n!cmake --build build --config Release -j$(nproc)\r\n\r\n...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fyufree.cn%2Fcn%2F2026%2F01%2F14%2Fsllm%2F",
+          "publishedOn": "2026-01-14T00:00:00.000Z",
+          "wordCount": 317,
+          "title": "最小大语言模型",
           "imageUrl": null
         },
         {
@@ -10991,6 +12001,36 @@
       "siteUrl": "https://ivonblog.com/",
       "articles": [
         {
+          "id": "https://ivonblog.com/posts/my-ptt-forum-signatures/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "PTT帳號\"ivon852\"發文的時候簽名檔附上的原創梗圖，解釋背後含義以及梗的來源。",
+          "link": "https://ivonblog.com/posts/my-ptt-forum-signatures/",
+          "publishedOn": "2026-01-14T13:00:00.000Z",
+          "wordCount": 173,
+          "title": "不好笑的程式梗圖：我的PTT簽名檔背後旨趣解釋",
+          "imageUrl": "https://ivonblog.com/posts/my-ptt-forum-signatures/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/ms2130-usb-video-capture-card/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "去年我買了一個擷取卡（採集卡）來玩玩。在PChome上找了伽利略出的USB擷取卡，700元而已，支援1080@60Hz輸出。它有很多用途。",
+          "link": "https://ivonblog.com/posts/ms2130-usb-video-capture-card/",
+          "publishedOn": "2026-01-14T07:00:00.000Z",
+          "wordCount": 140,
+          "title": "買了一個廉價的伽利略USB擷取卡（MS2130晶片），水真的很深",
+          "imageUrl": "https://ivonblog.com/posts/ms2130-usb-video-capture-card/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/adjust-linux-monitor-brightness-with-ddc-ci/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "Adjust monitor brightness/backlight from Linux desktop .\n長期以來我一直有一個困擾：無法從作業系統端直接控制電腦螢幕的亮度/背光。\nLinux能自由調整螢幕亮度的通常是筆電或平板的螢幕，因為多半是用eDP與主機板連接的。我們可以透過桌面環境提供的滑桿快速修改背光亮度。",
+          "link": "https://ivonblog.com/posts/adjust-linux-monitor-brightness-with-ddc-ci/",
+          "publishedOn": "2026-01-14T06:00:00.000Z",
+          "wordCount": 177,
+          "title": "Linux透過DDC/CI軟體調整外接螢幕的亮度，免按實體鍵",
+          "imageUrl": "https://ivonblog.com/posts/adjust-linux-monitor-brightness-with-ddc-ci/featured.webp"
+        },
+        {
           "id": "https://ivonblog.com/posts/immich-external-libraries/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
           "description": "先安裝好Immich再行操作。\nImmich預設上傳照片後，會依照自己的邏輯存放照片檔案，依照Storage Template規則，在內部圖庫建立「年/年-月-日/」的資料夾結構。",
@@ -11079,6 +12119,16 @@
           "wordCount": 130,
           "title": "小米9T（紅米K20）使用心得，全螢幕無瀏海的漂亮手機",
           "imageUrl": "https://ivonblog.com/posts/xiaomi-9t-review/featured.webp"
+        },
+        {
+          "id": "https://ivonblog.com/posts/giving-up-rooting-android-phones-in-2026/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "麻了，Root讓人失望，經過2016~2026的艱難探索，多次Root後又刷回原廠，受自由軟體精神影響決定刷LineageOS，結果在今年回到normie的Android世界了。",
+          "link": "https://ivonblog.com/posts/giving-up-rooting-android-phones-in-2026/",
+          "publishedOn": "2026-01-11T19:00:00.000Z",
+          "wordCount": 126,
+          "title": "再次放棄Root，才知道行動支付這麼好用",
+          "imageUrl": null
         },
         {
           "id": "https://ivonblog.com/posts/2026010901/",
@@ -14624,6 +15674,26 @@
       "feedUrl": "https://www.xiaoxu.vip/feed.php",
       "siteUrl": "https://www.xiaoxu.vip/",
       "articles": [
+        {
+          "id": "https://www.xiaoxu.vip/archives/265.html",
+          "author": null,
+          "description": "怎么解决类似这样的提示框呢？\n\n\n\n\n\n\n打开控制面板\n\n\n找到 “INTERNET 选项\n\n”\n\n\n\n然后按照下图箭头的顺序依次点击。\n\n\n\n\n\n\nIP地址，就是你内网的IP地址，比如你的内网IP是  192.168.2.11  类似这样的IP，但是可能你有多个内网的服务器，那么就将后面的ip用 * 型号代替，即可。",
+          "link": "https://www.xiaoxu.vip/archives/265.html",
+          "publishedOn": "2026-01-14T14:06:02.000Z",
+          "wordCount": 942,
+          "title": "如何解决： 这些文件可能对你的计算机有害 你的Internet安全设置表示一个或多个文件可能有害 ？",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2026/01/202601141768399619135725.png"
+        },
+        {
+          "id": "https://www.xiaoxu.vip/archives/264.html",
+          "author": null,
+          "description": "这几天重装系统，但是安装软件的时候发现msi的软件无法安装，默认的是白色的安装图标，这是典型的没有关联任何安装程序导致的。所以找了一圈发现解决方法，此方法可能不一定百分百解决你的问题，但是可以给你一个参考。\n\n\n\n\n\n\n\n\n\n\n\n1. 基础排查与修复\n检查文件完整性\n确认文件下载完整，重新下载安装包\n右键点击 MSI 文件→属性→常规选项卡→检查 \"安全\" 区域是否有 \"解除锁定\" 选项，如有则勾选\n以管理员身份运行\n右键点击 MSI 文件→选择 \"以管理员身份运行\"\n如仍无反应，尝试以下方法：\n2. Windows Installer 服务修复\n检查服务状态\n按Win（就是键盘上的这个图标->）+R，输入services.msc→回车\n\n\n\n\n\n在服务列表中找到 \"Windows Installer\"\n\n\n\n\n\n如状态为 \"已停止\"，右键点击→选择\"启动\"\n\n\n\n\n\n双击服务→将 \"启动类型\"设为\"自动\"→确定\n如果你也和我这里的情况一致启动类型无法修改，也可跳过此步骤\n\n\n\n\n修复服务组件\n\n\n以管理员身份打开命令提示符 (Win+X→选择 \"终端 (管理员)\" 或 \"命令提示符 (管理员)\")\n\n\n输入以下命令并回车：\n\n\nregsvr32 msi.dll\n\n\n\n\n\n\n如提示 \"DllRegisterServer 在 msi.dll 已成功\"，表示修复成功\n\n\n\n\n3. 文件关联修复\n修改注册表关联\n按Win+R，输入regedit→回车→确认 UAC 提示\n导航至：HKEY_CLASSES_ROOT\\.msi\n在右侧找到 \"(默认)\" 项，右键→修改\n确保值为 \"Msi.Package\"→确定\n关闭注册表→重启电脑\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n通过控制面板修复\n打开控制面板→程序→默认程序→设置关联\n在列表中找到 \".msi\"→点击 \"更改程序\"\n选择 \"Windows Installer\"或\"msiexec.exe\"(位于 C:\\Windows\\System32)→确定\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n————————————————\n版权声明：本文为CSDN博主「代码小白#」的原创文章，借鉴部分图片和文案，如看完整请去后面的链接。原文链接：https://blog.csdn.net/qq_61531399/article/details/155066936",
+          "link": "https://www.xiaoxu.vip/archives/264.html",
+          "publishedOn": "2026-01-14T04:59:09.000Z",
+          "wordCount": 964,
+          "title": "Windows MSI 安装文件无法双击运行的解决方法",
+          "imageUrl": "https://xx.cdn.xiaoxu.vip/zb_users/upload/2026/01/202601141768367180133353.png"
+        },
         {
           "id": "https://www.xiaoxu.vip/archives/263.html",
           "author": null,
