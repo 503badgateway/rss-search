@@ -6,6 +6,406 @@
       "siteUrl": "https://bf.zzxworld.com",
       "articles": [
         {
+          "id": "https://www.huluohu.com/posts/2046/?utm_source=blogfinder",
+          "author": null,
+          "description": "🦞 纯干货、无肥妞：Openclaw接入企微门槛略高，勾搭下飞书还是没啥难度的！",
+          "link": "https://www.huluohu.com/posts/2046/?utm_source=blogfinder",
+          "publishedOn": "2026-02-02T00:00:08.000Z",
+          "wordCount": null,
+          "title": "🦞 纯干货、无肥妞：Openclaw接入企微门槛略高，勾搭下飞书还是没啥难度的！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://nocoding.life/archives/ZO3F1IYM?utm_source=blogfinder",
+          "author": null,
+          "description": "告别一月",
+          "link": "https://nocoding.life/archives/ZO3F1IYM?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T22:43:09.000Z",
+          "wordCount": null,
+          "title": "告别一月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geedea.pro/posts/site-report-4/?utm_source=blogfinder",
+          "author": null,
+          "description": "极客死亡计划书 IV",
+          "link": "https://www.geedea.pro/posts/site-report-4/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T15:53:07.000Z",
+          "wordCount": 1543,
+          "title": "极客死亡计划书 IV",
+          "imageUrl": "/favicon.png"
+        },
+        {
+          "id": "https://zhujay.com/talking/?id=1189&utm_source=blogfinder",
+          "author": null,
+          "description": "我被攻击了！",
+          "link": "https://zhujay.com/talking/?id=1189&utm_source=blogfinder",
+          "publishedOn": "2026-02-01T15:10:27.000Z",
+          "wordCount": 1,
+          "title": "我被攻击了！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://atpx.com/blog/hear-the-wind-sing/?utm_source=blogfinder",
+          "author": null,
+          "description": "听风的歌",
+          "link": "https://atpx.com/blog/hear-the-wind-sing/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T15:03:02.000Z",
+          "wordCount": 26,
+          "title": "听风的歌",
+          "imageUrl": "https://s2.atpx.com/media/images/blog/thumb/2026/0126-hear-the-wind-sing.jpg"
+        },
+        {
+          "id": "http://www.xulog.cn/index.php?act=pl&id=1093&utm_source=blogfinder",
+          "author": null,
+          "description": "讨厌生病",
+          "link": "http://www.xulog.cn/index.php?act=pl&id=1093&utm_source=blogfinder",
+          "publishedOn": "2026-02-01T14:33:42.000Z",
+          "wordCount": null,
+          "title": "讨厌生病",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.joomaen.com/why-i-donot-like-reporting/?utm_source=blogfinder",
+          "author": null,
+          "description": "我为什么不喜欢举报",
+          "link": "https://www.joomaen.com/why-i-donot-like-reporting/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T14:04:00.000Z",
+          "wordCount": null,
+          "title": "我为什么不喜欢举报",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.mcenahle.org.cn/2026/02/01/409.html?utm_source=blogfinder",
+          "author": null,
+          "description": "冬至（43/81）：为期半年，最终未能逃脱",
+          "link": "https://blog.mcenahle.org.cn/2026/02/01/409.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T13:57:39.000Z",
+          "wordCount": 1498,
+          "title": "冬至（43/81）：为期半年，最终未能逃脱",
+          "imageUrl": null
+        },
+        {
+          "id": "https://wocai.de/post/2026/02/mac-clean-tools/?utm_source=blogfinder",
+          "author": null,
+          "description": "谁来救救我的Mac存储空间-清理工具横评：付费vs免费，从界面到命令行",
+          "link": "https://wocai.de/post/2026/02/mac-clean-tools/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T13:30:00.000Z",
+          "wordCount": 905,
+          "title": "谁来救救我的Mac存储空间-清理工具横评：付费vs免费，从界面到命令行",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26020120.html?utm_source=blogfinder",
+          "author": null,
+          "description": "草莓第一次写真",
+          "link": "https://www.skyue.com/26020120.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T12:49:00.000Z",
+          "wordCount": 550,
+          "title": "草莓第一次写真",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://nicksxs.me/2026/02/01/%E5%88%86%E4%BA%AB%E4%B8%AA%E5%8A%A0%E9%80%9Fgithub%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95/?utm_source=blogfinder",
+          "author": null,
+          "description": "分享个加速github访问的方法",
+          "link": "https://nicksxs.me/2026/02/01/%E5%88%86%E4%BA%AB%E4%B8%AA%E5%8A%A0%E9%80%9Fgithub%E8%AE%BF%E9%97%AE%E7%9A%84%E6%96%B9%E6%B3%95/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T12:47:57.000Z",
+          "wordCount": 1275,
+          "title": "分享个加速github访问的方法",
+          "imageUrl": "https://nicksxs.me/!https:/img.nicksxs.me/uPic/qL3g3B.png"
+        },
+        {
+          "id": "https://blog.solazy.me/20260201/?utm_source=blogfinder",
+          "author": null,
+          "description": "周末流水账 0201",
+          "link": "https://blog.solazy.me/20260201/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T12:00:00.000Z",
+          "wordCount": 1449,
+          "title": "周末流水账 0201",
+          "imageUrl": "https://photo.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIOrWl_TRurXpj2_ex_d4XsKq_nq1eTAAJTDWsbWR74U1bkPiitKn8jAQADAgADdwADOAQ.jpeg"
+        },
+        {
+          "id": "https://mei.lv/articles/2026/ubuntu-DaVinci.html?utm_source=blogfinder",
+          "author": null,
+          "description": "在 Ubuntu 22.04+ 上安装达芬奇",
+          "link": "https://mei.lv/articles/2026/ubuntu-DaVinci.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T11:52:19.000Z",
+          "wordCount": 738,
+          "title": "在 Ubuntu 22.04+ 上安装达芬奇",
+          "imageUrl": null
+        },
+        {
+          "id": "https://hulatu.com/posts/2026/02/01/newsletter-weekly/?utm_source=blogfinder",
+          "author": null,
+          "description": "胡拉图的周刊-第七期",
+          "link": "https://hulatu.com/posts/2026/02/01/newsletter-weekly/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T10:15:03.000Z",
+          "wordCount": null,
+          "title": "胡拉图的周刊-第七期",
+          "imageUrl": null
+        },
+        {
+          "id": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260131/?utm_source=blogfinder",
+          "author": null,
+          "description": "Toots 2026 Jan.25 - Jan.31",
+          "link": "https://z.arlmy.me/posts/MastodonArchives/2026/MastodonTootsArchives_20260131/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T09:26:27.000Z",
+          "wordCount": 480,
+          "title": "Toots 2026 Jan.25 - Jan.31",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wangdu.site/course/2310.html?utm_source=blogfinder",
+          "author": null,
+          "description": "干翻 Copilot？Chrome 这个隐藏功能，我踩坑 3 次终于开启了！",
+          "link": "https://www.wangdu.site/course/2310.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T08:56:33.000Z",
+          "wordCount": 1380,
+          "title": "干翻 Copilot？Chrome 这个隐藏功能，我踩坑 3 次终于开启了！",
+          "imageUrl": "https://cdn.wwkejishe.top/wp-cdn-02/2026/20260201165131951.jpg"
+        },
+        {
+          "id": "https://www.suiyan.cc/blog/20260201082442?utm_source=blogfinder",
+          "author": null,
+          "description": "注销了四个平台的「花呗」",
+          "link": "https://www.suiyan.cc/blog/20260201082442?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T08:24:42.000Z",
+          "wordCount": 378,
+          "title": "注销了四个平台的「花呗」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://sh.alynx.one/posts/Emacs-Says-OI-in-Terminal/?utm_source=blogfinder",
+          "author": null,
+          "description": "Emacs 在终端里大喊 OI",
+          "link": "https://sh.alynx.one/posts/Emacs-Says-OI-in-Terminal/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T08:22:00.000Z",
+          "wordCount": 798,
+          "title": "Emacs 在终端里大喊 OI",
+          "imageUrl": "https://sh.alynx.one/images/Mikoto-Karon-White.webp"
+        },
+        {
+          "id": "https://blog.ybyq.wang/archives/1590.html?utm_source=blogfinder",
+          "author": null,
+          "description": "在 Windows 本地安装使用 OpenClaw（原 clawdbot）教程",
+          "link": "https://blog.ybyq.wang/archives/1590.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T07:06:37.000Z",
+          "wordCount": 5556,
+          "title": "在 Windows 本地安装使用 OpenClaw（原 clawdbot）教程",
+          "imageUrl": "https://static.blog.ybyq.wang/usr/uploads/2026/01/31/2026-01-31T12:19:36.png?x-oss-process=style/shuiyin"
+        },
+        {
+          "id": "https://ellenli.cc/posts/2026-january/?utm_source=blogfinder",
+          "author": null,
+          "description": "2026年一月小结",
+          "link": "https://ellenli.cc/posts/2026-january/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T06:30:00.000Z",
+          "wordCount": 1502,
+          "title": "2026年一月小结",
+          "imageUrl": "https://ellenli.cc/img/share.png"
+        },
+        {
+          "id": "https://taxodium.ink/maybe-you-want-to-try-kagi.html?utm_source=blogfinder",
+          "author": null,
+          "description": "也许你想试试 Kagi？",
+          "link": "https://taxodium.ink/maybe-you-want-to-try-kagi.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T06:28:00.000Z",
+          "wordCount": 251,
+          "title": "也许你想试试 Kagi？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://taxodium.ink/album-28.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Album#28 - ingredients",
+          "link": "https://taxodium.ink/album-28.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T06:00:00.000Z",
+          "wordCount": 1308,
+          "title": "Album#28 - ingredients",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xalaok.top/post/zootopia-2/?utm_source=blogfinder",
+          "author": null,
+          "description": "观《疯狂动物城 2》有感",
+          "link": "https://www.xalaok.top/post/zootopia-2/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T05:00:00.000Z",
+          "wordCount": 291,
+          "title": "观《疯狂动物城 2》有感",
+          "imageUrl": "https://www.xalaok.top/post/zootopia-2/cover.webp"
+        },
+        {
+          "id": "https://1900.live/frpda-dong-hou-nei-wang-nginxfan-dai/?utm_source=blogfinder",
+          "author": null,
+          "description": "Frp打洞后内网Nginx反代",
+          "link": "https://1900.live/frpda-dong-hou-nei-wang-nginxfan-dai/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T04:21:43.000Z",
+          "wordCount": 715,
+          "title": "Frp打洞后内网Nginx反代",
+          "imageUrl": "https://og.190102.xyz/api/og?title=Frp%25E6%2589%2593%25E6%25B4%259E%25E5%2590%258E%25E5%2586%2585%25E7%25BD%2591Nginx%25E5%258F%258D%25E4%25BB%25A3&desc=%25E5%25AE%25B6%25E9%2587%258C%25E8%25BF%2599%25E5%258F%25B0NAS%25E4%25BB%258E24%25E5%25B9%25B410%25E6%259C%2588%25E5%25BC%2580%25E7%25BB%2584%25EF%25BC%258C%25E7%25B3%25BB%25E7%25BB%259F%25E7%2594%25A8%25E7%259A%2584%25E9%25A3%259E%25E7%2589%259BOS%25EF%25BC%258C%25E6%259C%2580%25E5%25BC%2580%25E5%25A7%258B%25E7%2594%25A8%25E6%2597%25A0%25E7%25BA%25BF%25E7%25BD%2591%25E5%258D%25A1%25E5%2587%25BA%25E8%25BF%2587%25E5%2587%25A0%25E6%25AC%25A1%25E9%2597%25AE%25E9%25A2%2598%25EF%25BC%258C%25E5%2590%258E%25E6%259D%25A5%25E6%258D%25A2%25E6%2588%2590%25E6%259C%2589%25E9%2599%2590%25E7%25BD%2591%25E5%258D%25A1%25E5%2590%258E%25E8%25B6%258B%25E4%25BA%258E%25E7%25A8%25B3%25E5%25AE%259A%25E3%2580%2582%25E4%25B8%258D%25E8%25BF%2587%25E5%25AE%2598%25E6%2596%25B9%25E6%259C%2580%25E8%25BF%2591%25E6%258A%25A5%25E4%25BA%2586%25E4%25B8%25AA0day%25E6%25BC%258F%25E6%25B4%259E%25E5%2587%25BA%25E6%259D%25A5%25E7%2582%25B8%25E4%25BA%2586%25E9%2594%2585%25EF%25BC%258C%25E4%25B8%258D%25E8%25BF%2587%25E6%2588%2591%25E6%2583%2585%25E7%25BB%25AA%25E8%25BF%2598%25E7%25AE%2597%25E6%25AF%2594%25E8%25BE%2583%25E7%25A8%25B3%25E5%25AE%259A%25EF%25BC%258C%25E5%259C%25A8%25E6%259C%259F%25E5%2588%259D%25E7%25B3%25BB%25E7%25BB%259F%25E9%2580%2589%25E5%259E%258B%25E6%2597%25B6%25E5%25B0%25B1%25E5%259C%25A8%25E9%25BB%2591%25E8%25A3%2599&date=2026-02-01"
+        },
+        {
+          "id": "https://scottyeung.top/2026/apple-google-multiple-accounts/?utm_source=blogfinder",
+          "author": null,
+          "description": "赛博&quot;多重国籍&quot;：账号折腾实录",
+          "link": "https://scottyeung.top/2026/apple-google-multiple-accounts/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T04:18:02.000Z",
+          "wordCount": 204,
+          "title": "赛博\"多重国籍\"：账号折腾实录",
+          "imageUrl": "https://scottyeung.top/images/favicon-32x32.png"
+        },
+        {
+          "id": "https://www.chenrui.com/post/3473.html?utm_source=blogfinder",
+          "author": null,
+          "description": "不可",
+          "link": "https://www.chenrui.com/post/3473.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:56:24.000Z",
+          "wordCount": null,
+          "title": "不可",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.weiwenchao.com/2291.html?utm_source=blogfinder",
+          "author": null,
+          "description": "《阴阳师》章评汇总（3）",
+          "link": "https://www.weiwenchao.com/2291.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:51:00.000Z",
+          "wordCount": 254,
+          "title": "《阴阳师》章评汇总（3）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/?utm_source=blogfinder",
+          "author": null,
+          "description": "有端",
+          "link": "https://www.tilawacesoil.top/poem/%e6%9c%89%e7%ab%af/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:44:53.000Z",
+          "wordCount": 1474,
+          "title": "有端",
+          "imageUrl": "https://www.tilawacesoil.top/wp-content/uploads/星空.webp"
+        },
+        {
+          "id": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/?utm_source=blogfinder",
+          "author": null,
+          "description": "无端",
+          "link": "https://www.tilawacesoil.top/poem/%e6%97%a0%e7%ab%af/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:44:32.000Z",
+          "wordCount": 1475,
+          "title": "无端",
+          "imageUrl": "https://www.tilawacesoil.top/wp-content/uploads/星空.webp"
+        },
+        {
+          "id": "https://dawner.top/posts/a-diary-entry/?utm_source=blogfinder",
+          "author": null,
+          "description": "日記一則",
+          "link": "https://dawner.top/posts/a-diary-entry/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:32:51.000Z",
+          "wordCount": 27,
+          "title": "日記一則",
+          "imageUrl": "https://dawner.top/icons/apple-touch-icon.png"
+        },
+        {
+          "id": "https://knay.net/note/irman-diary-20260201?utm_source=blogfinder",
+          "author": null,
+          "description": "控糖日记 #5 反面案例：碳水超量+夜间锻炼",
+          "link": "https://knay.net/note/irman-diary-20260201?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T02:05:07.000Z",
+          "wordCount": 176,
+          "title": "控糖日记 #5 反面案例：碳水超量+夜间锻炼",
+          "imageUrl": "/icon-192.png"
+        },
+        {
+          "id": "https://www.pgoj.top/archives/puzhinanjibgxi.html?utm_source=blogfinder",
+          "author": null,
+          "description": "对普直男来说，小惊喜就是大惊吓",
+          "link": "https://www.pgoj.top/archives/puzhinanjibgxi.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T01:51:52.000Z",
+          "wordCount": 455,
+          "title": "对普直男来说，小惊喜就是大惊吓",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.pgoj.top/archives/hongluyidianxue.html?utm_source=blogfinder",
+          "author": null,
+          "description": "红炉一点雪，笑意越千年",
+          "link": "https://www.pgoj.top/archives/hongluyidianxue.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T01:25:00.000Z",
+          "wordCount": 438,
+          "title": "红炉一点雪，笑意越千年",
+          "imageUrl": null
+        },
+        {
+          "id": "https://rolen.wiki/finding-the-sacred-in-the-ordinary/?utm_source=blogfinder",
+          "author": null,
+          "description": "但尽凡心，别无圣解",
+          "link": "https://rolen.wiki/finding-the-sacred-in-the-ordinary/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T01:07:56.000Z",
+          "wordCount": 3405,
+          "title": "但尽凡心，别无圣解",
+          "imageUrl": "https://rolen.wiki/wp-content/uploads/2026/02/Finding-the-Sacred-in-the-Ordinary.jpeg"
+        },
+        {
+          "id": "https://usj.cc/20260201.html?utm_source=blogfinder",
+          "author": null,
+          "description": "博客友链实时健康监测方案",
+          "link": "https://usj.cc/20260201.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T01:00:00.000Z",
+          "wordCount": null,
+          "title": "博客友链实时健康监测方案",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/02/01/what-is-the-rego-in-australia.html?utm_source=blogfinder",
+          "author": null,
+          "description": "澳大利亚的Rego是什么?",
+          "link": "https://www.ozexplorers.com/%E6%BE%B3%E6%B4%B2%E7%94%9F%E6%B4%BB/2026/02/01/what-is-the-rego-in-australia.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 1651,
+          "title": "澳大利亚的Rego是什么?",
+          "imageUrl": null
+        },
+        {
+          "id": "https://fiveth.cc/p/about-ai-learning-tools/?utm_source=blogfinder",
+          "author": null,
+          "description": "About AI Learning Tools",
+          "link": "https://fiveth.cc/p/about-ai-learning-tools/?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 402,
+          "title": "About AI Learning Tools",
+          "imageUrl": "https://fiveth.cc/images/share.png"
+        },
+        {
+          "id": "https://liduos.com/the-weekly-gradient-88.html?utm_source=blogfinder",
+          "author": null,
+          "description": "Vol.88 2026年AI全景解析：大模型、Agent、开源生态与中美竞争格局",
+          "link": "https://liduos.com/the-weekly-gradient-88.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 1039,
+          "title": "Vol.88 2026年AI全景解析：大模型、Agent、开源生态与中美竞争格局",
+          "imageUrl": "https://liduos.com/open_graph.png"
+        },
+        {
+          "id": "https://blog.gudong.site/2026/02/01/jiangyi.html?utm_source=blogfinder",
+          "author": null,
+          "description": "路虽远，行则将至：写在蒋羿抵达山海关之际",
+          "link": "https://blog.gudong.site/2026/02/01/jiangyi.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 195,
+          "title": "路虽远，行则将至：写在蒋羿抵达山海关之际",
+          "imageUrl": null
+        },
+        {
+          "id": "https://limboy.me/posts/breathe?utm_source=blogfinder",
+          "author": null,
+          "description": "呼吸能改变很多事",
+          "link": "https://limboy.me/posts/breathe?utm_source=blogfinder",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 122,
+          "title": "呼吸能改变很多事",
+          "imageUrl": "https://limboy.me/_astro/cover.BnlmKLFR.jpg"
+        },
+        {
           "id": "https://www.immarcus.com/blog/weekly-20260201?utm_source=blogfinder",
           "author": null,
           "description": "2026.02.01 博客阅读周记",
@@ -26,6 +426,76 @@
           "imageUrl": "https://image.talen.top/20260131231259_9ksbggmq.png"
         },
         {
+          "id": "https://www.glowisle.me/posts/weekly/7/?utm_source=blogfinder",
+          "author": null,
+          "description": "回声周刊 Vol.7：bilibili-API-collect项目停止维护",
+          "link": "https://www.glowisle.me/posts/weekly/7/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T17:54:09.000Z",
+          "wordCount": 331,
+          "title": "回声周刊 Vol.7：bilibili-API-collect项目停止维护",
+          "imageUrl": null
+        },
+        {
+          "id": "https://tw93.fun/2026-02-01/money.html?utm_source=blogfinder",
+          "author": null,
+          "description": "比特币下跌时，我重新理解了大教堂与赌场",
+          "link": "https://tw93.fun/2026-02-01/money.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T16:00:00.000Z",
+          "wordCount": 467,
+          "title": "比特币下跌时，我重新理解了大教堂与赌场",
+          "imageUrl": "https://gw.alicdn.com/imgextra/i1/O1CN01BjlaXE1auDGoniJGl_!!6000000003389-2-tps-480-444.png"
+        },
+        {
+          "id": "https://www.paddysun.top/archives/4901?utm_source=blogfinder",
+          "author": null,
+          "description": "【梗学前沿】002 开仓放梗之查论文看梗图",
+          "link": "https://www.paddysun.top/archives/4901?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T15:16:59.000Z",
+          "wordCount": 1670,
+          "title": "【梗学前沿】002 开仓放梗之查论文看梗图",
+          "imageUrl": "https://www.paddysun.top/wp-content/uploads/2026/01/2116aed863db2f6b7627f3930f62e8a2.jpg"
+        },
+        {
+          "id": "https://blog.solazy.me/20260131/?utm_source=blogfinder",
+          "author": null,
+          "description": "周末流水账 0131",
+          "link": "https://blog.solazy.me/20260131/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T15:00:00.000Z",
+          "wordCount": 1485,
+          "title": "周末流水账 0131",
+          "imageUrl": "https://img.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIOoGl-01R7fv6NWFRYcduA8yDxkTyXAAKiDWsbia75U040FXA6PTZfAQADAgADdwADOAQ.jpeg"
+        },
+        {
+          "id": "https://ttio.cc/jotting/hackhub-richest?utm_source=blogfinder",
+          "author": null,
+          "description": "在《HackHub》中成为世界首富",
+          "link": "https://ttio.cc/jotting/hackhub-richest?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T14:52:46.000Z",
+          "wordCount": null,
+          "title": "在《HackHub》中成为世界首富",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.52hyjs.com/post-1199.html?utm_source=blogfinder",
+          "author": null,
+          "description": "廿六年·旧岁阑·新正暮",
+          "link": "https://blog.52hyjs.com/post-1199.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T14:45:19.000Z",
+          "wordCount": null,
+          "title": "廿六年·旧岁阑·新正暮",
+          "imageUrl": null
+        },
+        {
+          "id": "http://99887766554433221100.cn/index.php/archives/180/?utm_source=blogfinder",
+          "author": null,
+          "description": "我想，终于会有一个好的结果啦",
+          "link": "http://99887766554433221100.cn/index.php/archives/180/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T14:40:00.000Z",
+          "wordCount": 385,
+          "title": "我想，终于会有一个好的结果啦",
+          "imageUrl": "https://uapis.cn/api/v1/image/bing-daily"
+        },
+        {
           "id": "https://www.bufanz.com/20260131453.html?utm_source=blogfinder",
           "author": null,
           "description": "经营茶叶店已有十三年，本月净利润率只有5.31%，还能经营下去吗？",
@@ -34,6 +504,16 @@
           "wordCount": 819,
           "title": "经营茶叶店已有十三年，本月净利润率只有5.31%，还能经营下去吗？",
           "imageUrl": null
+        },
+        {
+          "id": "https://joojen.com/archives/8801.html?utm_source=blogfinder",
+          "author": null,
+          "description": "当很久没在 「快乐银行」 存储快乐",
+          "link": "https://joojen.com/archives/8801.html?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T14:35:59.000Z",
+          "wordCount": 3084,
+          "title": "当很久没在 「快乐银行」 存储快乐",
+          "imageUrl": "https://joojen.com/wp-content/uploads/2026/01/8801thumb.png"
         },
         {
           "id": "https://lklog.cn/course/1379.html?utm_source=blogfinder",
@@ -136,6 +616,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://xeonzilla.top/note/shiboyugi?utm_source=blogfinder",
+          "author": null,
+          "description": "靠死亡游戏混饭吃。",
+          "link": "https://xeonzilla.top/note/shiboyugi?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T08:44:08.000Z",
+          "wordCount": null,
+          "title": "靠死亡游戏混饭吃。",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.szqp.site/archives/10655?utm_source=blogfinder",
           "author": null,
           "description": "飞牛fnos的严重问题",
@@ -154,6 +644,16 @@
           "wordCount": 729,
           "title": "炮轰开往：泛滥低质链接失去初心的开往，还有存在的必要吗？",
           "imageUrl": "https://lner.top/upload/ph.webp"
+        },
+        {
+          "id": "https://blog.xxbjf.com/archives/xu-ni-ji-wen-jian-hu-chuan-zhong-xin?utm_source=blogfinder",
+          "author": null,
+          "description": "虚拟机文件互传中心",
+          "link": "https://blog.xxbjf.com/archives/xu-ni-ji-wen-jian-hu-chuan-zhong-xin?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T07:44:13.000Z",
+          "wordCount": 2916,
+          "title": "虚拟机文件互传中心",
+          "imageUrl": "/upload/favicon.ico"
         },
         {
           "id": "https://ygz.ink/archives/4201.html?utm_source=blogfinder",
@@ -194,6 +694,16 @@
           "wordCount": null,
           "title": "冬天，如何简单的提升幸福感",
           "imageUrl": null
+        },
+        {
+          "id": "https://blog.mmoe.work/lower-device-surfing/?utm_source=blogfinder",
+          "author": null,
+          "description": "低端设备网页渲染卡顿问题的解决方案",
+          "link": "https://blog.mmoe.work/lower-device-surfing/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T06:09:36.000Z",
+          "wordCount": 784,
+          "title": "低端设备网页渲染卡顿问题的解决方案",
+          "imageUrl": "https://blog.mmoe.work/assets/icon-full.webp"
         },
         {
           "id": "https://isming.me/2026-01-30-january-summary/?utm_source=blogfinder",
@@ -266,6 +776,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://www.aomanhao.top/archives/409/?utm_source=blogfinder",
+          "author": null,
+          "description": "【随笔】中国田协2026马拉松新规解读，涉及到报名、赛事认证、比赛组别、赛事保障等多方面",
+          "link": "https://www.aomanhao.top/archives/409/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T02:08:00.000Z",
+          "wordCount": 2029,
+          "title": "【随笔】中国田协2026马拉松新规解读，涉及到报名、赛事认证、比赛组别、赛事保障等多方面",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aomanhao.top/archives/410/?utm_source=blogfinder",
+          "author": null,
+          "description": "【ISP】图像质量评价指标-通透度",
+          "link": "https://www.aomanhao.top/archives/410/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T02:08:00.000Z",
+          "wordCount": 1972,
+          "title": "【ISP】图像质量评价指标-通透度",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.aomanhao.top/archives/408/?utm_source=blogfinder",
           "author": null,
           "description": "【随笔】2026杨凌马拉松由新中体育运营，会举办什么样？",
@@ -284,6 +814,16 @@
           "wordCount": 1747,
           "title": "近况（6）",
           "imageUrl": "https://t-t.live/apis/api.storage.halo.run/v1alpha1/thumbnails/-/via-uri?uri=https%3A%2F%2Fimg.t-t.live%2Ffm%2Fjk1.png&width=400"
+        },
+        {
+          "id": "https://fiveth.cc/projects/dream-detective/?utm_source=blogfinder",
+          "author": null,
+          "description": "Dream Detective",
+          "link": "https://fiveth.cc/projects/dream-detective/?utm_source=blogfinder",
+          "publishedOn": "2026-01-31T00:00:00.000Z",
+          "wordCount": 173,
+          "title": "Dream Detective",
+          "imageUrl": "https://fiveth.cc/images/share.png"
         },
         {
           "id": "https://www.juayohuang.top/blog/python/venv?utm_source=blogfinder",
@@ -824,6 +1364,16 @@
           "wordCount": null,
           "title": "当我不再写日记的那一天",
           "imageUrl": null
+        },
+        {
+          "id": "https://1900.live/what-can-i-do-after-losing-my-job/?utm_source=blogfinder",
+          "author": null,
+          "description": "我失业后能干啥",
+          "link": "https://1900.live/what-can-i-do-after-losing-my-job/?utm_source=blogfinder",
+          "publishedOn": "2026-01-30T03:12:00.000Z",
+          "wordCount": 457,
+          "title": "我失业后能干啥",
+          "imageUrl": "https://og.190102.xyz/api/og?title=%25E6%2588%2591%25E5%25A4%25B1%25E4%25B8%259A%25E5%2590%258E%25E8%2583%25BD%25E5%25B9%25B2%25E5%2595%25A5&desc=%25E5%258F%25AF%25E8%2583%25BD%25E6%2598%25AF%25E5%259B%25A0%25E4%25B8%25BA%25E8%25A1%258C%25E4%25B8%259A%25E6%258C%2581%25E7%25BB%25AD%25E4%25BD%258E%25E8%2590%25BD%25E6%2588%2591%25E5%25A7%258B%25E7%25BB%2588%25E5%25BF%258D%25E4%25B8%258D%25E4%25BD%258F%25E6%258A%258A%25E4%25B8%2580%25E5%2588%2587%25E5%25BE%2580%25E6%259C%2580%25E5%259D%258F%25E7%259A%2584%25E6%2596%25B9%25E9%259D%25A2%25E9%259D%25A0%25E6%258B%25A2%25E3%2580%2582%25E6%2589%2580%25E4%25BB%25A5%25E6%259C%2580%25E8%25BF%2591%25E5%25BF%25BD%25E7%2584%25B6%25E5%25BC%2580%25E5%25A7%258B%25E6%2580%259D%25E8%2580%2583%25EF%25BC%258C%25E5%25A6%2582%25E6%259E%259C%25E6%259C%2589%25E4%25B8%2580%25E5%25A4%25A9%25E6%2588%2591%25E5%25A4%25B1%25E5%258E%25BB%25E4%25BA%2586%25E7%259B%25AE%25E5%2589%258D%25E7%259A%2584%25E4%25B8%2580%25E5%2588%2587%25E4%25B9%258B%25E5%2590%258E%25E6%2588%2591%25E8%25BF%2598%25E8%2583%25BD%25E4%25BE%259D%25E9%259D%25A0%25E5%2593%25AA%25E4%25BA%259B%25E6%258A%2580%25E8%2583%25BD%25E7%25BB%25A7%25E7%25BB%25AD%25E6%2589%25BE%25E5%2588%25B0%25E8%25B6%25B3%25E4%25BB%25A5%25E7%25B3%258A%25E5%258F%25A3%25E5%2585%25BB%25E5%25AE%25B6%25E7%259A%2584%25E4%25BD%2593%25E9%259D%25A2%25E5%25B7%25A5%25E4%25BD%259C%25EF%25BC%259F%25E6%2588%2591%25E6%2584%259F%25E5%2585%25B4%25E8%25B6%25A3%25E7%259A%2584%25E5%258F%2588%25E6%2598%25AF%25E9%2582%25A3%25E4%25BA%259B%25E6%2596%25B9%25E9%259D%25A2%25E5%2591%25A2%25EF%25BC%259F%25E5%25B9%25BF%25E5%2591%258A%25E5%2588%25B6%25E4%25BD%259C%25E5%259B%25A0%25E4%25B8%25BA&date=2026-01-30"
         },
         {
           "id": "https://lawtee.com/article/phantom-obligation-and-ordinary-life/?utm_source=blogfinder",
@@ -15443,6 +15993,156 @@
       "siteUrl": "https://www.blogsclub.org/feed.xml",
       "articles": [
         {
+          "id": "https://www.blogsclub.org/jump?id=20656",
+          "author": "nocoding.life",
+          "description": "2026年的第一个月结束了，明明元旦还能清晰地浮现在眼前，就像我还能清楚地记得高中的一个晚上，下了晚自习，老爸接我回家。电梯的灯光比较昏暗，老爸打着哈欠，眯着眼，等待电梯送我们回家。那时是我第一次突然发现老爸的面容苍老了，长了白头发。十几年过去了，一直在为学业，为工作奔波，我的头发都掉了不少了，老爸的白发也应该更多了吧。时间还有多少呢？\n昨晚在朋友家聚会，璐导烧了一桌好菜招待一群饿狼，期间一度安静得只听得见狼群在那咀嚼，夹菜的声音。饭后大家聚一起玩狼人杀，还记得当初最早玩狼人杀是本科，当室友天天组织一帮人晚上去食堂玩狼人杀的时候，我苦兮兮地背着书包去图书馆备考GRE。研究生以及工作后玩的不多，真没想到现在遇到话剧社这帮朋友，倒是常常聚餐后一起杀得天昏地暗。\n早上起来头有点痛，坐在沙发上本想歇一会，但是发现思绪和手指总是不停歇。一旦想到个什么东西，就忍不住打开手机或者电脑，要去做些什么。我发现有了AI之后，对信息的获取速度要求更高了。一旦想到什么，就打开AI助手搜一下；可能会问一些衍生的问题，思绪就这么彻底岔开了。常常因为读书的时候想到些什么，想着AI搜也就是顺手的事，于是点开了搜索，搜着搜着，就不知道干嘛去了。注意力下降，微信读书打开没五分钟就有种冲动想点开点别的，常常无所事事地在一个又一个app里跳跃，是我近来的问题。可怕的是，我明明都已经不用小红书，关闭朋友圈了，但还是会时不时点开个邮件，看看股市什么的。我昨天上午注意到，在大概十五分钟的读书时间里，我看了两三次时间，有三四次想跳出的冲动，非常可怕。一本书读得很慢，时间却过得很快，精力也消耗得很快。\n早上就这么消耗了一个多小时，我想：不行，我得离开互联网一会儿，远离所有的电子产品。于是我拿起了沙发上的一本“书”，翻了起来。这本书其实是党妹的写真画册，我在疫情期间买的放在国内，直到24年回国过年的时候才真的拿到。而我买的时…",
+          "link": "https://www.blogsclub.org/jump?id=20656",
+          "publishedOn": "2026-02-01T22:43:09.000Z",
+          "wordCount": null,
+          "title": "告别一月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20655",
+          "author": "HongLiu的小站",
+          "description": "内容：自动控制原理使用课本：《自动控制理论》；IS...",
+          "link": "https://www.blogsclub.org/jump?id=20655",
+          "publishedOn": "2026-02-01T16:43:45.000Z",
+          "wordCount": 411,
+          "title": "【知识笔记】自动控制原理",
+          "imageUrl": "https://hongliu.icu/image/Note-zikong/1.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20643",
+          "author": "热衷于的博客",
+          "description": "亲测有效！小超市装监控要公网IP？这4套“店主话术”直接复制念，客服秒开！\n\n\n\n前言：为啥要这么说话？\n\n\n\n开小超市装监控，远程看画面必须要公网 IP，但很多运营商默认关着，直接说 “要公网 IP 建站 / 搞服务器” 肯定被拒！我的秘诀是：伪装成 “没文化、只懂监控刚需” 的店主，故意念错专业名词，软磨硬泡 + 恩威并施，客服一看就是普通用户，不会警惕，几分钟就给开了，亲测 3 大运营商都管用！\n\n\n\n一、标准版（最常用，力度刚好，口误自然不刻意）\n\n\n\n喂，你好，我是办你们家宽带的，家里开小超市的，装了好几个监控，要远程看画面，现在死活连不上，装监控的师傅说了，就是你们没给我开公网爱皮，我听师傅老说什么公网爱皮、外网映射、奈特，我也不懂那些洋词，反正师傅就说必须开这个公网，不然监控外地看不了。\n\n\n\n我这小超市全靠监控防小偷，丢点东西你们赔不起啊，我不管你们内部什么设置，现在立刻、马上帮我把这个公网打开，把那个什么双层奈特、内网嵌套给我关了，我也叫不来专业名，大概就这意思。\n\n\n\n我宽带费一分没少交，凭什么别人能用我用不了？你别跟我说办不了，办不了就转你们技术师傅、领导，我今天必须弄好，不然我就投诉、拆机换别家宽带，我隔壁超市用别家的都好好的，就你们这麻烦。你现在直接后台操作，改完我直接喊师傅再重新开启看一眼，赶紧的，我这监控等着用呢。\n\n\n\n二、加硬泼辣版（客服推诿时用，恩威并施更管用）\n\n\n\n你别跟我扯那些听不懂的官话啊，我没文化，就一开小超市的，装监控的师傅上门查了，直说是你们宽带搞是内网，没给我开公网，什么潘特丹特我全说不利索，就知道是你们后台给我关了，搞的什么共享地址，监控远程看不了。\n\n\n\n我这超市天天看店，夜里没人，监控连不上等于白装，真丢了烟酒现金，我直接找你们运营商索赔。我宽带正常缴费，不是欠费用户，凭什么给我限制功能？你别告诉我申请不了、没有这个业务，我邻居上个月刚让你们开了，人家就能用。\n\n\n\n现在立刻给我工单备注，关闭私网奈特，分配动态公网爱皮，名词我就照师傅教的念，错了你也听懂意思，十分钟之内给我处理好，处理完我重启光猫路由，要是万口地址还是内网段，我立马打投诉电话，一级一级往上投，再去工信部投诉，你别给自己找事，赶紧帮我办了，办好了我也不找事，大家都省事。\n\n\n\n三、软磨硬泡版（先软后硬，假装不懂装懂，口误更多）\n\n\n\n姑娘 / 师傅，我求你个事，我家里小超市装监控，装监控的师傅说必须要公网爱皮，他老嘴瓢说公网皮、公网爱拍，我也跟着学错，反正就是那个外网能直接连上家里的地址。\n\n\n\n我这监控连不上，外地儿女想帮我看店都看不了，我一个人看店太累了，你就行行好，后台帮我开一下。我知道你们能操作，就是不想麻烦，我也不搞那些违法的，就看个超市监控，家用的，绝对合规。\n\n\n\n你别跟我走流程、等回访，我等不起，超市丢东西损失大。你现在就帮我改，把那个什么一层套一层的内网、大内网给我取消，给我拨公网地址。你要是不给办，我也没办法，只能一直打客服，投诉、拆机，我也不想闹僵，你方便顺手帮我办了，我这小老百姓就靠这个监控安心，谢谢你了，赶紧操作吧。\n\n\n\n四、极简口误版（不想说太多，直接念就行）\n\n\n\n我开小超市装监控，师傅说要开公网，我老说成公网皮，你们别笑，就那个能让监控远程看的地址。\n\n\n\n我路由器万口现在是 192.168 开头的内网地址，装监控的说是你们双层奈特、内网嵌套，我也说不标准，你直接关了，开公网。\n\n\n\n立刻处理，别推诿，办不好我投诉、拆机，我正常缴费凭什么不给用，赶紧的。\n\n\n\n核心技巧（必看！成功率翻倍）\n\n\n\n\n\n\n\n故意口误是关键：就把公网 IP 说成 “公网皮、公网爱拍”，NAT 说成 “奈特”，显得你完全是听监控师傅说的，不是懂技术的 “敏感用户”，客服不会警惕；\n\n\n\n只提监控刚需：全程绕着 “小超市防小偷、远程看店、儿女帮忙照看” 说，绝对别提 “建站、NAS、服务器”，这是家用合规理由，客服没法拒绝；\n\n\n\n恩威并施有分寸：先讲 “丢东西要索赔、正常缴费该享权益”，再亮 “投诉...",
+          "link": "https://www.blogsclub.org/jump?id=20643",
+          "publishedOn": "2026-02-01T14:20:10.000Z",
+          "wordCount": 163,
+          "title": "公网IP三步立马搞定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20641",
+          "author": "亡命之徒的博客",
+          "description": "超级月亮Nubia Z60 ultra领先版2026.02.01浙江宁波晚上上街吃饭，恰逢阴历十四月圆之夜，用手机随手一拍就得到这么一张曾经那么难拍的超级月亮，不由得感叹科技之强大。",
+          "link": "https://www.blogsclub.org/jump?id=20641",
+          "publishedOn": "2026-02-01T13:59:58.000Z",
+          "wordCount": 390,
+          "title": "色影无忌：超级月亮",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20642",
+          "author": "林子浩的博客",
+          "description": "同学突然喊吃饭说昨天订婚了，今天请的是以前的同事还有我们几个老同学",
+          "link": "https://www.blogsclub.org/jump?id=20642",
+          "publishedOn": "2026-02-01T12:32:35.000Z",
+          "wordCount": null,
+          "title": "同学不声不响的订婚了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20640",
+          "author": "碎言",
+          "description": "就在刚刚，我注销了拼多多的先用后付、美团的美团月付、支付宝的花呗，还有京东的白条。",
+          "link": "https://www.blogsclub.org/jump?id=20640",
+          "publishedOn": "2026-02-01T08:24:42.000Z",
+          "wordCount": 378,
+          "title": "注销了四个平台的「花呗」",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20639",
+          "author": "亡命之徒的博客",
+          "description": "此文专门记录一些标志性事件：2025年2月13日，澳大利亚宣布中国人民解放军海军特遣编队，包含055型万吨驱逐舰“遵义舰”、054A型护卫舰“衡阳舰”和903A综合补给舰“微山湖舰”，正在澳大利...",
+          "link": "https://www.blogsclub.org/jump?id=20639",
+          "publishedOn": "2026-02-01T06:25:00.000Z",
+          "wordCount": 382,
+          "title": "百年未有之大变局：记录[置顶]",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20637",
+          "author": "亡命之徒的博客",
+          "description": "雨后的骨碎补Nubia Z60 Ultra领先版2026.02.01公司办公区沥沥淅淅数日，宁波的雨水终于收手了。闲暇的周日，在办公室门口用微距模式拍下这株干净的骨碎补。",
+          "link": "https://www.blogsclub.org/jump?id=20637",
+          "publishedOn": "2026-02-01T05:46:00.000Z",
+          "wordCount": 381,
+          "title": "近摄之眼：雨后的骨碎补",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20638",
+          "author": "fengc's Blog",
+          "description": "发布日期: 2026-02-01",
+          "link": "https://www.blogsclub.org/jump?id=20638",
+          "publishedOn": "2026-02-01T04:07:31.000Z",
+          "wordCount": 617,
+          "title": "摄影习作: 悠闲阅读者和匆匆的背包客",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20635",
+          "author": "夕阳西下",
+          "description": "网站原始服务器（阿里云）到期了就放弃了。是在搞活动时花99元买的，而且续费也是99元，备案域名注销备案后，就没有使用，而且备案还让我回户籍所在地备案，才能用，这不就是扯！所以直接放弃了。本小站搬迁到香港空间，就是速度慢点，给博客一个安家处。",
+          "link": "https://www.blogsclub.org/jump?id=20635",
+          "publishedOn": "2026-02-01T03:33:15.000Z",
+          "wordCount": 424,
+          "title": "阿里云服务器放弃了",
+          "imageUrl": "https://xjmu.ac.cn/zb_users/upload/2026/02/202602011769916968411091.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20629",
+          "author": "亡命之徒的博客",
+          "description": "水月观音铜像奥林巴斯EM-12017.02.18新乡市博物馆（平原博物馆）水月观音，又称“水吉祥观音”或“水吉祥菩萨”，是后世观音造像中最常见的三十三观音之一。这件精美的水月观音铜像铸造于明代，...",
+          "link": "https://www.blogsclub.org/jump?id=20629",
+          "publishedOn": "2026-02-01T03:32:05.000Z",
+          "wordCount": 389,
+          "title": "色影无忌：水月观音铜像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20631",
+          "author": "Vind Log",
+          "description": "提起这个问题，是来自于我的一些微信群里。我是个很纠结的人，之前我常去征求大家意见，但都收到一些言语，认为我自己花钱支付域名、邮箱、服务器、网络存储等费用，就是有钱乱花，甚至还有带出因为我是上海人，我就如何与之不同了……\n对这种言论我其实挺反感的，但我也确实是每年花了大几百元在做一个独立网站，甚至还曾经遇到...",
+          "link": "https://www.blogsclub.org/jump?id=20631",
+          "publishedOn": "2026-02-01T03:18:13.000Z",
+          "wordCount": 674,
+          "title": "【重发】我为什么做独立博客？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20630",
+          "author": "亡命之徒的博客",
+          "description": "德化窑观音坐像奥林巴斯EM12017.02.18新乡市博物馆（平原博物馆）明代德化窑以“象牙白”瓷闻名世界，这尊“天启年”款德化白瓷观音，观音头梳高髻，上斜插一龙首发簪，胸前佩带荷花璎珞，衣纹层...",
+          "link": "https://www.blogsclub.org/jump?id=20630",
+          "publishedOn": "2026-02-01T03:09:00.000Z",
+          "wordCount": 391,
+          "title": "色影无忌：德化窑观音坐像",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20636",
+          "author": "魏文超博客",
+          "description": "《阴阳师》章评汇总（3）",
+          "link": "https://www.blogsclub.org/jump?id=20636",
+          "publishedOn": "2026-02-01T02:51:00.000Z",
+          "wordCount": 254,
+          "title": "《阴阳师》章评汇总（3）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20632",
+          "author": "Patrick的笔记",
+          "description": "解答数学问题，找准模型是关键。分析几何图，有模型在手，方能运筹帷幄。",
+          "link": "https://www.blogsclub.org/jump?id=20632",
+          "publishedOn": "2026-02-01T00:13:16.000Z",
+          "wordCount": 1195,
+          "title": "【期末考复习】数学几何各种整理",
+          "imageUrl": "/upload/image-jcpB.png"
+        },
+        {
           "id": "https://www.blogsclub.org/jump?id=20628",
           "author": "iSeekLife",
           "description": "本文围绕台州的石头展开，讲述其多样旅程。从天台山石梁飞瀑的自然与文化内涵，到临海古城墙、长屿硐天等的实用价值与历史印记，再到黄岩石窟的艺术重生，串联起台州的文明史诗与城市品格。",
@@ -15520,6 +16220,26 @@
           "publishedOn": "2026-01-31T12:22:00.000Z",
           "wordCount": 250,
           "title": "《告别的快意》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20633",
+          "author": "Patrick的笔记",
+          "description": "《奔跑吧 期末 八上》中浮力、溶液相关的经典题目、解析",
+          "link": "https://www.blogsclub.org/jump?id=20633",
+          "publishedOn": "2026-01-31T12:04:01.000Z",
+          "wordCount": 1296,
+          "title": "【期末考复习】浮力、溶液相关错题整理",
+          "imageUrl": "/upload/image-JYVD.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20644",
+          "author": "热衷于的博客",
+          "description": "2026免费GoogleSSL无需翻墙",
+          "link": "https://www.blogsclub.org/jump?id=20644",
+          "publishedOn": "2026-01-31T11:24:51.000Z",
+          "wordCount": 154,
+          "title": "2026免费GoogleSSL无需翻墙",
           "imageUrl": null
         },
         {
@@ -15631,6 +16351,16 @@
           "wordCount": 2497,
           "title": "博客导航站更新",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20634",
+          "author": "Patrick的笔记",
+          "description": "《奔跑吧 期末 八上》中电路相关的经典题目、解析",
+          "link": "https://www.blogsclub.org/jump?id=20634",
+          "publishedOn": "2026-01-31T00:29:31.000Z",
+          "wordCount": 1162,
+          "title": "【期末考复习】电路相关错题整理",
+          "imageUrl": "/upload/image-JABx.png"
         },
         {
           "id": "https://www.blogsclub.org/jump?id=20590",
@@ -16030,6 +16760,16 @@
           "publishedOn": "2026-01-29T08:06:00.000Z",
           "wordCount": 380,
           "title": "行行色色：穆斯林少女",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=20645",
+          "author": "热衷于的博客",
+          "description": "谁懂啊家人们！当最后一节课的下课铃敲响的那一刻，感觉整个世界都亮了！笔尖从试卷上挪开的瞬间，连空气里的味道都是甜的，课本往书包里一塞，管它塞得歪歪扭扭还是漏了几本，反正此刻那些公式、单词、文言文全都是浮云，脑子里只有两个字：放假！\n\n\n\n走出教室的那一刻，脚步都飘了，连下楼的台阶都想蹦着走，迎面的风都带着自由的味道，再也不用掐着点赶早读，再也不用盯着倒计时算日子，再也不用上完一节课又马不停蹄奔赴下一节，这种解脱感，直接让我原地发疯！\n\n\n\n回到家第一件事，把书包往角落一扔，管它里面的作业堆成山，先放一边！闹钟直接关掉，从今天起，没有凌晨的起床气，没有定好的生物钟，睡到自然醒就是最高准则，哪怕睡到中午十二点，太阳晒屁股也绝不睁眼，谁喊我都不好使，主打一个沉浸式摆烂！\n\n\n\n手机调至静音免打扰，学习群、作业群通通折叠，消息爱发不发，反正假期的主角只有我自己！零食饮料提前囤满冰箱，薯片、可乐、辣条、水果捞，想吃什么炫什么，不用再偷偷摸摸在书桌底下吃零食，不用再担心被老师抓包，坐在沙发上，葛优躺一摆，追着攒了好久的剧，一集接一集，炫着零食喝着快乐水，这种快乐，直接拉满到宇宙爆炸！\n\n\n\n再也不用对着习题册愁眉苦脸，再也不用熬夜赶作业写到手酸，假期的日常就是：睡醒炫饭，炫饭追剧，追剧发呆，发呆再睡，偶尔约上朋友出门瞎逛，压马路、喝奶茶、逛小吃街，走到哪玩到哪，没有计划，没有安排，随心所欲，想干嘛干嘛！\n\n\n\n不用再在意穿搭是否整齐，不用再规规矩矩穿校服，在家就是睡衣焊在身上，头发乱糟糟也懒得梳，脸不洗牙不刷也能瘫一下午，主打一个放飞自我，怎么舒服怎么来，彻底摆脱所有束缚，做最疯最自由的自己！\n\n\n\n谁说假期要弯道超车，谁说假期要埋头学习，我偏不！这短暂的假期，就是用来发疯，用来摆烂，用来弥补上学时所有的疲惫和委屈的！作业？明天再写（其实可能拖到最后几天），学习？假期结束再说，现在的我，只活在当下，只享受属于自己的快乐时光！\n\n\n\n放假的快乐，就是这么简单又纯粹，没有烦恼，没有压力，只有无尽的自由和摆烂的快乐！从今天起，正式开启我的发疯式假期，快乐至上，摆烂无罪，谁也别想打破我的快乐结界，这个假...",
+          "link": "https://www.blogsclub.org/jump?id=20645",
+          "publishedOn": "2026-01-29T07:20:43.000Z",
+          "wordCount": 116,
+          "title": "放假！发疯摆烂",
           "imageUrl": null
         },
         {
@@ -22880,6 +23620,126 @@
       "siteUrl": "https://www.blogtalk.org/home?sort=latest",
       "articles": [
         {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.huluohu.com%2Fposts%2F2046%2F",
+          "author": "胡萝虎的博客",
+          "description": "最近关于Clawdbot -> MoltBot -> Openclaw的各类部署教程简直不要太多，多到打开公众号一屏有半屏都是相关的文章，所以我也就没有再水的必要了，反正都是那么回事。 但大家吐槽最多的一点我还是得拎出来说：Openclaw 对接企业微信是真的有点折腾。域名、备案、回调、权限、消息加密、可信IP……一套下来，新手直接晕头转向，稍微配错一个地方，机器人直接装死，查日志都不知道从哪下手。 反观飞书，开放平台清爽、机器人长连接省心、自建应用不用乱七八糟审核，消息收发逻辑直来直去，对个人开发者、小团队、本地玩家极度友好。本地电脑、内网机器、家用主机、云服务器，全都能跑，没有任何硬性门槛，今天就整一篇纯干货、无废话、不抬杠的 Openclaw × 飞书 对接教程，跟着点、跟着填，一次通。 整篇不搞玄学、不搞强制要求，你有啥环境用啥环境，我只讲怎么做、哪里容易错、怎么快速排错。 一、前期准备：啥机器都行，这几样备齐就开干 这里先把话说明白： 没有规定必须云服务器！没有规定必须外网服务器！本地Windows、本地Linux、本地Mac、虚拟机、内网主机、家用NAS、云机，全都能部署。我就是把Openclaw直接跑在Macmini上的。 我只会给建议，不强制： 想24小时在线、随时随地用 → 建议云服务器/轻量云，不关机器不掉线 只想本地测试、自己玩、内网用 → 你自己电脑、虚拟机直接开干，完全没问题 只要机器能正常运行Openclaw、能联网访问飞书开放平台接口，就能对接成功 需要准备的东西就这几样： 一套能跑起来的 Openclaw 环境（不管你是Docker、一键脚本、手动编译、Windows版，只要能正常启动、能执行openclaw命令就行） 飞书账号（个人版/企业版都行，自建机器人无需企业认证） 一个你能用的大模型API Key（通义千问、月之暗面、Kimi、De...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.huluohu.com%2Fposts%2F2046%2F",
+          "publishedOn": "2026-02-02T00:00:08.000Z",
+          "wordCount": null,
+          "title": "🦞 纯干货、无肥妞：Openclaw接入企微门槛略高，勾搭下飞书还是没啥难度的！",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.immarcus.com%2Fblog%2Ftheory-behind-standardized-tests",
+          "author": "I'm Marcus",
+          "description": "我去年 12 月参加了日语 JLPT N1 的考试，三天前结果发榜了。我的成绩是： 文字·词汇·语法 60/60 阅读理解 60/60 听力理解 48/60 总分 168/180 虽然前两个部分我坚信自己错了不少题（至少 6~8 题吧），但是因为 JLPT 的评分标准，我居然都得了满分 🥳 那么今天就来介绍一下包括 JLPT、TOEFL、GRE 在内的绝大多数大型标准化考试都在使用的， 能把错题都算成正确的 评分机制吧。 分数就是能力吗 一般考试的评分机制大概都长成这样： 第一大题，每小问 2 分； 第二大题，每小问 3 分； 第三大题，每小问 5 分； 第四大题，总分 10 分； 然后把正确题目的得分加起来，就是你的总分。不过，这只能算出你在这次考试中的分数，那么你的能力值到底是多少呢？ 你也许会觉得这不是废话吗？分数是多少，能力就是多高啊！ 如果这样想的话，背后的推导逻辑就是「考试分数➡️个人能力」。但事实上的因果关系应该是「个人能力➡️考试分数」吧！这就是项目反应理论（Item Response Theory）的逻辑： 考试的答题反应（Response）是个人能力值（一个你「在心中的虚拟的数值」）产生的一个结果。一个人的能力值越高，就越不可能在简单的题目上犯错，同时也越可能正确解答困难的问题。 根据你每道题的回答，我们可以试图算凑出一个能力值，最能够解释整张答卷的对错分布。这就是许多大型标准化考试使用的评分机制。 贝叶斯推理 顺便提一提，这种遵循因果关系，从结果来反推出原因的统计方法，叫做贝叶斯推理（Bayesian inference）。贝叶斯（Thomas Bayes）毫无悬念是统计学中最重要的人名。 为什么要强调「大型」呢？因为每一道题的难度在考试前其实很难客观估算，经常会有「这一年题出得太简单，那一年题目爆难」这样的现象。最好的估计方法，就是从全部的答卷中统...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.immarcus.com%2Fblog%2Ftheory-behind-standardized-tests",
+          "publishedOn": "2026-02-02T00:00:00.000Z",
+          "wordCount": 157,
+          "title": "大型标准化考试的算分理论",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.pgoj.top%2Farchives%2Fzhiboluanxiang.html",
+          "author": "平哥偶记",
+          "description": "《乡下人的悲歌 2025 修订版》引言想告诉我们：很多年轻人并非没有工作的机会，问题在于他们缺乏努力工作的认知。不愿辛苦付出，却期待丰厚回报。一旦这样的白日梦无法实现，便抱怨遭遇不公，或归咎于所谓的阶层固化。 看看我们这里的直播乱象，如出一辙。无数年轻人在街角、桥下、路边支起手机，要么呜哇乱叫，要么鬼哭狼嚎，要么搔首弄姿，要么哭穷卖惨。真真是群魔乱舞，丑态百出。 需要拧螺丝的工厂少吗？需要搬砖的企业少吗？未必。他们只是不愿做着月薪三四千的工作，反而寄望于摇唇鼓舌、聚集人气，幻想一夜成名——粉丝哭着喊着刷火箭，商家争着抢着求带货。 古语说：“没有君子，不养艺人。”想靠嘴皮子吃饭，自己得先有艺。若没有“平地抠饼”的真本事，终究也只能做一场千万粉丝网红梦罢了。 电子书：乡下人的悲歌 2025 修订版",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.pgoj.top%2Farchives%2Fzhiboluanxiang.html",
+          "publishedOn": "2026-02-01T23:56:00.000Z",
+          "wordCount": 445,
+          "title": "只有幻想，不愿付出的年轻人",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fnocoding.life%2Farchives%2FZO3F1IYM",
+          "author": "nocoding.life",
+          "description": "2026年的第一个月结束了，明明元旦还能清晰地浮现在眼前，就像我还能清楚地记得高中的一个晚上，下了晚自习，老爸接我回家。电梯的灯光比较昏暗，老爸打着哈欠，眯着眼，等待电梯送我们回家。那时是我第一次突然发现老爸的面容苍老了，长了白头发。十几年过去了，一直在为学业，为工作奔波，我的头发都掉了不少了，老爸的白发也应该更多了吧。时间还有多少呢？ 昨晚在朋友家聚会，璐导烧了一桌好菜招待一群饿狼，期间一度安静得只听得见狼群在那咀嚼，夹菜的声音。饭后大家聚一起玩狼人杀，还记得当初最早玩狼人杀是本科，当室友天天组织一帮人晚上去食堂玩狼人杀的时候，我苦兮兮地背着书包去图书馆备考GRE。研究生以及工作后玩的不多，真没想到现在遇到话剧社这帮朋友，倒是常常聚餐后一起杀得天昏地暗。 早上起来头有点痛，坐在沙发上本想歇一会，但是发现思绪和手指总是不停歇。一旦想到个什么东西，就忍不住打开手机或者电脑，要去做些什么。我发现有了AI之后，对信息的获取速度要求更高了。一旦想到什么，就打开AI助手搜一下；可能会问一些衍生的问题，思绪就这么彻底岔开了。常常因为读书的时候想到些什么，想着AI搜也就是顺手的事，于是点开了搜索，搜着搜着，就不知道干嘛去了。注意力下降，微信读书打开没五分钟就有种冲动想点开点别的，常常无所事事地在一个又一个app里跳跃，是我近来的问题。可怕的是，我明明都已经不用小红书，关闭朋友圈了，但还是会时不时点开个邮件，看看股市什么的。我昨天上午注意到，在大概十五分钟的读书时间里，我看了两三次时间，有三四次想跳出的冲动，非常可怕。一本书读得很慢，时间却过得很快，精力也消耗得很快。 早上就这么消耗了一个多小时，我想：不行，我得离开互联网一会儿，远离所有的电子产品。于是我拿起了沙发上的一本“书”，翻了起来。这本书其实是党妹的写真画册，我在疫情期间买的放在国内，直到24年回国过年的时候才真的拿到。而我买的时...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fnocoding.life%2Farchives%2FZO3F1IYM",
+          "publishedOn": "2026-02-01T22:43:09.000Z",
+          "wordCount": null,
+          "title": "告别一月",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.geedea.pro%2Fposts%2Fsite-report-4%2F",
+          "author": "極客死亡計劃",
+          "description": "书接上回 ，先前的一期《极客死亡计划书》最后留了个有关评论系统的引子。如你所见，目前我已经完成了评论系统的变更：我把它删掉了。当然，我提供了其他交流的途径，你仍然可以与我和其他读者，像在正常的评论系统中一样讨论文章内容。今天的文章将会解释评论系统变更的原因、新的与读者互动的方式、我对独立博客的评论的想法，以及读者还可以了解到如何使用新的「交互」系统。 本博客评论系统的历史变更 从 Typecho 换到静态博客之后，给博客添加评论系统就变得很棘手。本质上，评论是「用户生成内容」（User-generated content），涉及到用户向服务器发送 HTTP 请求，服务器响应请求后将评论数据写入数据库并返回状态信息，其他用户访问页面时，服务器会从数据库读取评论数据。显然，对于静态网站而言，服务器和数据库都是不存在的，所以就需要外接一个评论后端。 记得早年间我还使用过 Gitalk ，一个基于 GitHub Issues 的评论系统。后来 GitHub Discussion 推出，更符合「讨论」这个逻辑，于是 Giscus 也就诞生了，几天前，我还在使用 Giscus 作为博客的评论系统。这两个评论系统都依托于 GitHub API，需要 GitHub 账号才能使用。用户也不真正拥有自己的数据，所有的讨论实际上都发生在 GitHub 这一个平台上。上一期极客死亡计划书我也表达了对 Giscus 的批评——依赖于 ，使得数据交换、优化加载速度和自定义都变得很难。不过，毋庸置疑地，Giscus 非常易用，不需要自己维护后端，使用 GitHub 登录也避免了绝大多数的垃圾邮件。 在此之前，我也有使用过 Valine 和 Waline，它们都依托数据库，可以很轻易地在 LeanCloud 上部署（不过就在最近，LeanCloud 已经停止服务了），也可以自托管。我也有听...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.geedea.pro%2Fposts%2Fsite-report-4%2F",
+          "publishedOn": "2026-02-01T15:53:07.000Z",
+          "wordCount": 1543,
+          "title": "极客死亡计划书 IV",
+          "imageUrl": "/favicon.png"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fzooyoo.top%2Farticle.php%3Fid%3D19",
+          "author": "热衷于的博客",
+          "description": "亲测有效！小超市装监控要公网IP？这4套“店主话术”直接复制念，客服秒开！ 前言：为啥要这么说话？ 开小超市装监控，远程看画面必须要公网 IP，但很多运营商默认关着，直接说 “要公网 IP 建站 / 搞服务器” 肯定被拒！我的秘诀是：伪装成 “没文化、只懂监控刚需” 的店主，故意念错专业名词，软磨硬泡 + 恩威并施，客服一看就是普通用户，不会警惕，几分钟就给开了，亲测 3 大运营商都管用！ 一、标准版（最常用，力度刚好，口误自然不刻意） 喂，你好，我是办你们家宽带的，家里开小超市的，装了好几个监控，要远程看画面，现在死活连不上，装监控的师傅说了，就是你们没给我开公网爱皮，我听师傅老说什么公网爱皮、外网映射、奈特，我也不懂那些洋词，反正师傅就说必须开这个公网，不然监控外地看不了。 我这小超市全靠监控防小偷，丢点东西你们赔不起啊，我不管你们内部什么设置，现在立刻、马上帮我把这个公网打开，把那个什么双层奈特、内网嵌套给我关了，我也叫不来专业名，大概就这意思。 我宽带费一分没少交，凭什么别人能用我用不了？你别跟我说办不了，办不了就转你们技术师傅、领导，我今天必须弄好，不然我就投诉、拆机换别家宽带，我隔壁超市用别家的都好好的，就你们这麻烦。你现在直接后台操作，改完我直接喊师傅再重新开启看一眼，赶紧的，我这监控等着用呢。 二、加硬泼辣版（客服推诿时用，恩威并施更管用） 你别跟我扯那些听不懂的官话啊，我没文化，就一开小超市的，装监控的师傅上门查了，直说是你们宽带搞是内网，没给我开公网，什么潘特丹特我全说不利索，就知道是你们后台给我关了，搞的什么共享地址，监控远程看不了。 我这超市天天看店，夜里没人，监控连不上等于白装，真丢了烟酒现金，我直接找你们运营商索赔。我宽带正常缴费，不是欠费用户，凭什么给我限制功能？你别告诉我申请不了、没有这个业务，我邻居上个月刚让你们开了，人家就能用。 现在立刻...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fzooyoo.top%2Farticle.php%3Fid%3D19",
+          "publishedOn": "2026-02-01T14:20:10.000Z",
+          "wordCount": 163,
+          "title": "公网IP三步立马搞定",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.shephe.com%2Fpost%2Fvideo-water-gauge-l2tp-remote-debug%2F",
+          "author": "Kevin's Space",
+          "description": "前段时间，我在某市县实施当地的平安渡运项目智能化部分施工，主要负责水文气象设备前端的安装与调试，我们团队一行几人，我作为总体技术负责人，具体工作涵盖点位勘察、设备选型、线路与供电规划、现场实施协调以及与甲方、总包的技术沟通等。这项目拉拉扯扯搞了很多年，最近终于是落地了！ 该项目面向县域内主要河段沿岸的码头和渡口，建设水文及气象监测系统，将实时数据统一上报至中心平台，供相关管理单位查看和研判，作为平安渡运和是否允许通航的重要决策依据，例如水位、降雨量或风力达到设定阈值时，当地渡船（俗称过河船）即需停航。 项目所在河段枯水期与丰水期水位差极大，历史上个别年份甚至出现过二十多米的水位落差，沿河不少房屋和设施都曾被淹没，我们沿线踏勘时也能明显看到这些痕迹，所幸近些年得益于水利工程建设和系统治理，整体情况已明显改善。该县举例我的家乡并不远，但我的老家是没有这么大的河，我也几乎么有乘坐过渡船，因而每到一处见到爬坡上坎又过河的场景时，我便会感叹：这偌大的中国啊，这形形色色的故乡啊！ 因为设备的安装点位大多分布在乡镇和偏远村落，通常需要从县道转入乡道，再进入村村通道路，路况好的十来分钟可达，路况差的连小型面包车都难以通行，最折腾的一个点位先是要走几公里布满坑洼的烂路，随后还需乘坐十多分钟快艇才能到达，单程交通耗时接近两个小时。 [ 阅读全文 ] 原文链接： https://www.shephe.com/post/video-water-gauge-l2tp-remote-debug/ 版权声明： Kevin's Space 版权所有，转载请用明链标明本文地址 本站相关： 随机文章 | 站长微博 | 关于本站 | 联系站长 | 捐助作者",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.shephe.com%2Fpost%2Fvideo-water-gauge-l2tp-remote-debug%2F",
+          "publishedOn": "2026-02-01T13:27:32.000Z",
+          "wordCount": 3285,
+          "title": "视频水尺太难搞！L2TP 异地组网助我远程调试渡口摄像头",
+          "imageUrl": "https://www.shephe.com/wp-content/uploads/2026/02/号房码头.webp"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3951.html",
+          "author": "静风说",
+          "description": "《里斯本丸沉没》《东极岛》两部电影记录的都是里斯本丸沉没事件，因此放在一起观看。前一部是纯纪实风格的纪录片，电影人方励和摄制组通过详尽的历史调查，极尽所能地寻访英、美、日、中核心当事人及后代，试图无限接近历史真相，我全程认真看完了，也完整了解了这段长期被尘封、少为人知的二战海上惨案。后一部是商业剧情片，穿插了大量煽情桥段与刻意塑造的主角光环，多处情节为艺术虚构加工，快速跳跃着用半个多小时看完的。 1941年香港沦陷后，1800余名英军战俘被日军强行押上民用货船里斯本丸，计划转运至日本本土充当强制苦役。1942年9月27日船只从香港起航，航行三日之后，于10月1日行驶至浙江舟山东极岛附近海域，被美军潜艇鲈鱼号发射鱼雷击中。当时日军完全违背国际战俘运输公约，未在船身做任何战俘船标识，美军潜艇并不知晓船舱内关押着大量盟军战俘。事后参与此次鱼雷发射的潜艇机械师，曾专程前往英国，当面向里斯本丸事件的幸存者致歉，这一细节也让人直观感受到，战争中各方立场、信息差与行动逻辑的差异，很多悲剧并非单纯的善恶对立，却依旧造成了无法挽回的生命损失。 里斯本丸从被鱼雷击中到彻底沉没，耗时近25小时，并非即刻倾覆。事发后日军的第一选择是优先转移己方官兵、军用物资与装备，甚至用木条、帆布将关押战俘的底层船舱彻底钉死封死，将上千名英军彻底困在密闭黑暗的空间里。船舱内缺氧、缺水、缺食物，伤者得不到救治，死者遗体无法处理而逐渐腐烂，恶臭与绝望弥漫，大量战俘在沉船之前就已死于窒息、脱水、踩踏和伤病。部分战俘拼尽全力冲破封锁逃到甲板，又被尚未撤离的日军直接射杀；直到日军主力转移完毕，剩余战俘才得以撕开密封帆布，挣扎着进入海中。 东极岛青浜岛、庙子湖岛的当地渔民集结小渔船往返海面展开营救。关于营救的原因，一说是被驻扎在岛上的日军组织的。二是打捞海面上漂浮的布匹等财物，后来又结合救人。三是自发的人道主义。两部影片给出...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.jfsay.com%2Farchives%2F3951.html",
+          "publishedOn": "2026-02-01T13:18:35.000Z",
+          "wordCount": 815,
+          "title": "看《里斯本丸沉没》《东极岛》",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.skyue.com%2F26020120.html",
+          "author": "拾月",
+          "description": "上篇草莓熟了评论区收到非常多朋友的祝福，感谢大家！ 这周五给小草莓拍了人生第一套写真，并录了一段祝福视频。 （感觉本博客尽早变成晒娃博客） [查看全文...]",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.skyue.com%2F26020120.html",
+          "publishedOn": "2026-02-01T12:49:00.000Z",
+          "wordCount": 558,
+          "title": "草莓第一次写真",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fblog.ybyq.wang%2Farchives%2F1590.html",
+          "author": "Xuan's blog",
+          "description": "简介 OpenClaw 是一款基于 AI 的本地化助手工具，前身为 clawdbot。它可以帮助用户在本地环境中快速部署和使用大语言模型，支持多种国内外主流 AI 模型接入。 安装步骤 1. 安装 Node.js 22.x 首先需要安装 Node.js 运行环境。访问 Node.js 官网下载 22.x 版本的安装包，按照向导完成安装。 2. 安装 OpenClaw 打开命令行工具，执行以下命令进行全局安装： npm install -g openclaw@latest 3. 配置 OpenClaw 安装完成后需要进行初始化配置。 注意：以下操作需要在管理员权限的终端中运行 执行配置命令： openclaw onboard --install-daemon 3.1 选择启动模块 在配置过程中，选择\"快速开始\"模块，这样可以快速完成基础配置。 3.2 选择 AI 模型 这里选择通义千问（Qwen）模型，当然也可以根据需要选择其他国内外的大模型。 3.3 登录验证 选择通义千问的登录验证方式。 系统会自动打开浏览器进行登录验证，完成授权后即可继续。 3.4 选择默认模型 在可用的模型列表中选择一个作为默认使用的模型。 3.5 跳过高级配置 对于初次使用，可以暂时跳过 channel 的配置。 同样，skills 和 hooks 也可以暂时不配置，后续有需要再添加。 3.6 安装守护进程 选择 reinstall 来安装或重新安装守护进程。 4. 启动和使用 配置完成后，OpenClaw 会自动启动。 系统会自动在浏览器中打开 OpenClaw 的 Web 界面。 5. 验证安装 在聊天界面发送一条消息，如果收到 AI 的回复，就说明安装配置成功了。 总结 至此，OpenClaw 已经在 Windows 系统上成功部署。整个过程主要包括安装 Node.js 环境、全局安装 Ope...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fblog.ybyq.wang%2Farchives%2F1590.html",
+          "publishedOn": "2026-02-01T07:06:37.000Z",
+          "wordCount": 5544,
+          "title": "在 Windows 本地安装使用 OpenClaw（原 clawdbot）教程",
+          "imageUrl": "https://static.blog.ybyq.wang/usr/uploads/2026/01/31/2026-01-31T12:19:36.png?x-oss-process=style/shuiyin"
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Facevs.com%2F4728%2F",
+          "author": "acevs",
+          "description": "一个亿到底是什么概念？ 在中国，股票持仓超过 100 万 的大约有 480 万人； 超过 1000 万 的，大约 30 万人； 而真正拥有 1 个亿以上 股票资产的，不到 5000 人。 相比之下，清华和北大每年本科毕业生就有约 8000 人， 如果再加上硕士和博士，每年超过 2 万人。 我问二宝 二宝天天被教育的好好学习，不好好学习将来没有好工作云云。毫不犹豫的选择了清华录取通知书，二宝说学习好，就有机会挣一个亿了。哈哈。 大宝则也看过类似视频似乎，直接选择一个亿。 估计被社会鞭打过得人都会选择一个亿吧。毕竟如果过了35岁，被清华录取了，和范进中举区别不大吧。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Facevs.com%2F4728%2F",
+          "publishedOn": "2026-02-01T06:57:30.000Z",
+          "wordCount": 1688,
+          "title": "一个亿，和清华北大，你怎么选？",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fmecll.com%2F1064.html",
+          "author": "流浪天下",
+          "description": "在昆明有半天的空余时间，于是问 AI 附近哪里可以徒步走走，豆包给规划了滇池湿地徒步的计划路线：从草海隧道公园 → 湖滨生态湿地 → 七孔浮桥 → 东风坝 → 干沟尾湿地公园 → 融创文旅城。风过浮桥，鸥掠西山，闲游滇池草海湿地半日，把时间还给慢风景！ 东风坝开合浮桥 和同伴在外面吃了个焖肉面就出发。打网约车的时候发现，草海隧道公园离七孔浮桥有些远，遂改去滇池草海湖滨湿地，导航定位“财神殿”。下车之后发现这里果然人少，从财神殿出发，意外地解锁人少景美的湿地浮桥秘境。沿着石子步道前行，寒风吹散乌云，阳光也明媚起来。 湖边有茶歇咖啡的地方，有人坐在边上惬意地谈笑。湖光山色，近处是东风坝浮桥，远处就是西山。 这开合浮桥好像是去年没多久才新建成。走上这开合浮桥，虽有风浪，感觉却比较稳。观察是以舟体为基，浮箱为链，长度得有近 500 米。这浮桥是分时段连通，我们到的时间是中午十二点过，浮桥中间一段是断开的，有工作人员值守，离连通放行还有小半个小时。 浮桥边红嘴鸥盘旋，时而停在浮桥栏杆上，也不怕人；浮桥上可以远眺西南方向耸立的是西山，据说远看像是一个睡美人。 过一会 13 点，浮桥如约合拢，游人鱼贯而行。过了浮桥到湖中坝上，也不知往哪走，随着人流往右走，这一走原来是七孔浮桥方向。 东风坝七孔浮桥 一路往北，芦苇和灌木夹道，脚下是石块拼接的步道。 滇池草海东风坝源自七十年代的“围海造田”运动，后来就“由田园变塘”、“退塘还湖”，经过国家拨款治理就成了现在的样子。从开合浮桥到七孔桥，踏过围海造田的历史回响，这步道不知承载了多少人的脚步，也见证了草海桑田的变化历史。 快到七孔浮桥的时候，路边有许多人在喂海鸥。水里海鸥很多，，有人学着海鸥“鸥…鸥…”叫着，海鸥便兴奋地飞起来，这便是四川话说的“逗起闹”。 继续前行就到了七孔浮桥，这里算是滇池周边观赏西山睡美人的最佳位置，可以看到睡美人的婀娜多姿...",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fmecll.com%2F1064.html",
+          "publishedOn": "2026-02-01T04:25:40.000Z",
+          "wordCount": 435,
+          "title": "邂逅草海湿地：等浮桥合拢，看睡美人与红嘴鸥共舞",
+          "imageUrl": "https://img.mecll.com/2026/caohai/1.webp"
+        },
+        {
           "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.pgoj.top%2Farchives%2Fpuzhinanjibgxi.html",
           "author": "平哥偶记",
           "description": "像我这样的人，除了端午、中秋、春节、元宵这类传统节日，对其他节日都没什么兴趣。这些节日大多空有其名，并不能给我带来什么实际好处。至少传统节日会放假，一放假我就能和家人团聚，看看父母，走走亲戚。可别的节日有什么呢？除了商家的促销，就是朋友圈里千篇一律的煽情。 我对一切仪式都不太感冒，对那些漂亮却无用的鲜花不屑一顾，也对口头上热情却无实质内容的电话问候十分反感。什么都比不上实实在在的行动：如果爱一个人，就全心全意对他好；如果心存感激，就设身处地为对方着想，满足他真实的需要。哪用在乎什么520不520的，工资上交不就够了？何必空谈一生一世，当下的彼此珍惜才最真实。 作为一个普通直男，我眼里的小惊喜常常变成大惊吓，所谓的小情调往往也只是大尴尬。我和这花花世界里追求浪漫的男女，大概就像夏虫与冰——注定不在一个世界。",
@@ -22888,6 +23748,16 @@
           "wordCount": 439,
           "title": "对普直男来说，小惊喜就是大惊吓",
           "imageUrl": null
+        },
+        {
+          "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliduos.com%2Fthe-weekly-gradient-88.html",
+          "author": "莫尔索",
+          "description": "本期内容深度解析2026年AI行业全景，涵盖大模型技术演进、AI Agent记忆系统与集群架构、开源生态崛起、中美技术路径分化、推理加速与安全沙箱实践、开发者角色转型及AI商业模式探索等核心议题。",
+          "link": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fliduos.com%2Fthe-weekly-gradient-88.html",
+          "publishedOn": "2026-02-01T00:00:00.000Z",
+          "wordCount": 1039,
+          "title": "Vol.88 2026年AI全景解析：大模型、Agent、开源生态与中美竞争格局",
+          "imageUrl": "https://liduos.com/open_graph.png"
         },
         {
           "id": "https://www.blogtalk.org/go?from=feed&link=https%3A%2F%2Fwww.immarcus.com%2Fblog%2Fweekly-20260201",
