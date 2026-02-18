@@ -2,10 +2,688 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://503badgateway.github.io/rss-search/index.html</id>
     <title>中文獨立博客搜尋</title>
-    <updated>2026-02-17T01:54:32.651Z</updated>
+    <updated>2026-02-18T01:58:34.539Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://503badgateway.github.io/rss-search/index.html"/>
     <link rel="self" href="https://503badgateway.github.io/rss-search/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[博客迁移至Qt 6.11Beta3]]></title>
+        <id>https://www.blogsclub.org/jump?id=21686</id>
+        <link href="https://www.blogsclub.org/jump?id=21686"/>
+        <updated>2026-02-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[博客迁移至Qt 6.11Beta3]]></summary>
+        <author>
+            <name>UWillno's Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyline-新加坡Ⅰ型 10G口移动快乐鸡 只测不评]]></title>
+        <id>https://www.blogsclub.org/jump?id=21685</id>
+        <link href="https://www.blogsclub.org/jump?id=21685"/>
+        <updated>2026-02-17T22:19:45.000Z</updated>
+        <summary type="html"><![CDATA[Skyline-新加坡Ⅰ型 10G口移动快乐鸡 21.84刀每年.]]></summary>
+        <author>
+            <name>夜轻Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[五年博客写作者谈写作过程]]></title>
+        <id>https://www.infinite.moe/posts/wu-nian-bo-ke-xie-zuo-zhe-tan-xie-zuo-guo-cheng-977c61a7?utm_source=blogfinder</id>
+        <link href="https://www.infinite.moe/posts/wu-nian-bo-ke-xie-zuo-zhe-tan-xie-zuo-guo-cheng-977c61a7?utm_source=blogfinder"/>
+        <updated>2026-02-17T18:48:49.000Z</updated>
+        <summary type="html"><![CDATA[五年博客写作者谈写作过程]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新春的梅花（20250216）]]></title>
+        <id>http://stuit.cn/Xiaolu/Post/1600.html?utm_source=blogfinder</id>
+        <link href="http://stuit.cn/Xiaolu/Post/1600.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T15:54:04.000Z</updated>
+        <summary type="html"><![CDATA[新春的梅花（20250216）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新春的梅花（20250216）]]></title>
+        <id>https://www.blogsclub.org/jump?id=21683</id>
+        <link href="https://www.blogsclub.org/jump?id=21683"/>
+        <updated>2026-02-17T15:54:04.000Z</updated>
+        <summary type="html"><![CDATA[除夕下午，虽然下着小雪，却在偶然间发现路边的梅花已经盛开^_^下图编号141627]]></summary>
+        <author>
+            <name>风雨行者</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025年终总结｜于农历新年之际简单写写过去一年]]></title>
+        <id>https://blog.starsharbor.com/posts/2025-annual-summary/?utm_source=blogfinder</id>
+        <link href="https://blog.starsharbor.com/posts/2025-annual-summary/?utm_source=blogfinder"/>
+        <updated>2026-02-17T15:50:00.000Z</updated>
+        <summary type="html"><![CDATA[2025年终总结｜于农历新年之际简单写写过去一年]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一次在公司过年的经历及总结]]></title>
+        <id>https://blog.someo.top/archives/19/?utm_source=blogfinder</id>
+        <link href="https://blog.someo.top/archives/19/?utm_source=blogfinder"/>
+        <updated>2026-02-17T15:30:41.000Z</updated>
+        <summary type="html"><![CDATA[第一次在公司过年的经历及总结]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[04. 岁岁的成长日志：从秋天的童话到冬日的暖阳（9-12个月）]]></title>
+        <id>https://www.xuezhao.space/suisuistory-04.html?utm_source=blogfinder</id>
+        <link href="https://www.xuezhao.space/suisuistory-04.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T15:24:00.000Z</updated>
+        <summary type="html"><![CDATA[04. 岁岁的成长日志：从秋天的童话到冬日的暖阳（9-12个月）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[使用阿里云 ossutil 命令行同步 Obsidian 笔记到 OSS]]></title>
+        <id>https://www.blogsclub.org/jump?id=21684</id>
+        <link href="https://www.blogsclub.org/jump?id=21684"/>
+        <updated>2026-02-17T15:13:41.000Z</updated>
+        <summary type="html"><![CDATA[阿里云OSS配合ossutil命令行工具，可实现Obsidian笔记库免费、高效的多设备同步。ossutil支持增量上传、断点续传等功能。用户需注册阿里云、开通OSS、获取密钥并安装配置ossutil，通过同步命令或脚本将本地笔记库同步至OSS，并可设置定时任务实现自动同步。]]></summary>
+        <author>
+            <name>SaiitaのBlog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[大河边缘是否能成为一个点子快讯平台（类似期刊快报）]]></title>
+        <id>https://www.wellobserve.com/?post=20260217230342&amp;utm_source=blogfinder</id>
+        <link href="https://www.wellobserve.com/?post=20260217230342&amp;utm_source=blogfinder"/>
+        <updated>2026-02-17T15:03:42.000Z</updated>
+        <summary type="html"><![CDATA[大河边缘是否能成为一个点子快讯平台（类似期刊快报）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在裂缝中见光，在艰难中前行 —— 2025个人年度总结（非工作向）]]></title>
+        <id>https://www.xuezhao.space/yearinreview-2025.html?utm_source=blogfinder</id>
+        <link href="https://www.xuezhao.space/yearinreview-2025.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T14:55:00.000Z</updated>
+        <summary type="html"><![CDATA[在裂缝中见光，在艰难中前行 —— 2025个人年度总结（非工作向）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20260216]]></title>
+        <id>https://61.life/2026/0216?utm_source=blogfinder</id>
+        <link href="https://61.life/2026/0216?utm_source=blogfinder"/>
+        <updated>2026-02-17T14:26:30.000Z</updated>
+        <summary type="html"><![CDATA[20260216]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[冬至（59/81）：【春节】持续练习 NTCE 题]]></title>
+        <id>https://blog.mcenahle.org.cn/2026/02/17/426.html?utm_source=blogfinder</id>
+        <link href="https://blog.mcenahle.org.cn/2026/02/17/426.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T14:22:21.000Z</updated>
+        <summary type="html"><![CDATA[冬至（59/81）：【春节】持续练习 NTCE 题]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活碎碎念：我与老家的年（续集）]]></title>
+        <id>https://blog.mfwt.top/index.php/archives/1089/?utm_source=blogfinder</id>
+        <link href="https://blog.mfwt.top/index.php/archives/1089/?utm_source=blogfinder"/>
+        <updated>2026-02-17T13:54:46.000Z</updated>
+        <summary type="html"><![CDATA[生活碎碎念：我与老家的年（续集）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生活碎碎念：我与老家的年（续集）]]></title>
+        <id>https://www.blogsclub.org/jump?id=21682</id>
+        <link href="https://www.blogsclub.org/jump?id=21682"/>
+        <updated>2026-02-17T13:54:46.000Z</updated>
+        <summary type="html"><![CDATA[本文是上一篇博文的续集，如果您还未阅读那篇文章，笔者建议您先阅读一下。今天是大年初一，但在这个偏远小山村里，外面好像已经没有了年的感觉。]]></summary>
+        <author>
+            <name>枫林灯语</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在 Windows 电脑上查看 Wi-Fi 信号质量的方法]]></title>
+        <id>https://armstrong.viyf.org/articles/2026/02/check-wifi-signal-quality-with-netsh.shtml?utm_source=blogfinder</id>
+        <link href="https://armstrong.viyf.org/articles/2026/02/check-wifi-signal-quality-with-netsh.shtml?utm_source=blogfinder"/>
+        <updated>2026-02-17T13:08:51.000Z</updated>
+        <summary type="html"><![CDATA[在 Windows 电脑上查看 Wi-Fi 信号质量的方法]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新邮箱全面启用]]></title>
+        <id>https://zooyoo.top/article.php?id=32&amp;utm_source=blogfinder</id>
+        <link href="https://zooyoo.top/article.php?id=32&amp;utm_source=blogfinder"/>
+        <updated>2026-02-17T12:53:35.000Z</updated>
+        <summary type="html"><![CDATA[新邮箱全面启用]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新邮箱全面启用]]></title>
+        <id>https://www.blogsclub.org/jump?id=21681</id>
+        <link href="https://www.blogsclub.org/jump?id=21681"/>
+        <updated>2026-02-17T12:53:35.000Z</updated>
+        <summary type="html"><![CDATA[全体目光向我看齐，我宣布个事儿：
+
+
+
+博客之前的 email.cn 邮箱 ，经常被 Gmail、Outlook 这些境外邮箱误扔进垃圾箱，感谢多位宝子的热心反馈。之前的 25Mail 构式服务商不稳定，还限制单账户，所以今天研究一上午，终于...]]></summary>
+        <author>
+            <name>热衷于的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[治愈向｜鲜花水波纹舒适卡点]]></title>
+        <id>https://www.puresky.top/archives/rGCyoVpl?utm_source=blogfinder</id>
+        <link href="https://www.puresky.top/archives/rGCyoVpl?utm_source=blogfinder"/>
+        <updated>2026-02-17T12:09:37.000Z</updated>
+        <summary type="html"><![CDATA[治愈向｜鲜花水波纹舒适卡点]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有了笔记本，该考虑静态网站了]]></title>
+        <id>https://www.pgoj.top/archives/bijibenjingtai.html?utm_source=blogfinder</id>
+        <link href="https://www.pgoj.top/archives/bijibenjingtai.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[有了笔记本，该考虑静态网站了]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[有了笔记本，该考虑静态网站了]]></title>
+        <id>https://www.blogsclub.org/jump?id=21680</id>
+        <link href="https://www.blogsclub.org/jump?id=21680"/>
+        <updated>2026-02-17T12:05:22.000Z</updated>
+        <summary type="html"><![CDATA[我那台旧笔记本问题多多：电池彻底废了，只能时刻插着电源；键盘上不少按键失灵，有的得摁上十次八次才能勉强显示；系统已经是精简版的Windows 7了，可有时刚打开浏览器就崩溃；鼠标右键也常常失灵，...]]></summary>
+        <author>
+            <name>平哥偶记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[草莓满月仪式和生产纪实短片]]></title>
+        <id>https://www.skyue.com/26021720.html?utm_source=blogfinder</id>
+        <link href="https://www.skyue.com/26021720.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T12:04:00.000Z</updated>
+        <summary type="html"><![CDATA[草莓满月仪式和生产纪实短片]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年快乐，分享一组璀璨的烟花]]></title>
+        <id>https://www.puresky.top/archives/auP7qoiL?utm_source=blogfinder</id>
+        <link href="https://www.puresky.top/archives/auP7qoiL?utm_source=blogfinder"/>
+        <updated>2026-02-17T11:59:48.000Z</updated>
+        <summary type="html"><![CDATA[新年快乐，分享一组璀璨的烟花]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年快乐！]]></title>
+        <id>https://nxxy335.top/archives/wI3vaSen?utm_source=blogfinder</id>
+        <link href="https://nxxy335.top/archives/wI3vaSen?utm_source=blogfinder"/>
+        <updated>2026-02-17T11:43:49.000Z</updated>
+        <summary type="html"><![CDATA[新年快乐！]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 新春快乐]]></title>
+        <id>https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/?utm_source=blogfinder</id>
+        <link href="https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/?utm_source=blogfinder"/>
+        <updated>2026-02-17T11:14:17.000Z</updated>
+        <summary type="html"><![CDATA[2026 新春快乐]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[论遣词造句]]></title>
+        <id>https://www.geedea.pro/essays/on-wording/?utm_source=blogfinder</id>
+        <link href="https://www.geedea.pro/essays/on-wording/?utm_source=blogfinder"/>
+        <updated>2026-02-17T10:52:20.000Z</updated>
+        <summary type="html"><![CDATA[论遣词造句]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[千字网CDN：收集了1000个免费开源字体的CDN]]></title>
+        <id>https://www.blogsclub.org/jump?id=21677</id>
+        <link href="https://www.blogsclub.org/jump?id=21677"/>
+        <updated>2026-02-17T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[访问链接：https://hanzi.bluu.pl/]]></summary>
+        <author>
+            <name>『自习室』EXYONE的篝火小屋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[南安凤山寺-游览]]></title>
+        <id>https://www.blogsclub.org/jump?id=21678</id>
+        <link href="https://www.blogsclub.org/jump?id=21678"/>
+        <updated>2026-02-17T10:08:39.000Z</updated>
+        <summary type="html"><![CDATA[南安凤山寺]]></summary>
+        <author>
+            <name>谶の博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026年，从「记笔记」到「积累数字资产」]]></title>
+        <id>https://idealclover.top/archives/646/?utm_source=blogfinder</id>
+        <link href="https://idealclover.top/archives/646/?utm_source=blogfinder"/>
+        <updated>2026-02-17T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[2026年，从「记笔记」到「积累数字资产」]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026云奚小屋再启新程]]></title>
+        <id>https://www.blogsclub.org/jump?id=21679</id>
+        <link href="https://www.blogsclub.org/jump?id=21679"/>
+        <updated>2026-02-17T09:47:27.000Z</updated>
+        <summary type="html"><![CDATA[尊敬的各位访客、亲爱的朋友们： 岁序更替，华章日新。当2026年的第一缕晨光穿透云层，落在“云奚小屋”的方寸天地时，我们正式告别了旧岁的沉淀，迎来了丙午马年的蓬勃生机。在此，谨代表云奚小屋，向每...]]></summary>
+        <author>
+            <name>云奚小屋</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026新年快乐]]></title>
+        <id>https://miraii.cn/posts/y3kfe5ra/?utm_source=blogfinder</id>
+        <link href="https://miraii.cn/posts/y3kfe5ra/?utm_source=blogfinder"/>
+        <updated>2026-02-17T09:41:44.000Z</updated>
+        <summary type="html"><![CDATA[2026新年快乐]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[决定双开ChatGPT与Gemini]]></title>
+        <id>https://siwei.li/jue-ding-shuang-kai-chatgptyu-g-mini/?utm_source=blogfinder</id>
+        <link href="https://siwei.li/jue-ding-shuang-kai-chatgptyu-g-mini/?utm_source=blogfinder"/>
+        <updated>2026-02-17T08:38:23.000Z</updated>
+        <summary type="html"><![CDATA[决定双开ChatGPT与Gemini]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过年流水账 0217]]></title>
+        <id>https://blog.solazy.me/20260217/?utm_source=blogfinder</id>
+        <link href="https://blog.solazy.me/20260217/?utm_source=blogfinder"/>
+        <updated>2026-02-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[过年流水账 0217]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过年流水账 0217]]></title>
+        <id>https://www.blogsclub.org/jump?id=21676</id>
+        <link href="https://www.blogsclub.org/jump?id=21676"/>
+        <updated>2026-02-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天是农历新年大年初一，给大家拜年，诸位朋友过年好！
+昨晚的春晚实在是无聊，很理解这个烫手山芋每年被这样敷衍着的对待，能非常清晰地感知到总导演那种我宁愿要无聊的春晚也不要冒险的春晚的那种感觉。有一种大厂打工牛马的那种无力呻吟感。
+今天确实也是无聊的一天，因为我们家不需要走亲访友，大年初一家里就是我和爸妈，和正常的一天没有任何区别。
+早上比昨天多睡了一个小时，八点半起床，早饭是吃昨晚剩的饺子。吃完我就出门逛街了。
+
+    @media (prefers-color-scheme: dark) {
+        .#img-group-t78mt .desc-text { color: rgba(255, 255, 255, 0.7) !important; }
+    }
+    .dark-preview-mode .#img-group-t78mt .desc-text { color: rgba(255, 255, 255, 0.7) !important; }
+
+
+
+  
+  ▲ 人头攒动的庙会
+
+
+溜达到栈桥和中山路，又来附近的大鲍岛逛逛，这里正是春节期间的萝卜糖球会，人非常多，好不热闹，我也趁机买个我妈喜欢吃的糖球，甜甜她的嘴。
+出门的时候，...]]></summary>
+        <author>
+            <name>So!azy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[年節漸濃，感情漸薄]]></title>
+        <id>https://ivonblog.com/posts/2026021701/</id>
+        <link href="https://ivonblog.com/posts/2026021701/"/>
+        <updated>2026-02-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[新年快樂，恭喜發財。
+木訥的表情說完後，手上多了好幾個紅色信封。
+白色的房門上，又多了一張新的菱形紙張。
+我這個年紀根本不該拿紅包了吧。]]></summary>
+        <author>
+            <name>infoivonblog.nkfjt@aleeas.com (Ivon Huang)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[传ETS拟5亿美元出售GRE和托福，美国人真的会卖掉托福吗？]]></title>
+        <id>https://www.blogsclub.org/jump?id=21670</id>
+        <link href="https://www.blogsclub.org/jump?id=21670"/>
+        <updated>2026-02-17T07:48:21.000Z</updated>
+        <summary type="html"><![CDATA[华尔街日报称，ETS拟以约5亿美元出售GRE和TOEFL考试，消息一出，就让无数留学生家庭捏了把汗。为什么突然要出售？谁又将接手？对中国留学生有什么影响？看这一篇就够了。 2026年1月，留学圈被一个…
+The post 传ETS拟5亿美元出售GRE和托福，美国人真的会卖掉托福吗？ appeared first on Jake blog.]]></summary>
+        <author>
+            <name>Jake Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《战神三部曲 重制版》正在制作中 |《死亡搁浅2》今年3月登陆PC]]></title>
+        <id>https://www.blogsclub.org/jump?id=21671</id>
+        <link href="https://www.blogsclub.org/jump?id=21671"/>
+        <updated>2026-02-17T07:46:17.000Z</updated>
+        <summary type="html"><![CDATA[索尼PlayStation于今日（2月13日）早6点举行了“State of Play”发布会，诸多新作都放出了最新消息。以下是本次发布会的要点汇总： 《战神三部曲 重制版》在此次发布会上正式公开。本…
+The post 《战神三部曲 重制版》正在制作中 |《死亡搁浅2》今年3月登陆PC appeared first on Jake blog.]]></summary>
+        <author>
+            <name>Jake Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI再次指控DeepSeek违规“蒸馏”其模型]]></title>
+        <id>https://www.blogsclub.org/jump?id=21672</id>
+        <link href="https://www.blogsclub.org/jump?id=21672"/>
+        <updated>2026-02-17T07:45:21.000Z</updated>
+        <summary type="html"><![CDATA[OpenAI再次指控DeepSeek违规“蒸馏”其模型]]></summary>
+        <author>
+            <name>Jake Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[上海发布2026人才储备计划，留学生可直接落户入编！]]></title>
+        <id>https://www.blogsclub.org/jump?id=21673</id>
+        <link href="https://www.blogsclub.org/jump?id=21673"/>
+        <updated>2026-02-17T07:43:59.000Z</updated>
+        <summary type="html"><![CDATA[去年12月初，上海发布落户新政，全面放开留学生限制。 最近，上海青浦、宝山、崇明三区也陆续启动最新储备人才招录计划！为留学生送上重磅利好！ 01 上海储备人才计划是什么？ 上海市储备人才计划是近年来备…
+The post 上海发布2026人才储备计划，留学生可直接落户入编！ appeared first on Jake blog.]]></summary>
+        <author>
+            <name>Jake Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenClaw创始人加盟OpenAI，核心项目承诺继续开源]]></title>
+        <id>https://www.blogsclub.org/jump?id=21674</id>
+        <link href="https://www.blogsclub.org/jump?id=21674"/>
+        <updated>2026-02-17T07:42:47.000Z</updated>
+        <summary type="html"><![CDATA[爆火的开源个人智能体项目OpenClaw的创始人Peter Steinberger正式宣布加入OpenAI，将主导下一代个人智能体的研发。OpenAI首席执行官Sam Altman第一时间在社交媒体上…
+The post OpenClaw创始人加盟OpenAI，核心项目承诺继续开源 appeared first on Jake blog.]]></summary>
+        <author>
+            <name>Jake Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[猴子扳苞谷，扳个，丢个。]]></title>
+        <id>https://www.dengxiaokang.com/1401/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1401/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:57:37.000Z</updated>
+        <summary type="html"><![CDATA[猴子扳苞谷，扳个，丢个。]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不自私的人，早就灭绝了]]></title>
+        <id>https://www.dengxiaokang.com/1399/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1399/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:56:48.000Z</updated>
+        <summary type="html"><![CDATA[不自私的人，早就灭绝了]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[多看一眼，都是罪过]]></title>
+        <id>https://www.dengxiaokang.com/1397/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1397/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:55:24.000Z</updated>
+        <summary type="html"><![CDATA[多看一眼，都是罪过]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钱花出去才是你的，是真的嘛]]></title>
+        <id>https://www.dengxiaokang.com/1395/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1395/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:54:37.000Z</updated>
+        <summary type="html"><![CDATA[钱花出去才是你的，是真的嘛]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[为什么钱留着还会心慌]]></title>
+        <id>https://www.dengxiaokang.com/1393/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1393/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:54:11.000Z</updated>
+        <summary type="html"><![CDATA[为什么钱留着还会心慌]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“钱不是万能的，没有钱是万万不能的”这话有毒]]></title>
+        <id>https://www.dengxiaokang.com/1391/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1391/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:53:43.000Z</updated>
+        <summary type="html"><![CDATA[“钱不是万能的，没有钱是万万不能的”这话有毒]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钱留下，心发慌]]></title>
+        <id>https://www.dengxiaokang.com/1389/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1389/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:53:05.000Z</updated>
+        <summary type="html"><![CDATA[钱留下，心发慌]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钱这个东西]]></title>
+        <id>https://www.dengxiaokang.com/1387/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1387/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:52:41.000Z</updated>
+        <summary type="html"><![CDATA[钱这个东西]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一把戏，捏把汗]]></title>
+        <id>https://www.dengxiaokang.com/1385/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1385/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:52:18.000Z</updated>
+        <summary type="html"><![CDATA[一把戏，捏把汗]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[别指望磨把刀，就能把你全兜了]]></title>
+        <id>https://www.dengxiaokang.com/1383/?utm_source=blogfinder</id>
+        <link href="https://www.dengxiaokang.com/1383/?utm_source=blogfinder"/>
+        <updated>2026-02-17T06:51:52.000Z</updated>
+        <summary type="html"><![CDATA[别指望磨把刀，就能把你全兜了]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岁次丙午，金马昂首]]></title>
+        <id>https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder</id>
+        <link href="https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T05:49:11.000Z</updated>
+        <summary type="html"><![CDATA[岁次丙午，金马昂首]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[岁次丙午，金马昂首]]></title>
+        <id>https://www.blogsclub.org/jump?id=21668</id>
+        <link href="https://www.blogsclub.org/jump?id=21668"/>
+        <updated>2026-02-17T05:49:11.000Z</updated>
+        <summary type="html"><![CDATA[岁次丙午，金马昂首。 蹄声清越，敬过往、致未来。愿君所行皆坦途，所遇尽良驹，所愿俱成真。]]></summary>
+        <author>
+            <name>SHI 記</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命]]></title>
+        <id>https://pythonhunter.org/episodes/ep57?utm_source=blogfinder</id>
+        <link href="https://pythonhunter.org/episodes/ep57?utm_source=blogfinder"/>
+        <updated>2026-02-17T05:30:33.000Z</updated>
+        <summary type="html"><![CDATA[Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我们该用AI写教程吗]]></title>
+        <id>https://www.blogsclub.org/jump?id=21669</id>
+        <link href="https://www.blogsclub.org/jump?id=21669"/>
+        <updated>2026-02-17T04:33:45.000Z</updated>
+        <summary type="html"><![CDATA[信息技术高速发展的现在，我们该用AI帮助我们写教程吗？]]></summary>
+        <author>
+            <name>Patrick的笔记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌]]></title>
+        <id>https://note.redcha.cn/archives/gui-zhou-shu-jia-you-cang-zai-gui-zhou-shen-chu-de-rong-dong-mi-jing-yu-shan-ye-huan-ge?utm_source=blogfinder</id>
+        <link href="https://note.redcha.cn/archives/gui-zhou-shu-jia-you-cang-zai-gui-zhou-shen-chu-de-rong-dong-mi-jing-yu-shan-ye-huan-ge?utm_source=blogfinder"/>
+        <updated>2026-02-17T04:06:12.000Z</updated>
+        <summary type="html"><![CDATA[贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌]]></title>
+        <id>https://www.blogsclub.org/jump?id=21667</id>
+        <link href="https://www.blogsclub.org/jump?id=21667"/>
+        <updated>2026-02-17T04:06:12.000Z</updated>
+        <summary type="html"><![CDATA[2024暑假贵州旅行一共6天 当前是第5天的记录 一、晨雾启程：茶马古道上的森林课堂 这是我们贵州之行的第五天，前四日的足迹早已深深印在这片黔山秀水之间。我们曾在黄果树瀑布下感受银河倾泻的磅礴，在青岩古镇触摸青石板上的岁月痕迹，在肇兴侗寨聆听侗族大歌的空灵回响，而昨日，我们更是在金狮洞的幽暗与奇幻中]]></summary>
+        <author>
+            <name>彬红茶日记</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【重发】Buccellati 展 I]]></title>
+        <id>https://www.blogsclub.org/jump?id=21665</id>
+        <link href="https://www.blogsclub.org/jump?id=21665"/>
+        <updated>2026-02-17T03:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Buccellati（布契拉提）1919 年诞生于意大利米兰，由被誉为“金匠王子”的 Mario Buccellati 创立。品牌自诞生起便复兴文艺复兴时期几近失传的“织纹雕金”工艺，使黄金、白金表面呈现出丝绸、蕾丝或薄纱般的立体纹理（RIGATO、TELATO、ORNATO 等独家雕金技法），每件作品需...]]></summary>
+        <author>
+            <name>Vind Blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ISP】基于暗通道先验改进的红外图像透雾]]></title>
+        <id>https://www.aomanhao.top/archives/418/?utm_source=blogfinder</id>
+        <link href="https://www.aomanhao.top/archives/418/?utm_source=blogfinder"/>
+        <updated>2026-02-17T02:56:34.000Z</updated>
+        <summary type="html"><![CDATA[【ISP】基于暗通道先验改进的红外图像透雾]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年快乐！马年好，诸事顺“马”]]></title>
+        <id>https://www.blogsclub.org/jump?id=21666</id>
+        <link href="https://www.blogsclub.org/jump?id=21666"/>
+        <updated>2026-02-17T02:51:51.000Z</updated>
+        <summary type="html"><![CDATA[新年快乐！马年好，诸事顺“马”]]></summary>
+        <author>
+            <name>淇云博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武侯祠，古今多少事]]></title>
+        <id>https://www.chenrui.com/post/3479.html?utm_source=blogfinder</id>
+        <link href="https://www.chenrui.com/post/3479.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T02:22:33.000Z</updated>
+        <summary type="html"><![CDATA[武侯祠，古今多少事]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乞讨 I]]></title>
+        <id>https://onojyun.com/2026/02/17/%e4%b9%9e%e8%ae%a8-i/?utm_source=blogfinder</id>
+        <link href="https://onojyun.com/2026/02/17/%e4%b9%9e%e8%ae%a8-i/?utm_source=blogfinder"/>
+        <updated>2026-02-17T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[乞讨 I]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[乞讨 I]]></title>
+        <id>https://www.blogsclub.org/jump?id=21653</id>
+        <link href="https://www.blogsclub.org/jump?id=21653"/>
+        <updated>2026-02-17T02:00:00.000Z</updated>
+        <summary type="html"><![CDATA[乞讨 I]]></summary>
+        <author>
+            <name>莫比乌斯</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游哈尔滨冰雪大世界]]></title>
+        <id>https://www.jfsay.com/archives/3927.html?utm_source=blogfinder</id>
+        <link href="https://www.jfsay.com/archives/3927.html?utm_source=blogfinder"/>
+        <updated>2026-02-17T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[游哈尔滨冰雪大世界]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[游哈尔滨冰雪大世界]]></title>
+        <id>https://www.blogsclub.org/jump?id=21654</id>
+        <link href="https://www.blogsclub.org/jump?id=21654"/>
+        <updated>2026-02-17T01:29:00.000Z</updated>
+        <summary type="html"><![CDATA[游哈尔滨冰雪大世界]]></summary>
+        <author>
+            <name>静风说</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的小4（Pixel4）]]></title>
+        <id>https://b.oxue.de/posts/summary-of-my-flame/?utm_source=blogfinder</id>
+        <link href="https://b.oxue.de/posts/summary-of-my-flame/?utm_source=blogfinder"/>
+        <updated>2026-02-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[我的小4（Pixel4）]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[找回童年的快乐]]></title>
         <id>https://www.immarcus.com/blog/song-of-childhood-memory?utm_source=blogfinder</id>
@@ -24,6 +702,46 @@
         <summary type="html"><![CDATA[起标题对我总是一件难事，比如这篇文章就根本不是想对「童年」发表啥高谈阔论。]]></summary>
         <author>
             <name>I'm Marcus</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026 新春快乐]]></title>
+        <id>https://www.wikimoe.com/post/takt820w?utm_source=blogfinder</id>
+        <link href="https://www.wikimoe.com/post/takt820w?utm_source=blogfinder"/>
+        <updated>2026-02-16T23:57:38.000Z</updated>
+        <summary type="html"><![CDATA[2026 新春快乐]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一条命令永久激活win11或win10系统]]></title>
+        <id>https://i55.top/post/509.html?utm_source=blogfinder</id>
+        <link href="https://i55.top/post/509.html?utm_source=blogfinder"/>
+        <updated>2026-02-16T23:08:26.000Z</updated>
+        <summary type="html"><![CDATA[一条命令永久激活win11或win10系统]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2026]]></title>
+        <id>https://bkm.net/531.html?utm_source=blogfinder</id>
+        <link href="https://bkm.net/531.html?utm_source=blogfinder"/>
+        <updated>2026-02-16T21:39:00.000Z</updated>
+        <summary type="html"><![CDATA[2026]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年之际，博客迁移服务器]]></title>
+        <id>https://ygz.ink/archives/4393.html?utm_source=blogfinder</id>
+        <link href="https://ygz.ink/archives/4393.html?utm_source=blogfinder"/>
+        <updated>2026-02-16T20:32:57.000Z</updated>
+        <summary type="html"><![CDATA[新年之际，博客迁移服务器]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -143,6 +861,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2025年的最后一天肝出了自己想要的武器]]></title>
+        <id>https://luolt.cn/archives/3121.html?utm_source=blogfinder</id>
+        <link href="https://luolt.cn/archives/3121.html?utm_source=blogfinder"/>
+        <updated>2026-02-16T15:17:46.000Z</updated>
+        <summary type="html"><![CDATA[2025年的最后一天肝出了自己想要的武器]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[新年快乐！]]></title>
         <id>https://siwei.li/xin-nian-kuai-le/?utm_source=blogfinder</id>
         <link href="https://siwei.li/xin-nian-kuai-le/?utm_source=blogfinder"/>
@@ -211,6 +939,16 @@
         <summary type="html"><![CDATA[作者除夕问候，询问大家是否观看春晚，自己因电视故障无法观看感到无奈。于是决定在线上送出祝福，并首次开放网站评论功能。]]></summary>
         <author>
             <name>王一君Mew</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[过年啦]]></title>
+        <id>https://ficor.net/2026/02/16/spring-festival/?utm_source=blogfinder</id>
+        <link href="https://ficor.net/2026/02/16/spring-festival/?utm_source=blogfinder"/>
+        <updated>2026-02-16T13:39:13.000Z</updated>
+        <summary type="html"><![CDATA[过年啦]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -302,6 +1040,16 @@ HGAME 2026 WriteUp最先出现在林林杂语。]]></summary>
         <summary type="html"><![CDATA[我家的第一台电视源于春晚]]></summary>
         <author>
             <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我家的第一台电视源于春晚]]></title>
+        <id>https://www.blogsclub.org/jump?id=21655</id>
+        <link href="https://www.blogsclub.org/jump?id=21655"/>
+        <updated>2026-02-16T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[印象中，小时候有好几年，除夕夜的春晚都是在邻居家看的。那时一个村子不过两三台电视，只有家境较好、有正式工作的人家才买得起。吃过晚饭，左邻右舍便聚到那户人家里，一边闲聊，一边等着春晚。晚会开始后，...]]></summary>
+        <author>
+            <name>平哥偶记</name>
         </author>
     </entry>
     <entry>
@@ -463,6 +1211,16 @@ HGAME 2026 WriteUp最先出现在林林杂语。]]></summary>
 今夜，除夕守岁，家人在侧，年味正浓。窗外是人间烟火的...]]></summary>
         <author>
             <name>热衷于的博客</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年快乐]]></title>
+        <id>https://ihaihe.cn/3510.htm?utm_source=blogfinder</id>
+        <link href="https://ihaihe.cn/3510.htm?utm_source=blogfinder"/>
+        <updated>2026-02-16T09:19:13.000Z</updated>
+        <summary type="html"><![CDATA[新年快乐]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -647,6 +1405,16 @@ HGAME 2026 WriteUp最先出现在林林杂语。]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[4 个字符为一组构成的城市]]></title>
+        <id>https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder</id>
+        <link href="https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder"/>
+        <updated>2026-02-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[4 个字符为一组构成的城市]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[摄影习作: 玉兰花开贺春来]]></title>
         <id>https://www.blogsclub.org/jump?id=21584</id>
         <link href="https://www.blogsclub.org/jump?id=21584"/>
@@ -787,6 +1555,16 @@ HGAME 2026 WriteUp最先出现在林林杂语。]]></summary>
         <summary type="html"><![CDATA[不知道怎么了，今年的除夕夜特别不想包饺子。]]></summary>
         <author>
             <name>碎言</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction]]></title>
+        <id>https://www.aomanhao.top/archives/417/?utm_source=blogfinder</id>
+        <link href="https://www.aomanhao.top/archives/417/?utm_source=blogfinder"/>
+        <updated>2026-02-16T02:08:00.000Z</updated>
+        <summary type="html"><![CDATA[【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction]]></summary>
+        <author>
+            <name>BlogFinder</name>
         </author>
     </entry>
     <entry>
@@ -1626,6 +2404,16 @@ HGAME 2026 WriteUp最先出现在林林杂语。]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[玩《茂林源记》]]></title>
+        <id>https://cytrogen.icu/posts/cc52.html?utm_source=blogfinder</id>
+        <link href="https://cytrogen.icu/posts/cc52.html?utm_source=blogfinder"/>
+        <updated>2026-02-15T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[玩《茂林源记》]]></summary>
+        <author>
+            <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[回声周刊 Vol.9：用telnet上论坛]]></title>
         <id>https://www.glowisle.me/posts/weekly/9/?utm_source=blogfinder</id>
         <link href="https://www.glowisle.me/posts/weekly/9/?utm_source=blogfinder"/>
@@ -1819,6 +2607,16 @@ awesome-os-setup
         <summary type="html"><![CDATA[穿越就是今天的武侠]]></summary>
         <author>
             <name>BlogFinder</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[穿越就是今天的武侠]]></title>
+        <id>https://www.blogsclub.org/jump?id=21656</id>
+        <link href="https://www.blogsclub.org/jump?id=21656"/>
+        <updated>2026-02-15T02:47:00.000Z</updated>
+        <summary type="html"><![CDATA[在一篇文学评论中看到一个论调：穿越小说最让人吐槽的地方，就是仿佛穿越一次，智商就能直接翻倍——原本只是个在现实生活中一事无成、或足不出户的宅男，穿越后却摇身一变，成了人见人爱的男神。穿越前智商8...]]></summary>
+        <author>
+            <name>平哥偶记</name>
         </author>
     </entry>
     <entry>

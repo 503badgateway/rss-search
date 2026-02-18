@@ -6,6 +6,416 @@
       "siteUrl": "https://bf.zzxworld.com",
       "articles": [
         {
+          "id": "https://www.infinite.moe/posts/wu-nian-bo-ke-xie-zuo-zhe-tan-xie-zuo-guo-cheng-977c61a7?utm_source=blogfinder",
+          "author": null,
+          "description": "五年博客写作者谈写作过程",
+          "link": "https://www.infinite.moe/posts/wu-nian-bo-ke-xie-zuo-zhe-tan-xie-zuo-guo-cheng-977c61a7?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T18:48:49.000Z",
+          "wordCount": 127,
+          "title": "五年博客写作者谈写作过程",
+          "imageUrl": "https://i.typlog.com/infinite/8228646197_898299.jpg?x-oss-process=style/l"
+        },
+        {
+          "id": "http://stuit.cn/Xiaolu/Post/1600.html?utm_source=blogfinder",
+          "author": null,
+          "description": "新春的梅花（20250216）",
+          "link": "http://stuit.cn/Xiaolu/Post/1600.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T15:54:04.000Z",
+          "wordCount": 142,
+          "title": "新春的梅花（20250216）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.starsharbor.com/posts/2025-annual-summary/?utm_source=blogfinder",
+          "author": null,
+          "description": "2025年终总结｜于农历新年之际简单写写过去一年",
+          "link": "https://blog.starsharbor.com/posts/2025-annual-summary/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T15:50:00.000Z",
+          "wordCount": 237,
+          "title": "2025年终总结｜于农历新年之际简单写写过去一年",
+          "imageUrl": "https://bu.dusays.com/2026/02/17/69948d09e3fd9.webp"
+        },
+        {
+          "id": "https://blog.someo.top/archives/19/?utm_source=blogfinder",
+          "author": null,
+          "description": "第一次在公司过年的经历及总结",
+          "link": "https://blog.someo.top/archives/19/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T15:30:41.000Z",
+          "wordCount": 1834,
+          "title": "第一次在公司过年的经历及总结",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xuezhao.space/suisuistory-04.html?utm_source=blogfinder",
+          "author": null,
+          "description": "04. 岁岁的成长日志：从秋天的童话到冬日的暖阳（9-12个月）",
+          "link": "https://www.xuezhao.space/suisuistory-04.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T15:24:00.000Z",
+          "wordCount": 1551,
+          "title": "04. 岁岁的成长日志：从秋天的童话到冬日的暖阳（9-12个月）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wellobserve.com/?post=20260217230342&utm_source=blogfinder",
+          "author": null,
+          "description": "大河边缘是否能成为一个点子快讯平台（类似期刊快报）",
+          "link": "https://www.wellobserve.com/?post=20260217230342&utm_source=blogfinder",
+          "publishedOn": "2026-02-17T15:03:42.000Z",
+          "wordCount": 1024,
+          "title": "大河边缘是否能成为一个点子快讯平台（类似期刊快报）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.xuezhao.space/yearinreview-2025.html?utm_source=blogfinder",
+          "author": null,
+          "description": "在裂缝中见光，在艰难中前行 —— 2025个人年度总结（非工作向）",
+          "link": "https://www.xuezhao.space/yearinreview-2025.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T14:55:00.000Z",
+          "wordCount": 1644,
+          "title": "在裂缝中见光，在艰难中前行 —— 2025个人年度总结（非工作向）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://61.life/2026/0216?utm_source=blogfinder",
+          "author": null,
+          "description": "20260216",
+          "link": "https://61.life/2026/0216?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T14:26:30.000Z",
+          "wordCount": 81,
+          "title": "20260216",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.mcenahle.org.cn/2026/02/17/426.html?utm_source=blogfinder",
+          "author": null,
+          "description": "冬至（59/81）：【春节】持续练习 NTCE 题",
+          "link": "https://blog.mcenahle.org.cn/2026/02/17/426.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T14:22:21.000Z",
+          "wordCount": 1397,
+          "title": "冬至（59/81）：【春节】持续练习 NTCE 题",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blog.mfwt.top/index.php/archives/1089/?utm_source=blogfinder",
+          "author": null,
+          "description": "生活碎碎念：我与老家的年（续集）",
+          "link": "https://blog.mfwt.top/index.php/archives/1089/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T13:54:46.000Z",
+          "wordCount": null,
+          "title": "生活碎碎念：我与老家的年（续集）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://armstrong.viyf.org/articles/2026/02/check-wifi-signal-quality-with-netsh.shtml?utm_source=blogfinder",
+          "author": null,
+          "description": "在 Windows 电脑上查看 Wi-Fi 信号质量的方法",
+          "link": "https://armstrong.viyf.org/articles/2026/02/check-wifi-signal-quality-with-netsh.shtml?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T13:08:51.000Z",
+          "wordCount": 1262,
+          "title": "在 Windows 电脑上查看 Wi-Fi 信号质量的方法",
+          "imageUrl": null
+        },
+        {
+          "id": "https://zooyoo.top/article.php?id=32&utm_source=blogfinder",
+          "author": null,
+          "description": "新邮箱全面启用",
+          "link": "https://zooyoo.top/article.php?id=32&utm_source=blogfinder",
+          "publishedOn": "2026-02-17T12:53:35.000Z",
+          "wordCount": 422,
+          "title": "新邮箱全面启用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.puresky.top/archives/rGCyoVpl?utm_source=blogfinder",
+          "author": null,
+          "description": "治愈向｜鲜花水波纹舒适卡点",
+          "link": "https://www.puresky.top/archives/rGCyoVpl?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T12:09:37.000Z",
+          "wordCount": 1222,
+          "title": "治愈向｜鲜花水波纹舒适卡点",
+          "imageUrl": "https://www.puresky.top/upload/1771330172944.webp"
+        },
+        {
+          "id": "https://www.pgoj.top/archives/bijibenjingtai.html?utm_source=blogfinder",
+          "author": null,
+          "description": "有了笔记本，该考虑静态网站了",
+          "link": "https://www.pgoj.top/archives/bijibenjingtai.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T12:05:22.000Z",
+          "wordCount": 453,
+          "title": "有了笔记本，该考虑静态网站了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.skyue.com/26021720.html?utm_source=blogfinder",
+          "author": null,
+          "description": "草莓满月仪式和生产纪实短片",
+          "link": "https://www.skyue.com/26021720.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T12:04:00.000Z",
+          "wordCount": 535,
+          "title": "草莓满月仪式和生产纪实短片",
+          "imageUrl": ""
+        },
+        {
+          "id": "https://www.puresky.top/archives/auP7qoiL?utm_source=blogfinder",
+          "author": null,
+          "description": "新年快乐，分享一组璀璨的烟花",
+          "link": "https://www.puresky.top/archives/auP7qoiL?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T11:59:48.000Z",
+          "wordCount": 1238,
+          "title": "新年快乐，分享一组璀璨的烟花",
+          "imageUrl": "https://www.puresky.top/upload/1771329019702.webp"
+        },
+        {
+          "id": "https://nxxy335.top/archives/wI3vaSen?utm_source=blogfinder",
+          "author": null,
+          "description": "新年快乐！",
+          "link": "https://nxxy335.top/archives/wI3vaSen?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T11:43:49.000Z",
+          "wordCount": 480,
+          "title": "新年快乐！",
+          "imageUrl": "null"
+        },
+        {
+          "id": "https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/?utm_source=blogfinder",
+          "author": null,
+          "description": "2026 新春快乐",
+          "link": "https://blog.moeworld.tech/2026/02/17/2026-%e6%96%b0%e6%98%a5%e5%bf%ab%e4%b9%90/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T11:14:17.000Z",
+          "wordCount": 800,
+          "title": "2026 新春快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.geedea.pro/essays/on-wording/?utm_source=blogfinder",
+          "author": null,
+          "description": "论遣词造句",
+          "link": "https://www.geedea.pro/essays/on-wording/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T10:52:20.000Z",
+          "wordCount": 1379,
+          "title": "论遣词造句",
+          "imageUrl": "/favicon.png"
+        },
+        {
+          "id": "https://idealclover.top/archives/646/?utm_source=blogfinder",
+          "author": null,
+          "description": "2026年，从「记笔记」到「积累数字资产」",
+          "link": "https://idealclover.top/archives/646/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T09:53:00.000Z",
+          "wordCount": 1111,
+          "title": "2026年，从「记笔记」到「积累数字资产」",
+          "imageUrl": "https://idealclover.top/usr/themes/clover/assets/favicon/android-chrome-192x192.png"
+        },
+        {
+          "id": "https://miraii.cn/posts/y3kfe5ra/?utm_source=blogfinder",
+          "author": null,
+          "description": "2026新年快乐",
+          "link": "https://miraii.cn/posts/y3kfe5ra/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T09:41:44.000Z",
+          "wordCount": 381,
+          "title": "2026新年快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://siwei.li/jue-ding-shuang-kai-chatgptyu-g-mini/?utm_source=blogfinder",
+          "author": null,
+          "description": "决定双开ChatGPT与Gemini",
+          "link": "https://siwei.li/jue-ding-shuang-kai-chatgptyu-g-mini/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T08:38:23.000Z",
+          "wordCount": 958,
+          "title": "决定双开ChatGPT与Gemini",
+          "imageUrl": "https://images.unsplash.com/photo-1770988042769-8457db10f3c6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8YWxsfDI2fHx8fHx8fHwxNzcxMzE3MTIzfA&ixlib=rb-4.1.0&q=80&w=2000"
+        },
+        {
+          "id": "https://blog.solazy.me/20260217/?utm_source=blogfinder",
+          "author": null,
+          "description": "过年流水账 0217",
+          "link": "https://blog.solazy.me/20260217/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T08:00:00.000Z",
+          "wordCount": 3079,
+          "title": "过年流水账 0217",
+          "imageUrl": "https://img.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIPIGmUKZj94pFSVgLvSG-wXYcBpH7OAAK4DWsb3hGgUNx3n0BpbBOOAQADAgADdwADOgQ.jpeg"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1401/?utm_source=blogfinder",
+          "author": null,
+          "description": "猴子扳苞谷，扳个，丢个。",
+          "link": "https://www.dengxiaokang.com/1401/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:57:37.000Z",
+          "wordCount": null,
+          "title": "猴子扳苞谷，扳个，丢个。",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1399/?utm_source=blogfinder",
+          "author": null,
+          "description": "不自私的人，早就灭绝了",
+          "link": "https://www.dengxiaokang.com/1399/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:56:48.000Z",
+          "wordCount": 1241,
+          "title": "不自私的人，早就灭绝了",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1397/?utm_source=blogfinder",
+          "author": null,
+          "description": "多看一眼，都是罪过",
+          "link": "https://www.dengxiaokang.com/1397/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:55:24.000Z",
+          "wordCount": 1232,
+          "title": "多看一眼，都是罪过",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1395/?utm_source=blogfinder",
+          "author": null,
+          "description": "钱花出去才是你的，是真的嘛",
+          "link": "https://www.dengxiaokang.com/1395/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:54:37.000Z",
+          "wordCount": 1235,
+          "title": "钱花出去才是你的，是真的嘛",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1393/?utm_source=blogfinder",
+          "author": null,
+          "description": "为什么钱留着还会心慌",
+          "link": "https://www.dengxiaokang.com/1393/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:54:11.000Z",
+          "wordCount": 1236,
+          "title": "为什么钱留着还会心慌",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1391/?utm_source=blogfinder",
+          "author": null,
+          "description": "“钱不是万能的，没有钱是万万不能的”这话有毒",
+          "link": "https://www.dengxiaokang.com/1391/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:53:43.000Z",
+          "wordCount": null,
+          "title": "“钱不是万能的，没有钱是万万不能的”这话有毒",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1389/?utm_source=blogfinder",
+          "author": null,
+          "description": "钱留下，心发慌",
+          "link": "https://www.dengxiaokang.com/1389/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:53:05.000Z",
+          "wordCount": 1236,
+          "title": "钱留下，心发慌",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1387/?utm_source=blogfinder",
+          "author": null,
+          "description": "钱这个东西",
+          "link": "https://www.dengxiaokang.com/1387/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:52:41.000Z",
+          "wordCount": 1235,
+          "title": "钱这个东西",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1385/?utm_source=blogfinder",
+          "author": null,
+          "description": "一把戏，捏把汗",
+          "link": "https://www.dengxiaokang.com/1385/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:52:18.000Z",
+          "wordCount": 1236,
+          "title": "一把戏，捏把汗",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://www.dengxiaokang.com/1383/?utm_source=blogfinder",
+          "author": null,
+          "description": "别指望磨把刀，就能把你全兜了",
+          "link": "https://www.dengxiaokang.com/1383/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T06:51:52.000Z",
+          "wordCount": 1242,
+          "title": "别指望磨把刀，就能把你全兜了",
+          "imageUrl": "https://www.dengxiaokang.com/wp-content/plugins/nicetheme-jimu/library/static/default.png"
+        },
+        {
+          "id": "https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder",
+          "author": null,
+          "description": "岁次丙午，金马昂首",
+          "link": "https://blog.stoh.cc/post/765c4d58.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T05:49:11.000Z",
+          "wordCount": null,
+          "title": "岁次丙午，金马昂首",
+          "imageUrl": null
+        },
+        {
+          "id": "https://pythonhunter.org/episodes/ep57?utm_source=blogfinder",
+          "author": null,
+          "description": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "link": "https://pythonhunter.org/episodes/ep57?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T05:30:33.000Z",
+          "wordCount": 193,
+          "title": "Ep 57. 两个世界的碰撞：传统企业眼中的 AI 革命",
+          "imageUrl": "https://i.typlog.com/pythonhunter/8228694497_101223.png?x-oss-process=style/sm"
+        },
+        {
+          "id": "https://note.redcha.cn/archives/gui-zhou-shu-jia-you-cang-zai-gui-zhou-shen-chu-de-rong-dong-mi-jing-yu-shan-ye-huan-ge?utm_source=blogfinder",
+          "author": null,
+          "description": "贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌",
+          "link": "https://note.redcha.cn/archives/gui-zhou-shu-jia-you-cang-zai-gui-zhou-shen-chu-de-rong-dong-mi-jing-yu-shan-ye-huan-ge?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T04:06:12.000Z",
+          "wordCount": null,
+          "title": "贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aomanhao.top/archives/418/?utm_source=blogfinder",
+          "author": null,
+          "description": "【ISP】基于暗通道先验改进的红外图像透雾",
+          "link": "https://www.aomanhao.top/archives/418/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T02:56:34.000Z",
+          "wordCount": 2031,
+          "title": "【ISP】基于暗通道先验改进的红外图像透雾",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.chenrui.com/post/3479.html?utm_source=blogfinder",
+          "author": null,
+          "description": "武侯祠，古今多少事",
+          "link": "https://www.chenrui.com/post/3479.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T02:22:33.000Z",
+          "wordCount": 76,
+          "title": "武侯祠，古今多少事",
+          "imageUrl": null
+        },
+        {
+          "id": "https://onojyun.com/2026/02/17/%e4%b9%9e%e8%ae%a8-i/?utm_source=blogfinder",
+          "author": null,
+          "description": "乞讨 I",
+          "link": "https://onojyun.com/2026/02/17/%e4%b9%9e%e8%ae%a8-i/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T02:00:00.000Z",
+          "wordCount": null,
+          "title": "乞讨 I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.jfsay.com/archives/3927.html?utm_source=blogfinder",
+          "author": null,
+          "description": "游哈尔滨冰雪大世界",
+          "link": "https://www.jfsay.com/archives/3927.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T01:29:00.000Z",
+          "wordCount": 1041,
+          "title": "游哈尔滨冰雪大世界",
+          "imageUrl": null
+        },
+        {
+          "id": "https://b.oxue.de/posts/summary-of-my-flame/?utm_source=blogfinder",
+          "author": null,
+          "description": "我的小4（Pixel4）",
+          "link": "https://b.oxue.de/posts/summary-of-my-flame/?utm_source=blogfinder",
+          "publishedOn": "2026-02-17T00:00:00.000Z",
+          "wordCount": null,
+          "title": "我的小4（Pixel4）",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.immarcus.com/blog/song-of-childhood-memory?utm_source=blogfinder",
           "author": null,
           "description": "找回童年的快乐",
@@ -13,6 +423,46 @@
           "publishedOn": "2026-02-17T00:00:00.000Z",
           "wordCount": 88,
           "title": "找回童年的快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.wikimoe.com/post/takt820w?utm_source=blogfinder",
+          "author": null,
+          "description": "2026 新春快乐",
+          "link": "https://www.wikimoe.com/post/takt820w?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T23:57:38.000Z",
+          "wordCount": 93,
+          "title": "2026 新春快乐",
+          "imageUrl": null
+        },
+        {
+          "id": "https://i55.top/post/509.html?utm_source=blogfinder",
+          "author": null,
+          "description": "一条命令永久激活win11或win10系统",
+          "link": "https://i55.top/post/509.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T23:08:26.000Z",
+          "wordCount": 580,
+          "title": "一条命令永久激活win11或win10系统",
+          "imageUrl": "/ico.png"
+        },
+        {
+          "id": "https://bkm.net/531.html?utm_source=blogfinder",
+          "author": null,
+          "description": "2026",
+          "link": "https://bkm.net/531.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T21:39:00.000Z",
+          "wordCount": null,
+          "title": "2026",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ygz.ink/archives/4393.html?utm_source=blogfinder",
+          "author": null,
+          "description": "新年之际，博客迁移服务器",
+          "link": "https://ygz.ink/archives/4393.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T20:32:57.000Z",
+          "wordCount": 2653,
+          "title": "新年之际，博客迁移服务器",
           "imageUrl": null
         },
         {
@@ -56,6 +506,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://luolt.cn/archives/3121.html?utm_source=blogfinder",
+          "author": null,
+          "description": "2025年的最后一天肝出了自己想要的武器",
+          "link": "https://luolt.cn/archives/3121.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T15:17:46.000Z",
+          "wordCount": 1387,
+          "title": "2025年的最后一天肝出了自己想要的武器",
+          "imageUrl": null
+        },
+        {
           "id": "https://siwei.li/xin-nian-kuai-le/?utm_source=blogfinder",
           "author": null,
           "description": "新年快乐！",
@@ -93,6 +553,16 @@
           "publishedOn": "2026-02-16T14:18:47.000Z",
           "wordCount": 1374,
           "title": "冬至（58/81）：迎春节",
+          "imageUrl": null
+        },
+        {
+          "id": "https://ficor.net/2026/02/16/spring-festival/?utm_source=blogfinder",
+          "author": null,
+          "description": "过年啦",
+          "link": "https://ficor.net/2026/02/16/spring-festival/?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T13:39:13.000Z",
+          "wordCount": 1180,
+          "title": "过年啦",
           "imageUrl": null
         },
         {
@@ -216,6 +686,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://ihaihe.cn/3510.htm?utm_source=blogfinder",
+          "author": null,
+          "description": "新年快乐",
+          "link": "https://ihaihe.cn/3510.htm?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T09:19:13.000Z",
+          "wordCount": 443,
+          "title": "新年快乐",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.auiou.com/relevant/00002139.jsp?utm_source=blogfinder",
           "author": null,
           "description": "成事的关键",
@@ -326,6 +806,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder",
+          "author": null,
+          "description": "4 个字符为一组构成的城市",
+          "link": "https://cytrogen.icu/posts/cf35.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T05:00:00.000Z",
+          "wordCount": 657,
+          "title": "4 个字符为一组构成的城市",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.xiaozonglin.cn/be-faster-even-faster/?utm_source=blogfinder",
           "author": null,
           "description": "新年新气象：网站快一点，再快一点",
@@ -403,6 +893,16 @@
           "publishedOn": "2026-02-16T02:13:44.000Z",
           "wordCount": 22,
           "title": "我不想包饺子",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.aomanhao.top/archives/417/?utm_source=blogfinder",
+          "author": null,
+          "description": "【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction",
+          "link": "https://www.aomanhao.top/archives/417/?utm_source=blogfinder",
+          "publishedOn": "2026-02-16T02:08:00.000Z",
+          "wordCount": 2043,
+          "title": "【阅读笔记】基于暗通道的红外图像增强Infrared traffic image enhancement algorithm based on dark channel prior and gamma correction",
           "imageUrl": null
         },
         {
@@ -813,6 +1313,16 @@
           "publishedOn": "2026-02-15T05:05:48.000Z",
           "wordCount": 1036,
           "title": "游长春历史文化博物馆、新民大街冰雕冰滑梯",
+          "imageUrl": null
+        },
+        {
+          "id": "https://cytrogen.icu/posts/cc52.html?utm_source=blogfinder",
+          "author": null,
+          "description": "玩《茂林源记》",
+          "link": "https://cytrogen.icu/posts/cc52.html?utm_source=blogfinder",
+          "publishedOn": "2026-02-15T05:00:00.000Z",
+          "wordCount": 888,
+          "title": "玩《茂林源记》",
           "imageUrl": null
         },
         {
@@ -23113,6 +23623,236 @@
       "siteUrl": "https://www.blogsclub.org/feed.xml",
       "articles": [
         {
+          "id": "https://www.blogsclub.org/jump?id=21686",
+          "author": "UWillno's Blog",
+          "description": "博客迁移至Qt 6.11Beta3",
+          "link": "https://www.blogsclub.org/jump?id=21686",
+          "publishedOn": "2026-02-18T00:00:00.000Z",
+          "wordCount": 3,
+          "title": "博客迁移至Qt 6.11Beta3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21685",
+          "author": "夜轻Blog",
+          "description": "Skyline-新加坡Ⅰ型 10G口移动快乐鸡 21.84刀每年.",
+          "link": "https://www.blogsclub.org/jump?id=21685",
+          "publishedOn": "2026-02-17T22:19:45.000Z",
+          "wordCount": 2045,
+          "title": "Skyline-新加坡Ⅰ型 10G口移动快乐鸡 只测不评",
+          "imageUrl": "https://list.yppp.net/d/cos/yeqing.webp"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21683",
+          "author": "风雨行者",
+          "description": "除夕下午，虽然下着小雪，却在偶然间发现路边的梅花已经盛开^_^下图编号141627",
+          "link": "https://www.blogsclub.org/jump?id=21683",
+          "publishedOn": "2026-02-17T15:54:04.000Z",
+          "wordCount": 142,
+          "title": "新春的梅花（20250216）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21684",
+          "author": "SaiitaのBlog",
+          "description": "阿里云OSS配合ossutil命令行工具，可实现Obsidian笔记库免费、高效的多设备同步。ossutil支持增量上传、断点续传等功能。用户需注册阿里云、开通OSS、获取密钥并安装配置ossutil，通过同步命令或脚本将本地笔记库同步至OSS，并可设置定时任务实现自动同步。",
+          "link": "https://www.blogsclub.org/jump?id=21684",
+          "publishedOn": "2026-02-17T15:13:41.000Z",
+          "wordCount": null,
+          "title": "使用阿里云 ossutil 命令行同步 Obsidian 笔记到 OSS",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21682",
+          "author": "枫林灯语",
+          "description": "本文是上一篇博文的续集，如果您还未阅读那篇文章，笔者建议您先阅读一下。今天是大年初一，但在这个偏远小山村里，外面好像已经没有了年的感觉。",
+          "link": "https://www.blogsclub.org/jump?id=21682",
+          "publishedOn": "2026-02-17T13:54:46.000Z",
+          "wordCount": null,
+          "title": "生活碎碎念：我与老家的年（续集）",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21681",
+          "author": "热衷于的博客",
+          "description": "全体目光向我看齐，我宣布个事儿：\n\n\n\n博客之前的 email.cn 邮箱 ，经常被 Gmail、Outlook 这些境外邮箱误扔进垃圾箱，感谢多位宝子的热心反馈。之前的 25Mail 构式服务商不稳定，还限制单账户，所以今天研究一上午，终于...",
+          "link": "https://www.blogsclub.org/jump?id=21681",
+          "publishedOn": "2026-02-17T12:53:35.000Z",
+          "wordCount": 422,
+          "title": "新邮箱全面启用",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21680",
+          "author": "平哥偶记",
+          "description": "我那台旧笔记本问题多多：电池彻底废了，只能时刻插着电源；键盘上不少按键失灵，有的得摁上十次八次才能勉强显示；系统已经是精简版的Windows 7了，可有时刚打开浏览器就崩溃；鼠标右键也常常失灵，...",
+          "link": "https://www.blogsclub.org/jump?id=21680",
+          "publishedOn": "2026-02-17T12:05:22.000Z",
+          "wordCount": 453,
+          "title": "有了笔记本，该考虑静态网站了",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21677",
+          "author": "『自习室』EXYONE的篝火小屋",
+          "description": "访问链接：https://hanzi.bluu.pl/",
+          "link": "https://www.blogsclub.org/jump?id=21677",
+          "publishedOn": "2026-02-17T10:39:00.000Z",
+          "wordCount": null,
+          "title": "千字网CDN：收集了1000个免费开源字体的CDN",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21678",
+          "author": "谶の博客",
+          "description": "南安凤山寺",
+          "link": "https://www.blogsclub.org/jump?id=21678",
+          "publishedOn": "2026-02-17T10:08:39.000Z",
+          "wordCount": null,
+          "title": "南安凤山寺-游览",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21679",
+          "author": "云奚小屋",
+          "description": "尊敬的各位访客、亲爱的朋友们： 岁序更替，华章日新。当2026年的第一缕晨光穿透云层，落在“云奚小屋”的方寸天地时，我们正式告别了旧岁的沉淀，迎来了丙午马年的蓬勃生机。在此，谨代表云奚小屋，向每...",
+          "link": "https://www.blogsclub.org/jump?id=21679",
+          "publishedOn": "2026-02-17T09:47:27.000Z",
+          "wordCount": null,
+          "title": "2026云奚小屋再启新程",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21676",
+          "author": "So!azy",
+          "description": "今天是农历新年大年初一，给大家拜年，诸位朋友过年好！\n昨晚的春晚实在是无聊，很理解这个烫手山芋每年被这样敷衍着的对待，能非常清晰地感知到总导演那种我宁愿要无聊的春晚也不要冒险的春晚的那种感觉。有一种大厂打工牛马的那种无力呻吟感。\n今天确实也是无聊的一天，因为我们家不需要走亲访友，大年初一家里就是我和爸妈，和正常的一天没有任何区别。\n早上比昨天多睡了一个小时，八点半起床，早饭是吃昨晚剩的饺子。吃完我就出门逛街了。\n\n    @media (prefers-color-scheme: dark) {\n        .#img-group-t78mt .desc-text { color: rgba(255, 255, 255, 0.7) !important; }\n    }\n    .dark-preview-mode .#img-group-t78mt .desc-text { color: rgba(255, 255, 255, 0.7) !important; }\n\n\n\n  \n  ▲ 人头攒动的庙会\n\n\n溜达到栈桥和中山路，又来附近的大鲍岛逛逛，这里正是春节期间的萝卜糖球会，人非常多，好不热闹，我也趁机买个我妈喜欢吃的糖球，甜甜她的嘴。\n出门的时候，...",
+          "link": "https://www.blogsclub.org/jump?id=21676",
+          "publishedOn": "2026-02-17T08:00:00.000Z",
+          "wordCount": 3079,
+          "title": "过年流水账 0217",
+          "imageUrl": "https://img.lily.lat/file/AgACAgQAAyEGAASLgSpZAAIPIGmUKZj94pFSVgLvSG-wXYcBpH7OAAK4DWsb3hGgUNx3n0BpbBOOAQADAgADdwADOgQ.jpeg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21670",
+          "author": "Jake Blog",
+          "description": "华尔街日报称，ETS拟以约5亿美元出售GRE和TOEFL考试，消息一出，就让无数留学生家庭捏了把汗。为什么突然要出售？谁又将接手？对中国留学生有什么影响？看这一篇就够了。 2026年1月，留学圈被一个…\nThe post 传ETS拟5亿美元出售GRE和托福，美国人真的会卖掉托福吗？ appeared first on Jake blog.",
+          "link": "https://www.blogsclub.org/jump?id=21670",
+          "publishedOn": "2026-02-17T07:48:21.000Z",
+          "wordCount": 652,
+          "title": "传ETS拟5亿美元出售GRE和托福，美国人真的会卖掉托福吗？",
+          "imageUrl": "https://jaketao.com/wp-content/uploads/2026/02/640-24.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21671",
+          "author": "Jake Blog",
+          "description": "索尼PlayStation于今日（2月13日）早6点举行了“State of Play”发布会，诸多新作都放出了最新消息。以下是本次发布会的要点汇总： 《战神三部曲 重制版》在此次发布会上正式公开。本…\nThe post 《战神三部曲 重制版》正在制作中 |《死亡搁浅2》今年3月登陆PC appeared first on Jake blog.",
+          "link": "https://www.blogsclub.org/jump?id=21671",
+          "publishedOn": "2026-02-17T07:46:17.000Z",
+          "wordCount": 1193,
+          "title": "《战神三部曲 重制版》正在制作中 |《死亡搁浅2》今年3月登陆PC",
+          "imageUrl": "https://jaketao.com/wp-content/uploads/2026/02/640-18.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21672",
+          "author": "Jake Blog",
+          "description": "OpenAI再次指控DeepSeek违规“蒸馏”其模型",
+          "link": "https://www.blogsclub.org/jump?id=21672",
+          "publishedOn": "2026-02-17T07:45:21.000Z",
+          "wordCount": 551,
+          "title": "OpenAI再次指控DeepSeek违规“蒸馏”其模型",
+          "imageUrl": "https://jaketao.com/wp-content/uploads/2026/02/640-23.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21673",
+          "author": "Jake Blog",
+          "description": "去年12月初，上海发布落户新政，全面放开留学生限制。 最近，上海青浦、宝山、崇明三区也陆续启动最新储备人才招录计划！为留学生送上重磅利好！ 01 上海储备人才计划是什么？ 上海市储备人才计划是近年来备…\nThe post 上海发布2026人才储备计划，留学生可直接落户入编！ appeared first on Jake blog.",
+          "link": "https://www.blogsclub.org/jump?id=21673",
+          "publishedOn": "2026-02-17T07:43:59.000Z",
+          "wordCount": 994,
+          "title": "上海发布2026人才储备计划，留学生可直接落户入编！",
+          "imageUrl": "https://jaketao.com/wp-content/uploads/2026/02/640-18.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21674",
+          "author": "Jake Blog",
+          "description": "爆火的开源个人智能体项目OpenClaw的创始人Peter Steinberger正式宣布加入OpenAI，将主导下一代个人智能体的研发。OpenAI首席执行官Sam Altman第一时间在社交媒体上…\nThe post OpenClaw创始人加盟OpenAI，核心项目承诺继续开源 appeared first on Jake blog.",
+          "link": "https://www.blogsclub.org/jump?id=21674",
+          "publishedOn": "2026-02-17T07:42:47.000Z",
+          "wordCount": 585,
+          "title": "OpenClaw创始人加盟OpenAI，核心项目承诺继续开源",
+          "imageUrl": "https://jaketao.com/wp-content/uploads/2026/02/640-17.jpg"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21668",
+          "author": "SHI 記",
+          "description": "岁次丙午，金马昂首。 蹄声清越，敬过往、致未来。愿君所行皆坦途，所遇尽良驹，所愿俱成真。",
+          "link": "https://www.blogsclub.org/jump?id=21668",
+          "publishedOn": "2026-02-17T05:49:11.000Z",
+          "wordCount": null,
+          "title": "岁次丙午，金马昂首",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21669",
+          "author": "Patrick的笔记",
+          "description": "信息技术高速发展的现在，我们该用AI帮助我们写教程吗？",
+          "link": "https://www.blogsclub.org/jump?id=21669",
+          "publishedOn": "2026-02-17T04:33:45.000Z",
+          "wordCount": 1128,
+          "title": "我们该用AI写教程吗",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21667",
+          "author": "彬红茶日记",
+          "description": "2024暑假贵州旅行一共6天 当前是第5天的记录 一、晨雾启程：茶马古道上的森林课堂 这是我们贵州之行的第五天，前四日的足迹早已深深印在这片黔山秀水之间。我们曾在黄果树瀑布下感受银河倾泻的磅礴，在青岩古镇触摸青石板上的岁月痕迹，在肇兴侗寨聆听侗族大歌的空灵回响，而昨日，我们更是在金狮洞的幽暗与奇幻中",
+          "link": "https://www.blogsclub.org/jump?id=21667",
+          "publishedOn": "2026-02-17T04:06:12.000Z",
+          "wordCount": null,
+          "title": "贵州暑假游⑤：藏在贵州深处的溶洞秘境与山野欢歌",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21665",
+          "author": "Vind Blog",
+          "description": "Buccellati（布契拉提）1919 年诞生于意大利米兰，由被誉为“金匠王子”的 Mario Buccellati 创立。品牌自诞生起便复兴文艺复兴时期几近失传的“织纹雕金”工艺，使黄金、白金表面呈现出丝绸、蕾丝或薄纱般的立体纹理（RIGATO、TELATO、ORNATO 等独家雕金技法），每件作品需...",
+          "link": "https://www.blogsclub.org/jump?id=21665",
+          "publishedOn": "2026-02-17T03:00:31.000Z",
+          "wordCount": 1012,
+          "title": "【重发】Buccellati 展 I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21666",
+          "author": "淇云博客",
+          "description": "新年快乐！马年好，诸事顺“马”",
+          "link": "https://www.blogsclub.org/jump?id=21666",
+          "publishedOn": "2026-02-17T02:51:51.000Z",
+          "wordCount": null,
+          "title": "新年快乐！马年好，诸事顺“马”",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21653",
+          "author": "莫比乌斯",
+          "description": "乞讨 I",
+          "link": "https://www.blogsclub.org/jump?id=21653",
+          "publishedOn": "2026-02-17T02:00:00.000Z",
+          "wordCount": null,
+          "title": "乞讨 I",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21654",
+          "author": "静风说",
+          "description": "游哈尔滨冰雪大世界",
+          "link": "https://www.blogsclub.org/jump?id=21654",
+          "publishedOn": "2026-02-17T01:29:00.000Z",
+          "wordCount": 1041,
+          "title": "游哈尔滨冰雪大世界",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.blogsclub.org/jump?id=21652",
           "author": "I'm Marcus",
           "description": "起标题对我总是一件难事，比如这篇文章就根本不是想对「童年」发表啥高谈阔论。",
@@ -23251,6 +23991,16 @@
           "wordCount": 1042,
           "title": "HGAME 2026 WriteUp",
           "imageUrl": "https://www.xiaozonglin.cn/wp-content/uploads/2026/02/image-6.png"
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21655",
+          "author": "平哥偶记",
+          "description": "印象中，小时候有好几年，除夕夜的春晚都是在邻居家看的。那时一个村子不过两三台电视，只有家境较好、有正式工作的人家才买得起。吃过晚饭，左邻右舍便聚到那户人家里，一边闲聊，一边等着春晚。晚会开始后，...",
+          "link": "https://www.blogsclub.org/jump?id=21655",
+          "publishedOn": "2026-02-16T11:25:00.000Z",
+          "wordCount": 462,
+          "title": "我家的第一台电视源于春晚",
+          "imageUrl": null
         },
         {
           "id": "https://www.blogsclub.org/jump?id=21640",
@@ -23730,6 +24480,16 @@
           "publishedOn": "2026-02-15T03:00:00.000Z",
           "wordCount": 632,
           "title": "【重发】沈荡 之 老街",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.blogsclub.org/jump?id=21656",
+          "author": "平哥偶记",
+          "description": "在一篇文学评论中看到一个论调：穿越小说最让人吐槽的地方，就是仿佛穿越一次，智商就能直接翻倍——原本只是个在现实生活中一事无成、或足不出户的宅男，穿越后却摇身一变，成了人见人爱的男神。穿越前智商8...",
+          "link": "https://www.blogsclub.org/jump?id=21656",
+          "publishedOn": "2026-02-15T02:47:00.000Z",
+          "wordCount": 435,
+          "title": "穿越就是今天的武侠",
           "imageUrl": null
         },
         {
@@ -44130,6 +44890,16 @@
       "feedUrl": "https://ivonblog.com/index.xml",
       "siteUrl": "https://ivonblog.com/",
       "articles": [
+        {
+          "id": "https://ivonblog.com/posts/2026021701/",
+          "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
+          "description": "新年快樂，恭喜發財。\n木訥的表情說完後，手上多了好幾個紅色信封。\n白色的房門上，又多了一張新的菱形紙張。\n我這個年紀根本不該拿紅包了吧。",
+          "link": "https://ivonblog.com/posts/2026021701/",
+          "publishedOn": "2026-02-17T08:00:00.000Z",
+          "wordCount": 92,
+          "title": "年節漸濃，感情漸薄",
+          "imageUrl": null
+        },
         {
           "id": "https://ivonblog.com/posts/sony-wf-c510-review/",
           "author": "infoivonblog.nkfjt@aleeas.com (Ivon Huang)",
