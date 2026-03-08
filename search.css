@@ -20,7 +20,8 @@
   margin: 0 auto;
 }
 
-.search-input {
+/* Pagefind UI customizations */
+.search-container .pagefind-ui__search-input {
   width: 100%;
   padding: 1rem 1.5rem;
   font-size: 1rem;
@@ -32,19 +33,15 @@
   font-family: inherit;
 }
 
-.search-input:focus {
+.search-container .pagefind-ui__search-input:focus {
   box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
   transform: translateY(-2px);
 }
 
-.search-input::placeholder {
-  color: #999;
-}
-
-.search-stats {
+.search-container .pagefind-ui__message {
+  color: white;
   text-align: center;
   margin-top: 1rem;
-  color: white;
   font-size: 0.9rem;
   opacity: 0.9;
 }
@@ -64,76 +61,9 @@
   .search-title {
     font-size: 1.5rem;
   }
-  
-  .search-input {
+
+  .search-container .pagefind-ui__search-input {
     padding: 0.875rem 1.25rem;
     font-size: 0.95rem;
-  }
-}
-
-/* Improve visibility of search results */
-.daily-content[style*="display: none"],
-.card__section[style*="display: none"] {
-  display: none !important;
-}
-
-/* Pagination Controls */
-.pagination-controls {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1rem;
-  margin: 2rem 0;
-  padding: 1rem;
-}
-
-.pagination-button {
-  padding: 0.75rem 1.5rem;
-  font-size: 0.95rem;
-  font-weight: 500;
-  background: var(--body-color);
-  color: white;
-  border: none;
-  border-radius: 50px;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
-  font-family: inherit;
-}
-
-.pagination-button:hover:not(:disabled) {
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
-}
-
-.pagination-button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-  background: #ccc;
-  box-shadow: none;
-}
-
-.pagination-info {
-  font-size: 0.95rem;
-  color: #333;
-  font-weight: 500;
-  padding: 0 1rem;
-}
-
-/* Responsive pagination adjustments */
-@media (max-width: 768px) {
-  .pagination-controls {
-    gap: 0.5rem;
-    padding: 1rem 0.5rem;
-  }
-  
-  .pagination-button {
-    padding: 0.625rem 1rem;
-    font-size: 0.875rem;
-  }
-  
-  .pagination-info {
-    font-size: 0.875rem;
-    padding: 0 0.5rem;
   }
 }
